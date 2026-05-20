@@ -58,7 +58,7 @@ def fetch_ai_news() -> list[dict]:
 - corporateAction: 추진단 관점에서의 회사 도입 벤치마킹 포인트 또는 시사점 (최대 80자)
 - keywords: 검색 및 필터링용 핵심 키워드 배열 (예: ["RAG", "금융망분리", "U/W자동화"])
 
-중요하고 가치 있는 동향을 엄선하여 최소 10개 이상, 최대 20개 이하의 객체를 포함하세요."""
+중요하고 가치 있는 동향을 엄선하여 중요도 순으로 최소 3개 이상, 최대 7개 이하의 객체를 포함하세요."""
 
     log.info("Gemini API 호출 중 (Google Search 웹 검색 포함)...")
     
@@ -134,52 +134,60 @@ def build_html(records: dict) -> str:
     sorted_list = sorted(records.values(), key=lambda x: (x.get("importance", 0), x.get("date", "")), reverse=True)
 
     rows_html = ""
-    for i, n in enumerate(sorted_list[:30], 1): # 메일에는 너무 길지 않게 상위 30개 위주 노출
+    for i, n in enumerate(sorted_list[:30], 1): # 상위 30개 위주 노출
         imp = n.get('importance', 1)
         imp_color = "#B91C1C" if imp >= 8 else ("#92400E" if imp >= 5 else "#374151")
         bg = "#FAFAFA" if i % 2 == 0 else "#FFFFFF"
         
+        # 실제 URL 텍스트
+        raw_url = n.get('url', '#')
+        
         rows_html += f"""
-        <tr style="background:{bg}; border-bottom: 1px solid #E5E7EB;">
-          <td style="padding:12px 8px; text-align:center; color:#9CA3AF; font-size:12px;">{i}</td>
-          <td style="padding:12px 8px; font-weight:600; color:{imp_color}; text-align:center; font-size:14px;">★ {imp}/10</td>
-          <td style="padding:12px 8px; font-size:12px; white-space:nowrap; text-align:center;">{n.get('date','—')}</td>
-          <td style="padding:12px 8px;"><span style="background:#E0F2FE; color:#0369A1; padding:2px 6px; border-radius:4px; font-size:11px; font-weight:600;">{n.get('category','기타')}</span></td>
-          <td style="padding:12px 8px;">
-            <div style="font-weight:700; color:#1E3A5F; font-size:13px; margin-bottom:4px;">{n.get('title','—')}</div>
-            <div style="font-size:12px; color:#4B5563; line-height:1.4;">{n.get('summary','—')}</div>
+        <tr style="background:{bg}; border-bottom: 1px solid #E2E8F0;">
+          <td style="padding:14px 8px; text-align:center; color:#94A3B8; font-size:12px;">{i}</td>
+          <td style="padding:14px 8px; font-weight:700; color:{imp_color}; text-align:center; font-size:13px;">★ {imp}/10</td>
+          <td style="padding:14px 8px; font-size:12px; white-space:nowrap; text-align:center; color:#64748B;">{n.get('date','—')}</td>
+          <td style="padding:14px 8px; text-align:center;"><span style="background:#E0F2FE; color:#0369A1; padding:3px 6px; border-radius:4px; font-size:11px; font-weight:600; white-space:nowrap;">{n.get('category','기타')}</span></td>
+          <td style="padding:14px 12px;">
+            <div style="font-weight:700; color:#1E3A5F; font-size:13px; margin-bottom:5px; line-height:1.4;">{n.get('title','—')}</div>
+            <div style="font-size:12px; color:#475569; line-height:1.5;">{n.get('summary','—')}</div>
           </td>
-          <td style="padding:12px 8px; font-size:12px; color:#1F2937;">{n.get('ecosystemImpact','—')}</td>
-          <td style="padding:12px 8px; font-size:12px; color:#047857; font-weight:600; background:#F0FDF4;">{n.get('corporateAction','—')}</td>
-          <td style="padding:12px 8px; font-size:11px; color:#6B7280; word-break:break-all;"><a href="{n.get('url','#')}" style="color:#2563EB; text-decoration:none;">{n.get('url','—')}</a></td>
+          <td style="padding:14px 12px; font-size:12px; color:#334155; line-height:1.4;">{n.get('ecosystemImpact','—')}</td>
+          <td style="padding:14px 12px; font-size:12px; color:#15803D; font-weight:600; background:#F0FDF4; line-height:1.4;">{n.get('corporateAction','—')}</td>
+          {/* 💡 길었던 URL 열을 미니멀한 링크 버튼 형태로 변경하여 가독성 확보 */}
+          <td style="padding:14px 8px; text-align:center; white-space:nowrap;">
+            <a href="{raw_url}" title="{raw_url}" style="display:inline-block; padding:4px 8px; background:#F1F5F9; color:#2563EB; font-size:11px; font-weight:600; border-radius:4px; text-decoration:none; border:1px solid #CBD5E1;">
+              원문 보기 →
+            </a>
+          </td>
         </tr>"""
 
     return f"""<!DOCTYPE html>
 <html>
-<body style="margin:0; padding:0; background:#F3F4F6; font-family:'Apple SD Gothic Neo',Arial,sans-serif;">
-<div style="max-width:1300px; margin:24px auto; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,.1);">
-  <div style="background:#0F172A; padding:24px 28px; color:#fff;">
-    <div style="font-size:22px; font-weight:700;">🚀 AI혁신추진단 일일 글로벌 AI & AX 트렌드 리포트</div>
-    <div style="font-size:13px; margin-top:6px; opacity:.75;">재보험·금융권 AI 도입 인텔리전스 | 생성일시: {now_str}</div>
+<body style="margin:0; padding:0; background:#F1F5F9; font-family:'Apple SD Gothic Neo',Arial,sans-serif;">
+<div style="max-width:1400px; margin:24px auto; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 4px 6px -1px rgba(0,0,0,.1);">
+  <div style="background:#0F172A; padding:26px 32px; color:#fff;">
+    <div style="font-size:22px; font-weight:700; letter-spacing:-0.5px;">🚀 AI혁신추진단 일일 글로벌 AI & AX 트렌드 리포트</div>
+    <div style="font-size:13px; margin-top:6px; color:#94A3B8;">재보험·금융권 AI 도입 인텔리전스 | 생성일시: {now_str}</div>
   </div>
-  <div style="overflow-x:auto; padding:20px;">
-    <table style="width:100%; border-collapse:collapse; font-size:13px; border: 1px solid #E5E7EB;">
+  <div style="overflow-x:auto; padding:24px;">
+    <table style="width:100%; border-collapse:collapse; font-size:13px; table-layout:auto;">
       <thead>
-        <tr style="background:#F8FAFC; border-bottom:2px solid #CBD5E1;">
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:30px;">#</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:60px;">중요도</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:80px;">발행일</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:90px;">카테고리</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:350px; text-align:left;">주요 뉴스 및 요약</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:200px; text-align:left;">AI 생태계 영향도</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:220px; text-align:left;">추진단 시사점 (BM)</th>
-          <th style="padding:12px 8px; color:#475569; font-weight:600; width:150px; text-align:left;">출처 URL</th>
+        <tr style="background:#F8FAFC; border-bottom:2px solid #E2E8F0; color:#475569;">
+          <th style="padding:12px 8px; font-weight:600; width:30px; text-align:center;">#</th>
+          <th style="padding:12px 8px; font-weight:600; width:65px; text-align:center;">중요도</th>
+          <th style="padding:12px 8px; font-weight:600; width:85px; text-align:center;">발행일</th>
+          <th style="padding:12px 8px; font-weight:600; width:95px; text-align:center;">카테고리</th>
+          <th style="padding:12px 12px; font-weight:600; text-align:left; min-width:300px;">주요 뉴스 및 요약</th>
+          <th style="padding:12px 12px; font-weight:600; text-align:left; width:220px;">AI 생태계 영향도</th>
+          <th style="padding:12px 12px; font-weight:600; text-align:left; width:240px;">추진단 시사점 (BM)</th>
+          <th style="padding:12px 8px; font-weight:600; width:90px; text-align:center;">출처</th>
         </tr>
       </thead>
       <tbody>{rows_html}</tbody>
     </table>
   </div>
-  <div style="padding:16px 28px; background:#F8FAFC; border-top:1px solid #E2E8F0; font-size:11px; color:#94A3B8;">
+  <div style="padding:16px 32px; background:#F8FAFC; border-top:1px solid #E2E8F0; font-size:11px; color:#94A3B8;">
     본 리포트는 Google Gemini 2.5 Flash API의 실시간 검색(Grounding) 기반으로 자동 작성된 AI혁신추진단 내부 참고자료입니다. · 수신: {RECIPIENT}
   </div>
 </div>
