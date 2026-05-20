@@ -215,6 +215,12 @@ def main():
     merged   = merge(existing, new_news)
     save(merged)
     html     = build_html(merged)
+
+    # 💡 [새로 추가] 생성된 HTML을 일반 웹페이지 파일(index.html)로 저장합니다.
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html)
+    log.info("index.html 웹페이지 파일 생성 완료")
+    
     send_email(html, len(merged))
     log.info("=== 완료 ===")
 
