@@ -1,0 +1,60 @@
+name: AI 및 보험 AX 동향 모니터링 자동 실행
+
+on:
+  # 한국시간(KST) 매일 아침 08:00에 실행 = UTC 전날 밤 23:00
+  schedule:
+    - cron: "0 23 * * *"
+
+  # 수동 실행 버튼 (즉시 테스트용)
+  workflow_dispatch:
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 저장소에 누적 보관 중인 data/it_news.json을 함께 가져옵니다.
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: IT 뉴스 모니터링 실행
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GMAIL_USER:       ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PW:      ${{ secrets.GMAIL_APP_PW }}
+          RECIPIENT:         ${{ secrets.RECIPIENT }}
+        run: python it_news_monitor.py
+
+      # 수집된 데이터를 깃허브 리포지토리에 영구 커밋/푸시합니다.
+      - name: 변경된 JSON 데이터를 깃허브 저장소에 직접 저장
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add data/it_news.json || true
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "💡 자동 업데이트: IT 및 AI 뉴스 데이터 누적"
+            git push origin main
+          else
+            echo "새로운 데이터가 없어 푸시를 건너뜁니다."
+          fi
+
+      # 백업용 로그 아티팩트 보관 (30일)
+      - name: 로그 아티팩트 업로드
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-news-json-${{ github.run_number }}
+          path: data/it_news.json
+          retention-days: 30
