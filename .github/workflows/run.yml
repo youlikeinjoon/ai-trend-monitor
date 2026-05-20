@@ -8,6 +8,12 @@ on:
   # 수동 실행 버튼 (즉시 테스트용)
   workflow_dispatch:
 
+# 💡 웹페이지 배포를 위해 깃허브 액션스 서버에 권한을 부여합니다.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
@@ -27,7 +33,7 @@ jobs:
       - name: 패키지 설치
         run: pip install -r requirements.txt
 
-      - name: IT 뉴스 모니터링 실행
+      - name: IT 뉴스 모니터링 및 HTML 생성
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GMAIL_USER:       ${{ secrets.GMAIL_USER }}
@@ -35,27 +41,28 @@ jobs:
           RECIPIENT:         ${{ secrets.RECIPIENT }}
         run: python it_news_monitor.py
 
-      # 수집된 데이터를 깃허브 리포지토리에 영구 커밋/푸시합니다.
-      - name: 변경된 JSON 데이터를 깃허브 저장소에 직접 저장
+    # 파이썬이 만든 index.html과 데이터(it_news.json)를 저장소에 기록
+      - name: 변경된 데이터 및 HTML을 저장소에 저장
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          git add data/it_news.json || true
+          # json과 html 파일을 모두 깃에 추가
+          git add data/it_news.json index.html || true
           
           if ! git diff --staged --quiet; then
-            git commit -m "💡 자동 업데이트: IT 및 AI 뉴스 데이터 누적"
+            git commit -m "💡 자동 업데이트: 데이터 누적 및 웹페이지 갱신"
             git push origin main
           else
-            echo "새로운 데이터가 없어 푸시를 건너뜁니다."
+            echo "변경사항이 없어 푸시를 건너뜁니다."
           fi
 
-  # 백업용 로그 보관 (첫 실행 때 파일이 없어도 에러 없이 넘어가도록 if_no_files_found 추가)
-      - name: 로그 아티팩트 업로드
-        if: always()
-        uses: actions/upload-artifact@v4
+      # 💡 [새로 추가] 생성된 index.html 파일을 인터넷에 웹사이트로 배포합니다.
+      - name: GitHub Pages 환경 업로드
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: ai-news-json-${{ github.run_number }}
-          path: data/it_news.json
-          retention-days: 30
-          if-no-files-found: warn # 💡 파일이 없으면 에러(Fail) 대신 경고만 띄우고 통과!
+          path: '.' # 현재 폴더에 있는 index.html을 타겟으로 잡음
+
+      # 💡 [새로 추가] 최종 배포 스위치 올리기
+      - name: 웹사이트 배포 실행
+        uses: actions/deploy-pages@v4
