@@ -1,4 +1,4 @@
-import os, json, re, smtplib, hashlib, logging
+import os, json, re, smtplib, hashlib, logging, time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from email.mime.multipart import MIMEMultipart
@@ -62,14 +62,25 @@ def fetch_ai_news() -> list[dict]:
 
     log.info("Gemini API 호출 중 (Google Search 웹 검색 포함)...")
     
-    response = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            tools=[types.Tool(google_search=types.GoogleSearch())]
-        )
-    )
-
+    # 구글 서버 과부하 대응을 위한 3회 재시도 루프
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    tools=[types.Tool(google_search=types.GoogleSearch())]
+                )
+            )
+            break # 성공하면 루프 탈출
+        except Exception as e:
+            if "503" in str(e) and attempt < max_retries - 1:
+                log.warning(f"구글 서버 과부하(503) 발생. 10초 후 재시도합니다... ({attempt + 1}/{max_retries})")
+                time.sleep(10)
+            else:
+                raise e # 3번 다 실패하면 에러 던지기
+                
     text = response.text.strip()
     text = re.sub(r"```json|```", "", text).strip()
     
