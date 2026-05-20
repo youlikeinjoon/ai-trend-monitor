@@ -296,5 +296,129 @@
     "_key": "1a082a5a2a77",
     "_updatedAt": "2026-05-20T17:40:47.185662+09:00",
     "_createdAt": "2026-05-20T17:40:47.185662+09:00"
+  },
+  {
+    "title": "알파벳, 구글 I/O 2026서 '제미나이 공세'···에이전틱 AI 주도권 경쟁 촉발",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-yOo4-nAVF5ylLGZ90mhyx6HsHwk-oEBawy__f3L_f0YKZ1ARjxtqrRYED2XoK1Lkqjd4l8IlMzmpRwnEMAMasRJRHOi6ByjE2OKSqYrYKPv5T6GEnqITCAonc5A23HYvFxXqTWLGIjb1FmMjT1Vje3wHjtae-1X9t2l9351rFMLiNStCTfSYDEkfZlTD4Ipns82i0XYF5yHzCk-rNdbWzusKcpHJ1UOzWl4QfZDe9mMToCrjx2ct3R5gsrxxjKUdjjtQ0z79Rvt6xoIfbQnv1WfAny6MEG3_krf8i_vuHTBtViluAWAMgQhaI3ZWRJh-5PhpqjfLjQ-xmjcMR7EOJqj-z1l7DIqaEjOvJ4=",
+    "category": "LLM, AI Agent, 빅테크",
+    "ecosystemImpact": "에이전틱 AI 경쟁 심화, 범용 AI 생태계 확장, AI 모델 가격 경쟁 촉발.",
+    "importance": 10,
+    "summary": "구글 I/O 2026에서 제미나이 3.5 플래시 및 범용 AI 에이전트 '제미나이 스파크'를 발표하며 에이전틱 AI 시장 주도권 경쟁에 나섰다.",
+    "corporateAction": "대화형 AI를 넘어 자율적 의사결정 및 실행이 가능한 에이전트 AI 도입 전략 및 활용 방안을 검토해야 한다.",
+    "keywords": [
+      "Gemini",
+      "AI Agent",
+      "Google I/O",
+      "LLM",
+      "에이전틱 AI"
+    ],
+    "_key": "6af6cadde6dc",
+    "_updatedAt": "2026-05-20T18:04:45.763744+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763744+09:00"
+  },
+  {
+    "title": "가입부터 보상까지…AI가 보험의 판을 바꾼다",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkzgJq_bDQ_3FOZYfaINtNaelBXCqz7JDuCEgQhaXPeNjLnUkjyQg1w5Ab5Kfbap8vdXY3JxwSP50TYzHTM14tDR23zlOLzVYeBBXUn4U2JgNjIfuQpNzxrvnsw7U1LHHvw4NNQA==",
+    "category": "보험/AX, AI Agent, LLM",
+    "ecosystemImpact": "국내 보험업계 AI 도입 확산 및 업무 전반의 디지털 혁신 가속화.",
+    "importance": 9,
+    "summary": "국내 주요 보험사들이 AI를 활용하여 가입, 상담, 청구, 심사, 보상 등 핵심 업무 전반에 걸친 디지털 전환을 추진 중이다.",
+    "corporateAction": "삼성생명, 삼성화재, NH농협생명, 교보생명 등의 AI 도입 사례를 벤치마킹하여 당사 AI 전략을 구체화하고 적용 가능성을 검토해야 한다.",
+    "keywords": [
+      "보험AI",
+      "AX",
+      "언더라이팅",
+      "보험금심사",
+      "고객상담",
+      "디지털 전환"
+    ],
+    "_key": "27cddea54970",
+    "_updatedAt": "2026-05-20T18:04:45.763764+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763764+09:00"
+  },
+  {
+    "title": "Nvidia Earnings Preview May 20 2026: Will NVDA Beat Expectations Again?",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMxOb5mT4D2E9h3uh6Fp1JS9NQK9_4I2GDu3Y-DEWxPCiIxcOgjNc02sAc625ltlGy1GLJ8dyo3pmZ_vGjRZ-_3w36r5yzLuqtP_tgTJlx1kMr3RgHef0ugyKXTt_0g86KCXgJzfLGMMrY2AKhF5sfd-Dz-1iyHUWbTA==",
+    "category": "AI 하드웨어 인프라, 빅테크",
+    "ecosystemImpact": "AI 칩 시장의 독점 심화 및 AI 인프라 투자 지속 확대로 산업 전반에 영향.",
+    "importance": 9,
+    "summary": "엔비디아가 5월 20일 실적 발표를 앞두고 있으며, Blackwell 및 Rubin 아키텍처에 대한 강력한 수요로 AI 칩 시장 지배력과 데이터센터 매출 성장이 예상된다.",
+    "corporateAction": "엔비디아의 차세대 AI 칩 로드맵을 주시하고, GPU 자원 확보 전략 및 비용 효율적인 AI 인프라 구축 방안을 수립에 반영해야 한다.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "Rubin",
+      "GPU",
+      "AI 인프라",
+      "데이터센터"
+    ],
+    "_key": "ebd34ce79d39",
+    "_updatedAt": "2026-05-20T18:04:45.763777+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763777+09:00"
+  },
+  {
+    "title": "2026년 05월 19일 금융 AI/AX 및 보안 동향 데일리 리포트",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2cFndA4HEV25-8En_aQLHWBNwZ1HPX0TetZco3WApdMc2RQN9tFzBP4D5NM4BVx7X-3K6sEw6yLTA8J9fEgR9jFBmp-osqdgj8WzUy-fnHCIBq-au0yIWr18MQtGNfoZvaJTg6eA=",
+    "category": "금융규제, IT 거버넌스/보안, 보험/AX",
+    "ecosystemImpact": "국내 금융권 AI 도입 가속화 및 망분리 규제 완화를 통한 혁신 촉진.",
+    "importance": 9,
+    "summary": "5월 19일 데일리 리포트에서 국내 금융권의 AI/AX 정책 동향 및 금융보안 이슈를 다루며, 금융사 AI 도입을 위한 규제 샌드박스 간소화 논의가 언급되었다.",
+    "corporateAction": "국내 AI 금융 규제 완화 동향을 주시하고, 생성형 AI 도입 시 망분리 예외 등 규제 샌드박스 활용 방안을 적극 검토해야 한다.",
+    "keywords": [
+      "금융규제",
+      "망분리",
+      "규제샌드박스",
+      "금융보안",
+      "보험AI",
+      "AX"
+    ],
+    "_key": "7e288983bccd",
+    "_updatedAt": "2026-05-20T18:04:45.763785+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763785+09:00"
+  },
+  {
+    "title": "How to Secure RAG Workflows",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwig3Z135R0rw-CFxl16zm704w1w2lbD9RphWcz64MVvTUAgruz5PTFCwDzqwp69bdinRTyPG1Cld_UGZXCS6qOZX-_wLqQ0Ao174_d6qwR2_aokacVqt30OL6-dexC3nkE8viQDIPt5L-mschz2nX-Bb5099CcgjHSZyOfqa",
+    "category": "AI 보안/망분리, IT 거버넌스/보안, RAG, AI Agent",
+    "ecosystemImpact": "AI 에이전트 및 RAG 확산에 따른 보안 위협 증가와 제로 트러스트 보안 강화.",
+    "importance": 8,
+    "summary": "AI 에이전트와 RAG 워크플로우의 보안 중요성이 강조되며, 프롬프트 인젝션 방어, 데이터 유출 방지 등 제로 트러스트 기반 AI 보안 모범 사례가 논의되었다.",
+    "corporateAction": "RAG 및 AI 에이전트 도입 시 보안 취약점 분석 및 제로 트러스트 아키텍처 기반의 AI 보안 체계 구축을 우선순위화해야 한다.",
+    "keywords": [
+      "AI 보안",
+      "RAG",
+      "AI Agent",
+      "제로트러스트",
+      "IT 거버넌스"
+    ],
+    "_key": "a0802009185e",
+    "_updatedAt": "2026-05-20T18:04:45.763792+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763792+09:00"
+  },
+  {
+    "title": "유아이패스, 韓 데이터 장벽 정조준…'로컬 AI 자동화' 승부수 띄웠다",
+    "date": "2026-05-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1FJcX9S8OHE8MPIwvj9uDWtje3g06nszVdabxdoPMQNjFg3iPHxqokHqMepAZdkJmchxH9XzDbPQCrq2-2mX-54imuSovQIt1frBNcRpTtMD1PwoyXR20H4iyA3FPnuG2uebkrK-pGEZ6bLb43PZbi1zngadSQ==",
+    "category": "AI 하드웨어 인프라, IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "국내 AI 자동화 시장의 온프레미스/로컬 클라우드 수요 증가 및 맞춤형 솔루션 등장.",
+    "importance": 7,
+    "summary": "유아이패스가 국내 데이터 장벽 및 규제에 대응하기 위해 로컬 AI 자동화 솔루션을 강화하며, 국내 기업의 AI 에이전트 및 RPA 도입을 지원하고 있다.",
+    "corporateAction": "국내 규제 환경을 고려한 로컬 AI 인프라 및 자동화 솔루션 도입을 검토하고, 데이터 주권 및 보안을 강화할 수 있는 방안을 모색해야 한다.",
+    "keywords": [
+      "로컬AI",
+      "AI 자동화",
+      "RPA",
+      "데이터센터",
+      "망분리",
+      "AI 인프라"
+    ],
+    "_key": "037ba5e21fff",
+    "_updatedAt": "2026-05-20T18:04:45.763799+09:00",
+    "_createdAt": "2026-05-20T18:04:45.763799+09:00"
   }
 ]
