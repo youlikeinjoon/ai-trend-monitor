@@ -59,5 +59,3 @@ jobs:
           path: data/it_news.json
           retention-days: 30
           if-no-files-found: warn # 💡 파일이 없으면 에러(Fail) 대신 경고만 띄우고 통과!
-          path: data/it_news.json
-          retention-days: 30
