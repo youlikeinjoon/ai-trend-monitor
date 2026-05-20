@@ -134,7 +134,7 @@ def build_html(records: dict) -> str:
     sorted_list = sorted(records.values(), key=lambda x: (x.get("importance", 0), x.get("date", "")), reverse=True)
 
     rows_html = ""
-    for i, n in enumerate(sorted_list[:30], 1): # 상위 30개 위주 노출
+    for i, n in enumerate(sorted_list[:10], 1): # 상위 30개 위주 노출
         imp = n.get('importance', 1)
         imp_color = "#B91C1C" if imp >= 8 else ("#92400E" if imp >= 5 else "#374151")
         bg = "#FAFAFA" if i % 2 == 0 else "#FFFFFF"
