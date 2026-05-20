@@ -50,11 +50,14 @@ jobs:
             echo "새로운 데이터가 없어 푸시를 건너뜁니다."
           fi
 
-      # 백업용 로그 아티팩트 보관 (30일)
+  # 백업용 로그 보관 (첫 실행 때 파일이 없어도 에러 없이 넘어가도록 if_no_files_found 추가)
       - name: 로그 아티팩트 업로드
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: ai-news-json-${{ github.run_number }}
+          path: data/it_news.json
+          retention-days: 30
+          if-no-files-found: warn # 💡 파일이 없으면 에러(Fail) 대신 경고만 띄우고 통과!
           path: data/it_news.json
           retention-days: 30
