@@ -71,8 +71,7 @@ def fetch_ai_news() -> list[dict]:
     )
 
     text = response.text.strip()
-    text = re.sub(r"
-```json|```", "", text).strip()
+    text = re.sub(r"```json|```", "", text).strip()
     
     match = re.search(r"(\[[\s\S]*\])", text)
     if match:
