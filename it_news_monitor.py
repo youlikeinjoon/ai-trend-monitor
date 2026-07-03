@@ -179,10 +179,8 @@ def build_html(records: dict) -> str:
           </td>
           <td style="padding:14px 12px; font-size:12px; color:#334155; line-height:1.4;">{n.get('ecosystemImpact','—')}</td>
           <td style="padding:14px 12px; font-size:12px; color:#15803D; font-weight:600; background:#F0FDF4; line-height:1.4;">{n.get('corporateAction','—')}</td>
-          <td style="padding:14px 8px; text-align:center; white-space:nowrap;">
-            <a href="{raw_url}" title="{raw_url}" style="display:inline-block; padding:4px 8px; background:#F1F5F9; color:#2563EB; font-size:11px; font-weight:600; border-radius:4px; text-decoration:none; border:1px solid #CBD5E1;">
-              원문 보기 →
-            </a>
+          <td style="padding:14px 8px; text-align:left; min-width:150px; font-size:11px; color:#2563EB; word-break:break-all; line-height:1.3;">
+            {raw_url}
           </td>
         </tr>"""
 
