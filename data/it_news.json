@@ -1,1 +1,143 @@
-[]
+[
+  {
+    "title": "금융사 '생성형 AI' 규제 특례 쏟아진다…챗봇·업무지원 다각도 활용",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY5ZO7IKM172mqHJetkRHWhv98Jo5r7ToE8Ku3J9jc7otDQqPkE2ApLTHyJonYDa5dJ7tHwhYm3yiBRmaN-uTlTpd_JIqHjl1iYZ4YbPdVDHhhiXPnz7VxJ9OUzleVLQ77dj4CuiwZ2l-OOQeA4w==",
+    "category": "IT 거버넌스/보안, 보험/AX, LLM",
+    "ecosystemImpact": "국내 금융권의 AI 도입 가속화 및 서비스 다양화 촉진, 망분리 규제 완화 확대.",
+    "importance": 10,
+    "summary": "금융위원회가 24개 생성형 AI 서비스를 혁신금융서비스로 지정하고, 망분리 규제 완화로 외부 AI와 내부 시스템 연계를 허용하며 금융사 AI 활용을 가속화.",
+    "corporateAction": "내부망-외부 AI 연계 방안 구체화 및 금융규제 샌드박스 적극 활용 검토를 통해 AI 서비스 도입 기회 모색.",
+    "keywords": [
+      "금융규제샌드박스",
+      "생성형AI",
+      "망분리",
+      "금융IT거버넌스",
+      "규제완화"
+    ],
+    "_key": "645bc7797d97",
+    "_createdAt": "2026-07-03T13:23:47.271266+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271266+09:00"
+  },
+  {
+    "title": "소프트캠프, AI 보안 4대 원칙 제시…추적·통제·인증·검증",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYr63HZc128b97exSxvE8GHyPF9ELmrRdH-jFTyYsI3RcFoenFEfY_gYN2c8ER1gM-bvZPv-hisqZ7ZDHb_QXCtsMxtx62AA4ONdevNMhHP7QbKpJyXSlDH1nY2Mj_w==",
+    "category": "AI 보안/망분리, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 에이전트 보안에 대한 명확한 가이드라인 제시, 관련 솔루션 시장 확대 기대.",
+    "importance": 9,
+    "summary": "소프트캠프는 AI 에이전트 시대의 새로운 보안 원칙으로 추적·통제·인증·검증을 제시하고, 이를 지원하는 신규 솔루션을 공개.",
+    "corporateAction": "AI 에이전트 도입 시 4대 보안 원칙 기반의 내부 보안 정책 수립 및 관련 솔루션 도입을 통해 보안 체계 강화.",
+    "keywords": [
+      "AI보안",
+      "AI Agent",
+      "IT거버넌스",
+      "망분리",
+      "제로트러스트"
+    ],
+    "_key": "76bb1ab69e84",
+    "_createdAt": "2026-07-03T13:23:47.271288+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271288+09:00"
+  },
+  {
+    "title": "Nvidia launches revenue-sharing model to help AI startups access computing power (NVDA)",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJQMsyz9fm4CvVFLMM07sxn9OrLI6SBw6tXNXfZpIGUrA62aETj8gB6_Hn1qkGfYTwhXa0ExqpTBlpLWr72y_73kcx5LsUuHpabUAicTc2Bw_AcOFfbvcU7gZ2JcdnzWx52-b5vyY1z4S-2hmm7-D-Q_nz6ka03eebYyQ0ECRpr0RIvXsf9h3AT040zcqSWFFhC4Wb_CXdiFbd1gWFpB00oK84BnNyXS2FNzxcmTFuqAomqQq5m3mNU9hxCfALObz06wzi6O4c3ek=",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 접근성 확대, AI 스타트업 성장 촉진 및 NVIDIA의 비즈니스 모델 변화.",
+    "importance": 9,
+    "summary": "NVIDIA가 AI 스타트업이 고성능 컴퓨팅 인프라에 접근할 수 있도록 수익 공유 및 신용 지원 모델을 발표하며 AI '신규 클라우드'를 통한 시장 확대를 시도.",
+    "corporateAction": "AI 인프라 구축 및 확장 시 파트너십/수익 공유 모델의 경제적 효과를 분석하고 활용 가능성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI하드웨어",
+      "AI인프라",
+      "클라우드AI"
+    ],
+    "_key": "f9143bba12bd",
+    "_createdAt": "2026-07-03T13:23:47.271299+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271299+09:00"
+  },
+  {
+    "title": "아카마이, 엔비디아와 'AI 팩토리' 보안 강화",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbqXlHy18WicnfFlL2cVJu8Cw8sXx-hNt2SqxE9BEEOfRxrdqWrtZ2_A_8WMKM8ML6SIxZ0wlXIdK1_wNhzmwMAca--5Ac2HslrEjuFZqM_YFwCngSLBzgh7jMPZbDibtwbGTI4zxm1a-o5Foy8c1djobeSvh4N9oUuE9u4M_FxdfuL756qg==",
+    "category": "AI 보안/망분리, AI 하드웨어",
+    "ecosystemImpact": "AI 팩토리 및 가속 컴퓨팅 환경의 제로 트러스트 보안 표준 제시 및 확산.",
+    "importance": 8,
+    "summary": "아카마이와 엔비디아가 협력하여 AI 팩토리에 제로 트러스트 보안 체계를 내장, 엔비디아 DPU에 아카마이 보안 솔루션을 통합.",
+    "corporateAction": "AI 인프라 구축 시 하드웨어 레벨에서 잠재적 위협을 차단하는 제로 트러스트 보안 아키텍처 도입을 검토.",
+    "keywords": [
+      "AI보안",
+      "NVIDIA",
+      "제로트러스트",
+      "AI팩토리",
+      "가속컴퓨팅"
+    ],
+    "_key": "a04e14bef524",
+    "_createdAt": "2026-07-03T13:23:47.271307+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271307+09:00"
+  },
+  {
+    "title": "미래에셋생명 “일은 AI가 판단은 사람이”…'AI 네이티브 보험사' 도약",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX5x6Q4Dn-w-draOeP9pTK7ddl-_wgngoEk-bOjEdZIvddZdB2IhSf6_KLiyqzyKgitQi_zjVpqMV4GRmYekC5e9Z8-0C2kNkQQbhziRebcNGHXSm5UixrZLfJN2AG6-2SCStiBPXZ7BiQUMIZixUn",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "국내 보험 산업의 AI 전환 가속화 및 AI 기반 비즈니스 모델 재설계 사례 제시.",
+    "importance": 8,
+    "summary": "미래에셋생명이 AI 기술을 활용한 업무 혁신과 디지털 경쟁력 강화를 목표로 'AI Native 보험사'로의 전환을 추진.",
+    "corporateAction": "AI Native 전략을 벤치마킹하여 AI 기반 비즈니스 프로세스 전반의 재설계 가능성 및 적용 방안을 검토.",
+    "keywords": [
+      "보험AX",
+      "AI Native",
+      "디지털트랜스포메이션",
+      "미래에셋생명",
+      "AI도입사례"
+    ],
+    "_key": "99283f2d01e6",
+    "_createdAt": "2026-07-03T13:23:47.271313+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271313+09:00"
+  },
+  {
+    "title": "한국디지털인증협회, AI 에이전트 신원관리 국제표준 개발 착수",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE55V6962bu-QzvWo1KraqsNqV1FuCr2SPqP0UyPeQc0lNFb9IuwqXod7pUMwHT6C1P4WtVMKMF4jfYRUYOoo2QHXvHQqCo_kd_vomfmqI9qhhHYO8OsEeC4SwQ_nqlrGaWG8YspHq9hrTM6dLGTUgJkK9eC8CNljQp-QS1gRhJSbAMM2IqSA==",
+    "category": "IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "AI 에이전트의 신뢰성과 상호운용성 확보, 글로벌 AI 생태계에 기여.",
+    "importance": 7,
+    "summary": "한국디지털인증협회가 AI 에이전트의 분산신원(DID) 및 자격증명(VC) 기반 신원관리 국제표준 개발에 착수.",
+    "corporateAction": "AI 에이전트 신원 관리 표준화 동향을 주시하고, 미래 시스템 설계에 반영할 방안 및 관련 기술 도입을 검토.",
+    "keywords": [
+      "AI Agent",
+      "신원관리",
+      "국제표준",
+      "DID",
+      "IT거버넌스",
+      "인증"
+    ],
+    "_key": "1d45fcbc1fac",
+    "_createdAt": "2026-07-03T13:23:47.271320+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271320+09:00"
+  },
+  {
+    "title": "저커버그 \"AI 에이전트 개발, 기대만큼 빠르지 않다\"",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiR_pBnbmU-xVfZYoYgbhw8kb0kylI_DEnX2yytC_NP_wu2fTlIhD2yno0CoWq2kjInBRAojnuzGYdNlGdmpGj5BAAaG5P-LSJ2Ou1hi28f4_okd01Wf05RrmrfQuXLR54-YR7UCps8hI4gCbULY1h3PE=",
+    "category": "AI Agent, LLM",
+    "ecosystemImpact": "AI 에이전트 기술의 현실적 난이도 강조, 시장의 과도한 기대 조정 가능성.",
+    "importance": 6,
+    "summary": "메타 CEO 마크 저커버그가 AI 에이전트 개발 속도가 예상보다 더디다고 인정했으나, 향후 3~6개월 내 큰 혜택을 기대.",
+    "corporateAction": "AI 에이전트 도입 로드맵 수립 시 기술 개발 및 안정화에 충분한 시간과 자원을 확보하며, 현실적인 기대치를 설정.",
+    "keywords": [
+      "AI Agent",
+      "개발난이도",
+      "메타",
+      "AI투자",
+      "기술동향"
+    ],
+    "_key": "3faf123eb5ca",
+    "_createdAt": "2026-07-03T13:23:47.271326+09:00",
+    "_updatedAt": "2026-07-03T13:23:47.271326+09:00"
+  }
+]
