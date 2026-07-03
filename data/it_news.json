@@ -812,5 +812,124 @@
     "_key": "8a6fe0bc673a",
     "_createdAt": "2026-07-03T12:55:58.291753+09:00",
     "_updatedAt": "2026-07-03T12:55:58.291753+09:00"
+  },
+  {
+    "title": "금융위, AI 보안 테스트 중 전산장애 시 면책…규제 샌드박스 확대",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENAmS57_zJbwnZ60PajFp6V93QJhIJtfPlVK12B5yqroyJXCKbu5woE48YZPWuadsoSGDkRJNCL3VlbaTcXnQE5hpkLznsOWgdrEc_On0XpdALFspVCz9iMl2pyNL-GPXPgOcSjg",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 활용 금융 서비스 개발 촉진 및 규제 불확실성 해소",
+    "importance": 9,
+    "summary": "금융위원회가 AI 보안 테스트 중 발생하는 경미한 전산장애에 대해 면책 조치하고, AI 활용 금융 상품 관련 규제 샌드박스를 확대했다.",
+    "corporateAction": "AI 기반 보안 강화 및 신규 금융 상품 개발 시 규제 샌드박스 활용을 적극 검토해야 함.",
+    "keywords": [
+      "금융규제",
+      "규제 샌드박스",
+      "AI 보안",
+      "IT 거버넌스"
+    ],
+    "_key": "67cb5b91cd59",
+    "_createdAt": "2026-07-03T13:16:36.394466+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394466+09:00"
+  },
+  {
+    "title": "NVIDIA, AI 스타트업에 GPU 선제공 및 수익 공유 프로그램 도입",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu7lOWjasBThiLTlFM-0ZyDp7JnNmQSgjLoY6tDdG9qtnmKE1oofQ6sl45DTcO9nvd5EYtUDswUqv8NlB8wyOQZmb2WKKQVN_-LA6CUR0UZnmF_ACPR2g4RdhXg88LT01MQhmYD4tGwxZw3WYKtlQlZnCFzu8XLPghwwv5ia5tYcRLdeXud991rzo",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "AI 스타트업의 GPU 접근성 향상, AI 생태계 성장 가속화",
+    "importance": 9,
+    "summary": "NVIDIA가 AI 스타트업 대상 GPU 선제공 및 클라우드 수익 공유 모델을 발표, AI 인프라 접근성을 높여 AI 혁신을 지원한다.",
+    "corporateAction": "AI 인프라 확장 및 협력 시 NVIDIA의 새로운 파트너십 모델을 검토, 비용 효율적 AI 도입 전략 모색.",
+    "keywords": [
+      "NVIDIA",
+      "GPU",
+      "AI 인프라",
+      "스타트업",
+      "클라우드 AI"
+    ],
+    "_key": "b6bc00d80bfa",
+    "_createdAt": "2026-07-03T13:16:36.394488+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394488+09:00"
+  },
+  {
+    "title": "보험업계, AI 경쟁 '상품 개발'까지 확산…신한라이프 디지털 전환 가속",
+    "date": "2026-07-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5z_8MFzE5Lelg7P8UubI1maQnunifjk-alFXgr1taFSEgCsl6CyVLSxRwmPUVVoInsdVRRWIJ7rFs36YTXchk7nM8Wo_ZhjCRc3GQSuxCRjdPsepqWoOxzNrrFe6gIVuOmUAR8kvpTsPUbr6amCarice6Qw",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 상품 개발 및 영업 효율성 증대, 고객 맞춤형 서비스 강화",
+    "importance": 8,
+    "summary": "국내 보험업계가 AI를 활용한 상품 개발 및 영업 지원 등 핵심 업무로 경쟁을 확대하며 디지털 전환에 속도를 내고 있다.",
+    "corporateAction": "AI 기반 보험 상품 개발 및 언더라이팅 자동화 시스템 도입을 검토하여 경쟁력 강화 및 고객 만족도 제고.",
+    "keywords": [
+      "보험",
+      "AI",
+      "상품 개발",
+      "AX",
+      "디지털 전환"
+    ],
+    "_key": "990a2fcc03d8",
+    "_createdAt": "2026-07-03T13:16:36.394498+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394498+09:00"
+  },
+  {
+    "title": "소프트캠프, 'AI 에이전트 시대' 보안 4대 원칙 제시 및 신규 솔루션 공개",
+    "date": "2026-07-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi3T33V6KVKTpz2e9nl7LmBbWzXTB3joaGqNjGUJLL5VcJiXeGmkeaSlWtXrn0LtuinGa_b9cl2uWts1GIb0JC3hFDOUJW5KnwNRe1XTLfU_frJDkk1rav-GKKLW7iaHQ=",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 에이전트 활용 증대에 따른 보안 위협 선제적 대응 강화",
+    "importance": 8,
+    "summary": "소프트캠프가 AI 에이전트 시대의 보안 원칙으로 추적·통제·인증·검증을 제시하고, AI 에이전트의 업무 범위를 통제하는 신규 솔루션을 공개했다.",
+    "corporateAction": "AI 에이전트 도입 시 데이터 유출 방지 및 권한 관리를 위한 보안 솔루션 도입 및 정책 수립을 적극 고려해야 함.",
+    "keywords": [
+      "AI 보안",
+      "AI Agent",
+      "IT 거버넌스",
+      "망분리",
+      "데이터 보안"
+    ],
+    "_key": "1a74b04ee4fa",
+    "_createdAt": "2026-07-03T13:16:36.394506+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394506+09:00"
+  },
+  {
+    "title": "메타 저커버그, AI 에이전트 개발 속도 예상보다 더디다고 언급",
+    "date": "2026-07-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWma8XewqSFAlx4da8WppgviG3L5--HF4xRFea_NmnyR2tEGEaa0-oEpp6yMgKpfldh3x8pQSlGF75BN1IOginDs1RptWlKXHDBJ49F6p5jP6NIscJJBJLhbUowCqxWF-66EY=",
+    "category": "AI Agent",
+    "ecosystemImpact": "빅테크 AI 에이전트 개발 난이도 시사, 기술 발전 속도에 대한 현실적 전망 제시",
+    "importance": 7,
+    "summary": "마크 저커버그 메타 CEO가 AI 에이전트 개발이 예상보다 더디게 진행되고 있다고 밝히며, 향후 3~6개월 내 투자의 결실을 기대한다고 언급했다.",
+    "corporateAction": "AI 에이전트 도입 시 기술 개발의 난이도를 인지하고, 장기적인 관점에서 전략 수립 및 리스크 관리에 신중해야 함.",
+    "keywords": [
+      "AI Agent",
+      "빅테크",
+      "기술 개발",
+      "메타",
+      "AI 전략"
+    ],
+    "_key": "e0ef65c4594c",
+    "_createdAt": "2026-07-03T13:16:36.394512+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394512+09:00"
+  },
+  {
+    "title": "국내외 AI 전문가, '글로벌 AI 프론티어 심포지엄 2026'서 AI 안전·보안 및 피지컬 AI 논의",
+    "date": "2026-07-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzm-VPA_DJcAt3bHYwe9W4PIVMp0oYx60oXYMxOaORVlohxw4uP9FhBKUZd4OyXLpUSnlX4rbGFwWTnZzLM-OJDeFGtKOrTZJyrih2F6aSQdN09RAxsc9pys47KxELzSgdzdGILAqNIZUta5Bs2-C3w",
+    "category": "글로벌 트렌드",
+    "ecosystemImpact": "AI 안전성 및 윤리적 활용 논의 심화, 피지컬 AI 시대 준비 가속화",
+    "importance": 7,
+    "summary": "국내외 AI 전문가들이 서울에 모여 '글로벌 AI 프론티어 심포지엄 2026'을 개최, AI 안전·보안 표준, 피지컬 AI 등 다양한 AI 발전 방향을 논의했다.",
+    "corporateAction": "AI 기술 도입 시 AI 안전·보안 및 윤리적 고려 사항을 면밀히 검토하고, 피지컬 AI와 같은 미래 기술 동향을 주시해야 함.",
+    "keywords": [
+      "AI 안전",
+      "AI 보안",
+      "피지컬 AI",
+      "글로벌 트렌드",
+      "AI 거버넌스"
+    ],
+    "_key": "ec7293a267dd",
+    "_createdAt": "2026-07-03T13:16:36.394520+09:00",
+    "_updatedAt": "2026-07-03T13:16:36.394520+09:00"
   }
 ]
