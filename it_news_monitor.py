@@ -179,8 +179,8 @@ def build_html(records: dict) -> str:
           </td>
           <td style="padding:14px 12px; font-size:12px; color:#334155; line-height:1.4;">{n.get('ecosystemImpact','—')}</td>
           <td style="padding:14px 12px; font-size:12px; color:#15803D; font-weight:600; background:#F0FDF4; line-height:1.4;">{n.get('corporateAction','—')}</td>
-          <td style="padding:14px 8px; text-align:left; min-width:150px; font-size:11px; color:#2563EB; word-break:break-all; line-height:1.3;">
-            {raw_url}
+          <td style="padding:14px 8px; text-align:center; font-size:12px; word-break:break-all; line-height:1.3;">
+            <a href="{raw_url}" target="_blank" style="display:inline-block; color:#2563EB; font-weight:600; text-decoration:none; background:#EFF6FF; padding:5px 10px; border-radius:4px; white-space:nowrap;">기사 보기 ↗</a>
           </td>
         </tr>"""
 
@@ -193,17 +193,17 @@ def build_html(records: dict) -> str:
     <div style="font-size:13px; margin-top:6px; color:#94A3B8;">재보험·금융권 AI 도입 인텔리전스 | 생성일시: {now_str}</div>
   </div>
   <div style="overflow-x:auto; padding:24px;">
-    <table style="width:100%; border-collapse:collapse; font-size:13px; table-layout:auto;">
+    <table style="width:100%; border-collapse:collapse; font-size:13px; table-layout:fixed;">
       <thead>
         <tr style="background:#F8FAFC; border-bottom:2px solid #E2E8F0; color:#475569;">
-          <th style="padding:12px 8px; font-weight:600; width:30px; text-align:center;">#</th>
-          <th style="padding:12px 8px; font-weight:600; width:65px; text-align:center;">중요도</th>
-          <th style="padding:12px 8px; font-weight:600; width:85px; text-align:center;">발행일</th>
-          <th style="padding:12px 8px; font-weight:600; width:95px; text-align:center;">카테고리</th>
-          <th style="padding:12px 12px; font-weight:600; text-align:left; min-width:300px;">주요 뉴스 및 요약</th>
-          <th style="padding:12px 12px; font-weight:600; text-align:left; width:220px;">AI 생태계 영향도</th>
-          <th style="padding:12px 12px; font-weight:600; text-align:left; width:240px;">추진단 시사점 (BM)</th>
-          <th style="padding:12px 8px; font-weight:600; width:90px; text-align:center;">출처</th>
+          <th style="padding:12px 8px; font-weight:600; width:3%; text-align:center;">#</th>
+          <th style="padding:12px 8px; font-weight:600; width:6%; text-align:center;">중요도</th>
+          <th style="padding:12px 8px; font-weight:600; width:8%; text-align:center;">발행일</th>
+          <th style="padding:12px 8px; font-weight:600; width:9%; text-align:center;">카테고리</th>
+          <th style="padding:12px 12px; font-weight:600; width:32%; text-align:left;">주요 뉴스 및 요약</th>
+          <th style="padding:12px 12px; font-weight:600; width:17%; text-align:left;">AI 생태계 영향도</th>
+          <th style="padding:12px 12px; font-weight:600; width:17%; text-align:left;">추진단 시사점 (BM)</th>
+          <th style="padding:12px 8px; font-weight:600; width:8%; text-align:center;">출처</th>
         </tr>
       </thead>
       <tbody>{rows_html}</tbody>
