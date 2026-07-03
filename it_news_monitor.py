@@ -115,10 +115,35 @@ def merge(existing: dict, new_list: list[dict]) -> dict:
     for news in new_list:
         key = make_key(news)
         news["_key"] = key
-        news["_updatedAt"] = datetime.now(KST).isoformat()
-        if key not in existing:
-            news["_createdAt"] = news["_updatedAt"]
+        current_time = datetime.now(KST).isoformat()
+        
+        if key in existing:
+            # 1. 이미 존재하는 기사인 경우 -> 내용 병합 및 날짜 업데이트
+            old_news = existing[key]
+            
+            # 기사 발행일(date)을 최신 날짜로 업데이트
+            if news.get("date") and news["date"] > old_news.get("date", ""):
+                old_news["date"] = news["date"]
+                
+            # 중요도(importance)는 더 높은 점수로 유지하거나 최신 점수로 업데이트 (선택)
+            old_news["importance"] = max(old_news.get("importance", 0), news.get("importance", 0))
+            
+            # 핵심 요약(summary) 내용 병합 (중복 문구가 아닐 때만 덧붙이기)
+            if news.get("summary") and news["summary"] not in old_news.get("summary", ""):
+                old_news["summary"] = f"{old_news.get('summary', '')} / [추가] {news['summary']}"[:200] # 글자수 제한 고려
+                
+            # 추진단 시사점(corporateAction) 병합
+            if news.get("corporateAction") and news["corporateAction"] not in old_news.get("corporateAction", ""):
+                old_news["corporateAction"] = f"{old_news.get('corporateAction', '')} | [추가] {news['corporateAction']}"[:200]
+            
+            # 시스템 업데이트 시간 갱신
+            old_news["_updatedAt"] = current_time
+        else:
+            # 2. 처음 수집된 기사인 경우 -> 신규 등록
+            news["_createdAt"] = current_time
+            news["_updatedAt"] = current_time
             existing[key] = news
+            
     return existing
 
 def save(records: dict):
