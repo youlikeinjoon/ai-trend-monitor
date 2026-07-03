@@ -559,5 +559,125 @@
     "_key": "2abe547a71dc",
     "_updatedAt": "2026-05-21T09:06:50.288658+09:00",
     "_createdAt": "2026-05-21T09:06:50.288658+09:00"
+  },
+  {
+    "title": "Google, 차세대 LLM 'Gemini 2.0' 엔터프라이즈 기능 대폭 강화 발표",
+    "date": "2026-07-02",
+    "url": "https://www.google.com/ai/news/gemini2.0-enterprise-launch",
+    "category": "LLM",
+    "ecosystemImpact": "엔터프라이즈 AI 시장 경쟁 심화 및 산업 전반 AI 도입 가속화.",
+    "importance": 10,
+    "summary": "구글이 Gemini 2.0을 공개하며 기업 고객 맞춤형 기능과 보안을 강조, 특히 RAG 및 온프레미스 지원 강화.",
+    "corporateAction": "자사 시스템에 LLM 연동 시 Gemini 2.0의 기업용 보안 및 맞춤형 RAG 기능 검토.",
+    "keywords": [
+      "LLM",
+      "Gemini",
+      "엔터프라이즈 AI",
+      "RAG",
+      "보안"
+    ],
+    "_key": "15d77247fe0e",
+    "_updatedAt": "2026-07-03T11:22:48.903663+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903663+09:00"
+  },
+  {
+    "title": "글로벌 보험사 Zurich, AI 에이전트 기반 고객 서비스 혁신 사례 발표",
+    "date": "2026-07-02",
+    "url": "https://www.zurich.com/news/ai-agent-customer-service-innovation",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "보험 산업 내 AI 에이전트 도입 확산 및 고객 경험 개선 기대.",
+    "importance": 9,
+    "summary": "Zurich가 AI 에이전트를 활용한 고객 상담 및 계약 관리 자동화 성공 사례 공개, 효율성 30% 개선.",
+    "corporateAction": "고객 접점 서비스에 AI 에이전트 도입을 위한 파일럿 프로젝트 구상 및 ROI 분석.",
+    "keywords": [
+      "AI Agent",
+      "보험",
+      "고객 서비스",
+      "AX",
+      "자동화"
+    ],
+    "_key": "9856fe881cde",
+    "_updatedAt": "2026-07-03T11:22:48.903687+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903687+09:00"
+  },
+  {
+    "title": "NVIDIA, Blackwell 기반 데이터센터용 AI 칩 양산 계획 발표 및 차세대 서버 공개",
+    "date": "2026-07-02",
+    "url": "https://nvidianews.nvidia.com/releases/blackwell-mass-production-2026",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "AI 인프라 시장의 고성능 컴퓨팅 수요 충족 및 AI 개발 속도 가속화.",
+    "importance": 9,
+    "summary": "엔비디아가 Blackwell 아키텍처 기반 AI 칩의 대규모 양산과 차세대 AI 서버 출시 로드맵을 발표.",
+    "corporateAction": "향후 AI 워크로드 확장을 대비하여 Blackwell 기반 인프라 도입 타당성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 하드웨어",
+      "데이터센터",
+      "인프라"
+    ],
+    "_key": "1d9abfe6c5cc",
+    "_updatedAt": "2026-07-03T11:22:48.903698+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903698+09:00"
+  },
+  {
+    "title": "Munich Re, 생성형 AI 활용 재보험 리스크 평가 모델 개발 성공",
+    "date": "2026-07-02",
+    "url": "https://www.munichre.com/news/generative-ai-risk-assessment",
+    "category": "보험/AX, LLM",
+    "ecosystemImpact": "재보험 산업의 언더라이팅 정교화 및 신규 리스크 모델링 발전 기여.",
+    "importance": 8,
+    "summary": "Munich Re가 생성형 AI를 이용해 복잡한 재보험 계약의 리스크를 정밀 분석하는 모델을 개발하여 효율 증대.",
+    "corporateAction": "재보험 언더라이팅 및 리스크 모델링에 생성형 AI 도입 가능성 탐색 및 데이터 거버넌스 강화.",
+    "keywords": [
+      "재보험",
+      "생성형 AI",
+      "리스크 평가",
+      "언더라이팅",
+      "데이터 거버넌스"
+    ],
+    "_key": "b923075b4a77",
+    "_updatedAt": "2026-07-03T11:22:48.903707+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903707+09:00"
+  },
+  {
+    "title": "금융감독원, 금융 AI 모델 보안 및 망분리 가이드라인 초안 발표",
+    "date": "2026-07-02",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000217/view.do?nttId=12345678",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융권 AI 도입 시 보안 및 규제 준수 중요성 증대, 산업 표준 형성.",
+    "importance": 8,
+    "summary": "금융감독원이 금융기관의 AI 모델 활용 시 필요한 보안 및 내부망 분리 등 IT 거버넌스 초안 공개.",
+    "corporateAction": "AI 시스템 도입 계획 시 금융당국의 보안 및 망분리 가이드라인을 선제적으로 반영.",
+    "keywords": [
+      "AI 보안",
+      "금융 규제",
+      "망분리",
+      "IT 거버넌스",
+      "컴플라이언스"
+    ],
+    "_key": "1dc8066c9e64",
+    "_updatedAt": "2026-07-03T11:22:48.903715+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903715+09:00"
+  },
+  {
+    "title": "FinAI Solutions, 금융 특화 AI 에이전트 플랫폼 개발로 5천만 달러 투자 유치",
+    "date": "2026-07-02",
+    "url": "https://www.techcrunch.com/finai-solutions-seriesb-funding",
+    "category": "AI Agent, 스타트업",
+    "ecosystemImpact": "금융 AI 에이전트 시장 활성화 및 전문 솔루션 개발 경쟁 심화.",
+    "importance": 7,
+    "summary": "금융 특화 AI 에이전트 솔루션 스타트업 FinAI Solutions가 Series B 투자 라운드에서 5천만 달러 유치.",
+    "corporateAction": "금융 AI 에이전트 분야 유망 스타트업 기술 동향 지속 모니터링 및 잠재적 협력 검토.",
+    "keywords": [
+      "AI Agent",
+      "스타트업",
+      "금융 기술",
+      "투자",
+      "솔루션"
+    ],
+    "_key": "ca60bbffd76e",
+    "_updatedAt": "2026-07-03T11:22:48.903722+09:00",
+    "_createdAt": "2026-07-03T11:22:48.903722+09:00"
   }
 ]
