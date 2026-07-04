@@ -239,5 +239,156 @@
     "_key": "bfd2cd08ae06",
     "_createdAt": "2026-07-04T08:58:38.761886+09:00",
     "_updatedAt": "2026-07-04T08:58:38.761886+09:00"
+  },
+  {
+    "title": "NVIDIA, Blackwell 후속 'Rubin' AI 플랫폼 공식 발표 및 2026년 하반기 출시 확정",
+    "date": "2026-07-04",
+    "url": "https://www.thelec.kr/news/articleView.html?idxno=28669",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능, 비용 효율성, 에이전트 AI 개발 가속화에 지대한 영향.",
+    "importance": 10,
+    "summary": "엔비디아가 Blackwell의 후속 AI 플랫폼인 Rubin을 공식 발표했으며, HBM4 메모리와 50 PFLOPS FP4 컴퓨팅을 탑재한 VR200 GPU를 포함한다. 2026년 하반기 출시 예정으로, 멀티노드 추론 및 에이전트 AI 파이프라인에 최적화되었다.",
+    "corporateAction": "차세대 AI 인프라 도입 로드맵 수립 시 Rubin 플랫폼의 성능 및 비용 효율성을 면밀히 분석하고, 기존 Blackwell과의 통합 전략 모색.",
+    "keywords": [
+      "NVIDIA",
+      "Rubin",
+      "Blackwell",
+      "AI 하드웨어",
+      "GPU",
+      "HBM4",
+      "데이터센터"
+    ],
+    "_key": "ad27de73b38a",
+    "_createdAt": "2026-07-05T08:54:24.103315+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103315+09:00"
+  },
+  {
+    "title": "금융안정위원회, 금융기관의 AI 도입 위한 '건전한 관행' 초안 발표",
+    "date": "2026-07-04",
+    "url": "https://www.aba.com/banking-journal/news/financial-stability-board-releases-sound-practices-ai-adoption",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 도입의 책임감 있는 발전을 위한 글로벌 표준 지침 마련의 초석.",
+    "importance": 9,
+    "summary": "금융안정위원회(FSB)가 은행 및 기타 금융기관의 AI 도입을 안내하는 12가지 '건전한 관행' 초안을 발표했다. 이는 AI 비즈니스 전략, 기술 채택 및 위험 관리를 위한 지침을 제공한다.",
+    "corporateAction": "FSB 가이드라인을 면밀히 검토하고 내부 AI 거버넌스 프레임워크 및 위험 관리 정책에 반영, 규제 준수 계획 업데이트.",
+    "keywords": [
+      "금융안정위원회",
+      "FSB",
+      "AI 규제",
+      "IT 거버넌스",
+      "금융",
+      "리스크 관리"
+    ],
+    "_key": "eb8be16632bb",
+    "_createdAt": "2026-07-05T08:54:24.103334+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103334+09:00"
+  },
+  {
+    "title": "악센츄어 보고서: 보험업계, AI 준비도 가장 빠르게 향상, 에이전트 AI 도입 가속",
+    "date": "2026-07-02",
+    "url": "https://www.reinsurancene.ws/insurance-sector-leads-ai-readiness-improvements-accenture/",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험 산업의 디지털 전환 및 핵심 업무 자동화 가속화, AI 기반 경쟁 심화.",
+    "importance": 9,
+    "summary": "악센츄어 AI 진행도 보고서에 따르면 보험업계가 전 세계 산업 중 AI 준비도가 가장 빠르게 향상되었다. 특히 언더라이팅 및 클레임 자동화를 위한 에이전트 AI 도입이 크게 증가하고 있다.",
+    "corporateAction": "AI 언더라이팅 및 클레임 자동화 사례를 벤치마킹하고, 에이전트 AI 기반 핵심 업무 혁신을 위한 파일럿 프로젝트 확대 검토.",
+    "keywords": [
+      "보험",
+      "재보험",
+      "AI 준비도",
+      "에이전트 AI",
+      "언더라이팅",
+      "클레임 자동화",
+      "Accenture"
+    ],
+    "_key": "5db0dd787282",
+    "_createdAt": "2026-07-05T08:54:24.103343+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103343+09:00"
+  },
+  {
+    "title": "금융위원회, 국내 금융권 생성형 AI 활용 24건 혁신금융서비스로 지정",
+    "date": "2026-07-01",
+    "url": "https://www.etnews.com/20260701000109",
+    "category": "금융/AX, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "국내 금융기관의 AI 도입 장벽 완화 및 서비스 혁신 가속화, 망분리 규제 유연성 확보.",
+    "importance": 8,
+    "summary": "금융위원회가 20개 금융사의 24건 생성형 AI 활용 서비스를 혁신금융서비스로 지정하여, 망분리 규제 제약 하에서도 외부 AI 연계를 통한 챗봇 및 업무지원 서비스 운영을 허용했다.",
+    "corporateAction": "국내 혁신금융서비스 사례를 분석하여 규제 완화 기조를 활용하고, 안전한 생성형 AI 도입을 위한 보안성 평가 및 자체 보안 대책 수립.",
+    "keywords": [
+      "금융위원회",
+      "혁신금융서비스",
+      "생성형 AI",
+      "망분리",
+      "금융",
+      "규제 샌드박스",
+      "챗봇"
+    ],
+    "_key": "050d9c29a2a9",
+    "_createdAt": "2026-07-05T08:54:24.103351+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103351+09:00"
+  },
+  {
+    "title": "IBM watsonx Orchestrate, 기업 AI 에이전트 운영 및 거버넌스 위한 'Agentic Control Plane' 공개",
+    "date": "2026-07-02",
+    "url": "https://www.ibm.com/blogs/think/2026/07/watsonx-orchestrate-agentic-control-plane/",
+    "category": "AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "기업 환경에서 AI 에이전트의 확장성, 가시성, 규제 준수를 위한 핵심 인프라 제공.",
+    "importance": 8,
+    "summary": "IBM watsonx Orchestrate가 기업 AI 에이전트의 운영, 거버넌스 및 확장을 위한 'Agentic Control Plane'을 출시했다. 이를 통해 에이전트 활동 모니터링, 행동 제어, 규제 준수 및 확장 가능한 배포를 지원한다.",
+    "corporateAction": "AI 에이전트 도입 시 중앙 집중식 제어 및 거버넌스 플랫폼의 필요성을 인지하고, 관련 솔루션 도입을 통해 운영 효율성 및 보안 강화.",
+    "keywords": [
+      "AI Agent",
+      "IBM watsonx",
+      "거버넌스",
+      "오케스트레이션",
+      "기업 AI",
+      "보안"
+    ],
+    "_key": "59b516cf8dd2",
+    "_createdAt": "2026-07-05T08:54:24.103360+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103360+09:00"
+  },
+  {
+    "title": "삼성 및 SK, 한국 AI 산업 육성에 3조 달러 규모 투자 계획 발표",
+    "date": "2026-07-04",
+    "url": "https://www.arirang.com/news/view?id=298061&lang=en",
+    "category": "AI 하드웨어 인프라, 글로벌 트렌드",
+    "ecosystemImpact": "한국을 AI 강국으로 전환하고, 반도체 및 AI 데이터센터 인프라에 대한 대규모 투자를 통해 글로벌 AI 경쟁력 강화.",
+    "importance": 7,
+    "summary": "삼성과 SK 그룹이 한국을 AI 강국으로 만들기 위해 3조 달러 규모의 대규모 투자를 계획하고 있다. 이는 주로 반도체 클러스터 구축 및 AI 데이터센터 확보에 집중될 예정이다.",
+    "corporateAction": "국내 AI 인프라 투자 확대로 인한 AI 관련 기술 접근성 개선 및 인재 유입 기회 모색, 국내 AI 생태계 변화 주시.",
+    "keywords": [
+      "한국",
+      "AI 투자",
+      "삼성",
+      "SK",
+      "반도체",
+      "AI 데이터센터",
+      "국가 전략"
+    ],
+    "_key": "71a39b51f328",
+    "_createdAt": "2026-07-05T08:54:24.103367+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103367+09:00"
+  },
+  {
+    "title": "전문가, 4만 달러 예산으로 GLM-5.2 기반 고성능 로컬 LLM 구축 가이드 발표",
+    "date": "2026-07-04",
+    "url": "https://www.aiweekly.co/news/james-obeirne-local-llm-build-guide-july-2026",
+    "category": "LLM, AI 하드웨어 인프라",
+    "ecosystemImpact": "기업 및 개발자에게 고성능 LLM을 온프레미스에서 효율적으로 운영할 수 있는 실질적인 가이드 제공.",
+    "importance": 6,
+    "summary": "제임스 오베른이 4만 달러 예산으로 4개의 NVIDIA RTX PRO 6000 Blackwell GPU를 활용하여 GLM-5.2 모델을 기반으로 한 고성능 로컬 LLM 시스템 구축 가이드를 발표했다. 이는 높은 VRAM과 효율적인 추론 스택을 강조한다.",
+    "corporateAction": "민감 데이터 처리 및 비용 효율성을 고려한 온프레미스 또는 하이브리드 LLM 구축 검토 시, 하드웨어 사양 및 소프트웨어 스택에 대한 벤치마킹 자료로 활용.",
+    "keywords": [
+      "로컬 LLM",
+      "온프레미스 AI",
+      "GPU",
+      "NVIDIA Blackwell",
+      "비용 효율성",
+      "RAG"
+    ],
+    "_key": "410824bb43c1",
+    "_createdAt": "2026-07-05T08:54:24.103374+09:00",
+    "_updatedAt": "2026-07-05T08:54:24.103374+09:00"
   }
 ]
