@@ -530,5 +530,123 @@
     "_key": "e0a75af23870",
     "_createdAt": "2026-07-07T09:00:13.729747+09:00",
     "_updatedAt": "2026-07-07T09:00:13.729747+09:00"
+  },
+  {
+    "title": "금융권 '망분리 규제' 전면 해제 수순…생성형 AI 넘어 보안 혁신까지",
+    "date": "2026-07-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0WCCwwzOql4k0YpX1j6710DmeNnE1xv9j8mcsmxTD2aarJ1Z2rC_r9R94_94_1",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 클라우드 서비스 활용 증대, 보안 패러다임 변화.",
+    "importance": 10,
+    "summary": "금융권 망분리 규제가 AI 시대를 맞아 전면 해제 수순, SaaS 및 생성형 AI 서비스 활용 위한 규제 완화.",
+    "corporateAction": "AI 기반 업무 시스템 도입 시 보안 전략 재검토 및 규제 완화 기회 적극 활용.",
+    "keywords": [
+      "망분리",
+      "금융규제",
+      "AI 보안",
+      "클라우드",
+      "규제 샌드박스"
+    ],
+    "_key": "f185d4c0add2",
+    "_createdAt": "2026-07-08T08:49:01.620230+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620230+09:00"
+  },
+  {
+    "title": "우체국보험, AI 기반 보험사기방지시스템 고도화 추진",
+    "date": "2026-07-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz3WMuEBkFsOSkpXLtVlMvt6eTFpCys0LeIdtpxG-zsg5mw4iZpIIHeGheu8fI6DzT9S2laA_KYHNtzn_to2WRZxqI5DYHu6_ds39HeehZY1Rqly7TmLoMQDusTllbZCCnmi8jtZ93-kX3u_oemUwY",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험사기 대응 AI 도입 확산 및 금융권 AX 가속화.",
+    "importance": 9,
+    "summary": "우체국보험이 AI 기반 보험사기방지시스템(IFDS) 고도화 사업에 착수, 머신러닝으로 지능화된 사기 예측 및 탐지 역량 강화.",
+    "corporateAction": "AI 기반 사기 탐지 시스템 도입 검토, 민간 보험사 노하우 벤치마킹 필요.",
+    "keywords": [
+      "보험사기",
+      "IFDS",
+      "AI",
+      "AX",
+      "머신러닝"
+    ],
+    "_key": "357b5e9fe0b1",
+    "_createdAt": "2026-07-08T08:49:01.620251+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620251+09:00"
+  },
+  {
+    "title": "금융위, '프런티어 AI 보안위협 금융분야 대응요령' 가이드라인 AI 보안테스트·패치 '제재 면책' 등 도입",
+    "date": "2026-07-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1i3YqLx_gCqDpNTCVIvo-utoDur_Xqb-uijYYbTKTrFI6TArYCIaf1rRih91AN2SF254o8MNQHwGM7pMcDp2r7d5hmvQxVhyLdJm0qntLoeok-nU7pxUKTDmLba_RMgErZ3iUwoljWVjvPx4ZAjz6wud75WvqQ==",
+    "category": "AI 보안, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 도입 시 보안 강화 및 책임 범위 명확화.",
+    "importance": 9,
+    "summary": "금융위가 프런티어 AI 보안 위협 대응 가이드라인 배포, AI 보안 테스트 및 패치 시 제재 면책 조치 도입.",
+    "corporateAction": "AI 기반 보안 시스템 도입 시 면책 조치 활용 방안 검토 및 AI 보안 가이드라인 준수.",
+    "keywords": [
+      "AI 보안",
+      "금융규제",
+      "IT 거버넌스",
+      "면책 조치"
+    ],
+    "_key": "a6394bd98d5c",
+    "_createdAt": "2026-07-08T08:49:01.620262+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620262+09:00"
+  },
+  {
+    "title": "엠클라우드브리지, 의도분석 기반 AI 에이전트 출시",
+    "date": "2026-07-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfTl19MhjuCtEOKETCErdfblHgDh70f9bpg7mm0t7l_9uoDSWr5rO30dIZ8lwyHoIMD7mMP787Niu8Ka6nmMFVI4eLT1LoiHwFxQeMZN1dkEZSOmGA6KhgXH_4sHAGmYNyF6hkxftrnZ1rSRHuyVky8Q",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 업무 자동화 고도화 및 AI 에이전트 시장 경쟁 심화.",
+    "importance": 8,
+    "summary": "엠클라우드브리지가 의도분석 기반 AI 에이전트를 출시, 반복 업무 자동화 및 보안/거버넌스 확장성 제공.",
+    "corporateAction": "AI 에이전트 도입 시 업무 요청 의도 분석 및 시스템 실행 연동 기능 중요도 확인.",
+    "keywords": [
+      "AI 에이전트",
+      "업무 자동화",
+      "엔터프라이즈 AI",
+      "의도분석"
+    ],
+    "_key": "13fac1528643",
+    "_createdAt": "2026-07-08T08:49:01.620273+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620273+09:00"
+  },
+  {
+    "title": "삼성전자, AI 메모리 반도체 호황으로 2분기 역대급 실적…이재용 회장, 선밸리 콘퍼런스서 AI 협력 논의",
+    "date": "2026-07-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ6L1T1zP18rUAClzwFcBoZ_0VkSURLYJls8mJO6uKvz3XOuST7MYZblCsQASK362ZKAQhnKNjaZxVzT-hcX8-ojp0r_qp9zF1BfvKOZPLAo0Q6s959WYzbvoWr4DxIOmz3aaxtdtT4ffWlED4KoVVzjrn3g==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 반도체 시장의 지속적인 성장 및 글로벌 빅테크 간 AI 협력 강화.",
+    "importance": 8,
+    "summary": "삼성전자가 AI 메모리 반도체 호황으로 역대급 2분기 실적 달성. 이재용 회장은 선밸리서 AI 반도체 협력 논의.",
+    "corporateAction": "AI 하드웨어 공급망 안정성 및 HBM 기술 동향 면밀히 모니터링, 파트너십 기회 탐색.",
+    "keywords": [
+      "삼성전자",
+      "HBM",
+      "AI 반도체",
+      "AI 인프라",
+      "빅테크 협력"
+    ],
+    "_key": "c3c39d790b15",
+    "_createdAt": "2026-07-08T08:49:01.620281+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620281+09:00"
+  },
+  {
+    "title": "IBM, z17 메인프레임 소형화...AI 인프라 문턱 낮춘다",
+    "date": "2026-07-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZCiT_-cbpwwFZonu3FKiBGh-JX_SKpsmBdlYkR8ueHceoH_Ou0frZBQXXOQ_ncj9b22AIlRT8MtrojvJdhQH6GKBXADGSo7MTGsUEb22V1v_j-lzc2Q43Vqx6zTqCnySZy6Vvy2F9oQ0tlO7JGtFwJNW57nyfscw0_18=",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "중소형 기업의 AI 인프라 접근성 향상 및 메인프레임 기반 AI 활용 증대.",
+    "importance": 7,
+    "summary": "IBM이 z17 메인프레임을 소형화하여 AI 인프라 도입 문턱을 낮추고, 실시간 AI 추론 및 사기 탐지 지원.",
+    "corporateAction": "효율적인 AI 인프라 구축을 위해 다양한 솔루션 검토, 특히 실시간 추론 및 보안 강화 기능 고려.",
+    "keywords": [
+      "IBM",
+      "메인프레임",
+      "AI 인프라",
+      "엔터프라이즈 AI",
+      "실시간 추론"
+    ],
+    "_key": "92dd28799919",
+    "_createdAt": "2026-07-08T08:49:01.620288+09:00",
+    "_updatedAt": "2026-07-08T08:49:01.620288+09:00"
   }
 ]
