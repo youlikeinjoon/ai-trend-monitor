@@ -790,5 +790,149 @@
     "_key": "187f1d6ab95a",
     "_createdAt": "2026-07-09T09:01:39.622757+09:00",
     "_updatedAt": "2026-07-09T09:01:39.622757+09:00"
+  },
+  {
+    "title": "금융위, AI 보안체계 구축 속도…망분리 전면 해제 방안 구체화",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvDDhCkDFgQbp4CZRoamKZZgtCBjxZQJuuvL-swQgkFqUy0wjlA5jHzIJcgdLTQ-YCOst0qoe-OnHWYlAJcXHksw5yjIotgcv9a46aQqi-uqP26Lpovey-NwYWArwcLdODviRuEgNL4gXTdbcP",
+    "category": "IT 거버넌스/보안, 보험/AX",
+    "ecosystemImpact": "국내 금융권 AI 도입 가속화 및 보안 거버넌스 강화 필요성 증대.",
+    "importance": 10,
+    "summary": "금융당국이 금융권의 AI 활용 확대를 위해 망분리 규제 완화에 속도를 내며, 충분한 AI·보안 역량을 갖춘 금융사에는 전면 해제 방안을 구체화한다.",
+    "corporateAction": "국내 AI 도입 가속화를 위한 망분리 규제 완화 동향 주시 및 선제적 AI 보안 거버넌스 구축 검토.",
+    "keywords": [
+      "망분리",
+      "금융규제",
+      "AI 보안",
+      "IT 거버넌스",
+      "보험/AX",
+      "한국"
+    ],
+    "_key": "bb26b139c9dd",
+    "_createdAt": "2026-07-10T08:58:58.734325+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734325+09:00"
+  },
+  {
+    "title": "States Expand Guardrails on AI Use in Health Insurance Decisions",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAV8WPxfFb50iyZ1AMRJXdFboLuohbY2VSieWWAAFblSNWSt8r5uV29ZU62cnXTURqLhp1jriO94ln_X2WUNZtioxpF-T2GlA_K18XLs90jGsuTIIYJSh-_ycvuOJYe3OtSIxj4yAb1x3kPz1nOSKHUtUX1i0eQu5JAFrTbAa0UpIkPpuctVPFftZKNF5HoK8tGTaqU-1dBxL-pnktLnmx6jpLV8PX1Fs1n_onVhVrUSuBYDI2",
+    "category": "보험/AX, IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "AI의 보험 활용에 대한 규제 강화 추세와 인간 개입의 중요성 부각.",
+    "importance": 9,
+    "summary": "미국 주 정부들이 건강보험 결정에 AI 활용을 규제하며, AI는 효율성을 높이되 최종 결정은 인간의 임상적 판단이 필요하다는 지침을 확대하고 있다.",
+    "corporateAction": "헬스케어 AI 도입 시 규제 준수 및 인간 개입 필수 원칙 확립, AI 모델의 공정성, 투명성, 감사 가능성 확보.",
+    "keywords": [
+      "보험 AI",
+      "헬스케어 AI",
+      "AI 규제",
+      "IT 거버넌스",
+      "AI Agent",
+      "미국"
+    ],
+    "_key": "eb71c1e6c961",
+    "_createdAt": "2026-07-10T08:58:58.734345+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734345+09:00"
+  },
+  {
+    "title": "Insurtech midyear forecast: where will AI pay off? & Why AI in insurance agencies is defining 2026",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzZHL-ZoqnAbWjisODpj9MPqLykvAUXp6NdGbLP7sDcSV1uj_KDw8bo5xEAEaYd9iRwkWnZZP53x8zRnMZ5Nju2Ms8RV0iN11ppdiDO4CBeU030Aq3SqrX9zBW44tc4ocUHpmgQC8juyKM4ATgM3Frd0kczuhm5KEjnIXMg2z9WEtFfA-1hOXMeZI=",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험 산업 내 AI 도입이 실험 단계를 넘어 실제 비즈니스 성과 창출로 전환.",
+    "importance": 9,
+    "summary": "인슈어테크 분야에서 AI가 실험 단계를 넘어 전면적인 도입 단계로 진입, 특히 에이전트 AI를 통한 워크플로우 자동화가 핵심. 2026년 보험사 98%가 AI 투자 계획.",
+    "corporateAction": "보험 업무 전반에 걸친 AI 에이전트 도입 가속화 및 AI 투자 전략의 비즈니스 성과 연계 강화, 운영 효율성 증대.",
+    "keywords": [
+      "인슈어테크",
+      "보험 AI",
+      "AI Agent",
+      "자동화",
+      "U/W자동화",
+      "클레임 자동화"
+    ],
+    "_key": "c330945585b9",
+    "_createdAt": "2026-07-10T08:58:58.734356+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734356+09:00"
+  },
+  {
+    "title": "AI Investment Is Shifting as Inference, Enterprise Adoption Accelerate",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL_QA_NOHFeA_quErFEsG8oJxFxnwTftTfAkUC5UU-Y1go4aAm4czVadWdwVladiN-5IRctnTLkr4qq1uBQkBUnZVYr4gE9CPszCiA6_xStW9w0LcUNDfl3UXwbkHAgxcPmqmZsv3g5LW0H6uAgJeB-O45EwRrhEYhG4xTrWozWcV8w6Adzp6oiDuKNnghgfiZogsHgh5zH_PckgXBPxJGjD2uvdxLRxeOBzqfyI6W",
+    "category": "엔터프라이즈 AI, AI 인프라",
+    "ecosystemImpact": "엔터프라이즈 AI 시장의 성숙화와 컴퓨팅 인프라, 에이전트 기능의 중요성 증가.",
+    "importance": 8,
+    "summary": "골드만삭스는 엔터프라이즈 AI 도입이 급격히 가속화되며, AI 모델 개발보다 배포와 추론에 대한 투자가 증가하고 있음을 지적했다.",
+    "corporateAction": "엔터프라이즈 AI 도입 전략 재정립 및 AI 에이전트 기능 활용 검토, 컴퓨팅 인프라 투자 및 최적화 방안 모색.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 인프라",
+      "AI Agent",
+      "AI 투자",
+      "데이터센터"
+    ],
+    "_key": "a5d138264415",
+    "_createdAt": "2026-07-10T08:58:58.734364+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734364+09:00"
+  },
+  {
+    "title": "10 Coolest New AWS Tools, Products And AI Innovation Of 2026 & IBM Advances Enterprise AI Software Development with Multi-Agent Capabilities",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5QTRcuhC0gO-YayAcYp5ICokkHtDhl6NRzyZjSduf7FNumummh3dgU_W6zVwb3ww2W4XwOyw6KE94U1lcfLdF5MgOOS8b_Ca99o2yb9pEppTJlapgpb_6QoeqiP2o16Enafm1ji3xHkhkFxR6CJyCJ0FaZ6HYobfOrN13-GT214lS3gC-dOPpKpsI5dFSV4LWnK3S96z0GP9d",
+    "category": "AI Agent, 엔터프라이즈 AI, 클라우드 AI",
+    "ecosystemImpact": "주요 클라우드 벤더의 AI 에이전트 기술 선점 경쟁 심화, 기업 AI 개발 효율 증대.",
+    "importance": 8,
+    "summary": "AWS는 Bedrock AgentCore 강화로 AI 에이전트 배포를 가속화하고, IBM은 'Bob' 플랫폼으로 멀티 에이전트 기능 및 레거시 시스템 현대화 워크플로우를 제공한다.",
+    "corporateAction": "주요 클라우드 벤더의 AI 에이전트 플랫폼 기능 강화 동향 파악 및 내부 시스템 현대화, 비용 효율성을 고려한 도입 전략 수립.",
+    "keywords": [
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "클라우드 AI",
+      "AWS Bedrock",
+      "IBM Bob",
+      "IT 거버넌스"
+    ],
+    "_key": "b4b58dea550c",
+    "_createdAt": "2026-07-10T08:58:58.734374+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734374+09:00"
+  },
+  {
+    "title": "NVIDIA Pairs Revenue Sharing With Credit Support to Finance AI Cloud Buildouts",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr3Zf-n9NpVo2Afa1c6cD43v296_SKtazOJXXG8erggaXX2UbZF5DhsyfwB2-AyAo9JzNLLw07wx4cRUl-Xd6icfvE72K5SUQZJcgf8VA36_DayZw3gbqTe61bd-_ejtrErXDTIcjn122EUkuBvlTmWpHPXUaiuFzJZrjJMZQ71b2kpLLVKj1XbnxQeVjeW0uMJjumSnWYUDRScy71bhWRdmGa6trdJ_O03L2o",
+    "category": "AI 하드웨어 인프라, 클라우드 AI",
+    "ecosystemImpact": "AI 인프라 구축 가속화 및 GPU 접근성 확대, NVIDIA의 새로운 수익 모델 제시.",
+    "importance": 8,
+    "summary": "NVIDIA가 AI 클라우드 제공업체에 수익 공유 및 신용 지원을 결합한 새로운 비즈니스 모델을 도입하여 AI 인프라 구축을 가속화한다.",
+    "corporateAction": "AI 인프라 구축 및 확장 시 클라우드 제공업체와의 협력 모델, NVIDIA의 새로운 GPU 액세스 방안 검토 및 도입.",
+    "keywords": [
+      "NVIDIA",
+      "AI 인프라",
+      "Blackwell",
+      "클라우드 AI",
+      "GPU"
+    ],
+    "_key": "94353bbe286d",
+    "_createdAt": "2026-07-10T08:58:58.734382+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734382+09:00"
+  },
+  {
+    "title": "Enterprise AI Model Costs, Jul 9 2026 Digest & Jim Cramer: 'Anthropic Is the Winner Now'",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUwK9n99TOtWGJhZzqTN6IhsMbGc3QASkswxGFa5tXOHB96U0UqPPKxj0Qhsqn2wXbgjd_TY-qKHA5Ba_-cq97SH9f5wuIoj4fCq6Ygo-BrjTrspLlmPC8TEQlY5FZ_G1NumJLmfarmgU9Z9TrCChLNcOe0M0Apqp_JhFsyn_0",
+    "category": "LLM, 엔터프라이즈 AI, AI 보안, AI 인프라",
+    "ecosystemImpact": "기업 AI 비용 효율성 중시 경향 심화, 오픈소스 LLM의 시장 영향력 증대.",
+    "importance": 7,
+    "summary": "기업 AI 예산이 엄격해지면서 저렴한 중국산 오픈소스 LLM (예: GLM-5.2)이 서구 선도 모델과 유사한 성능으로 엔터프라이즈 시장에서 급부상하고 있다.",
+    "corporateAction": "AI 모델 도입 시 비용 효율성 및 보안성 심층 검토, 오픈소스 모델 활용 전략 및 자체 AI 보안 역량 강화 검토.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "LLM 비용",
+      "AI 보안",
+      "오픈소스 LLM",
+      "AI 인프라"
+    ],
+    "_key": "01b9756ccb9b",
+    "_createdAt": "2026-07-10T08:58:58.734390+09:00",
+    "_updatedAt": "2026-07-10T08:58:58.734390+09:00"
   }
 ]
