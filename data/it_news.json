@@ -648,5 +648,147 @@
     "_key": "92dd28799919",
     "_createdAt": "2026-07-08T08:49:01.620288+09:00",
     "_updatedAt": "2026-07-08T08:49:01.620288+09:00"
+  },
+  {
+    "title": "AI 시장 동향: Fable 5 유료화, 中 AI 모델 기업 사용 급증, Gemini 3.5 Pro 출시 지연",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9zCqFwjRSINoHwhGPm6jg8kbH_jZgyKfOSLJHx9-sduv_NdOpyVRDlAs3tXcq-PdyvcFPQ-bwZcHKgdpzdiyWM1wNkxvhRfkAxNq734-iiiMY-MJTUNyRddBGapc4OP6bKTgDUomCaexIDzaRuv0Il-bkZFEVn8q",
+    "category": "LLM, 글로벌 트렌드, AI 보안",
+    "ecosystemImpact": "LLM 시장 경쟁 심화 및 AI 보안/규제 중요성 부각.",
+    "importance": 10,
+    "summary": "Anthropic의 Fable 5 모델이 유료화되고, 미국 기업의 중국 AI 모델 사용률이 30~46%에 달하며, Google Gemini 3.5 Pro 출시가 지연되고 있다.",
+    "corporateAction": "AI 모델 도입 시 비용 효율성 및 공급망 다변화, 보안/규제 준수 고려.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "Anthropic Fable 5",
+      "Gemini 3.5 Pro",
+      "AI 보안",
+      "중국 AI"
+    ],
+    "_key": "064555f3ef2e",
+    "_createdAt": "2026-07-09T09:01:39.622689+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622689+09:00"
+  },
+  {
+    "title": "금융권 'AI 산업화' 시대 진입: 안전한 대규모 AI 도입 및 거버넌스 강조",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKNCHfIv_NYSLzREYlOxa_pPncdIdbI7L9mJJHrQdVzp1j92EcS7rJwOHC7-G-g6RR2dZwj-3C6kIRXMgrB3sLo-ICdnthO3uXZxUolev8Njb9ke8xrG2cpfKSpcGkRjvAllejuhyqvKDyX8KufLHNoe5st1BW1VCJ9QpwSb2rVkya3xxXgziMoUqyVRhdSorl-4xNhFgW8FFPvbfhUXbGyEy6",
+    "category": "보험/AX, IT 거버넌스/보안, AI Agent, RAG",
+    "ecosystemImpact": "금융 부문의 AI 도입이 파일럿 단계를 넘어 전사적 확산 단계로 진입 중.",
+    "importance": 9,
+    "summary": "은행들이 AI를 결제, 컴플라이언스, 사기 방지 등에 확대 적용하며 'AI 산업화' 단계로 진입, 안전한 확산과 거버넌스 중요성 부각.",
+    "corporateAction": "AI 대규모 도입을 위한 데이터, 아키텍처, 거버넌스 프레임워크 구축 및 에이전트 AI 실험 필요.",
+    "keywords": [
+      "금융 AI",
+      "AI 산업화",
+      "IT 거버넌스",
+      "RAG",
+      "AI Agent",
+      "은행"
+    ],
+    "_key": "51a3db0a7f57",
+    "_createdAt": "2026-07-09T09:01:39.622710+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622710+09:00"
+  },
+  {
+    "title": "Allianz, AI 관련 위험 관리 강화 위한 'AI 클레임 CoE' 설립 및 리스크 인식 증가",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3KoUjnJIZaHKQ7g1eqFtb3CHYagmR-6RetV6MJgeNaKgSAsotEjdscOfeLLREyVLVTd_Pl_7FpcPLTdLvpkTd19BiJ5lg_0DtHZYUwwL1jzD5KbD325NW_lgl7TVVci84_Y5YEuzmU9OwcdySnRLY7kEVzv2vLdk1LBbA2r8sFK_j2MfqB49QOiXScEjMbJKSpuAuL4-1hgLKAdjtYTqZ0XzvXhUVaiMs6Q",
+    "category": "보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "보험 산업의 AI 리스크 관리 및 거버넌스 중요성 증대.",
+    "importance": 9,
+    "summary": "Allianz Commercial이 AI 관련 클레임 위험을 관리하기 위한 AI 클레임 CoE를 설립하고, AI 리스크가 기업 위험 목록 2위로 상승.",
+    "corporateAction": "AI 도입에 따른 잠재적 리스크 분석 및 전문 대응 조직 구축, 전사적 리스크 관리 체계 강화.",
+    "keywords": [
+      "재보험",
+      "AI 리스크",
+      "클레임",
+      "IT 거버넌스",
+      "Allianz"
+    ],
+    "_key": "9b3dd74fd7f0",
+    "_createdAt": "2026-07-09T09:01:39.622721+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622721+09:00"
+  },
+  {
+    "title": "정부, AI 기반 중소기업 '재도약 경보망' 구축…25만개사 위기 조기 포착",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSbscCannwEmS2krAdud5-Jr-i1TsfH2OoCzx_70AKlTtRjQ5ilb1_XbFpw7Y0BBR6pwQUxNartnn3pF01Z_YnLOHUjL9QlONOZKz80Ps0xL9FasjbGYJbOEtcABLXAA==",
+    "category": "RAG, IT 거버넌스, 금융 규제 샌드박스",
+    "ecosystemImpact": "공공 부문 AI 활용 확대로 중소기업의 경제적 안정성 증대 및 금융 데이터 활용 촉진.",
+    "importance": 8,
+    "summary": "중소벤처기업부가 AI를 활용, 25만개 중소기업의 재무 및 비정형 데이터를 분석하여 위기를 조기에 포착하고 맞춤형 지원.",
+    "corporateAction": "AI 기반 비정형 데이터 분석을 통한 리스크 관리 및 예측 시스템 도입, 공공기관 협력 기회 모색.",
+    "keywords": [
+      "금융 AI",
+      "중소기업",
+      "위기 관리",
+      "데이터 분석",
+      "규제 샌드박스"
+    ],
+    "_key": "1adc62da30fe",
+    "_createdAt": "2026-07-09T09:01:39.622729+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622729+09:00"
+  },
+  {
+    "title": "Vaidio, Vision AI 플랫폼 10.0 출시…NVIDIA Blackwell 아키텍처 지원으로 효율성 및 확장성 향상",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1XxJwBZ0Lcx2Qw8hCTlc6U-hCKWElveCIkYs0MCazWniAP4W804JXJFaBgiNDAorzSgAvjSydBtPdt7GT7f9OBiWMK-NiS99OyOaJE93fyIUnxUL_DK9FIwp67hvIEr963w-E_y362CaiS8lM9mdFBQHWakGIS9lO9nk33ehqMsCNqkWeJAf_vWvXvh0M",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 효율 증대로 Vision AI 및 대규모 AI 모델 배포 가속화.",
+    "importance": 8,
+    "summary": "Vaidio가 Vision AI 플랫폼 10.0을 출시하며 NVIDIA Blackwell 및 Grace Hopper 아키텍처를 지원, GPU 활용률 및 비디오 처리 효율 3배 개선.",
+    "corporateAction": "차세대 AI 하드웨어(Blackwell) 도입 검토, Vision AI 솔루션 적용 통한 운영 효율성 증대.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "Vision AI",
+      "AI 하드웨어",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "a3791797e012",
+    "_createdAt": "2026-07-09T09:01:39.622738+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622738+09:00"
+  },
+  {
+    "title": "Akamai, WWT와 협력하여 AI 보안 프레임워크 ARMOR에 참여…NVIDIA BlueField DPU 활용",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrCNNiX2W7ixsjdVFDBvGjZ0v1naLoZqfSfQdC9N3RA9b9GdWE3dcqzCW0KvoaPENOJjAdPq3kn83PnV0DsOYMh30YRNUzLB1LybsEQYMTxgCFgkDVpg_Lbo0m5fWwX6TNCa2vMywEgND5KIzMpkdu9uOPOWk3AO_lijHLxAgIVXrQIQGXr5OT_zeyUgDop2zAFc7e4Ag_SSzvrhPelQOTQ9BssBkEgMdi-g0bSCtYEokLkLA8o0ClcNbgHLgNUDLoCMyblG9jGzuUrFo8or6x_HqJAg2FdNym1v8aePn3tlyY3EE6tDV_3GiH30I=",
+    "category": "AI 보안/망분리, IT 거버넌스, AI 하드웨어",
+    "ecosystemImpact": "AI 워크로드의 보안 강화 및 운영 효율성 향상, AI 환경의 사이버 보안 표준 제시.",
+    "importance": 8,
+    "summary": "Akamai가 WWT의 AI 보안 프레임워크 ARMOR에 전략적 파트너로 참여, NVIDIA BlueField DPU를 활용하여 AI 환경 보안 및 성능을 강화.",
+    "corporateAction": "AI 보안 프레임워크 도입 검토 및 DPU 기반 보안 솔루션 활용으로 AI 인프라 보안 강화.",
+    "keywords": [
+      "AI 보안",
+      "망분리",
+      "IT 거버넌스",
+      "NVIDIA BlueField",
+      "인프라 보안"
+    ],
+    "_key": "5d1316af1137",
+    "_createdAt": "2026-07-09T09:01:39.622746+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622746+09:00"
+  },
+  {
+    "title": "KPMG 보고서: 기업 AI 도입 신뢰도 상승, ROI 확보 위한 비용 및 활용 사례 가시성 중요",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXDE0miOwp_21omGMdA6xoGT8iiJYV8hCzP1s_E8LaLyfolshEA7J4NUn0xznIutLkJXBvJWVOoSCoV8iL7dpbsrHv-LYnZ5a0zrkPEFSe9n20lcIXipUnP19l89L3_uvEfs1L4gL3GeCm55dgvUCuNn_bVptTcotx4lqkr5g=",
+    "category": "엔터프라이즈 AI, IT 거버넌스",
+    "ecosystemImpact": "AI 도입의 비즈니스 가치 검증 및 책임성 강화 요구 증대.",
+    "importance": 7,
+    "summary": "KPMG 보고서에 따르면 기업의 AI 신뢰도가 증가하고 있으며, AI ROI 확보를 위해 비용 및 활용 사례에 대한 명확한 가시성이 필수적이라고 강조.",
+    "corporateAction": "AI 프로젝트의 ROI 측정 및 가시성 확보, AI 시스템에 대한 리더십 책임 구조 확립.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "ROI",
+      "AI 거버넌스",
+      "KPMG",
+      "AI 도입"
+    ],
+    "_key": "187f1d6ab95a",
+    "_createdAt": "2026-07-09T09:01:39.622757+09:00",
+    "_updatedAt": "2026-07-09T09:01:39.622757+09:00"
   }
 ]
