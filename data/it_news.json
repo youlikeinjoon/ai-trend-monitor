@@ -1075,5 +1075,145 @@
     "_key": "a12377733b26",
     "_createdAt": "2026-07-11T08:50:05.274558+09:00",
     "_updatedAt": "2026-07-11T08:50:05.274558+09:00"
+  },
+  {
+    "title": "Apple Sues OpenAI for Trade Secret Theft; OpenAI Preps for $730 Billion IPO",
+    "date": "2026-07-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOMDuSohbDllD4VRHNoeCaBLu6JTe2JpM3ZMbRk06jngZht9ZqA5rHum0bzTYq_cm872jMnbsnTMpBnQFHGhEC_umlWxeQ6Fq-w5aZnVJWojiTjZ6oY4FhRgPGeoPMjJtNUOtKZWUFJCN6heeEQDWcSfvcKNNnmrs2_fA=",
+    "category": "LLM",
+    "ecosystemImpact": "빅테크 간 AI 인재 및 기술 경쟁 심화, 시장 재편 가속화 예상.",
+    "importance": 10,
+    "summary": "Apple이 OpenAI를 영업 비밀 침해로 제소하며, 400명 이상의 전직 Apple 직원이 OpenAI로 이직했다고 언급했습니다. 한편, OpenAI는 7300억 달러 가치의 비공개 IPO를 준비 중입니다.",
+    "corporateAction": "AI 핵심 인재 유출 방지 및 보안 강화 필요. 경쟁사 동향 주시하며 M&A 및 기술 협력 기회 모색.",
+    "keywords": [
+      "빅테크 AI",
+      "OpenAI",
+      "Apple",
+      "IPO",
+      "AI 인재 유출"
+    ],
+    "_key": "983369cde43f",
+    "_createdAt": "2026-07-12T08:44:37.438505+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438505+09:00"
+  },
+  {
+    "title": "GPT-5.6 Sol, 출시 24시간 후 평가 엇갈려: 코딩, 사이버보안 강점 vs. 예상 못한 약점",
+    "date": "2026-07-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXKNWKJpD-wO-_SFgYdRQQBZeU2QEybkF7-AmknbNZXynxzohQdrlVBJtk1cW3kgkc6n90TJIVOAiLydxNRgamCQc8jch4sVku6QghlTsALcuo_EOByxMiZ8pJCuFgmFWlkiZ8XMZWVj6tT6DbczK-KocotIrcP2tbaZRo5VG1q_VItwUTtdggsBh4mVD0Phf0eeoKEaW6YRYVCD5e",
+    "category": "LLM",
+    "ecosystemImpact": "새로운 LLM 모델 성능 평가의 복잡성 증대, 특정 분야 특화 모델 중요성 부각.",
+    "importance": 9,
+    "summary": "GPT-5.6 Sol이 출시 24시간 만에 코딩 및 사이버보안 분야에서 뛰어난 성능을 보였으나, 다른 영역에서는 예상치 못한 약점을 드러내며 평가가 엇갈리고 있습니다.",
+    "corporateAction": "LLM 도입 시 범용성보다 특정 업무(예: 코드 생성, 보안 분석)에 특화된 모델 검토 및 심층 테스트 필요.",
+    "keywords": [
+      "GPT-5.6 Sol",
+      "LLM 성능",
+      "AI 모델 평가",
+      "코딩 AI",
+      "사이버보안 AI"
+    ],
+    "_key": "24ac9e789469",
+    "_createdAt": "2026-07-12T08:44:37.438529+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438529+09:00"
+  },
+  {
+    "title": "Swiss Re Institute, AI 투자 붐과 지정학적 분열로 보험 산업 변화 예상: 2026년 AI Capex 7500억 달러",
+    "date": "2026-07-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdntlRXYPgj-S6IDXUU4Br-PQ8tbfT5qufaIWYboLUv8PRN9J59ytDPkFZ0BZMHcUHsuwMsPjVF9uyhw8IooqqcYn1RV22HicrwImr7NyJk-nz3xf76Rm80HTnR35tG4J_QcRppaqAqvdgBk417BX7M9fwDtcftMDtHgQ5-gvTwEJyR8MzmajN3yJDOfOAz-Offh9lFiRegven2g1yqYK7tja3WR-wqjps57CuqBPlLpZxz1TnyA3jef3Kjbn6iXRBIi77s4nchkrMHvXslj9aaCcLGWDLO1K1LoNB8vNoDEztDH8cUxRxMRXHtECh3ijdyWtHpIfbi1ZCw=",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업 내 AI 인프라 투자 및 새로운 위험 관리 솔루션 수요 급증.",
+    "importance": 9,
+    "summary": "Swiss Re Institute 보고서에 따르면, AI 인프라에 대한 투자가 2026년에 7500억 달러에 달하며, 이는 재보험 역량의 중요성을 강화하고 있습니다.",
+    "corporateAction": "AI 인프라 투자 확대 및 AI 기반 리스크 모델링 고도화, 신규 AI 관련 보험 상품 개발 검토.",
+    "keywords": [
+      "Swiss Re",
+      "보험 AI",
+      "재보험",
+      "AI 투자",
+      "리스크 관리"
+    ],
+    "_key": "5fd79b1c2581",
+    "_createdAt": "2026-07-12T08:44:37.438540+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438540+09:00"
+  },
+  {
+    "title": "골드만삭스, AI의 다음 '조 단위' 기회는 광학 네트워킹: Nvidia Blackwell 이후의 인프라 변화",
+    "date": "2026-07-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBwnMFOr5B8FGqRUhYehgVI4p0ei1WtD0ooYkGm2w45LRiPD57BPa9KJRr8J1xxW_kCVOXAHx_AL12oXFZWKzBlg9XW-MdBRcW3W04zThUS7d1hTKkA1-_MGdxdkIhHZhjlGvPRryXCZUyEr_XqKuHksBQ4UYRWiNy9WRzDDdbhh-_MB7hT0sH_PBfR7FWtSpDbczK-KocotIrcP2tbaZRo5VG1q_VItwUTtdggsBh4mVD0Phf0eeoKEaW6YRYVCD5e",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 인프라 투자 패러다임 변화, 컴퓨팅에서 네트워킹으로 중요성 이동.",
+    "importance": 8,
+    "summary": "골드만삭스는 AI 지출이 GPU에서 광학 네트워킹으로 전환될 것이며, Nvidia의 Blackwell 이후 시스템에서 네트워킹 가치가 29배 증가할 것으로 전망했습니다.",
+    "corporateAction": "차세대 AI 인프라 구축 시 고속 네트워크 솔루션 도입 전략 검토 및 관련 기술 투자 동향 모니터링.",
+    "keywords": [
+      "AI 인프라",
+      "광학 네트워킹",
+      "NVIDIA Blackwell",
+      "데이터센터",
+      "하드웨어 투자"
+    ],
+    "_key": "e973d2c33387",
+    "_createdAt": "2026-07-12T08:44:37.438549+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438549+09:00"
+  },
+  {
+    "title": "Microsoft, 엔터프라이즈 AI 전략을 모델 구축에서 배포로 전환: 비즈니스 성과 집중",
+    "date": "2026-07-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBX5xh2qZx3l-SChj1YAe1cUb_P_O3rXuIlI6T3uJy1M5V-gOnKQv5DKqTWmjQnjSeq_SpJ0WR0LjyEMOoM5LsVeGr6UlRmm8CPykr9ozYn7Lc7Mw7k6ZaX8uwdYN-5aHUCgc1dprSuJZujbQzMG8yiflJauWWkWXxNK9v1_hNGHyQ6z9k9YmvnJwDS_4POVNdOA==",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "엔터프라이즈 AI 시장에서 ROI 및 실제 비즈니스 성과 창출의 중요성 증대.",
+    "importance": 8,
+    "summary": "Microsoft는 엔터프라이즈 AI 전략을 AI 모델 구축에서 모델의 성공적인 배포 및 비즈니스 성과 측정으로 전환하기 위해 25억 달러를 투자할 계획입니다.",
+    "corporateAction": "AI 도입 시 PoC 단계를 넘어 실제 업무 적용 및 ROI 측정을 위한 명확한 전략 수립 및 실행.",
+    "keywords": [
+      "Microsoft AI",
+      "엔터프라이즈 AI",
+      "AI 배포",
+      "비즈니스 성과",
+      "AI 거버넌스"
+    ],
+    "_key": "b5074079c205",
+    "_createdAt": "2026-07-12T08:44:37.438560+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438560+09:00"
+  },
+  {
+    "title": "RAG 아키텍처, 2026년 기업 환경에서 '스토리텔링 엔진'으로 진화: Agentic AI와의 시너지",
+    "date": "2026-07-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfXenF5zBCpumtMsTcagSh9IKnT09SFz6-PlIGk3vY4YFQ4tuYOjZgnm9xO_7W3vU0ZHm5SINZr-NNwoR3JBksHhXcplaexfBsUOMedzwrT40wfT1QyzKPIBvCpUKWeXZdPRPgwPAPECtSrOdLsjOYNL0Xv7mRuDgF58k8wtPmmoKCo7PsgDD8XnGKDN1ssfnCbAPtylg=",
+    "category": "RAG",
+    "ecosystemImpact": "RAG 기술의 발전으로 AI 에이전트의 기업 활용도 및 신뢰성 크게 향상.",
+    "importance": 7,
+    "summary": "Retrieval-Augmented Generation(RAG)이 단순히 정보 검색을 넘어 기업의 '스토리텔링 엔진'으로 진화하며, Agentic AI와 결합하여 기업 환경에서 검증 및 문맥 이해도를 높이고 있습니다.",
+    "corporateAction": "RAG 기반 AI 시스템 도입 시 Agentic AI와의 연동을 통한 자동화된 의사결정 및 정보 신뢰성 강화 방안 모색.",
+    "keywords": [
+      "RAG",
+      "AI Agent",
+      "생성형 AI",
+      "기업 AI",
+      "지식 관리"
+    ],
+    "_key": "7c4edaf33970",
+    "_createdAt": "2026-07-12T08:44:37.438568+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438568+09:00"
+  },
+  {
+    "title": "EU AI Act, AI 규제 샌드박스 도입 의무화: 2026년 8월까지 회원국 설립 예정",
+    "date": "2026-07-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPtkVozzk9_j_CU82ALBMqP6Oc9BeNeerdZnwZdI1Y4dLYNbZ3TohSLTlElpScYyL4rggaSWwWr7R0EJ1TuVEeiJHmXWO0z59N-wTgQFFJkz3dt5w2k9L97r1jA4t0WBeVeLeg2yutaqtHW1cu3rpSW4K_2kEkpatz4b95A5aJIhGdcS9wIKL5F0x5R63SBy3x1wJLZ5mjQtSTr8MkilKlwJJYNNrA2vgI-9AFCEv-ypEsXwU94O9f70vVVeA4Jww7pMUNnHHuYRIQaR5D5sZ7z0pdmPy96blQlQ=",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기술 개발 및 도입의 규제 불확실성 감소 및 혁신 가속화 지원.",
+    "importance": 7,
+    "summary": "EU AI Act에 따라 회원국들은 2026년 8월까지 AI 규제 샌드박스를 의무적으로 설립해야 하며, 이는 AI 시스템 테스트 및 규제 준수 지원을 목표로 합니다.",
+    "corporateAction": "해외 규제 샌드박스 참여를 통해 AI 신기술 도입 전 선제적 리스크 검증 및 규제 대응 역량 강화.",
+    "keywords": [
+      "EU AI Act",
+      "규제 샌드박스",
+      "AI 거버넌스",
+      "금융 규제",
+      "AI 보안"
+    ],
+    "_key": "f44399190a86",
+    "_createdAt": "2026-07-12T08:44:37.438575+09:00",
+    "_updatedAt": "2026-07-12T08:44:37.438575+09:00"
   }
 ]
