@@ -1597,5 +1597,151 @@
     "_key": "2a93c3c766ff",
     "_createdAt": "2026-07-15T08:42:58.687395+09:00",
     "_updatedAt": "2026-07-15T08:42:58.687395+09:00"
+  },
+  {
+    "title": "금융권 망분리 전면 해제 추진…AI·클라우드 활용 문턱 낮춘다",
+    "date": "2026-07-15",
+    "url": "https://www.digitaldaily.co.kr/news/articleView.html?idxno=320141",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, AI 도입 사례",
+    "ecosystemImpact": "금융 AI 도입 가속화 및 클라우드 활용 증대로 산업 전반 혁신 기대.",
+    "importance": 10,
+    "summary": "금융위원회가 AI 및 클라우드 활용을 위한 금융권 망분리 규제 전면 해제를 추진하며 디지털금융안전법 제정을 통해 보안 책임은 강화한다.",
+    "corporateAction": "AI/클라우드 기반 신규 서비스 개발 및 도입 시 보안 강화 방안과 책임 체계 검토 필요.",
+    "keywords": [
+      "망분리 해제",
+      "금융 AI 규제",
+      "클라우드",
+      "생성형 AI",
+      "IT 거버넌스"
+    ],
+    "_key": "e063c0540807",
+    "_createdAt": "2026-07-16T08:52:00.428599+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428599+09:00"
+  },
+  {
+    "title": "올거나이즈, 한국증권금융 AI 플랫폼 구축 사업 선정",
+    "date": "2026-07-15",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=165487",
+    "category": "AI Agent, RAG, 보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "금융기관 온프레미스 AI 플랫폼 구축 표준 제시, RAG/AI Agent 도입 확산.",
+    "importance": 9,
+    "summary": "올거나이즈가 한국증권금융의 생성형 AI 플랫폼 구축 사업에 선정, 온프레미스 환경에 RAG 기반 AI 비서 및 LLMOps를 구현한다.",
+    "corporateAction": "온프레미스 환경에서 RAG 및 AI Agent 도입 시 보안 및 금융 특화 모델 구축 벤치마킹.",
+    "keywords": [
+      "금융 AI",
+      "AI 플랫폼",
+      "RAG",
+      "AI Agent",
+      "온프레미스",
+      "AI 보안",
+      "한국증권금융"
+    ],
+    "_key": "d293f5c57d0d",
+    "_createdAt": "2026-07-16T08:52:00.428626+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428626+09:00"
+  },
+  {
+    "title": "KB금융, 인공지능 전환에 속도… 'KB AI Lab' 출범",
+    "date": "2026-07-15",
+    "url": "https://www.donga.com/news/article/all/20260715/49694200/1",
+    "category": "AI Agent, LLM, 보험/AX",
+    "ecosystemImpact": "국내 금융권 AI 내재화 및 AI Agent 개발 경쟁 심화, 금융 AX 가속화.",
+    "importance": 9,
+    "summary": "KB금융이 'KB AI Lab'을 출범하며 AI 전환에 속도를 내고, 개인화된 AI 에이전트 'KB DAVIS'와 'AI Dev 센터'를 선보였다.",
+    "corporateAction": "사내 AI 역량 강화를 위한 전담 조직 설립 및 금융 특화 AI 에이전트 개발 검토.",
+    "keywords": [
+      "KB금융",
+      "AI Lab",
+      "AI Agent",
+      "Gemini Enterprise",
+      "금융 AI",
+      "AX"
+    ],
+    "_key": "9a129201df60",
+    "_createdAt": "2026-07-16T08:52:00.428639+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428639+09:00"
+  },
+  {
+    "title": "iFA, iM라이프와 공동기획 'AI 연금보험' 2종 선봬",
+    "date": "2026-07-15",
+    "url": "http://www.jungangnews.kr/news/articleView.html?idxno=18901",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "AI 기반 보험 상품 혁신 및 개인 맞춤형 금융 서비스 경쟁 심화.",
+    "importance": 8,
+    "summary": "iFA와 iM라이프가 AI 기반 펀드관리 서비스 'VFA'를 접목한 '오토파일럿 변액연금보험' 등 AI 연금보험 2종을 출시했다.",
+    "corporateAction": "AI 기반 개인 맞춤형 보험 상품 개발 및 펀드 관리 솔루션 도입으로 상품 경쟁력 강화.",
+    "keywords": [
+      "AI 연금보험",
+      "변액연금",
+      "AI 펀드관리",
+      "VFA",
+      "보험 상품",
+      "개인 맞춤형"
+    ],
+    "_key": "47cf84d9a8ad",
+    "_createdAt": "2026-07-16T08:52:00.428647+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428647+09:00"
+  },
+  {
+    "title": "젠슨 황 \"국가 AI는 자국서 키워야\" 日 '1조엔 AI 프로젝트' 정조준",
+    "date": "2026-07-15",
+    "url": "https://v.daum.net/v/20260715104207865",
+    "category": "AI 하드웨어 인프라, 글로벌 트렌드, AI 보안/망분리",
+    "ecosystemImpact": "소버린 AI 트렌드 가속화 및 AI 반도체 시장의 국가별 경쟁 심화.",
+    "importance": 8,
+    "summary": "엔비디아 젠슨 황 CEO가 일본에서 소버린 AI 중요성을 강조하며 일본의 1조엔 AI 프로젝트와 협력 의지를 밝혔다.",
+    "corporateAction": "AI 인프라 구축 시 지정학적 리스크 및 소버린 AI 동향 고려, 국내 AI 반도체 투자 동향 주시.",
+    "keywords": [
+      "소버린 AI",
+      "엔비디아",
+      "젠슨 황",
+      "일본 AI 프로젝트",
+      "Physical AI",
+      "AI 반도체"
+    ],
+    "_key": "d6c435b997f6",
+    "_createdAt": "2026-07-16T08:52:00.428655+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428655+09:00"
+  },
+  {
+    "title": "빅테크 AI 투자에 美 제조업 '활기'…연준 베이지북",
+    "date": "2026-07-15",
+    "url": "https://www.fnnews.com/news/202607151700465249",
+    "category": "AI 하드웨어 인프라, 글로벌 트렌드",
+    "ecosystemImpact": "AI 인프라 투자 확대로 글로벌 경제 성장 및 관련 산업 활성화.",
+    "importance": 7,
+    "summary": "빅테크 기업들의 AI 인프라(데이터센터) 투자가 미국 제조업 및 건설 경기를 견인하며 경제 활성화에 기여하고 있다.",
+    "corporateAction": "AI 인프라 시장 동향 및 투자 확대가 컴퓨팅 자원 확보 전략에 미칠 영향 분석.",
+    "keywords": [
+      "빅테크 AI 투자",
+      "데이터센터",
+      "AI 인프라",
+      "미국 경제",
+      "제조업"
+    ],
+    "_key": "763b4c94e168",
+    "_createdAt": "2026-07-16T08:52:00.428661+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428661+09:00"
+  },
+  {
+    "title": "오픈AI 티보 소티오 \"코덱스·챗GPT 워크 이용자 800만명\"",
+    "date": "2026-07-15",
+    "url": "https://www.joseilbo.com/news/htmls/2026/07/20260715424911.html",
+    "category": "AI Agent, LLM, 엔터프라이즈 AI",
+    "ecosystemImpact": "업무용 AI 에이전트의 급속한 확산과 AI 모델의 실용적 활용 증가.",
+    "importance": 7,
+    "summary": "오픈AI의 코딩 에이전트 '코덱스'와 업무용 AI 서비스 '챗GPT 워크'의 활성 이용자가 800만명에 도달하며 빠른 성장세를 보였다.",
+    "corporateAction": "업무 효율성 증대를 위한 AI 에이전트 도입 전략 및 내부 활용 가이드라인 수립 검토.",
+    "keywords": [
+      "오픈AI",
+      "챗GPT 워크",
+      "AI Agent",
+      "GPT-5.6",
+      "업무 자동화",
+      "코덱스"
+    ],
+    "_key": "7de1f825fda6",
+    "_createdAt": "2026-07-16T08:52:00.428667+09:00",
+    "_updatedAt": "2026-07-16T08:52:00.428667+09:00"
   }
 ]
