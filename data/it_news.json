@@ -1743,5 +1743,148 @@
     "_key": "7de1f825fda6",
     "_createdAt": "2026-07-16T08:52:00.428667+09:00",
     "_updatedAt": "2026-07-16T08:52:00.428667+09:00"
+  },
+  {
+    "title": "일본, 정부 및 NVIDIA와 협력하여 세계 최초 국가 AI 인프라 구축",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl0BAqbsfGDYkZcmk-PMI6_J6Rla9Rxwp8I-MGLLjHpSXSD6EhlL1uJ2QpD9ZwnLEIAT_oawh10NG0sOqcmVG1F7S3uOnevgQOwaQO15NwDvFJdddXwDnnxDn1PhTEVx8mi61qzgp4yedqyJJw8WkOm7XfIJBiZvCknmURhzqZKq_4aKNV1Y6O8nCe7cQl1bBeKLryugW_THys7OPy1AT2A7gszU3fV3A3oyu7oonXzmzTEIWb3yQdE5oxyTsjjbrG_UYVZVTgj6lDn8cWXDJuQNt7MC8wlS6MnQscok-q0ACHfKQ1fw==",
+    "category": "AI 하드웨어, AI 인프라, AI Agent",
+    "ecosystemImpact": "국가 차원의 AI 인프라 구축 가속화 및 물리적 AI, 멀티모달 모델 개발 기반 마련.",
+    "importance": 10,
+    "summary": "일본 정부, NVIDIA, Noetra Corp.가 협력하여 NVIDIA Vera Rubin AI Factory를 구축, 물리적 AI 및 멀티모달 파운데이션 모델 개발 지원.",
+    "corporateAction": "AI 인프라 투자 동향 주시 및 미래 AI 모델(물리적/멀티모달) 대응 위한 컴퓨팅 자원 확보 전략 검토.",
+    "keywords": [
+      "NVIDIA",
+      "일본",
+      "AI 인프라",
+      "물리적 AI",
+      "멀티모달",
+      "국가전략"
+    ],
+    "_key": "c69ad34a94a8",
+    "_createdAt": "2026-07-17T08:52:13.076846+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076846+09:00"
+  },
+  {
+    "title": "HCLTech, Guardian Life Insurance와 AI 기반 현대화 위한 7년 파트너십 확장",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVSamMwXSHGwv_XO4myGyfgVG-YMekk0d_xygv2N5na9WTgi1CtvwOobKxGOqxQckWkBpH-ZtypLnsxhDkgvn8d2rYjmzETIOo-XXQNydgFxKdNqvGDJnFargZjSnRpY8aYyg87dAyP3G-d0BJxvekxEBAwnl7fx9J5l211Ew7wKbaiG1gH7JkKUA_rN6lvLBYzYB2JNX6d5xMhrOD8mdYzGU5W_XUXG-QtjqREXOGuoGoles==",
+    "category": "보험/AX, AI Agent, IT 거버넌스",
+    "ecosystemImpact": "보험 산업의 대규모 AI 도입 및 운영 현대화 트렌드를 강화하고, 'AI Force' 플랫폼 확산.",
+    "importance": 9,
+    "summary": "HCLTech가 Guardian Life Insurance와 7년 계약을 통해 AI 기반 기술 및 운영 현대화를 추진하며, AI Force 플랫폼을 활용할 예정.",
+    "corporateAction": "AI 기반 서비스 혁신 플랫폼 도입 및 에이전트 역량 강화를 통한 보험 업무 효율화 및 경쟁력 제고 방안 연구.",
+    "keywords": [
+      "HCLTech",
+      "Guardian Life Insurance",
+      "보험",
+      "AI 도입",
+      "AX",
+      "AI Agent"
+    ],
+    "_key": "4d9a31b2add2",
+    "_createdAt": "2026-07-17T08:52:13.076870+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076870+09:00"
+  },
+  {
+    "title": "HMT publishes Financial Services AI Adoption Plan",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG75h6gBQNJcXhynuZP4HOtLM2R8BbXrFYe5AY9VWnYs73JUlbRzRqLsOoQicJMgVeP90tFN1IZ-HkPddPL35pKPpf0jO4H5YO7z7IPEZ1K1YY8adlmvW86soS7lFWwXD-5RSfrrHsuWLcyJ84DMFbUzBvyYCGCguaICD0od3aRQZi1exHev2aVOMKZv7wAs9AOl12hQ1c3g==",
+    "category": "IT 거버넌스/보안, 금융규제, AI Agent",
+    "ecosystemImpact": "영국 금융 서비스의 AI 도입 가속화 및 규제 명확성 증대.",
+    "importance": 9,
+    "summary": "영국 재무부가 금융 서비스 AI 도입 계획을 발표, 기존 규제 프레임워크 활용 및 AI 관련 가이드라인 명확화에 초점.",
+    "corporateAction": "AI 활용 금융 서비스에 대한 규제 동향 파악 및 선제적 대응 전략 수립 필요.",
+    "keywords": [
+      "금융규제",
+      "AI 도입",
+      "영국",
+      "IT 거버넌스",
+      "샌드박스"
+    ],
+    "_key": "17974ba7439b",
+    "_createdAt": "2026-07-17T08:52:13.076879+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076879+09:00"
+  },
+  {
+    "title": "사이버 방어 AI 도입 급증, 거버넌스 격차 심화",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKa98sFc0BuiEMoXNKcy7nHtXX43OvW0js6R1mQJsUFp5Wj3E2WfOWYP8I8lJRjYN1Sl7aMMO_NZJl0cdpxLkdMlG8BjfAY7zwJ7vxGL8OL1NHy5V095fwLZ_7pfoAViSIVJvcda4DowUfD4ibFPKE3RP7j4m_jWGNcNemZ4spaPVeI8zuzBDS",
+    "category": "AI 보안, IT 거버넌스",
+    "ecosystemImpact": "기업의 AI 보안 도입은 가속화되나, 거버넌스 정책 및 감사 프레임워크 부족.",
+    "importance": 9,
+    "summary": "SANS Institute 보고서에 따르면 사이버 방어에 AI 도입이 급증하고 있으나, 거버넌스 정책 및 AI 감사 프레임워크가 부족함.",
+    "corporateAction": "AI 도입 시 보안 거버넌스 및 감사 체계 선제적으로 구축, AI 모델 사용 가시성 확보.",
+    "keywords": [
+      "AI 보안",
+      "IT 거버넌스",
+      "사이버 방어",
+      "AI 감사",
+      "SANS"
+    ],
+    "_key": "361ab12ea701",
+    "_createdAt": "2026-07-17T08:52:13.076887+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076887+09:00"
+  },
+  {
+    "title": "Apple Intelligence, 알리바바 Qwen 모델로 중국 시장 진출 승인",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7SdEHdik15Vq8R_g-LdeVq9ve1_NKyhnGg19qzOu8ERWP6OqvwKoU9W7q9678_k4d3-67lBCcr7jEjZpXd78sz3rvqmKmmD2-eTgRpea7wecfruQDV43YREgpNAFedVq_LSVjia8h0h7BNGQd_Ik8iafja4rHxD6Couo==",
+    "category": "LLM, 글로벌 트렌드, AI Agent",
+    "ecosystemImpact": "글로벌 AI 시장의 '두 개의 스택' 현상 심화 및 중국 시장 특수성 강화.",
+    "importance": 8,
+    "summary": "Apple Intelligence가 중국 규제 승인을 받았으며, 알리바바의 Qwen 모델을 활용할 예정임이 밝혀짐.",
+    "corporateAction": "지역별 AI 모델 및 데이터 주권 이슈를 고려한 글로벌 AI 도입 전략 검토.",
+    "keywords": [
+      "Apple Intelligence",
+      "Qwen",
+      "중국",
+      "LLM",
+      "AI 현지화"
+    ],
+    "_key": "f706e4f00542",
+    "_createdAt": "2026-07-17T08:52:13.076894+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076894+09:00"
+  },
+  {
+    "title": "Intel과 Google Cloud, Intel의 AI 기반 기업 혁신 가속화 위한 협력 발표",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHimTrnBZffrTQCL_mGIC_RivkxjtTsm2SprDs4aCwhnpPeGLU1oX5BuME8WkcYol8h80vdLfh87Sz_-azZLTGTCk79xS5HuVtnI1LZigd7SLOQSjOU1AF_toDze4GeswkT6osNAs6TGLHiB0YX2WVNYsVcW_ElSo2F-m2x5j9tg4YF2hYdlwcqdk3Z_Yh3nuPMEkG2L7vKhZxG7aETBXp6UTOF0qFOLUDQm7AGrXWqBwEdJCKG2JlbXhCG0x-UEj0ZinlSgDrboyvHm7F4YkgQ==",
+    "category": "엔터프라이즈 AI, AI Agent, 클라우드 AI",
+    "ecosystemImpact": "대기업의 AI 도입 가속화 및 클라우드 기반 AI 에이전트 솔루션의 확산.",
+    "importance": 8,
+    "summary": "Intel이 Google Cloud와 협력하여 Gemini Enterprise를 활용, 엔지니어링, 공급망 등 핵심 비즈니스 기능에 AI 에이전트 도입.",
+    "corporateAction": "클라우드 기반 AI 플랫폼 및 에이전트 솔루션을 통한 내부 업무 효율화 및 인력 역량 강화 방안 모색.",
+    "keywords": [
+      "Intel",
+      "Google Cloud",
+      "Gemini Enterprise",
+      "엔터프라이즈 AI",
+      "AI Agent"
+    ],
+    "_key": "f63fe67e3018",
+    "_createdAt": "2026-07-17T08:52:13.076901+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076901+09:00"
+  },
+  {
+    "title": "Germania Mutual, Guidewire AI 도입하여 U/W 및 클레임 팀에 지식 제공",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWy9cfwaAzN6q3MquT-wxnzCKD4cXzygECAoXOcsWwvIzYiYUDqOTiB2j5oG2EbOrr5DdhrXyiCGpE0u-H2ae2e3eISeKA4dLoAMijtuJT-cYfyg3hkNVecQZhXydA2kCJn3VT4NwrO0Ro00ictLj4woEs50pwwgwzp3_phWzcg8y77Aq8XptaeVUYvMgqfSLzwPh3MSVNbRlPMnYtoLdUGOjdgUMyhkltrYKR0C5fsLxGmWGzIoLPbASE1rYYZkKSs9QMZSatiuAHKgWmGnTKIBb4KijMLjOBJJxXK_YV-2o-2G5gwOLfFtl9",
+    "category": "보험/AX, AI Agent, RAG",
+    "ecosystemImpact": "보험 언더라이팅 및 클레임 프로세스에서 AI 활용이 확산되며 효율성과 정확성 향상.",
+    "importance": 8,
+    "summary": "Germania Mutual이 Guidewire의 AI 비서 ProNavigator를 도입, 언더라이팅 및 클레임 팀에 즉각적인 지식 접근성을 제공.",
+    "corporateAction": "RAG 기반 AI 비서 솔루션을 통한 언더라이팅 및 클레임 업무 지식 접근성 강화 및 의사결정 지원 고려.",
+    "keywords": [
+      "보험",
+      "언더라이팅",
+      "클레임",
+      "Guidewire",
+      "AI 비서",
+      "RAG"
+    ],
+    "_key": "30cb0b009bc6",
+    "_createdAt": "2026-07-17T08:52:13.076908+09:00",
+    "_updatedAt": "2026-07-17T08:52:13.076908+09:00"
   }
 ]
