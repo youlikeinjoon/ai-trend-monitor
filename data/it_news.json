@@ -1886,5 +1886,146 @@
     "_key": "30cb0b009bc6",
     "_createdAt": "2026-07-17T08:52:13.076908+09:00",
     "_updatedAt": "2026-07-17T08:52:13.076908+09:00"
+  },
+  {
+    "title": "OpenAI ChatGPT-5.6 (Sol, Terra, Luna) 및 Google Gemini 3.5 Pro 출시",
+    "date": "2026-07-17",
+    "url": "https://mimirswell.substack.com/p/the-new-news-in-ai-71726-edition",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "주요 LLM 경쟁 심화 및 엔터프라이즈 AI 에이전트 시장 확장 가속화.",
+    "importance": 10,
+    "summary": "OpenAI는 GPT-5.6 모델군(Sol, Terra, Luna)과 다단계 작업을 위한 ChatGPT Work를 출시했고, Google은 2백만 토큰 컨텍스트와 Deep Think 모드의 Gemini 3.5 Pro를 발표했다.",
+    "corporateAction": "최신 LLM 성능 및 에이전트 기능 벤치마킹, 금융 자동화/고객 서비스 적용 가능성 검토.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "ChatGPT-5.6",
+      "Gemini 3.5 Pro",
+      "멀티모달",
+      "코딩"
+    ],
+    "_key": "e63b7e18727c",
+    "_createdAt": "2026-07-18T08:43:54.199932+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199932+09:00"
+  },
+  {
+    "title": "미국 백악관, AI 기반 사이버보안 정보 공유 시스템 'GOLD EAGLE' 출범",
+    "date": "2026-07-17",
+    "url": "https://www.consumerfinancemonitor.com/2026/07/17/white-house-launches-gold-eagle-ai-cybersecurity-clearinghouse-what-it-could-mean-for-financial-institutions/",
+    "category": "AI 보안/망분리, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 활용 사이버 위협 대응 표준화 및 금융권 AI 보안 강화 촉진.",
+    "importance": 9,
+    "summary": "백악관은 AI 기반의 사이버보안 정보 공유 시스템 GOLD EAGLE을 출시, 소프트웨어 취약점 식별 및 해결 가속화를 목표로 한다. 금융기관의 AI 사이버보안 통합 기대를 반영한다.",
+    "corporateAction": "AI 보안 거버넌스 강화 및 최신 취약점 정보 공유 시스템 참여 검토.",
+    "keywords": [
+      "AI 보안",
+      "사이버보안",
+      "IT 거버넌스",
+      "금융 규제",
+      "정보공유"
+    ],
+    "_key": "2aee9457224f",
+    "_createdAt": "2026-07-18T08:43:54.199954+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199954+09:00"
+  },
+  {
+    "title": "NVIDIA Vera Rubin 및 Blackwell 플랫폼 발전, 일본 AI 인프라 대규모 투자",
+    "date": "2026-07-17",
+    "url": "https://techwireasia.com/2026/07/nvidia-expands-japan-ai-infrastructure-and-robotics-push/",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "글로벌 AI 컴퓨팅 성능 향상 및 AI 연구/개발 인프라 확장 가속화.",
+    "importance": 9,
+    "summary": "NVIDIA는 Vera Rubin 플랫폼으로 모델 훈련 효율을 높이고 Blackwell 플랫폼으로 비용을 절감하며, 일본에 140MW 규모 AI 팩토리 건설 및 GPU 기반 슈퍼컴퓨터를 구축한다.",
+    "corporateAction": "차세대 AI 인프라 전략 수립 및 고성능 컴퓨팅 자원 확보 계획 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Vera Rubin",
+      "Blackwell",
+      "AI 인프라",
+      "데이터센터"
+    ],
+    "_key": "363fe548461e",
+    "_createdAt": "2026-07-18T08:43:54.199965+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199965+09:00"
+  },
+  {
+    "title": "영국 재무부, 금융 서비스 AI 도입 계획 발표: 규제 명확성 및 거버넌스 강조",
+    "date": "2026-07-16",
+    "url": "https://www.globalregulationtomorrow.com/financial-services-ai-adoption-plan/",
+    "category": "IT 거버넌스/보안, 보험/AX, 금융 규제 샌드박스 동향",
+    "ecosystemImpact": "금융권 AI 활용에 대한 명확한 규제 방향 제시 및 책임감 있는 AI 도입 촉진.",
+    "importance": 9,
+    "summary": "영국 재무부는 금융 AI 도입 계획을 발표, 기술 중립적 규제와 핵심 AI/클라우드 제공업체 CTP 체계 가속화, 자발적 AI 사고 공유를 권고했다.",
+    "corporateAction": "AI 거버넌스 및 금융 규제 변화에 대한 선제적 대응, AI 공급망 위험 관리 강화.",
+    "keywords": [
+      "금융 규제",
+      "AI 거버넌스",
+      "IT 거버넌스",
+      "CRITICAL THIRD-PARTY",
+      "책임 있는 AI"
+    ],
+    "_key": "1f80249212cf",
+    "_createdAt": "2026-07-18T08:43:54.199973+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199973+09:00"
+  },
+  {
+    "title": "FIS, Anthropic과 Project Glasswing 참여, AI 기반 사이버보안 협력 강화",
+    "date": "2026-07-17",
+    "url": "https://www.fisglobal.com/en/fis/media-room/press-releases/2026/fis-and-anthropic-extend-partnership-on-trusted-ai-for-financial-services",
+    "category": "AI 보안/망분리, 보험/AX",
+    "ecosystemImpact": "금융 핵심 인프라 보안 강화 및 AI 모델 활용 방어 기술 상용화 가속.",
+    "importance": 8,
+    "summary": "글로벌 금융 기술 기업 FIS가 Anthropic의 Project Glasswing에 참여, Mythos 5 모델로 자체 시스템의 방어적 보안 취약점을 스캔한다.",
+    "corporateAction": "대규모 금융 시스템 AI 보안 적용 사례 벤치마킹, 선제적 위협 방어 전략 수립.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "Anthropic",
+      "Mythos 5",
+      "사이버보안"
+    ],
+    "_key": "8086c3940537",
+    "_createdAt": "2026-07-18T08:43:54.199981+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199981+09:00"
+  },
+  {
+    "title": "EY, 멀티모달 지식 그래프로 RAG 정확도 향상 프레임워크 개발",
+    "date": "2026-07-17",
+    "url": "https://siliconangle.com/2026/07/17/ey-re-envisions-rag-around-multimodal-knowledge-graphs-to-improve-accuracy/",
+    "category": "RAG, 엔터프라이즈 AI",
+    "ecosystemImpact": "엔터프라이즈 RAG 시스템의 데이터 활용 범위 확장 및 답변 신뢰도 개선.",
+    "importance": 8,
+    "summary": "EY는 텍스트 외 멀티모달 데이터를 지식 그래프로 연결, RAG 시스템의 정확도와 맥락 이해도를 높이는 프레임워크를 개발했다.",
+    "corporateAction": "RAG 기반 문서 분석 및 의사결정 시스템 고도화 시 멀티모달 데이터 통합 방안 검토.",
+    "keywords": [
+      "RAG",
+      "멀티모달",
+      "지식그래프",
+      "엔터프라이즈 AI",
+      "데이터정합성"
+    ],
+    "_key": "0ff03d46b32f",
+    "_createdAt": "2026-07-18T08:43:54.199991+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199991+09:00"
+  },
+  {
+    "title": "HCLTech, Guardian Life Insurance와 AI 기반 현대화 파트너십 확장",
+    "date": "2026-07-16",
+    "url": "https://www.hcltech.com/press-releases/hcltech-and-guardian-sign-new-expanded-partnership-ai-powered-modernization-across",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험 산업 AI 도입 가속화 및 AI 에이전트 기반 업무 효율성 증대.",
+    "importance": 7,
+    "summary": "HCLTech가 Guardian Life Insurance와 AI 기반 현대화 파트너십을 확장, AI 솔루션 개발 및 AI Force 플랫폼을 통한 에이전트 기능 확대를 계획한다.",
+    "corporateAction": "보험 운영 효율화를 위한 AI 에이전트 도입 사례 벤치마킹 및 디지털 전환 전략 수립.",
+    "keywords": [
+      "보험/AX",
+      "AI Agent",
+      "디지털 전환",
+      "HCLTech",
+      "Guardian Life Insurance"
+    ],
+    "_key": "9018b69e9015",
+    "_createdAt": "2026-07-18T08:43:54.199998+09:00",
+    "_updatedAt": "2026-07-18T08:43:54.199998+09:00"
   }
 ]
