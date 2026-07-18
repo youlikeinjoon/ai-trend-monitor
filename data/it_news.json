@@ -2027,5 +2027,127 @@
     "_key": "9018b69e9015",
     "_createdAt": "2026-07-18T08:43:54.199998+09:00",
     "_updatedAt": "2026-07-18T08:43:54.199998+09:00"
+  },
+  {
+    "title": "한국 금융권 AI 규제 현황 및 샌드박스 확장",
+    "date": "2026-07-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI8yaddNO7RFn9-kCvTDC2STmvN0mwvNlAMVKRVoHeFLiL9wIPplQNtEKtIHTxAago8MjE2mpGbjJFavy3aXi9On9v1ItiDXlQnbXPZPuw3JzSFW0qQhLRWU1sSBDpQqc2mGfiJXgs0T5cFRZOr7kbCMIDcz8M9e1Ih8TSp1hCMeJGRrh8CaCgPsD",
+    "category": "IT 거버넌스/보안, 보험/AX, 금융 규제",
+    "ecosystemImpact": "국내 AI 도입 및 서비스 개발의 규제 불확실성 감소 및 가속화.",
+    "importance": 10,
+    "summary": "한국은 '최소 규제' 원칙의 AI 기본법 시행 유예 기간을 운영 중이며, 금융권 AI 의사결정에 대한 인간 책임 명확화 및 망분리 규제 완화를 추진하고 있습니다.",
+    "corporateAction": "국내 금융 AI 규제 동향 면밀히 모니터링 및 샌드박스 참여 기회 모색 필요.",
+    "keywords": [
+      "한국",
+      "금융 규제",
+      "AI 기본법",
+      "망분리",
+      "금융 샌드박스",
+      "IT 거버넌스"
+    ],
+    "_key": "68afac89f0c7",
+    "_createdAt": "2026-07-19T08:43:27.047226+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047226+09:00"
+  },
+  {
+    "title": "보험사, AI 에이전트 관련 '숨겨진 책임'에 직면: 새로운 보고서 발표",
+    "date": "2026-07-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8AM4v8cFNdb1xl5lQbVrVLfE-8VJXokyjQcdIhR29oHLXZAvZwCbHoP_C6jpE9tQgsZhkvbFrBFvW2wIid8NNuE-eEToZBVlulpx9hTbZRWWu89CXt3YfrzRi8DA4KavfQu2nouwkYjGEBFqLFvIdf6PDViq3VPt93S9F7qB7VNXWVZUf77d0x3mHI9T3QB6S8lVIbQcYDLDMzIAuz0LELP7SJnO0kAqeeRM096vKmMe_VCLkWdk",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "보험 산업 내 AI 에이전트 도입 시 새로운 법적, 재정적 리스크 발생 가능성.",
+    "importance": 9,
+    "summary": "새로운 보고서에 따르면 보험사 AI 에이전트 노출의 90% 이상이 기존 보험 정책에 잠재되어 있으며, 사이버, D&O, CGL, E&O 정책에서 '침묵하는 위험'으로 존재합니다.",
+    "corporateAction": "AI 에이전트 도입 시 발생 가능한 신규 책임 리스크 분석 및 전용 AI 보험 개발 검토.",
+    "keywords": [
+      "보험",
+      "AI 책임",
+      "AI 에이전트",
+      "사이버 보험",
+      "리스크 관리"
+    ],
+    "_key": "60808f04051e",
+    "_createdAt": "2026-07-19T08:43:27.047247+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047247+09:00"
+  },
+  {
+    "title": "2026년 기업 AI 혁신을 이끄는 주요 트렌드: 에이전트 AI 및 가치 창출 중심",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHenwzywrK5rbZfKNPUHURkn7CPuY8S4LtW9QNVCCMefpNFF5AlkjF0y2VensAqSbwkIDMk8dpKHKwVyZvJMa_henFac71NKuVsLn1MRK5tL7jLHWjP5pu6z1aL9VY9_zBS_02PWGA6_Pnwv_1Ds57leJIziUaN8yFJF7y-6QgPImi8_0F9mLR1OUSgkZl5oI9si98=",
+    "category": "Enterprise AI, AI Agent",
+    "ecosystemImpact": "기업 AI 도입의 초점이 실험에서 실질적 비즈니스 가치 및 성과 창출로 전환.",
+    "importance": 9,
+    "summary": "2026년 기업 AI 트렌드는 에이전트 AI, 워크플로우 오케스트레이션, 그리고 탑다운 AI 전략 소유권으로 변화하며, AI가 신뢰할 수 있는 실질적 업무 완수 능력에 초점을 맞추고 있습니다.",
+    "corporateAction": "AI 도입 시 비즈니스 성과 중심의 전략 수립 및 에이전트 AI 기반 워크플로우 자동화 검토.",
+    "keywords": [
+      "기업 AI",
+      "AI Agent",
+      "AI 전환",
+      "워크플로우 자동화",
+      "ROI"
+    ],
+    "_key": "b678a57b1338",
+    "_createdAt": "2026-07-19T08:43:27.047257+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047257+09:00"
+  },
+  {
+    "title": "NVIDIA Blackwell AI 인프라, 전력 효율성 및 랙 스케일 디자인 강조",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdd6aVA28Yhi5QmzjTtFraR2L2tCWOYNipy3CghK74WHANWcC2t2sYuHF5DrWq2N7qDkk_18X0DAVNd-AP1gUxfCuG2RSzlgLcu2TK9GjvOzjw0Qogpj4WnfddCF6SMvB5YRcfo4aOjxGM--vfRm7xedk99NCLy8xQoBC0epmosbPAiR_XBJLYKOsLCi8DjNyjkjs5MuMGkFiB5mM4u2fb_L7A_SKgT5_k_qm8Cp93e0bBQzPmgjFg16enuoZ98tICVQYnV4yMAhGd0rCeBEJMCyPetfmTdDlBOXauvOY2gT0=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 데이터센터 운영 비용 절감 및 고성능 AI 모델 배포 가속화.",
+    "importance": 8,
+    "summary": "NVIDIA는 Blackwell AI 인프라의 에너지 효율성 향상과 랙 스케일 디자인을 강조하며, 데이터센터 운영자에게 전력 및 냉각 제한 관리의 핵심 지표로 성능/와트를 제시합니다.",
+    "corporateAction": "차세대 AI 인프라 도입 시 전력 효율성 및 총 소유 비용을 고려한 장기적인 전략 수립.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 인프라",
+      "데이터센터",
+      "GPU",
+      "에너지 효율"
+    ],
+    "_key": "f8af20977fe6",
+    "_createdAt": "2026-07-19T08:43:27.047265+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047265+09:00"
+  },
+  {
+    "title": "기업 AI의 새로운 경제학: 추론 비용 최적화의 중요성",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzd6Vl6geCthR-QE_5AFD2FNhTwQAxkNYq_gm4_cNqbG_IXMcLN8ArMiZ9snwzq4F7p0lpW0Lv4gEDjhBX6trAT349RTxDJzqxJVUotY4szbD3z7g5GTwmykamMZ_xIOXSa3uWI9RLUWk4YOGJ6QVduSWitEKKgcno",
+    "category": "Enterprise AI, AI 하드웨어 인프라",
+    "ecosystemImpact": "기업들이 AI 도입 시 훈련 비용보다 추론 비용 관리에 집중하며 효율성을 중시하게 됨.",
+    "importance": 8,
+    "summary": "토큰당 가격은 하락했지만 기업 AI 비용은 증가하는 역설이 발생하며, 이는 추론 비용 증가 때문입니다. 기업은 AI 효율성을 위해 추론 비용 최적화에 주력해야 합니다.",
+    "corporateAction": "AI 솔루션 도입 및 운영 시 추론 비용을 핵심 고려 사항으로 포함하여 비용 효율적인 아키텍처 설계.",
+    "keywords": [
+      "기업 AI",
+      "AI 경제학",
+      "추론 비용",
+      "모델 효율성",
+      "비용 최적화"
+    ],
+    "_key": "8eb9d0467b35",
+    "_createdAt": "2026-07-19T08:43:27.047275+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047275+09:00"
+  },
+  {
+    "title": "AI 시대의 사이버 보안 및 망분리 강화: 마이크로소프트 SFI 보고서",
+    "date": "2026-07-10",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTt6Kde3VgjU4BqtTYUhh2m0402N9HhSn5fXG63UVssGbbwp7bICglauOYgFaY0wuSCmEA6JZ0x7USDcaxlxkyweh828141E3KcWK7Dsv9mZhJ4NUwgbBpQZ2db6Wm8VvIMR3gm12ZwoholezKufitJgGbS4u4gocBP4zwOTkeOoG_E-5K9Om_9OIjptL2tYcuYbNhyHrbQC9iRGZAffr10iH_oAcw15L-zFrgTBCWkH14149NjL5kV47oi2PpJ_1iQ2HTrP7-5hDp",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 위협에 대응하기 위한 선제적이고 자동화된 사이버 보안 전략의 중요성 증가.",
+    "importance": 8,
+    "summary": "마이크로소프트는 Secure Future Initiative(SFI) 보고서를 통해 AI 시대의 사이버 위협에 대응하기 위한 보안 기반 강화, AI를 활용한 보안 개선, 망분리 확장 등의 노력을 공개했습니다.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 검토 및 내부 시스템의 망분리 및 보안 거버넌스 강화 필요.",
+    "keywords": [
+      "사이버 보안",
+      "AI 보안",
+      "망분리",
+      "IT 거버넌스",
+      "마이크로소프트"
+    ],
+    "_key": "24b9d2c9e4e6",
+    "_createdAt": "2026-07-19T08:43:27.047282+09:00",
+    "_updatedAt": "2026-07-19T08:43:27.047282+09:00"
   }
 ]
