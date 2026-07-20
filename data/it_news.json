@@ -2269,5 +2269,146 @@
     "_key": "4c9c010280af",
     "_createdAt": "2026-07-20T08:49:12.189157+09:00",
     "_updatedAt": "2026-07-20T08:49:12.189157+09:00"
+  },
+  {
+    "title": "중국 주도 '세계 AI 협력 기구(WAICO)' 설립, 글로벌 AI 거버넌스 프레임워크 구축 제안",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw5oyaHQUngXXwlLB_CRlc00cnk2dMaHRM_5NId5yQpslpzvKdlurb97Ke5mvB-o2FD09jXa7Xdd12DBOulY7M3aQr-CnhnGaDYLBuv8WkiS1TqnGUoemGk_PPQYENSIvgqQakeWkheKPZ1ST0VB_OafwARIKGQKGg-I3Tj-N6vl7rrakNPic2ISph-T83idGqh8g_QSuRpz1ZcMfuc-lQfKtKTd7IlrNdT0vZoh4Q-JLeZn6mzDk=",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "글로벌 AI 규제 및 표준화 논의 주도권에 변화를 가져올 것.",
+    "importance": 10,
+    "summary": "중국이 29개국과 함께 상하이에서 WAICO를 설립하여 AI를 공공재로 삼고 공정하며 평등한 글로벌 AI 거버넌스 프레임워크를 제안했다.",
+    "corporateAction": "국제 AI 거버넌스 동향을 주시하고, 금융 AI 규제 변화에 선제적으로 대응해야 함.",
+    "keywords": [
+      "AI 거버넌스",
+      "국제 협력",
+      "AI 규제",
+      "WAICO",
+      "중국"
+    ],
+    "_key": "af96fec82428",
+    "_createdAt": "2026-07-21T08:48:34.963997+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.963997+09:00"
+  },
+  {
+    "title": "중국 스타트업 문샷 AI의 Kimi K3, 미국 선두 AI 모델에 도전",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOpEYkDMc33xxOKDl5kzg2Q97PrGbNgAcdU4pI2FQeSWI0DyPNTOpeLXKyEgeUtLnLZMCogPYeCOsSUuft6zOdxeaxX1VSsViuIJboNvSncRC-NFUW8w2iwTuXzYbv1gE651aEBU3LAusSZnN6Xm_YAd3RtZOBX2g88BgOJCYfAQTqsXPVfmCpXAIBfSRnKkR8B42IPevytY6L5bOb3NkExhgC",
+    "category": "LLM",
+    "ecosystemImpact": "글로벌 LLM 경쟁 심화 및 오픈소스 모델의 영향력 확대 가속화.",
+    "importance": 9,
+    "summary": "중국 문샷 AI의 Kimi K3 모델(2.8조 매개변수)이 코딩 성능에서 앤트로픽의 Claude Fable 5를 능가하며, 저렴한 가격으로 미국 선두 모델들을 위협하고 있다.",
+    "corporateAction": "최신 오픈소스 LLM 기술 동향을 면밀히 분석하고, 비용 효율적인 모델 도입을 검토해야 함.",
+    "keywords": [
+      "LLM",
+      "오픈소스 AI",
+      "Kimi K3",
+      "중국 AI",
+      "AI 모델 경쟁"
+    ],
+    "_key": "05b96c61064c",
+    "_createdAt": "2026-07-21T08:48:34.964022+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964022+09:00"
+  },
+  {
+    "title": "앤트로픽, 1조 달러 기업 가치 IPO 준비 중",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHRUovsjE2MKpf_GCmVoP5uGF-4WyDH7JH6BLvvIjozGTPlCLQxBmx6sPDW00ujkQOQiqCcSmz0mEDAy4BRY9oYMRFy_Ja_7QzEI7sY9EeWy87ZwAAu8wrKpILinwMLDe7MGF6IE3CLImd9M2nUR8bv7Ds",
+    "category": "빅테크 동향",
+    "ecosystemImpact": "AI 산업의 성장 잠재력과 기업 가치 급증을 보여주는 주요 지표.",
+    "importance": 9,
+    "summary": "앤트로픽이 클로드 코드(Claude Code) 및 엔터프라이즈 도입에 힘입어 470억 달러의 연간 매출을 기록하며 1조 달러 규모의 IPO 서류를 제출했다.",
+    "corporateAction": "선두 AI 기업들의 성장 전략과 엔터프라이즈 AI 솔루션 도입 사례를 벤치마킹해야 함.",
+    "keywords": [
+      "앤트로픽",
+      "IPO",
+      "기업 AI",
+      "Claude Code",
+      "시장 가치"
+    ],
+    "_key": "c602509b0680",
+    "_createdAt": "2026-07-21T08:48:34.964032+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964032+09:00"
+  },
+  {
+    "title": "폴라펄스, 'Plug and Play Taiwan' 선정으로 온프레미스 RAG 및 Enterprise AI Agent 글로벌 확장 추진",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVa1i6e-pdHNjVA3TjRR35FpO-8KBYMyW2pt8JzyAh1pCOaaSNw48lkTFWu_4NfD8CGW4CpLtoVYXZZ-VzDAJb7k6mgFOsrPMMkqqXHmb9OaUJXx6HuYP8kIqdS6ROpwgMy793EX4pByKSDGj4",
+    "category": "보험/AX",
+    "ecosystemImpact": "국내 금융 산업의 AI 보안 및 온프레미스 솔루션 도입 가속화에 기여.",
+    "importance": 8,
+    "summary": "국내 스타트업 폴라펄스가 대만의 딥테크 프로그램에 선정되어 금융·제조 기업을 위한 온프레미스 RAG 및 엔터프라이즈 AI Agent 솔루션의 글로벌 진출을 모색한다.",
+    "corporateAction": "보안이 중요한 금융 폐쇄망 환경에서 RAG 및 AI Agent 도입을 위한 국내 사례로 벤치마킹.",
+    "keywords": [
+      "RAG",
+      "AI Agent",
+      "온프레미스 AI",
+      "금융 AI",
+      "보안",
+      "폴라펄스"
+    ],
+    "_key": "7f1de664dee1",
+    "_createdAt": "2026-07-21T08:48:34.964042+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964042+09:00"
+  },
+  {
+    "title": "OpenAI, ChatGPT Work 에이전트 출시 및 '슈퍼앱' 전환 계획",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH9_N15J1NG7wbQ5YCK2ovhQrhz_HsSRAtLusLzMptIODLluHuxqO2U_tRyhBKowNepBHlSmCC2D-Hcivg3RNUKd7GN99JQs-eXcLa8kZPcewvggRPZGsrBB2hegiROme0bjVfmkQVtseGqjgTxDUI5lgN0LhQiygs5UpbOg94wENInSny3d6KUi_fe3GHO0ONnkc__ZG06qUYKAD13w0QLtRyCfODcjV8xT-nCJ6PTdb_X6sm1NJ8Ic01GjcLJw==",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트의 자율적 업무 수행 능력 향상 및 AI 활용 범위를 넓힐 것.",
+    "importance": 8,
+    "summary": "OpenAI가 여러 단계를 자율적으로 완료할 수 있는 에이전트인 ChatGPT Work를 출시하고, AI 에이전트와 서드파티 서비스를 통합하는 '슈퍼앱'으로의 전환을 계획하고 있다.",
+    "corporateAction": "업무 자동화 및 생산성 향상을 위한 AI 에이전트 도입 전략 수립 및 활용 방안 연구.",
+    "keywords": [
+      "AI Agent",
+      "ChatGPT Work",
+      "슈퍼앱",
+      "자동화",
+      "OpenAI"
+    ],
+    "_key": "fcbdc0cced8b",
+    "_createdAt": "2026-07-21T08:48:34.964049+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964049+09:00"
+  },
+  {
+    "title": "AI 안전성 평가 지수 'C+' 등급, AI 거버넌스 격차 심화",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH9_N15J1NG7wbQ5YCK2ovhQrhz_HsSRAtLusLzMptIODLluHuxqO2U_tRyhBKowNepBHlSmCC2D-Hcivg3RNUKd7GN99JQs-eXcLa8kZPcewvggRPZGsrBB2hegiROme0bjVfmkQVtseGqjgTxDUI5lgN0LhQiygs5UpbOg94wENInSny3d6KUi_fe3GHO0ONnkc__ZG06qUYKAD13w0QLtRyCfODcjV8xT-nCJ6PTdb_X6sm1NJ8Ic01GjcLJw==",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기술 발전 속도에 비해 안전 및 윤리 규제 마련이 뒤처지고 있음을 시사.",
+    "importance": 7,
+    "summary": "Future of Life Institute의 2026년 여름 AI 안전성 지수에서 가장 안전한 AI 기업으로 평가된 앤트로픽조차 'C+' 등급을 받아, AI 거버넌스 프레임워크가 기술 발전을 따라가지 못하고 있음을 드러냈다.",
+    "corporateAction": "AI 도입 시 기술적 성능 외에 안전성 및 윤리적 고려 사항을 강화하고, 내부 거버넌스를 구축해야 함.",
+    "keywords": [
+      "AI 안전",
+      "AI 거버넌스",
+      "윤리",
+      "금융 규제",
+      "리스크 관리"
+    ],
+    "_key": "ec8e0fbf9bb9",
+    "_createdAt": "2026-07-21T08:48:34.964056+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964056+09:00"
+  },
+  {
+    "title": "AI 하드웨어 인프라 경쟁 심화, 전략적 중요성 부각",
+    "date": "2026-07-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExbk5ulUf4RsdCqVpKuI5NgZUPBdzS-P8_nKPurpDBMV1IM-BBFSEDsg2DaNC0zUcdigGu8GwGKo_uyKtaw6AYI5365YUIaCjk1hp6FXmf-tqJiF12bv4-52RI4wRmH6G0CMmumt41XBGWu3gzCi-EIHgwfW7cHk134oRWSrRhroTcuyUmgcF65Q3JYMXtsm98EIMxnkjdMgbqMN5R3yIq_4zHK5mw_pplrQw7BXJelYBWxEwKnOF2vVgpydiPGZ0OnU5tutUDiyyJw2w=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "고성능 AI 칩 수요 증가로 인한 공급망 불안정 및 인프라 투자 경쟁 가속화.",
+    "importance": 7,
+    "summary": "엔비디아 블랙웰(Blackwell) 서버 출시일이 언급되고, CuspAI가 신소재 발굴에 4.5억 달러 투자를 유치하는 등 AI 산업이 물리적 인프라 제약에 직면하며 하드웨어의 전략적 중요성이 부각되고 있다.",
+    "corporateAction": "장기적인 AI 전략 수립 시 AI 하드웨어 인프라 확보 및 효율적인 자원 관리 방안을 모색해야 함.",
+    "keywords": [
+      "AI 하드웨어",
+      "NVIDIA Blackwell",
+      "AI 인프라",
+      "반도체",
+      "CuspAI"
+    ],
+    "_key": "898f64a68ec6",
+    "_createdAt": "2026-07-21T08:48:34.964062+09:00",
+    "_updatedAt": "2026-07-21T08:48:34.964062+09:00"
   }
 ]
