@@ -2410,5 +2410,138 @@
     "_key": "898f64a68ec6",
     "_createdAt": "2026-07-21T08:48:34.964062+09:00",
     "_updatedAt": "2026-07-21T08:48:34.964062+09:00"
+  },
+  {
+    "title": "AI 규제 샌드박스와 AI: 2026년 EU 계획",
+    "date": "2026-04-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr8_sBPfcAbn3Sg-qvrHfHEJvO7jvsjy4f9jtWB9m6VMZ6o-ENJQKpLA17xi8053PIfhtjgUd_d8Rcylo4cyAMfvxbwrMfpDUOHQtl5IPg9dicoxRHLcCZNwBDPJh3WrhBqS99KBhKmktr0ThmDAiTdWu5jcIa1U4TCmd2SsHK2FobDjdPiuLjbQMOj7RRlMPnRmyhPO1K",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "AI 시스템의 안전한 도입 및 규제 준수 가속화, 금융 분야 영향 증대.",
+    "importance": 10,
+    "summary": "EU AI Act에 따라 2026년 8월까지 AI 규제 샌드박스 의무화, 금융 분야 고위험 AI 시스템 테스트 지원.",
+    "corporateAction": "EU AI Act 준수 위한 AI 시스템 개발 및 테스트 전략 수립, 규제 샌드박스 참여 검토 필요.",
+    "keywords": [
+      "AI 규제",
+      "금융 규제 샌드박스",
+      "IT 거버넌스",
+      "EU AI Act"
+    ],
+    "_key": "86327b1e757a",
+    "_createdAt": "2026-07-22T08:49:23.688683+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688683+09:00"
+  },
+  {
+    "title": "금융권 인공지능 전환 빗장 풀린다… 보험업계 생성형 AI 도입 및 위험관리 가속화",
+    "date": "2026-06-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQXOS50MJ_fXSXbnL89Dk6C7mi4pI5TYPSIbikV7njLCBTV_G4yIa7rt54jkxCQ0iwyZENC8IaozrMUEi4bGz3pbkeW7yDyyQ5ZVUTkKnjWxiw-YNK56w6yV064o8UMhBW8GSE0euc1Yzt3us3SaS-pIzZjxxbsWJK",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, 보험/AX",
+    "ecosystemImpact": "국내 금융권 AI 도입 가속화, 클라우드 기반 AI 서비스 활용 증가 예상.",
+    "importance": 10,
+    "summary": "금융당국, AI 활용 가속화를 위해 망분리 규제 완화 추진, 보험업계 생성형 AI 도입 및 데이터 활용 확대 기대.",
+    "corporateAction": "완화된 망분리 규제 활용하여 클라우드 기반 생성형 AI 도입 및 데이터 활용 전략 구체화.",
+    "keywords": [
+      "금융망분리",
+      "AI 규제 완화",
+      "보험 AI",
+      "생성형 AI"
+    ],
+    "_key": "99b0e0b48fe0",
+    "_createdAt": "2026-07-22T08:49:23.688710+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688710+09:00"
+  },
+  {
+    "title": "2026년 보험산업의 과제: AI 활용 확산을 위한 전략",
+    "date": "2026-01-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiR9I5s0EXaG6Co6GjUQI7gAorHKOTHp_IBzhCt1pd2hYl8efIPkP23Lt-R6b4DKFnRmRx_iKYBKqTnqaI2ec8BdR7Z8_OyA43qvMZwAvD_Q-x0h-UkUrTVz4JeDrpl8RfY4JGFEK7FLmF74TnUmJBZwzs0w==",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "보험 산업의 핵심 업무 효율성 및 경쟁력 강화, AI 거버넌스 중요성 증대.",
+    "importance": 9,
+    "summary": "2026년 보험사 AI는 실험 넘어 언더라이팅, 클레임 등 핵심 업무에 적용되며, 거버넌스와 윤리 중요.",
+    "corporateAction": "AI 기반 언더라이팅, 클레임 자동화 시스템 고도화 및 AI 거버넌스 체계 구축을 가속화.",
+    "keywords": [
+      "보험 AI",
+      "언더라이팅",
+      "클레임 자동화",
+      "AI 거버넌스"
+    ],
+    "_key": "c677741ccbca",
+    "_createdAt": "2026-07-22T08:49:23.688719+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688719+09:00"
+  },
+  {
+    "title": "2026년 AI Agent 채택: 120개 이상의 기업 데이터 포인트",
+    "date": "2026-04-19",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR6oOIVF07kfmkDQH_4UlA_qhCxMZomgv7Ot8IRdoc8-3rl-PtIOXlidpgyCzZLUFGYaLzxZT01Vmgo-TAI-qFEde0ZA-Xhfj_3QQbvXxV__ziL689DE41TX0hjX54RQZnVIFKqUkP9ZX4sQAv7eV9wGH1a9zIRQUlcpLaZD5DZIHsn-ophaYnu9a2QQ==",
+    "category": "AI Agent, Enterprise AI",
+    "ecosystemImpact": "기업 생산성 혁신 잠재력 증대, 거버넌스 및 보안의 중요성 부각.",
+    "importance": 9,
+    "summary": "2026년 기업 내 AI 에이전트 도입 확산, 복잡한 워크플로우 자동화, 운영상의 도전과제 직면.",
+    "corporateAction": "AI 에이전트 도입 시 확장성, 거버넌스, 보안 고려한 전략 수립 및 파일럿 프로그램 추진.",
+    "keywords": [
+      "AI Agent",
+      "Enterprise AI",
+      "AI 거버넌스",
+      "자동화"
+    ],
+    "_key": "0a24fa471b23",
+    "_createdAt": "2026-07-22T08:49:23.688727+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688727+09:00"
+  },
+  {
+    "title": "방어 가능한 RAG: 2026년 엔터프라이즈 구현 모범 사례",
+    "date": "2026-02-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm_jpGCYSmz-v-oL2-NNHzarQ81yVGgleESHAEqTivem8uxGpRgjhGAIwQclueJY0Q3XpVIs7L4jWFsx2ncsEKDb3VEjdN8dwK2A3-RT89h_MFICI3RJjJax1hgb5pakOeVZ4Huy2U8ysuACp-9ANTVym9WyM-YqdyQeZUQFNZwVHpqRcd6w3H",
+    "category": "RAG, AI 보안, Enterprise AI",
+    "ecosystemImpact": "RAG 시스템의 신뢰성과 안전성 향상으로 기업 AI 도입 가속화.",
+    "importance": 9,
+    "summary": "2026년 RAG는 엔터프라이즈 AI의 핵심 인프라로 진화, 데이터 정확성, 규제 준수 및 보안 강화 요구.",
+    "corporateAction": "RAG 시스템 구축 시 보안, 데이터 거버넌스, 환각 방지, 비용 효율성을 고려한 설계 원칙 적용.",
+    "keywords": [
+      "RAG",
+      "AI 보안",
+      "데이터 거버넌스",
+      "환각 방지"
+    ],
+    "_key": "1c0108bfce6d",
+    "_createdAt": "2026-07-22T08:49:23.688733+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688733+09:00"
+  },
+  {
+    "title": "2026년 엔터프라이즈를 위한 AI-Ready 인프라 구축",
+    "date": "2026-07-10",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8uuuEO5TU-VNvotEzEPPpIFXtzsSCvPeptlbF_RRtx4KGuPcK_PLihKdpGlcQVHuOtEnqhiURg7gGEvkxYf5jP4IuKFJhxDUfeAZ--D6uEq4tQqLDQNt9LIgsxShWZiNfByFVEAQa94qM9kZV11SgKsBgg278LcmLhkQyexTs",
+    "category": "AI 하드웨어, 인프라, Enterprise AI",
+    "ecosystemImpact": "AI 워크로드 지원을 위한 인프라 투자 중요성 증대, 디지털 전환 가속화.",
+    "importance": 8,
+    "summary": "2026년 기업 AI 도입 성공을 위해 AI-Ready 인프라 구축이 필수적이며, 통합 데이터 플랫폼과 확장 가능한 클라우드 컴퓨팅이 핵심.",
+    "corporateAction": "AI 이니셔티브를 위한 클라우드 기반 통합 데이터 플랫폼 및 고성능 컴퓨팅 인프라 투자 계획 수립.",
+    "keywords": [
+      "AI 인프라",
+      "클라우드 컴퓨팅",
+      "데이터 플랫폼",
+      "Enterprise AI"
+    ],
+    "_key": "ef441687036a",
+    "_createdAt": "2026-07-22T08:49:23.688740+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688740+09:00"
+  },
+  {
+    "title": "Nvidia, 일본 과학, 은행, 공장, 자동차에 Blackwell 칩을 연결하며 진출 두 배로 늘려",
+    "date": "2026-07-16",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYNIiYTFW8_EhHpEcAz18-4cX6vkloREmbDbDGKww81y6_QflPUdoZZI7ial_ePFA-0ACYK5-6a2sor-UVWa1pLszJI0vGKHClOIc4EYvzTefHal3fxHEmMarCfnIPUwMeRYUv40E7lXG_uDnPF-pv59Mbi6O1q_vJEYy1yNfcf0wb1kGsx0JCuGLRE0OPUlJ3cYZ3RaOUwo5uTZ5p9eM=",
+    "category": "AI 하드웨어, 인프라",
+    "ecosystemImpact": "AI 인프라 시장의 NVIDIA 중심 성장 지속, 특정 국가의 AI 역량 강화.",
+    "importance": 8,
+    "summary": "NVIDIA가 일본 내 Blackwell 기반 AI 칩 및 소프트웨어 확장을 통해 과학, 금융, 제조업 등 광범위한 산업에 영향력 확대.",
+    "corporateAction": "최신 AI GPU 기술 동향 모니터링, 글로벌 기술 파트너십 강화를 통한 AI 인프라 경쟁력 확보.",
+    "keywords": [
+      "NVIDIA Blackwell",
+      "AI GPU",
+      "AI 인프라",
+      "글로벌 확장"
+    ],
+    "_key": "d67145b5a712",
+    "_createdAt": "2026-07-22T08:49:23.688747+09:00",
+    "_updatedAt": "2026-07-22T08:49:23.688747+09:00"
   }
 ]
