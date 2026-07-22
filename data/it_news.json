@@ -2543,5 +2543,144 @@
     "_key": "d67145b5a712",
     "_createdAt": "2026-07-22T08:49:23.688747+09:00",
     "_updatedAt": "2026-07-22T08:49:23.688747+09:00"
+  },
+  {
+    "title": "Manulife, Microsoft와 AI 거버넌스 및 혁신 가속화를 위한 파트너십 확대",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX8Pd0X8l-aQpp9OEVSLTawAW4sqRipBLS-W4XRAb0JpGwmcOiEnWJymylhuu9lO9sAYwskjCAhzpKO4wEg6wxCpAlSwPAOndiUC43p_cm2XZ2Lz_O5YB7ZEgHqx2cn9P4L-Xofqwqp9PA1x_lJo4r7SBdOpO4dmo9gyKbOBBBhTq0bIvrql2ob7RODS-Sd94LdMGlggG3DML3JE6ONXpGOTiHcerbQE5aKcFy-2YI8bsmn2rRIQG5mPPKptdDxwfABTTbCSx_eZbn8NEbA46W5-c",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 에이전트 확산 및 규제 준수 중요성 증대. 보험사 AI 도입 가속화.",
+    "importance": 10,
+    "summary": "Manulife가 Microsoft와 파트너십을 확장하여 Microsoft Agent 365를 도입, 전사적 AI 에이전트 거버넌스 및 보안을 강화하고 Microsoft 365 Copilot을 확대합니다.",
+    "corporateAction": "전사적 AI 에이전트 도입 시 강력한 거버넌스 및 보안 프레임워크 구축 벤치마킹.",
+    "keywords": [
+      "Manulife",
+      "Microsoft",
+      "AI Agent",
+      "IT 거버넌스",
+      "보험",
+      "AX"
+    ],
+    "_key": "c2252e07fac0",
+    "_createdAt": "2026-07-23T08:55:40.428002+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428002+09:00"
+  },
+  {
+    "title": "OpenAI, 기업용 AI 에이전트 솔루션 'Presence' 공개",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoqlMaWnWDZaR5mNW-qSM2KfL2nTH0Z4J_g8bzYcwmXNMwJd3N7Wn5u5ZyO7dKdSZlIrRaOmwXG93JgtXIy-citq0mT9Tv_CQcctSoPmRJJr9RCzaUsDCiQ8cpyT03G3zEjcm1Uizr3gC7S7Ad7cpw",
+    "category": "AI Agent, LLM",
+    "ecosystemImpact": "기업 내 AI 에이전트 도입 가속화, 신뢰성 및 통제 기능 강조.",
+    "importance": 10,
+    "summary": "OpenAI가 기업용 AI 에이전트 솔루션 'Presence'를 발표하며, 고객 지원, 보험금 청구 등 고부가가치 업무에 신뢰성 높은 에이전트 배포를 지원합니다.",
+    "corporateAction": "고가치 업무에 AI 에이전트 도입 시 정책, 가드레일, 에스컬레이션 규칙 설계 방안 검토.",
+    "keywords": [
+      "OpenAI",
+      "AI Agent",
+      "Enterprise AI",
+      "Presence"
+    ],
+    "_key": "b105365a0867",
+    "_createdAt": "2026-07-23T08:55:40.428022+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428022+09:00"
+  },
+  {
+    "title": "구글, 제미나이 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 출시…3.5 Pro는 지연",
+    "date": "2026-07-21",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrX5DwFpuyEUrFNZsxaP1xqRdSQeALlTrTTZUMJ6TjfzbI-gjSQRK1dZeI-ZpcKZ4-cssPRuhbyq_EoqCIiT2yPqgmx76YZHXQcPu9eW4IEFPlVK0visviWu8Th9D2ZmVffdN_vCzFddtkjLtJwjzrxZmWHkGSvWd7uAXStJmSTTUsQt8KpUzWzNZRxxFLdDLApFbLjib5ANMn2iLrCXsP9EdUuLaA9cxSjyoiy7u-Z0ijhg",
+    "category": "LLM, AI 보안",
+    "ecosystemImpact": "효율성과 비용에 중점을 둔 모델 확산. 보안 특화 AI 모델의 중요성 부각.",
+    "importance": 9,
+    "summary": "구글이 효율성과 낮은 지연시간에 초점을 맞춘 Gemini Flash 모델 3종(3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber)을 공개했으나, 고성능 플래그십 모델 3.5 Pro 출시는 지연되고 있습니다.",
+    "corporateAction": "기업용 AI 활용 시, 비용 효율적인 경량 모델과 보안 강화 모델의 도입 전략 고려.",
+    "keywords": [
+      "Google",
+      "Gemini",
+      "LLM",
+      "AI 보안",
+      "Flash 모델"
+    ],
+    "_key": "54a7ecc10456",
+    "_createdAt": "2026-07-23T08:55:40.428033+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428033+09:00"
+  },
+  {
+    "title": "국내 금융권 AX 대전환: AI 에이전트 활용 증대와 규제 과제",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7kEEPiH8BIWkhv2o6ou4LrotQHzshy6mB4ssbk_QhNlTknvcuM1tJduOSDMJO-GErJZPzskTQ-TCC0CkujEGDZ3uzf9MZQXh8ecRvZm9z5kd8EAIgqAILHiCQBAKfIMuKVby4sQGKS4",
+    "category": "보험/AX, AI Agent, 금융 규제",
+    "ecosystemImpact": "금융 서비스 효율성 증대와 함께 AI 거버넌스 및 고객 편의성 확보의 중요성 부각.",
+    "importance": 9,
+    "summary": "국내 은행들이 생성형 AI와 AI 에이전트를 신용평가, 대출심사, 고객 상담에 활용하며 업무 효율을 높이고 있으나, 고객 대면 업무 감소에 따른 불편 해소와 규제 완화가 과제로 지적됩니다.",
+    "corporateAction": "AI 도입 시 내부 효율성뿐 아니라 고객 경험을 고려한 AX 전략 수립 및 규제 대응 방안 마련.",
+    "keywords": [
+      "금융권",
+      "AX",
+      "AI Agent",
+      "금융 규제",
+      "고객 경험"
+    ],
+    "_key": "21a3d9658215",
+    "_createdAt": "2026-07-23T08:55:40.428040+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428040+09:00"
+  },
+  {
+    "title": "KB국민은행, AI 기반 공격 시뮬레이션 및 레드티밍 사례 공유",
+    "date": "2026-07-21",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB2mcwlubq9LobD9As_vjX3p9QYd-Pad2zHzWihxOy6weXKjchT2f_9MZPfOTdh5f6LDcM0RBMWEt8dUxhMrap9Jk3lqYvLcEtkCDinhTv6kKC3769uFwLMCQQuSQHKdcG-rkO_vBoYUC1Ssg4",
+    "category": "AI 보안, IT 거버넌스",
+    "ecosystemImpact": "AI 공격 위협 증가에 따른 금융권 보안 역량 강화 및 상시 검증 체계 전환 가속화.",
+    "importance": 9,
+    "summary": "KB국민은행이 AI 레드티밍 경험을 공유하며, AI 에이전트 공격에 대한 상시 검증 체계로의 전환과 보안 운영 전략 재설계의 중요성을 강조했습니다.",
+    "corporateAction": "AI 시대에 맞춰 AI 기반 공격 시뮬레이션(레드티밍)을 통한 보안 시스템 상시 검증 체계 도입 검토.",
+    "keywords": [
+      "KB국민은행",
+      "AI 보안",
+      "레드티밍",
+      "금융망분리",
+      "IT 거버넌스"
+    ],
+    "_key": "3d718f313c36",
+    "_createdAt": "2026-07-23T08:55:40.428047+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428047+09:00"
+  },
+  {
+    "title": "Trustible, 2026 Gartner® AI 거버넌스 플랫폼 매직 쿼드런트 '명예 언급'",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhobmxJugOv0icemEUzsedUiO8WBV6bEL1OMGOEeQSm6QdGR3nV8LvaRByGXcq6vSQ_SNVRu8BWckfVSHdYTlj_YJ5CnSToCxZvZhQ8jYJQPwJhH-Q1o_G8Nc0IVQ66uOSPwD-A96-G2Tb_t-4sZVZTLZKSLcgj85cVuIS4z78ilpsa28dIhrI6MHU85dpG_vlTousCjg7uDQfP8Jxiu75dKjBqCoBrnAs4DhZz_OGOPG2P1VOmc343IYn2Ur6Icr__7F_Fhw",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "규제 환경 속 기업의 책임 있는 AI 도입을 위한 AI 거버넌스 플랫폼 시장 성장.",
+    "importance": 8,
+    "summary": "Trustible이 가트너의 2026년 AI 거버넌스 플랫폼 매직 쿼드런트에서 '명예 언급'되며, 규제 기업을 위한 AI 거버넌스 플랫폼의 중요성을 부각했습니다.",
+    "corporateAction": "규제 준수를 위한 AI 거버넌스 플랫폼 도입 검토 및 관련 시장 동향 지속 모니터링.",
+    "keywords": [
+      "AI 거버넌스",
+      "Gartner",
+      "규제",
+      "Enterprise AI"
+    ],
+    "_key": "9443fbb0771d",
+    "_createdAt": "2026-07-23T08:55:40.428059+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428059+09:00"
+  },
+  {
+    "title": "AI 데이터센터 전력난 해소 위한 원자력 에너지 활용 부상",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjlXoYKZp39BwtQ9JloAf_svUUul16P7gtRBtYmQf2KPfQdZ9uyUQ802HcrlV1lIaXygUuixio0u9DHsHFWjV42u64hoaSkUIghOx2sXqcHuD8EZFC82FBiNffTOBYxJBodn_FMmK60EdhT2gd_P7k3x29q5965FCYsAeq4fsE1TLN668g9YAXGk5fzBkHWlEYr8WZVYbxy6wA01eP3rZUygGHbnNMXIrnSUjaojf2dTnJzNs7iymTLI-dOIPYlN9KcqA8nEpKBICykEyHZ4YdWVHkqSQdCw1TPNIIp3OUS5Cf677IRgjHsuMlE7BnG-NiNPia0Oxu89TsYRMSCByE0tAJlBrHpkEjuWpEFOk",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 인프라 확장에 필수적인 전력 공급 문제 해결을 위한 신재생 에너지 전환 가속화.",
+    "importance": 7,
+    "summary": "AI 데이터센터의 급증하는 전력 수요를 해결하기 위해 원자력 에너지가 대안으로 부상하고 있으며, 소형 모듈형 원자로(SMR)에 대한 투자가 확대되고 있습니다.",
+    "corporateAction": "AI 인프라 구축 계획 시 전력 공급 안정성 및 지속가능성을 위한 에너지 솔루션 검토.",
+    "keywords": [
+      "AI 데이터센터",
+      "전력",
+      "원자력 에너지",
+      "SMR",
+      "인프라"
+    ],
+    "_key": "8ad122408dc3",
+    "_createdAt": "2026-07-23T08:55:40.428066+09:00",
+    "_updatedAt": "2026-07-23T08:55:40.428066+09:00"
   }
 ]
