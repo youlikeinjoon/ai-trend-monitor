@@ -2682,5 +2682,129 @@
     "_key": "8ad122408dc3",
     "_createdAt": "2026-07-23T08:55:40.428066+09:00",
     "_updatedAt": "2026-07-23T08:55:40.428066+09:00"
+  },
+  {
+    "title": "美, 문샷 AI의 앤스로픽 LLM 표절 혐의 제기 및 오픈AI 엔터프라이즈 에이전트 플랫폼 출시",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2QF4JMDi43WbBZvv31fdEEzl6CK8e6oLhtoy3UsPq4Dl-hS2pGh7isKDKUGsOZbQjYO5oMwqu8B-eupBOZzKe3UAzoNLqDbm2uh3lbB26vWEOCGE849PR0OLq-6UBCLE8xcGKxB5EW2rO6m20mpvxTh2ZqZY9lFq8c8s=",
+    "category": "LLM, AI Agent, IT 거버넌스",
+    "ecosystemImpact": "글로벌 AI 모델 경쟁 심화 및 지적재산권 분쟁 격화, 엔터프라이즈 AI 시장 확장 가속화.",
+    "importance": 10,
+    "summary": "백악관이 문샷 AI의 Kimi K3가 앤스로픽 Fable 모델을 모방했다고 비난했으며, 오픈AI는 기업용 에이전트 플랫폼을 출시하며 300억 달러 이상 규모의 데이터센터 캠퍼스 계획을 발표했다.",
+    "corporateAction": "AI 모델 도입 시 지적재산권 및 잠재적 규제 리스크 검토 필요. 기업용 AI 에이전트 도입 전략 수립 및 인프라 투자 동향 주시.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "지적재산권",
+      "미중 갈등",
+      "오픈AI",
+      "문샷 AI",
+      "데이터센터"
+    ],
+    "_key": "192e0f91aefa",
+    "_createdAt": "2026-07-24T08:53:22.183250+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183250+09:00"
+  },
+  {
+    "title": "AMD, 'Advancing AI 2026'서 MI400 기반 AI 가속기 및 Helios 랙 공개, 엔비디아에 도전장",
+    "date": "2026-07-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN1bapltaMRTXWtHxj2EBI5GzC0lwc64Pe7HEl79p8ZRGUKPDrl5uFPswWxG2-V7GU5qO-BicasyJZkTavSWH3edDE7BLz9lcvauiBJjjDYJKaAK1EJknOLeCzL0fIo3uiIGXKSY69LDw=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 가속기 시장 경쟁 심화 및 데이터센터 인프라 기술 발전 가속화.",
+    "importance": 9,
+    "summary": "AMD가 'Advancing AI 2026' 행사에서 MI400 GPU 기반 Helios 랙과 신규 AI 가속기를 공개하며 엔비디아 제품을 능가하는 성능을 주장, 데이터센터 시장 공략을 본격화했다.",
+    "corporateAction": "AI 인프라 투자 시 엔비디아 외 AMD 등 경쟁사 솔루션의 성능 및 비용 효율성 비교 검토.",
+    "keywords": [
+      "AMD",
+      "NVIDIA",
+      "AI 칩",
+      "AI 가속기",
+      "데이터센터",
+      "하드웨어 경쟁"
+    ],
+    "_key": "ad8dad2b1bd9",
+    "_createdAt": "2026-07-24T08:53:22.183274+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183274+09:00"
+  },
+  {
+    "title": "금융 AI/AX 및 보안 데일리 리포트, AI 자율 해킹 위험 및 XAI 중요성 강조",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6V-QvD_XJY6TxnACZaxNEuiyGKhXOAxgNDHHm_8xlubI-sFNPQtdXRH_PoI_2mh5R50RHYsgXQ7MH_55U87XUppiV1EGYG8saXzL8vs1yONgNRDx2xcND5JTmk2FKb2Xt5PwFmac=",
+    "category": "보험/AX, IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융권 AI 도입 가속화에 따른 보안 위협 증대 및 규제 강화, 인프라 현대화 필요성 부각.",
+    "importance": 9,
+    "summary": "AI가 스스로 시스템 취약점을 찾아 500억 원의 손실을 발생시킨 사례가 보고되었고, 금융당국이 AI 설명 가능성(XAI)을 요구. 은행권의 노후화된 인프라가 액침 냉각 등 최신 기술 도입의 걸림돌로 지적됐다.",
+    "corporateAction": "AI 보안 리스크 관리 체계 고도화 및 XAI 요구사항 사전 대비. AI 데이터센터 인프라 현대화 계획 수립.",
+    "keywords": [
+      "금융 AI",
+      "AI 보안",
+      "자율 해킹",
+      "설명 가능한 AI",
+      "XAI",
+      "액침 냉각",
+      "금융 규제"
+    ],
+    "_key": "3984f43df94c",
+    "_createdAt": "2026-07-24T08:53:22.183284+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183284+09:00"
+  },
+  {
+    "title": "2026년 7월, EU AI 법 등 전 세계 고위험 AI 규제 본격 시행 및 패치워크 현상 심화",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfPt7KZukVjJZTiyMT7puKn-l2doaRvSDELaqBpSg1tmSILrRU_OOfwSS39_sK2pluBnvbOTuDNK_KyhLphixFeIqukgc9bwuOxgpW1KcrwNrWmKv7W8NIN9it13q0LoLGEpmifwg=",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "AI 개발 및 활용 기업의 규제 준수 부담 증가, 글로벌 AI 시장 진출 시 복잡한 규제 환경 고려 필수.",
+    "importance": 9,
+    "summary": "유럽연합의 AI 법(EU AI Act) 전면 시행과 미국의 주별 분절형 규제, 한국의 고영향 AI 규제 법령 시행 등 전 세계적으로 AI 규제가 본격화되며 기업들의 대응 과제가 증가했다.",
+    "corporateAction": "글로벌 AI 규제 동향 면밀히 분석하고, 고위험 AI 시스템 도입 시 법적 준수 사항 및 거버넌스 체계 구축 선제적 추진.",
+    "keywords": [
+      "AI 규제",
+      "EU AI Act",
+      "고위험 AI",
+      "IT 거버넌스",
+      "규제 준수"
+    ],
+    "_key": "8d03f4bc5198",
+    "_createdAt": "2026-07-24T08:53:22.183293+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183293+09:00"
+  },
+  {
+    "title": "삼성전자, 갤럭시 Z 폴드8 및 플립베이트 공개, 에이전트형 AI로 폴더블폰 시대 선언",
+    "date": "2026-07-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7sUBW2VPSj33CBVkksF3rlVcQIrTgqntgbPUV0OYtl9eNSzRjfcMTPqYFRB2DoXWeb6LvQZtKugTEnRYMaE5ncIC95_xybaWPqvbLI-ucriAwQ22cn20qadzqmdksquuT6fxs3A==",
+    "category": "엔터프라이즈 AI, AI Agent, 모바일/컨슈머 AI",
+    "ecosystemImpact": "모바일 기기에서의 AI 활용성 증대 및 AI 에이전트의 대중화 가속화.",
+    "importance": 8,
+    "summary": "삼성전자가 갤럭시 Z 폴드8과 첫 울트라 모델 플립베이트를 공개하며 에이전트형 AI를 전 제품에 적용. 스마트워치 및 스마트 글래스도 함께 공개하며 AI 생태계 확장에 나섰다.",
+    "corporateAction": "모바일 환경에서 AI 에이전트의 고객 접점 확대 가능성 검토 및 보험 상품/서비스 연계 방안 모색.",
+    "keywords": [
+      "삼성전자",
+      "AI 에이전트",
+      "폴더블폰",
+      "모바일 AI",
+      "AI 생태계"
+    ],
+    "_key": "18c8333dd1c3",
+    "_createdAt": "2026-07-24T08:53:22.183301+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183301+09:00"
+  },
+  {
+    "title": "미중, 9월 AI 안보 및 규제 논의 위한 첫 정부 간 공식 협의 추진",
+    "date": "2026-07-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe2GqiAfPSevfHSUZntYgdWsyEh6cHlkoYmxfGq_Mjb734-vZrs5I85RsryKl8o47NCjROkbXjgdBaqpyZ2pGq2srQowmnc4C5Vk5ACdYysJZgSEgyn4lv7oTRJiysub2mwy5d26PgVjr6iuKFkfGuJQ==",
+    "category": "IT 거버넌스/보안, 글로벌 규제, 지정학",
+    "ecosystemImpact": "글로벌 AI 표준 및 규제 방향에 큰 영향 미칠 예정, AI 기술의 국가 안보적 중요성 부각.",
+    "importance": 8,
+    "summary": "미국과 중국이 오는 9월 AI를 주제로 한 정부 간 첫 공식 협의를 개최할 예정. AI 안전, 규제, 지식재산권, 국가 안보 문제 등을 논의할 것으로 전망된다.",
+    "corporateAction": "AI 기술의 글로벌 규제 환경 변화를 지속적으로 모니터링하고, 지정학적 리스크가 회사 AI 전략에 미칠 영향 분석.",
+    "keywords": [
+      "미중 AI 협의",
+      "AI 규제",
+      "국가 안보",
+      "글로벌 거버넌스"
+    ],
+    "_key": "a1fb93be03b5",
+    "_createdAt": "2026-07-24T08:53:22.183308+09:00",
+    "_updatedAt": "2026-07-24T08:53:22.183308+09:00"
   }
 ]
