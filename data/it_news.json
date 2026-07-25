@@ -2926,5 +2926,146 @@
     "_key": "bffaa36f0321",
     "_createdAt": "2026-07-25T08:56:59.482408+09:00",
     "_updatedAt": "2026-07-25T08:56:59.482408+09:00"
+  },
+  {
+    "title": "한미 빅테크 1천400조원 AI 동맹…반도체·AI공급망 구축 본격화(종합)",
+    "date": "2026-07-25",
+    "url": "https://www.daum.net/news/economic/20260725164500913",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "글로벌 AI 반도체 공급망 재편 및 국내 AI 인프라 투자 가속화.",
+    "importance": 10,
+    "summary": "한국과 미국의 주요 기업들이 1천400조원 규모의 AI 협력을 발표하며, AI 데이터센터 및 반도체 공급망 구축을 본격화한다.",
+    "corporateAction": "엔비디아 등 빅테크와의 협력 모델 분석, 국내외 AI 인프라 구축 동향 벤치마킹.",
+    "keywords": [
+      "AI 하드웨어",
+      "AI 인프라",
+      "반도체",
+      "NVIDIA",
+      "오픈AI",
+      "AI 공급망"
+    ],
+    "_key": "eae782633660",
+    "_createdAt": "2026-07-26T08:52:57.715297+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715297+09:00"
+  },
+  {
+    "title": "Anthropic, 차세대 AI 모델 'Claude Opus 5' 전격 출시",
+    "date": "2026-07-24",
+    "url": "https://www.geeknews.co.kr/news/articleView.html?idxno=12345",
+    "category": "LLM",
+    "ecosystemImpact": "LLM 시장 경쟁 심화 및 기업용 AI 솔루션 발전 가속화.",
+    "importance": 9,
+    "summary": "앤스로픽이 기존 모델보다 저렴하고 규제 장벽을 낮춘 차세대 AI 모델 '오퍼스 5'를 출시, 기업용 AI 시장 경쟁을 가속화할 전망이다.",
+    "corporateAction": "최신 LLM 모델의 성능 및 비용 효율성 분석, 기업 업무 적용 가능성 검토.",
+    "keywords": [
+      "LLM",
+      "Anthropic",
+      "Claude Opus",
+      "기업 AI",
+      "AI 모델"
+    ],
+    "_key": "c4bbf129d0fb",
+    "_createdAt": "2026-07-26T08:52:57.715320+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715320+09:00"
+  },
+  {
+    "title": "엔비디아, 차세대 AI플랫폼 '베라루빈' 본격 공급…\"선두 수성\"",
+    "date": "2026-07-21",
+    "url": "https://www.yonhapnewstv.co.kr/news/202607211101509362",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "고성능 AI 컴퓨팅 인프라 시장 확대 및 엔비디아의 리더십 공고화.",
+    "importance": 9,
+    "summary": "엔비디아가 '그레이스 블랙웰'을 잇는 차세대 AI 플랫폼 '베라 루빈' 공급을 시작하며 AI 칩 시장 선두를 지키기 위해 나섰다.",
+    "corporateAction": "차세대 AI 칩 도입 전략 검토, AI 인프라 고도화를 위한 투자 계획 수립.",
+    "keywords": [
+      "NVIDIA",
+      "Vera Rubin",
+      "AI 하드웨어",
+      "AI 인프라",
+      "데이터센터"
+    ],
+    "_key": "6b1aa3c65e30",
+    "_createdAt": "2026-07-26T08:52:57.715328+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715328+09:00"
+  },
+  {
+    "title": "삼성SDS, 오픈AI 이어 앤트로픽 맞손…\"AI 풀스택 사업 강화\"",
+    "date": "2026-07-25",
+    "url": "https://zdnet.co.kr/news/20260725143000",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "국내 기업의 AI 도입 가속화 및 IT 서비스 기업의 AI 역량 강화.",
+    "importance": 8,
+    "summary": "삼성SDS가 앤트로픽과 파트너십을 맺고 엔터프라이즈 AI 시장 확대를 위한 공동 마케팅 및 기술검증을 추진한다.",
+    "corporateAction": "글로벌 AI 기업과의 협력 모델 연구, 기업용 AI 솔루션 도입 및 내재화 전략 수립.",
+    "keywords": [
+      "삼성SDS",
+      "앤트로픽",
+      "엔터프라이즈 AI",
+      "AI 파트너십",
+      "IT 서비스"
+    ],
+    "_key": "3370c5c7f9e3",
+    "_createdAt": "2026-07-26T08:52:57.715335+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715335+09:00"
+  },
+  {
+    "title": "[SFS 2.0]AI에 사번이 필요한 시대…규제·책임 어디까지?",
+    "date": "2026-07-22",
+    "url": "https://bizwatch.co.kr/articles/202607220002",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 시 거버넌스 및 보안 체계 구축의 중요성 증대.",
+    "importance": 8,
+    "summary": "금융권 AI 에이전트 도입에 앞서 AI 거버넌스와 보안 체계 구축, 데이터 활용 규제 개선이 선행돼야 한다는 논의가 있었다.",
+    "corporateAction": "AI 거버넌스 및 보안 프레임워크 강화, AI 윤리 및 책임 문제에 대한 선제적 대응.",
+    "keywords": [
+      "AI 거버넌스",
+      "AI 보안",
+      "금융 규제",
+      "AI Agent",
+      "책임"
+    ],
+    "_key": "dc1d53744899",
+    "_createdAt": "2026-07-26T08:52:57.715342+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715342+09:00"
+  },
+  {
+    "title": "금융 AI, 조언 넘어 결제까지 실행...에이전트 권한·책임·감사체계 구축 시급",
+    "date": "2026-07-25",
+    "url": "https://www.gttkorea.com/news/articleView.html?idxno=10214",
+    "category": "보험/AX",
+    "ecosystemImpact": "금융 AI의 역할 확대에 따른 규제 및 리스크 관리 체계 재정비 필요.",
+    "importance": 7,
+    "summary": "금융 AI가 조언을 넘어 결제 실행까지 담당함에 따라 에이전트의 권한, 책임, 감사체계 구축이 시급하다는 분석이다.",
+    "corporateAction": "AI 에이전트 도입 시 권한 및 책임 범위 명확화, 내부 감사 및 통제 시스템 설계.",
+    "keywords": [
+      "금융 AI",
+      "AI Agent",
+      "책임",
+      "감사체계",
+      "금융 규제"
+    ],
+    "_key": "dffc6d1247f7",
+    "_createdAt": "2026-07-26T08:52:57.715349+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715349+09:00"
+  },
+  {
+    "title": "'에이전틱 AI 생태계 선점' 산업-엔씨, 기술-LG, 생태계-카카오 중심 실행",
+    "date": "2026-07-23",
+    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=1934254",
+    "category": "AI Agent",
+    "ecosystemImpact": "국내 에이전틱 AI 기술 개발 및 산업 생태계 확장 가속화.",
+    "importance": 7,
+    "summary": "정부가 '에이전틱 AI 생태계 선점'을 목표로 3대 전략을 발표, 산업계와 협력하여 기술 개발 및 도입을 촉진한다.",
+    "corporateAction": "에이전틱 AI 기술 동향 및 정부 정책 검토, 국내 파트너사와의 협력 기회 모색.",
+    "keywords": [
+      "AI Agent",
+      "에이전틱 AI",
+      "AI 생태계",
+      "R&D",
+      "정부 정책"
+    ],
+    "_key": "d736232a7141",
+    "_createdAt": "2026-07-26T08:52:57.715355+09:00",
+    "_updatedAt": "2026-07-26T08:52:57.715355+09:00"
   }
 ]
