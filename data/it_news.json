@@ -2869,13 +2869,13 @@
   },
   {
     "title": "금융당국, AI 보안 역량 갖춘 금융사에 망분리 전면 해제 추진",
-    "date": "2026-07-24",
+    "date": "2026-07-26",
     "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpQlPIFgvgItBrHIUk5Mx0jFmYAvlv-PtaDMpAgQ1fEqh1-mw2XVAKA1ZpAY_lEDrbS0Ong3NcxIA1gmu1pyhfHoFd6-BJ-lu88KkSR_VWXqPzkQCWZYGKx_nlkwl_z7S0LB0mpDQuNKs==",
     "category": "IT 거버넌스/보안, 금융 규제",
     "ecosystemImpact": "금융권 AI 도입의 규제 장벽 완화 및 AI 보안 기술 투자 증대.",
     "importance": 9,
-    "summary": "금융당국이 AI 보안 역량을 갖춘 금융사를 선별하여 연내 망분리 규제를 전면 해제할 계획.",
-    "corporateAction": "AI 기반 보안 시스템 고도화 및 규제 완화에 따른 AI 활용 전략 재검토.",
+    "summary": "금융당국이 AI 보안 역량을 갖춘 금융사를 선별하여 연내 망분리 규제를 전면 해제할 계획. / [추가] 금융당국이 올해 말부터 AI 활용 역량이 뛰어난 금융사에 대해 망분리 전면 해제를 허용할 계획이며, 이는 금융권 AI 전환(AX)의 중요한 전환점이 될 것입니다.",
+    "corporateAction": "AI 기반 보안 시스템 고도화 및 규제 완화에 따른 AI 활용 전략 재검토. | [추가] AI 기반 보안 강화 및 클라우드 전환 전략 수립, 혁신금융서비스 적극 활용 검토.",
     "keywords": [
       "금융 규제",
       "망분리",
@@ -2885,7 +2885,7 @@
     ],
     "_key": "248a6efcb1a7",
     "_createdAt": "2026-07-25T08:56:59.482386+09:00",
-    "_updatedAt": "2026-07-25T08:56:59.482386+09:00"
+    "_updatedAt": "2026-07-27T08:53:04.136733+09:00"
   },
   {
     "title": "기업용 생성형 AI 플랫폼 기업 제논, 코스닥 일반상장 추진",
@@ -3067,5 +3067,126 @@
     "_key": "d736232a7141",
     "_createdAt": "2026-07-26T08:52:57.715355+09:00",
     "_updatedAt": "2026-07-26T08:52:57.715355+09:00"
+  },
+  {
+    "title": "NVIDIA, SK그룹, 네이버, 한국 내 AI 팩토리 인프라 확충 협력",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-DPIIihZXuifBJ3es97AfrD44OQGuy5Fmt8nxm7s_jLjcH_r34XfZkE7puK4NlSnY9azJBo-pMLeJnzrwLew9aQO9t367O01DqyrX5T3wxHFSL8X8XFqT1eMu9Ai2RZ4xZC0r0TUW_yQlFqrc9h5Zo-FcESQr_vSCckHDu_PHJBY-H64Thus0DNBntl48nReRHozpwBiB4qdIPxlv2rQysEIuySRdNrrntYyzIsYmaSRNns1",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "국가 차원의 AI 인프라 강화로 산업 전반의 AI 개발 가속화.",
+    "importance": 10,
+    "summary": "NVIDIA가 SK그룹, 네이버와 협력하여 한국에 5천억 달러 규모의 AI 인프라 'AI 팩토리'를 구축하며 Blackwell 플랫폼 등을 도입할 예정입니다.",
+    "corporateAction": "초거대 AI 모델 학습 및 서비스 운영을 위한 고성능 컴퓨팅 인프라 확보 전략 벤치마킹.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 인프라",
+      "AI 팩토리",
+      "SK그룹",
+      "네이버"
+    ],
+    "_key": "39978e761644",
+    "_createdAt": "2026-07-27T08:53:04.136709+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136709+09:00"
+  },
+  {
+    "title": "문샷AI '키미 K3' 오픈소스 모델 공개, AI 모델 경쟁 심화",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh1ACQutPk7ejcZjsrGBFXXsoMaJXpKZzSjpdWAKboagTO5RnPoPF9P6lXncPZ9CkdvWeWlUpz4ZJsaZxBXO6FcNKWW8-Yzy8-iGyTGbNn7CHOFwPWWOELNJLsDCRjZXF70nzd2RE4xJkCD3whoAPaWVYu1ZVv0_NWYnpKWiL6P29V0ZbU16fWt8AKe6jqMM4_aDGMDkgaB7inzre3UP-vNKBgKSbk1VOUBzwfKf03a_fulWdSr-JB3qjRP0wGz6G5eQpYdJkva04oYKpfnmeoy9EGyC8TfDeQ_KuClSqDQKg9kDNBKqoDKpuKgZiWxYoGdykkBriD8cFm",
+    "category": "LLM, 글로벌 트렌드",
+    "ecosystemImpact": "오픈소스 LLM의 성능 상향 평준화 및 시장 경쟁 격화, 반도체 시장에 파장.",
+    "importance": 9,
+    "summary": "중국 문샷AI가 2조 8천억 개 매개변수 규모의 오픈소스 모델 '키미 K3'를 공개하여 벤치마크 1위에 올랐으며, 이는 엔비디아 시총 하락 등 반도체 시장에 영향을 미쳤습니다.",
+    "corporateAction": "글로벌 최신 LLM 동향 및 오픈소스 모델 활용 전략 분석, AI 모델 도입 검토.",
+    "keywords": [
+      "LLM",
+      "오픈소스 AI",
+      "Kimi K3",
+      "AI 모델",
+      "빅테크"
+    ],
+    "_key": "d0f6d4f232b4",
+    "_createdAt": "2026-07-27T08:53:04.136748+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136748+09:00"
+  },
+  {
+    "title": "보험업계 AI 도입 성공의 핵심은 '실행력' 강조",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdoYmL8MiYbCWMvns_96YMdPbb4nsp0OnPVin9OVlaNcUGneYFRQpLX-ehe4iwhu_EmvoD2l_6OEWQnoNYyocYgWBEz8xlEEo1WrwxPNl2Ay2L3l2A6ZiDisTjY2VrpxMHUvbjgtnofH1u1ubT3iZb21d3",
+    "category": "보험/AX",
+    "ecosystemImpact": "AI 기술 도입을 넘어 실제 비즈니스 가치 창출을 위한 실행력의 중요성 부각.",
+    "importance": 8,
+    "summary": "보험연구원 보고서에 따르면 보험업계의 AI 도입 성패는 기술 자체보다 데이터 관리, 조직 문화 혁신 등 '실행력'에 달려 있으며, 핵심 업무 확산이 미흡한 실정입니다.",
+    "corporateAction": "AI 도입 시 기술뿐 아니라 데이터 거버넌스, 조직 역량 강화 및 업무 프로세스 혁신 병행.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "AI 도입 사례",
+      "데이터 거버넌스",
+      "조직문화"
+    ],
+    "_key": "bd4736d22e8c",
+    "_createdAt": "2026-07-27T08:53:04.136757+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136757+09:00"
+  },
+  {
+    "title": "OpenAI, xAI, 메타, 연이어 새로운 LLM 발표하며 경쟁 가속화",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXivtXP9Tu7fswb3z2IGp9DHlM6SlA0NzKViWvH9OgZfxcJv_3ZPWZGFHWjGRPpgGQuz_CgPPNYcaE5RcYmkX2rXVuAgJWY8fav5EGzHVGEoyfLU-GCGU4SKts_CMkOh7KabvAgA==",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "AI 모델 성능 및 기능 고도화, 플랫폼으로서의 AI 활용도 증대.",
+    "importance": 8,
+    "summary": "OpenAI의 GPT-5.6 Sol, xAI의 Grok 4.5, 메타의 Muse Spark 1.1 등 빅테크 기업들이 연이어 신규 LLM을 출시하며 에이전트 및 코딩 특화 기능으로 경쟁하고 있습니다.",
+    "corporateAction": "최신 LLM 모델들의 기능 및 성능 평가를 통한 비즈니스 적용 가능성 모색.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "GPT-5.6",
+      "Grok 4.5",
+      "Muse Spark"
+    ],
+    "_key": "fdda577341c4",
+    "_createdAt": "2026-07-27T08:53:04.136764+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136764+09:00"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed, RTEB 벤치마크 1위 달성하며 에이전틱 검색 고도화",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Hf6el7J4Wh4CCiwYFY_mSq2fJ9sHvcSq9yQbURBDxFb9OxQqCWrTYhhzj_h68m6uK0S48zJvFSGgxoQxYDV8ttC9mgF9428IaD2F4qOGSwOSbQiKbW4iZde20ET1-I-t-ExSzxMM027tJkOFT1Wh_WVtGg5Bpw==",
+    "category": "RAG, AI Agent, AI 모델",
+    "ecosystemImpact": "RAG 및 AI 에이전트 시스템의 검색 품질 향상, 엔터프라이즈 AI 적용 가속화.",
+    "importance": 7,
+    "summary": "NVIDIA가 새로운 임베딩 모델 Nemotron 3 Embed를 출시하여 RTEB 벤치마크에서 1위를 차지했으며, 이는 RAG 및 에이전틱 검색 품질 향상에 기여합니다.",
+    "corporateAction": "RAG 및 AI 에이전트 시스템 도입 시 최신 임베딩 모델의 성능 및 활용성 검토.",
+    "keywords": [
+      "RAG",
+      "AI Agent",
+      "임베딩 모델",
+      "NVIDIA",
+      "Nemotron 3 Embed"
+    ],
+    "_key": "e49e22b588ea",
+    "_createdAt": "2026-07-27T08:53:04.136772+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136772+09:00"
+  },
+  {
+    "title": "KT, 800명 규모 조직으로 금융 AX(AI 전환) 사업 본격 확대",
+    "date": "2026-07-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnVQslLXQhmQkizEeMVlEJVO24dOupKb_sFSvYrE93xEObgAgo-7tEPY_FvHn_FyhCtmuVSNaxCgMYe7PvRRdyG-O-gH5xLePT84tiqbq5oS89ioWbclUqEtTpt0NbQ==",
+    "category": "보험/AX, 엔터프라이즈 AI",
+    "ecosystemImpact": "통신사의 금융 AI 시장 진출 및 경쟁 심화, 금융권 AI 서비스 확장 촉진.",
+    "importance": 7,
+    "summary": "KT가 800명 규모의 전담 조직을 앞세워 금융 AI 전환(AX) 사업을 본격적으로 확대하고 있으며, 이는 초개인화된 금융 서비스 수요 증가에 대응하기 위한 움직임입니다.",
+    "corporateAction": "경쟁사 및 이종 산업의 AI 사업 추진 동향 분석, AX 전략 수립 및 파트너십 기회 모색.",
+    "keywords": [
+      "AX",
+      "금융 AI",
+      "KT",
+      "엔터프라이즈 AI",
+      "디지털 전환"
+    ],
+    "_key": "2e2bad50228f",
+    "_createdAt": "2026-07-27T08:53:04.136779+09:00",
+    "_updatedAt": "2026-07-27T08:53:04.136779+09:00"
   }
 ]
