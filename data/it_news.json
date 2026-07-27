@@ -3188,5 +3188,125 @@
     "_key": "2e2bad50228f",
     "_createdAt": "2026-07-27T08:53:04.136779+09:00",
     "_updatedAt": "2026-07-27T08:53:04.136779+09:00"
+  },
+  {
+    "title": "대한민국, 샌프란시스코 AI 서밋 통해 글로벌 빅테크와 9500억 달러 규모 AI 동맹 체결",
+    "date": "2026-07-27",
+    "url": "https://www.donga.com/news/article/all/20260727/134372263/1",
+    "category": "국가전략/AI인프라",
+    "ecosystemImpact": "한국이 AI 풀스택 선도국으로 도약하며 글로벌 AI 생태계에 큰 영향.",
+    "importance": 10,
+    "summary": "이재명 대통령의 미국 순방 중 열린 '샌프란시스코 AI 서밋'에서 삼성, SK 등 국내 기업과 엔비디아, 오픈AI 등 글로벌 빅테크 간 총 9500억 달러 규모의 AI 및 반도체 공급 협력이 발표되었다.",
+    "corporateAction": "글로벌 AI 전략 및 파트너십 기회 탐색, 국내 AI 생태계 참여 확대 방안 모색.",
+    "keywords": [
+      "AI 동맹",
+      "국가 AI 전략",
+      "빅테크",
+      "AI 인프라",
+      "한미 협력"
+    ],
+    "_key": "46c6001a7b35",
+    "_createdAt": "2026-07-28T08:56:17.598522+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598522+09:00"
+  },
+  {
+    "title": "엔비디아, SKT·네이버와 개방형 AI 보안 협의체 '오픈 시큐어 AI 얼라이언스' 출범",
+    "date": "2026-07-27",
+    "url": "https://moneym.mt.co.kr/article.html?no=202607277261b",
+    "category": "AI 보안/IT 거버넌스",
+    "ecosystemImpact": "AI 보안 표준 및 기술 공유 촉진, 개방형 생태계 기반 보안 역량 강화에 기여.",
+    "importance": 9,
+    "summary": "엔비디아가 마이크로소프트, 팔로알토 등 37개 글로벌 ICT 기업과 함께 '오픈 시큐어 AI 얼라이언스'를 출범했으며, SK텔레콤과 네이버가 초기부터 참여했다.",
+    "corporateAction": "AI 보안 및 거버넌스 전략 수립 시 개방형 표준 및 협력체 동향 적극 참고, 참여 검토.",
+    "keywords": [
+      "AI 보안",
+      "IT 거버넌스",
+      "엔비디아",
+      "개방형 생태계",
+      "협의체"
+    ],
+    "_key": "f79eff2660bc",
+    "_createdAt": "2026-07-28T08:56:17.598564+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598564+09:00"
+  },
+  {
+    "title": "네이버, 엔비디아 및 브룩필드와 14조 원 규모 'AI 팩토리' 구축 협력",
+    "date": "2026-07-27",
+    "url": "https://magazine.hankyung.com/business/article/202607277261b",
+    "category": "AI 하드웨어/인프라",
+    "ecosystemImpact": "국내 AI 컴퓨팅 인프라 대폭 확장, 차세대 GPU 기반 AI 개발 가속화 기대.",
+    "importance": 9,
+    "summary": "네이버가 엔비디아의 전략적 투자 유치와 브룩필드와의 협력을 통해 총 100억 달러(약 14조 6000억 원) 규모의 글로벌 AI 팩토리 구축에 나선다.",
+    "corporateAction": "고성능 AI 인프라 구축 동향 벤치마킹, 클라우드 및 온프레미스 AI 자원 계획에 반영.",
+    "keywords": [
+      "AI 팩토리",
+      "NVIDIA",
+      "Blackwell",
+      "AI 인프라",
+      "네이버"
+    ],
+    "_key": "2f44f440f1b8",
+    "_createdAt": "2026-07-28T08:56:17.598574+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598574+09:00"
+  },
+  {
+    "title": "AI 활용 공격 고도화에 맞서 LLM 및 RAG 기반 AI 보안 에이전트 도입 확산",
+    "date": "2026-07-27",
+    "url": "https://v.daum.net/v/20260727144933758",
+    "category": "AI 보안/AI Agent",
+    "ecosystemImpact": "사이버 보안 패러다임 변화, AI 기반 공격-방어 경쟁 심화 및 새로운 보안 솔루션 시장 형성.",
+    "importance": 8,
+    "summary": "AI가 피싱 메일 및 악성코드 제작을 넘어 취약점 탐색 및 공격 코드 개발 단계로 발전함에 따라, LLM 및 RAG 기반의 자율형 AI 보안 에이전트를 활용한 방어 기술 도입이 확산되고 있다.",
+    "corporateAction": "금융망분리 환경 내 AI 보안 강화 방안 검토, AI Agent 기반 이상 징후 탐지 시스템 도입 추진.",
+    "keywords": [
+      "AI 보안",
+      "LLM",
+      "RAG",
+      "AI Agent",
+      "사이버 공격"
+    ],
+    "_key": "ae231cf0cf4c",
+    "_createdAt": "2026-07-28T08:56:17.598582+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598582+09:00"
+  },
+  {
+    "title": "보험 업계, AI 전환(AX) 가속화 및 AI 기반 보험사기 방지 체계 구축",
+    "date": "2026-07-24",
+    "url": "https://v.daum.net/v/20260724130006240",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 업무 전반의 효율성 증대 및 고객 경험 개선, AI 사기 방지 시장 성장.",
+    "importance": 8,
+    "summary": "보험사들이 AI STS(Sales Training System), 보장분석 AI 서포터 등 AI 활용을 확대하고 있으며, AI 활용 신종 보험사기에 대응하기 위한 AI 기반 탐지 체계 구축이 논의되고 있다.",
+    "corporateAction": "보험 상품 개발, 언더라이팅 자동화, 보험금 청구 및 사기 탐지에 AI 도입 적극 검토.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "AI 사기 방지",
+      "언더라이팅 자동화",
+      "금융 규제"
+    ],
+    "_key": "a7866a941798",
+    "_createdAt": "2026-07-28T08:56:17.598594+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598594+09:00"
+  },
+  {
+    "title": "UNIST, 저전력 AI 칩 핵심 기술 '로직인메모리 반도체 설계 자동화' 개발",
+    "date": "2026-07-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvO7_m8UAFdiFDFmI4ES3HxG9VAba94oL7Vy2tjD65XZbKgMQ2uLknbJAjBw5jQZgCHk7P2Se1n0uapVotYjUKAa_kw_RqQ0bypdKeXTeEoikZ2VHv_wYMUJURxBdXznYRpnYdoowt-I9qZsEd6-ym6zPFmmoFjc7RoMWzlNApFCa5uRkhY08GiEj-AbS Sx11y9A-XAKjHSxbF-7N12FvQJXO2jfeIVM8nnGc69kjtpv4BbPqb_PfVO6OaVwUndWXerrE6RJGKKkp1WvDoBZQhA7oZvSEGyw19E4B7sg5F3isTcgobu65pZYa9sF3hnC1ZEBOT1-_Y5ZYS3IJfdt1RE5wn2d4-zZ4bZgRPvbOdylwdHysVB_ODUiCrHf0VZQ==",
+    "category": "AI 하드웨어/반도체",
+    "ecosystemImpact": "차세대 AI 반도체 효율성 향상, AI 컴퓨팅 비용 절감 및 온디바이스 AI 발전 촉진.",
+    "importance": 7,
+    "summary": "UNIST 연구팀이 메모리 벽 문제를 해결하는 '로직인메모리(Logic-in-Memory)' 반도체의 회로 배치를 자동으로 최적화하는 기술을 개발하여 전력 소모를 20% 가까이 줄였다.",
+    "corporateAction": "장기적인 관점에서 AI 인프라 구축 시 저전력, 고효율 AI 칩 기술 동향 주시 및 도입 가능성 검토.",
+    "keywords": [
+      "AI 반도체",
+      "로직인메모리",
+      "저전력 AI",
+      "하드웨어 혁신",
+      "UNIST"
+    ],
+    "_key": "a36f4e534ffb",
+    "_createdAt": "2026-07-28T08:56:17.598603+09:00",
+    "_updatedAt": "2026-07-28T08:56:17.598603+09:00"
   }
 ]
