@@ -3308,5 +3308,146 @@
     "_key": "a36f4e534ffb",
     "_createdAt": "2026-07-28T08:56:17.598603+09:00",
     "_updatedAt": "2026-07-28T08:56:17.598603+09:00"
+  },
+  {
+    "title": "엔비디아, 네이버에 10억 달러 투자…블랙웰 시스템으로 한국 AI 인프라 강화",
+    "date": "2026-07-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3MV319rUP2R5PAytQpz8irDZ-QYKM7a8vuQNdH6NCAhKmFLuztL8PssDyop1ae8GQSuKfQtWoUEypsct3XvrMVvGoGp0Oa4IoIApxnNLmo9jMn3-EfnoAkCu-JR2QmHiZYhp1HBF7aaH90KDgQ-dWGTn4pNBUE-Uu20aOsE-bMe3pszhmBAEmQLdeAAJaTbgjwEGCakYaX4py5O21rgwS0PWJ4JFrJcaUEsFzZp7gFlKg0X36OthlSI0ZI5Lq0WSkJ39YuYk8DrEpkl8hOdUe3i2FSakQ4na2yxhfZLsV1JShQ2xKNkHq5PLKUME4LKj6QRVplppq3Y8s9R6HN4IPuf9SNY2OH7p2bBu2vfcPZaagILO5ZcFplA7rPnZ1ZD4iK0DXKHU=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "한국 AI 인프라 고도화 및 빅테크-국내 기업 협력 강화.",
+    "importance": 10,
+    "summary": "엔비디아가 네이버 AI 데이터센터 확장을 위해 10억 달러를 투자하며, 블랙웰 시스템 구축으로 한국 AI 컴퓨팅 용량을 증대할 계획이다.",
+    "corporateAction": "국내 AI 인프라 투자 동향 주시 및 하드웨어 파트너십 확장 가능성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "네이버",
+      "AI 데이터센터",
+      "GPU",
+      "한국"
+    ],
+    "_key": "5b0c06d35f5b",
+    "_createdAt": "2026-07-29T08:52:14.673313+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673313+09:00"
+  },
+  {
+    "title": "마이크로소프트, 보안 특화 AI 모델 'MAI 사이버 1 플래시' 공개…사이버 보안 경쟁 심화",
+    "date": "2026-07-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-OBXx9_7VADIhXf6RbPTM0pJM1cBtmG8lQ_zSlqRHsryvrD-QUVt8btB5bp6M-s5-3mnWtv2GrPRRr8WOWCfKeFDJc_XDC0f1PKGlBebkhWY1MUDb5gKF4AJd8WRXw==",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 기반 사이버 방어 역량 강화, 금융권 AI 보안 표준 변화 촉진.",
+    "importance": 9,
+    "summary": "MS가 보안 특화 AI 모델 'MAI 사이버 1 플래시'를 공개하며, AI 경쟁의 축이 사이버 보안으로 이동 중임을 시사한다.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 적극 검토 및 AI 보안 전담 조직 역량 강화 추진.",
+    "keywords": [
+      "AI 보안",
+      "사이버 보안",
+      "Microsoft",
+      "MAI Cyber 1 Flash",
+      "IT 거버넌스"
+    ],
+    "_key": "a06c6945e27e",
+    "_createdAt": "2026-07-29T08:52:14.673334+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673334+09:00"
+  },
+  {
+    "title": "DXC 테크놀로지-일레븐랩스, 엔터프라이즈 AI 및 음성 혁신 위한 전략적 파트너십 발표",
+    "date": "2026-07-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb8Y2pjVwXUHsSTtQDihhSIo5U-QtaWQpY5obXyYaNyuP5e8L_q-mcq6iiG7y90LmyuDNEvqF-4nmiNTFK2O1pNGpoR2uhqZ4ua7xKgawOu1y3OqHV--ljvLjQfZ00kmuxxIkTD83pR2TSAfHFl_J3mjKDs00enATVj9ybWtOhsK69NtjJknmWs5keC7idr830ldvdGtMGIc1LsCvrzruUvImEzHXxigU78y7VqygeCMnVD5EqR2OGofzH4w8IKIYgpa5eY_BHtfzZQ6GYfzpTwFXaB-jfWLky-z_GZHelARx17OdgqDAvT6_RE5ovSu7C0CsQYjJ1Q3ecC57rucVG7Ak=",
+    "category": "AI Agent",
+    "ecosystemImpact": "엔터프라이즈 음성 AI 솔루션 확산 가속화 및 생산성 향상 기대.",
+    "importance": 8,
+    "summary": "DXC가 일레븐랩스와 파트너십을 맺고 음성 AI 역량을 통합하여 엔터프라이즈 생산성 및 고객 경험 혁신을 추진한다.",
+    "corporateAction": "음성 AI 에이전트 도입 통한 서비스 데스크, 교육 등 내부 업무 자동화 모델 연구.",
+    "keywords": [
+      "AI Agent",
+      "음성 AI",
+      "엔터프라이즈 AI",
+      "ElevenLabs",
+      "DXC Technology"
+    ],
+    "_key": "a04629d2bb8e",
+    "_createdAt": "2026-07-29T08:52:14.673344+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673344+09:00"
+  },
+  {
+    "title": "글로벌 빅테크 기업들, 오픈웨이트 AI 모델 규제 반대 공동 서한 발표",
+    "date": "2026-07-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsbYz7SyrbehG1NkK2y-xbhpbB3OFqkVwBux2Po-ZHbhk86e__BlEbxwwNwLw-8yt3vRTaJfsLMYlKh1TZqJVUhZMXx9mBfnZhRINqdOzH8P3F1dELQ9ISYmBBcp5j5YmzE6HcuJJkXGy4I5SCDhB8md9-mQ69Pgr=",
+    "category": "LLM",
+    "ecosystemImpact": "AI 모델 개발 방향 및 규제 논의에 큰 영향, 오픈소스 AI 생태계 지속성 촉구.",
+    "importance": 8,
+    "summary": "엔비디아, MS, 메타 등 50개 기업·단체가 오픈웨이트 AI 모델에 대한 포괄적 규제에 반대하는 공동 서한을 발표했다.",
+    "corporateAction": "오픈소스 LLM의 활용 가능성 및 글로벌 AI 거버넌스 동향 지속적 모니터링.",
+    "keywords": [
+      "오픈소스 AI",
+      "LLM",
+      "AI 거버넌스",
+      "규제",
+      "빅테크"
+    ],
+    "_key": "5ddb53fa5662",
+    "_createdAt": "2026-07-29T08:52:14.673351+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673351+09:00"
+  },
+  {
+    "title": "엔터프라이즈 AI 도입의 현실: 모델보다 통합 '배관'이 핵심",
+    "date": "2026-07-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrla7e59Ox_Br7ascF1fwmfHeHQJqmC57uvdBCUY4NVI4JKAPCBOHd_zYQHRWgTWfS63OOtjpY5TeOLPi4KdWM309MMy6IMyqK65N0DG8o40QoN812fu9n_jzYAJk_LUF5qg1wUiaVt2soi95EKVa6vJgP62n1iNsQ39Fc4ApnfoG0cIR45Jh",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "기업 AI 도입 전략에 실질적 방향 제시, 인프라 및 데이터 통합 중요성 부각.",
+    "importance": 7,
+    "summary": "Box CEO는 엔터프라이즈 AI의 병목 현상은 모델 성능이 아닌 데이터 흐름, 시스템 통합 '배관'에 있다고 지적했다.",
+    "corporateAction": "AI 모델 도입 전 내부 데이터 파이프라인 및 시스템 통합 전략 선행 검토 필요.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 도입",
+      "데이터 통합",
+      "IT 거버넌스",
+      "AI 전략"
+    ],
+    "_key": "413c1d1c6f97",
+    "_createdAt": "2026-07-29T08:52:14.673362+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673362+09:00"
+  },
+  {
+    "title": "엔비디아 주가 급락, '순환 거래' 의혹 및 AI 거품론 확산",
+    "date": "2026-07-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOor8OEGapZKGpsOOekLNQEs0zDxLGTfMfaHcaO6CkZn1oG1JN3Sy_3YYj5Hu5QRuITgEAwRpQ3CDXJ2FdZktd3TO6-EaJvm5kREEDestitYYBv9RSFOPY3lp8EKA3OBNEPlGhVQ=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "글로벌 AI 투자 시장의 변동성 확대 및 반도체 산업의 거품 논란 증폭.",
+    "importance": 7,
+    "summary": "엔비디아가 '순환 거래' 의혹으로 주가가 급락하며 AI 투자 시장의 '거품론'이 다시 불거졌다.",
+    "corporateAction": "AI 관련 시장 변동성 주시 및 장기적 관점의 하드웨어 투자 전략 재점검.",
+    "keywords": [
+      "NVIDIA",
+      "AI 거품",
+      "GPU",
+      "반도체",
+      "AI 투자"
+    ],
+    "_key": "d9cdd48fd3e3",
+    "_createdAt": "2026-07-29T08:52:14.673368+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673368+09:00"
+  },
+  {
+    "title": "금융위원회, 금융규제 샌드박스 제도 개선안 마련…혁신 사업자 지원 강화",
+    "date": "2026-07-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbl-RdohKLDhALU_WM-tbcPykGHHg01ZazvQhPHwavkp3T2J5pPNL5gYBeI-jZ54TDhwWkq7Bq3Jj8l7Fcv6ldzihoe1OgUQVKwzDNSr7eC4FkFQNOnPEa9N5MxruM_FIcjdWOieam6CfE",
+    "category": "금융 규제 샌드박스",
+    "ecosystemImpact": "핀테크 및 AI 금융 서비스 혁신 촉진, 국내 금융 생태계 활성화 기대.",
+    "importance": 6,
+    "summary": "금융위가 샌드박스 제도 개선을 통해 혁신 서비스의 배타적 운영권을 확대하고 제도권 진입을 지원한다.",
+    "corporateAction": "개선된 샌드박스 제도를 활용한 AI 기반 신규 금융 서비스 개발 및 테스트 추진.",
+    "keywords": [
+      "금융 규제",
+      "샌드박스",
+      "핀테크",
+      "AI 금융",
+      "혁신금융서비스"
+    ],
+    "_key": "061c0432c7f0",
+    "_createdAt": "2026-07-29T08:52:14.673374+09:00",
+    "_updatedAt": "2026-07-29T08:52:14.673374+09:00"
   }
 ]
