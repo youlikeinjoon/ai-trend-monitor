@@ -3714,5 +3714,123 @@
     "_key": "858ba98defb0",
     "_createdAt": "2026-07-31T08:54:38.828340+09:00",
     "_updatedAt": "2026-07-31T08:54:38.828340+09:00"
+  },
+  {
+    "title": "OpenAI, GPT-5.6 모델 가격 최대 80% 인하: 기업 AI 비용 민감도 증대",
+    "date": "2026-07-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpYHHa4Fq80OGIyhyVrbNxbKEh4crq3vgiHstAEX8Gzvlft11fyGIxpYpscrsk1z-B3iZC3DTDEQbSc_t9bJijU40s5lNJ42hWdyoOCN369GFzkVjGUL-ysIx-4sthQmtznzupINpxkRcncsQa8l_KmWEC8QugPadMhDY=",
+    "category": "LLM",
+    "ecosystemImpact": "AI 모델 비용 경쟁 심화, 엔터프라이즈 AI 도입 장벽 낮춤",
+    "importance": 10,
+    "summary": "OpenAI가 GPT-5.6 모델(Luna, Terra) 가격을 최대 80% 인하하여, 기업 고객의 AI 비용 민감도에 대응하고 AI 모델 시장 경쟁을 촉발하고 있다.",
+    "corporateAction": "AI 모델 도입 시 비용 효율성을 최우선으로 고려하고, 멀티 모델 전략 검토 및 자체 비용 최적화 방안 마련.",
+    "keywords": [
+      "LLM",
+      "가격인하",
+      "비용효율성",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "e4e36c42d38d",
+    "_createdAt": "2026-08-01T08:54:32.598608+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598608+09:00"
+  },
+  {
+    "title": "보험업계 AI 준비도 개선 선두, AI 도입 언더라이팅 넘어 전사적 확장",
+    "date": "2026-07-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQC0iWDxe9ShBOpIPLnhJ6F6-iOVw8n3JLIlG12PjbisLKE9cxmZAElTdTxgyDQTuCipVtoLAKgHb6ARTuCLYEWkeDmppuZWntBaFjPvGY0TUcWpYLJ3RvApHVlsqU72-PGMcQrarSeLB-Fv071QI21AlPhVF1dZ_R5-nIVUIs8wK6TCM5_sBr9GNhFrIc_YaDSD63NdPNCOG9G5nGR-tt4ulM6AD76_5an2KBcqoaHGLkKdJDeE1Eyy8EiPFKOuM3oX5vUTkn-ZF0",
+    "category": "보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "보험 산업 내 AI 활용 범위 확대, 디지털 전환 가속화 및 경쟁 심화",
+    "importance": 10,
+    "summary": "보험 산업이 AI 준비도에서 가장 빠른 개선을 보이며, AI 활용이 언더라이팅을 넘어 상품 개발, 고객 서비스, 클레임 관리 등 전반으로 확장되고 있다.",
+    "corporateAction": "전사적 AI 도입 전략 고도화, 핵심 업무 프로세스에 AI 적용 확대 및 AI 거버넌스 프레임워크 강화.",
+    "keywords": [
+      "보험",
+      "AI 도입",
+      "언더라이팅",
+      "AX",
+      "디지털 전환"
+    ],
+    "_key": "c58b672baaa2",
+    "_createdAt": "2026-08-01T08:54:32.598629+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598629+09:00"
+  },
+  {
+    "title": "Google DeepMind, 휴머노이드 로봇 제어 및 멀티 로봇 태스크 계획 위한 Gemini Robotics 2 출시",
+    "date": "2026-07-31",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjcF2LvoHRMmTRxn7k0RCMBGcaKvHb2LOGxABxwOesXuPF8mlwNI4TTcB1jvNT2usi-n9HdkFX5A5XnanJLd16Vb1HLNFP_SBkHxi2bbP8XAXFwo1JeBrg4dFtgQz19yUDZcdCBpcfpK4B1zesMMyyr8RBfr81W4xjBsNSLP1C",
+    "category": "AI Agent, Robotics",
+    "ecosystemImpact": "물리적 AI 에이전트 기술 발전 가속화, 로봇 자동화 분야 확장",
+    "importance": 9,
+    "summary": "Google DeepMind가 Gemini Robotics 2를 공개, 비디오 이해 및 다중 로봇 협업을 통해 휴머노이드 로봇의 정교한 제어와 복잡한 작업 수행 능력을 향상.",
+    "corporateAction": "보험 업무 자동화 및 물리적 AI 에이전트의 장기적 도입 가능성 검토, 로보틱스 기술 동향 모니터링 강화.",
+    "keywords": [
+      "AI Agent",
+      "로보틱스",
+      "Google DeepMind",
+      "자동화"
+    ],
+    "_key": "f0f1a6459188",
+    "_createdAt": "2026-08-01T08:54:32.598641+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598641+09:00"
+  },
+  {
+    "title": "EU, 기술 주권 강화를 위해 7개 'AI 기가팩토리' 건설에 100억 유로 지원",
+    "date": "2026-07-31",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdyhUvJ-JAnGBvMeX6EEVJFyft_SQymNfBLMzsF2HpYREatnOg8kDbTiz-fSoNZ6bH7oLabMyjxDKW4Vy3gcXzil6wfKezKTMyBJY8AURaaFF3vYFs2v-WDVTEnAiBKmeRF_TggoNEjSqBBXolW4nWJvZJ7zlpE19K8LLpy6R4kXfJJIUpzGv9deJCzdVc7kqyUYswgd0fCVqniK5Gd6bGmFZGhaEt9a1uNiaarmIMJT7nJF0yBUzLZZ9Avh4NerCTsTkU99Gg",
+    "category": "AI 하드웨어 인프라, LLM",
+    "ecosystemImpact": "유럽 내 AI 인프라 구축 가속화, LLM 개발 경쟁 심화 및 AI 기술 독립성 강화",
+    "importance": 9,
+    "summary": "유럽연합(EU)이 총 100억 유로를 투입하여 최첨단 고성능 AI 칩과 클라우드 기술을 갖춘 7개의 'AI 기가팩토리'를 건설, 기술 주권 강화를 목표로 한다.",
+    "corporateAction": "글로벌 AI 인프라 동향 및 지정학적 요인 분석, 클라우드 및 온프레미스 AI 인프라 전략 재검토.",
+    "keywords": [
+      "AI 인프라",
+      "EU",
+      "LLM",
+      "기술 주권",
+      "데이터센터"
+    ],
+    "_key": "f10ac06faf2d",
+    "_createdAt": "2026-08-01T08:54:32.598650+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598650+09:00"
+  },
+  {
+    "title": "삼성 DRAM 가격 인상 여파로 NVIDIA GPU 가격 최대 30% 인상 전망",
+    "date": "2026-07-31",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOIDFkgJQW8OEwLwI49lGnKHcxZRLwgwiyJLiEdPjireivZBw83tniz4HSxMwJcSCHkwz0qGKrN8FeuOnUClsw4DbU9zCtdCKwt_vTQ6duppW1hwJwTCc5MKbz5hvPWafqubnJxsHQGhs1Yg5TlQtfPFSCRsfxct4NiXRk4xfVXPinS4s1IsgavPWbDCviHSquzfL9mkT1e_qDba7NUa0FU20FeTNcueoepKYyxAwu2-h96ith",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 하드웨어 구매 비용 증가, AI 개발 및 운영 비용 상승 압박",
+    "importance": 8,
+    "summary": "삼성 DRAM 가격 인상에 따라 NVIDIA가 모든 Blackwell GPU 라인업에 걸쳐 최대 30%의 가격 인상을 준비 중이며, 이는 AI 하드웨어 시장에 영향을 미칠 것으로 예상된다.",
+    "corporateAction": "AI 인프라 투자 계획 재조정, GPU 및 관련 하드웨어 구매 전략 수립 시 가격 변동성 고려.",
+    "keywords": [
+      "NVIDIA",
+      "GPU",
+      "하드웨어",
+      "비용",
+      "블랙웰"
+    ],
+    "_key": "5087f34aeeec",
+    "_createdAt": "2026-08-01T08:54:32.598658+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598658+09:00"
+  },
+  {
+    "title": "투명성 연합, 27개 주에서 85개 신규 AI 법률 발표: AI 거버넌스 및 윤리적 사용 강조",
+    "date": "2026-07-31",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpuPu0fzt7s81n2aioT1-HZbkGPxIIU7k47j5aMnF5lGSfQTmJCGckzJUZkRQEomF72FsyPOjFW7IRk4zBGRLTjVTlnjk8wwOEgYUa37ucidVCn9kWywMrukGpkxYxCWDVOc8WFGX-_ZBS3i7taieyMfodPpq_EPQXA5EJ9gGWsvq0bmaLg6KF9wjKeMdjaLqM-XAfOnlL0413_-oL7rEx_YcqbJT5XA==",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "AI 규제 환경 복잡성 증가, 기업의 AI 윤리 및 책임 있는 AI 도입 중요성 증대",
+    "importance": 8,
+    "summary": "Transparency Coalition이 27개 미국 주에서 85개의 새로운 AI 관련 법률이 제정되었음을 발표하며, AI 거버넌스, 개인정보 보호, 챗봇 안전 등에 대한 규제 강화 추세를 보여준다.",
+    "corporateAction": "글로벌 AI 규제 동향 면밀히 주시, AI 윤리 가이드라인 및 내부 규정 강화, 책임 있는 AI 사용 정책 수립.",
+    "keywords": [
+      "AI 규제",
+      "IT 거버넌스",
+      "AI 윤리",
+      "법률",
+      "개인정보보호"
+    ],
+    "_key": "fc277dd62819",
+    "_createdAt": "2026-08-01T08:54:32.598666+09:00",
+    "_updatedAt": "2026-08-01T08:54:32.598666+09:00"
   }
 ]
