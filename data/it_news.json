@@ -3832,5 +3832,105 @@
     "_key": "fc277dd62819",
     "_createdAt": "2026-08-01T08:54:32.598666+09:00",
     "_updatedAt": "2026-08-01T08:54:32.598666+09:00"
+  },
+  {
+    "title": "Google Cloud, 금융기관 특화 보안 강화 LLM 'Vertex AI Financial' 발표",
+    "date": "2026-08-01",
+    "url": "https://cloud.google.com/blog/2026/08/vertex-ai-financial",
+    "category": "LLM",
+    "ecosystemImpact": "금융 부문 LLM 도입 확산 및 데이터 보안 표준 상향.",
+    "importance": 10,
+    "summary": "Google Cloud가 금융기관의 엄격한 보안 요구사항을 충족하는 Vertex AI Financial을 공개, RAG 기반 내부 데이터 활용에 최적화.",
+    "corporateAction": "보안 및 규제 준수 LLM 솔루션 도입 시 고려사항 및 내부망 적용 가능성 분석.",
+    "keywords": [
+      "LLM",
+      "금융AI",
+      "보안",
+      "RAG",
+      "클라우드"
+    ],
+    "_key": "99b9122c2697",
+    "_createdAt": "2026-08-02T08:49:54.046397+09:00",
+    "_updatedAt": "2026-08-02T08:49:54.046397+09:00"
+  },
+  {
+    "title": "금융위원회, AI 기반 금융 서비스 혁신을 위한 규제 샌드박스 제도 개선 발표",
+    "date": "2026-08-01",
+    "url": "https://www.fsc.go.kr/news/2026/08/ai-sandbox-improvement",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "국내 금융 AI 기술 개발 및 상용화 촉진, 규제 유연성 확보.",
+    "importance": 9,
+    "summary": "금융위원회가 AI 기반 금융 서비스의 시장 출시를 지원하기 위해 규제 샌드박스 제도를 개선하고 적용 범위 확대 및 심사 절차 간소화.",
+    "corporateAction": "신규 AI 서비스 개발 및 출시 시 규제 샌드박스 활용 방안 적극 검토 및 참여.",
+    "keywords": [
+      "금융규제",
+      "규제샌드박스",
+      "AI혁신",
+      "IT거버넌스",
+      "망분리"
+    ],
+    "_key": "a2464f70f118",
+    "_createdAt": "2026-08-02T08:49:54.046417+09:00",
+    "_updatedAt": "2026-08-02T08:49:54.046417+09:00"
+  },
+  {
+    "title": "글로벌 재보험사 Munich Re, AI 기반 기후 위험 모델링 플랫폼 출시",
+    "date": "2026-08-01",
+    "url": "https://www.munichre.com/news/2026/ai-climate-risk-platform-launch",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 산업의 AI 도입 가속화 및 기후 위험 평가 정교화.",
+    "importance": 9,
+    "summary": "Munich Re가 새로운 AI 기반 기후 위험 모델링 플랫폼을 출시하여 정교한 데이터 분석으로 재해 예측 및 보험 상품 개발을 지원.",
+    "corporateAction": "기후 변화 관련 보험 상품 개발 및 언더라이팅에 AI 모델 적용 가능성 검토.",
+    "keywords": [
+      "재보험",
+      "기후위험",
+      "AI모델링",
+      "언더라이팅",
+      "리스크관리"
+    ],
+    "_key": "5095c83d7950",
+    "_createdAt": "2026-08-02T08:49:54.046427+09:00",
+    "_updatedAt": "2026-08-02T08:49:54.046427+09:00"
+  },
+  {
+    "title": "NVIDIA, 금융 기업용 Blackwell 기반 AI 서버 솔루션 'Enterprise AI for Finance' 공개",
+    "date": "2026-08-01",
+    "url": "https://www.nvidia.com/news/2026/08/blackwell-finance-solution",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "금융권 AI 인프라 구축 가속화 및 고성능 컴퓨팅 도입 확대.",
+    "importance": 8,
+    "summary": "NVIDIA가 Blackwell 아키텍처 기반의 금융 전용 AI 서버 솔루션을 발표, 온프레미스 AI 학습 및 추론 성능 극대화.",
+    "corporateAction": "대규모 AI 모델 구축 및 운영을 위한 하드웨어 인프라 투자 계획 및 비용 효율성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI인프라",
+      "엔터프라이즈AI",
+      "온프레미스"
+    ],
+    "_key": "4c6f0d5959e8",
+    "_createdAt": "2026-08-02T08:49:54.046435+09:00",
+    "_updatedAt": "2026-08-02T08:49:54.046435+09:00"
+  },
+  {
+    "title": "국내 손해보험사 KB손해보험, AI 에이전트 기반 보험금 청구 자동화 시스템 전국 확대",
+    "date": "2026-08-01",
+    "url": "https://www.kbinsure.co.kr/news/2026/08/ai-claims-agent-expansion",
+    "category": "AI Agent",
+    "ecosystemImpact": "국내 보험 산업의 AI 에이전트 도입 확산 및 업무 효율성 증대.",
+    "importance": 7,
+    "summary": "KB손해보험이 AI 에이전트를 활용한 보험금 청구 자동화 시스템을 전국으로 확대, 고객 경험 개선 및 심사 시간 단축 기대.",
+    "corporateAction": "AI 에이전트의 보험금 청구 및 심사 업무 적용 가능성 검토 및 국내 규제 환경 분석.",
+    "keywords": [
+      "AI Agent",
+      "보험금청구",
+      "자동화",
+      "손해보험",
+      "AX"
+    ],
+    "_key": "a27205ed28a0",
+    "_createdAt": "2026-08-02T08:49:54.046443+09:00",
+    "_updatedAt": "2026-08-02T08:49:54.046443+09:00"
   }
 ]
