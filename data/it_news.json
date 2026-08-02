@@ -3932,5 +3932,126 @@
     "_key": "a27205ed28a0",
     "_createdAt": "2026-08-02T08:49:54.046443+09:00",
     "_updatedAt": "2026-08-02T08:49:54.046443+09:00"
+  },
+  {
+    "title": "금융위원회, 금융분야 인공지능 가이드라인 최종 발표 및 망분리 규제 완화",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ajggxBoHb33q7VS_j_tP3EAnHkwR0_So1yl6ryf_EJm6t4z8PFWr9NViWx8yRLsJ3h0vyXv2KVoMEQ-XDsl_NdB4f2K9JdqBSwhAm-iWt0lvi9IAxuzhL_oS98wM0O9vSKSetoRk3AgahFK_mtiKCSAOq9XXbA==",
+    "category": "IT 거버넌스/보안, 보험/AX, 금융 규제",
+    "ecosystemImpact": "금융권 AI 활용 기준 제시 및 보안 규제 유연화로 혁신 가속.",
+    "importance": 10,
+    "summary": "금융위가 AI 가이드라인 최종본과 AI RMF를 발표, 7대 원칙 제시. 망분리 규제 완화로 외부 AI 서비스 연동 가능해져.",
+    "corporateAction": "AI 거버넌스 체계 강화 및 신뢰성 확보를 위한 가이드라인 준수, 외부 AI 도입 검토 가속화.",
+    "keywords": [
+      "금융 AI 규제",
+      "IT 거버넌스",
+      "망분리 완화",
+      "AI RMF",
+      "금융위원회"
+    ],
+    "_key": "aa0c825ed965",
+    "_createdAt": "2026-08-03T08:51:20.701237+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701237+09:00"
+  },
+  {
+    "title": "에이전틱 AI 확산으로 데이터센터 CPU 수요 급증, 인프라 패러다임 변화",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWp3WhLEGTFiK1s-Oa0M6Qa4MGMUINCKMC2hV7KBo99pa7pYyslX1fjpzqhZcnv6_6STx8jatpFKSoeMxAzAISYDHbTEIW0MySrd0Oqj82T5N1Lanr3cMyMZAJYvIP77tej78atPo7ZtrvuB_-_0GLO42j43_zfzI_",
+    "category": "AI Agent, AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 투자 방향 변화 및 CPU 제조사 경쟁 심화 예상.",
+    "importance": 9,
+    "summary": "에이전틱 AI의 확산으로 GPU 중심 인프라에서 CPU 수요가 증가, 데이터센터 병목 현상 발생. 주요 제조사 풀스택 전략 모색.",
+    "corporateAction": "AI 에이전트 도입 시 CPU 기반 인프라 확장성 및 비용 효율성 재평가, 하드웨어 전략 재수립.",
+    "keywords": [
+      "AI Agent",
+      "CPU",
+      "데이터센터",
+      "인프라",
+      "AMD",
+      "Intel"
+    ],
+    "_key": "47e5bf62a559",
+    "_createdAt": "2026-08-03T08:51:20.701263+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701263+09:00"
+  },
+  {
+    "title": "마이크로소프트, AI 보안 에이전트 '프로젝트 퍼셉션' 공개. 자율형 AI 공격 위협 증가",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiiCen-NKs7hu4zDi49r40VzzXwD0KLC7lKJCWWvmJEzI6XJitbgpvZPObAwNs7YQCPLVY2piLZC0qb3mhGHzpQSZyx6IW84PRekWL8PNTn0RMMv0pW07vJSOyGIqvbgY=",
+    "category": "AI 보안/망분리, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기반 사이버 보안 위협 고도화 및 방어 기술 발전 경쟁 심화.",
+    "importance": 9,
+    "summary": "MS가 보안 특화 AI 에이전트 '프로젝트 퍼셉션'을 발표, AI 활용 고도화된 공격에 대응. 자율형 AI 해커 위협 증가.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 검토 및 AI 시스템 자체 보안 강화, AI 위험 관리 프레임워크 고도화.",
+    "keywords": [
+      "AI 보안",
+      "AI Agent",
+      "사이버 보안",
+      "위협 탐지",
+      "프로젝트 퍼셉션"
+    ],
+    "_key": "a64b18edfe29",
+    "_createdAt": "2026-08-03T08:51:20.701273+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701273+09:00"
+  },
+  {
+    "title": "엔터프라이즈 AI의 핵심, RAG 기술 하이브리드 모델로 진화 및 실시간 데이터 통합 강화",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv9Wlh1VwSMxj6Bz8RVbikNA6fWmUpoWquKHod_ru1bJDjgvKXfdQscep-HLCNEJUpu9OfGnaauqCba53f96c1ZYOi1yyL0iteS808CGiKobg5qiJncdaOYFLy3Icuo5HqB2ctYVeoOixdnZHyNrWCNXExaRXjq4AWzUULrQ8cACzVZ_UYHPWUxKbnaQtO",
+    "category": "RAG, LLM, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 AI 시스템의 정확도와 신뢰성 향상, 환각 현상 감소 기대.",
+    "importance": 8,
+    "summary": "RAG 기술이 하이브리드 검색, 실시간 데이터 통합 등으로 진화하며 기업 AI의 정보 정확성 및 신뢰성을 높임.",
+    "corporateAction": "내부 정보 활용 AI 시스템 구축 시 고급 RAG 아키텍처 도입 검토, 데이터 최신성 확보 방안 마련.",
+    "keywords": [
+      "RAG",
+      "하이브리드 검색",
+      "실시간 데이터",
+      "엔터프라이즈 AI",
+      "환각 현상"
+    ],
+    "_key": "85f70dd6aba3",
+    "_createdAt": "2026-08-03T08:51:20.701282+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701282+09:00"
+  },
+  {
+    "title": "국내 금융권 AI 도입, 망분리 규제 및 단기 성과주의로 글로벌 대비 성과 부진 지적",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuP0W846piDnFguy_3jV-ARAIoilJsV6jlwBi1EqNFly3egxVVTWnZuC2bhSqc_OT38OGXYk_ZBXQqfSeTI9z5kbPj7L_f4xxdM_rBJnTkSQMtCIkMfuXljl6hoB35TDBomtEn1Uy1ggbRC7TnE4YEUS_eGz0=",
+    "category": "보험/AX, IT 거버넌스/보안, 엔터프라이즈 AI",
+    "ecosystemImpact": "국내 금융권 AI 혁신 가속화를 위한 제도 개선 및 장기 투자 필요성 부각.",
+    "importance": 8,
+    "summary": "국내 금융권은 망분리 규제와 단기 성과 중시로 AI 투자 대비 효과 미흡. 글로벌 은행은 AI로 비용 절감 및 생산성 증대.",
+    "corporateAction": "AI 도입 전략 시 장기적 관점의 투자 및 핵심 업무 적용 확대, 규제 환경 변화에 선제적 대응.",
+    "keywords": [
+      "금융 AI",
+      "망분리",
+      "AI ROI",
+      "보험 AI",
+      "규제"
+    ],
+    "_key": "1ecee2f3ebdc",
+    "_createdAt": "2026-08-03T08:51:20.701289+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701289+09:00"
+  },
+  {
+    "title": "과기정통부-AMD, 개방형 AI 컴퓨팅 인프라 구축 협력…NVIDIA 의존도 낮춘다",
+    "date": "2026-08-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeNXxntr0yV6sEpIhJp8C3Lv9I8GcGtbZiRTkBuK6AWKUbEz7Axt66y8KG8jvpyd3U5huYi6FpsJAasOLVfbUM4E_HlPj7mISXvbpA13jYIojHb4kSlfNI8IubFi6xJ67-b1_B3H46yXUMTRenIMZYVIth",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 반도체 시장 경쟁 촉진 및 국내 AI 인프라 다양성 확보.",
+    "importance": 7,
+    "summary": "과기정통부가 AMD와 협력하여 개방형 AI 컴퓨팅 인프라를 구축, NVIDIA 의존도 완화 및 국산 AI 반도체 활용 증대.",
+    "corporateAction": "AI 인프라 구축 시 특정 벤더 의존도 완화 전략 검토, 개방형 생태계 활용 가능성 모색.",
+    "keywords": [
+      "AI 인프라",
+      "AMD",
+      "NVIDIA",
+      "AI 반도체",
+      "개방형 생태계"
+    ],
+    "_key": "5e568af07e9b",
+    "_createdAt": "2026-08-03T08:51:20.701296+09:00",
+    "_updatedAt": "2026-08-03T08:51:20.701296+09:00"
   }
 ]
