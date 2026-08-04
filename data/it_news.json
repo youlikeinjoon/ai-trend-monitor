@@ -4153,5 +4153,144 @@
     "_key": "0ec738810b63",
     "_createdAt": "2026-08-04T09:02:13.264923+09:00",
     "_updatedAt": "2026-08-04T09:02:13.264923+09:00"
+  },
+  {
+    "title": "EU AI Act 2026, 금융권 AI 거버넌스, DORA 및 사이버보안 의무 강화",
+    "date": "2026-07-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-5V1cT4tiKFdhWygfUxf-SNwysmMOZQcDklyjllcju6lk22wuDc3XuOJZMk8IzmILBfvt_4Vpan6lmLeM1CpizH9r1H6ix4gJbBXcUyZkr7bbAyaSc7EJSONhVHZ18_1M1mMXl4HvJm6Bkd3DfzmMAaKiqAqtwPaUfx-QGzPti6OiGXL8VAP9gHO_8TCgY2X1hwOq_LH3vbrmepicnRz0ypnMP2_415_fbkap_s3GlwtA=",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "유럽 금융권 AI 활용 규제 강화, AI 거버넌스 및 보안 프레임워크 구축 표준 제시.",
+    "importance": 10,
+    "summary": "2026년 8월 2일부터 EU AI Act의 주요 의무가 금융기관에 적용되며, AI 거버넌스 및 사이버 보안 강화가 필수화된다.",
+    "corporateAction": "EU AI Act 준수를 위해 AI 시스템 식별, 위험 분류, 거버넌스 및 DORA 연계 전략을 수립해야 한다.",
+    "keywords": [
+      "EU AI Act",
+      "금융 규제",
+      "AI 거버넌스",
+      "DORA",
+      "사이버보안"
+    ],
+    "_key": "03fb8baf4b79",
+    "_createdAt": "2026-08-05T08:56:04.160693+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160693+09:00"
+  },
+  {
+    "title": "Oxbridge, AI 데이터센터 개발 및 운영 위한 'AI GridWorks' 플랫폼 출시",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw8Pnpz1xSDmOfSfvvNRMxciAOWhOXaICpmhv6GPWnQhcoM6z3uY7DGL_TYQFbfL2s6RZeiLopk5E3-qf3omdr4ZScAXVbQwC6fTFr23aLCc02i8DTtw9kKvMPcSUf9zb0uY_dLLEabV06klnqIWVbaKpOIYzz40J4-ZX8crP2it8UN3n9xNh1zdG6tFaBRbWWKUbYt39krDFES37LUywsQ5CeGCECIv3p18SkYJP9Fxf-eVywFFhei_O28da8dA=",
+    "category": "재보험",
+    "ecosystemImpact": "재보험사의 AI 인프라 시장 진출로 금융권의 AI 기술 내재화 및 데이터센터 투자 확대 시사.",
+    "importance": 9,
+    "summary": "재보험사 Oxbridge Re가 AI 데이터센터 개발 및 운영에 초점을 맞춘 'AI GridWorks' 플랫폼을 출시했다.",
+    "corporateAction": "AI 인프라 직접 투자 및 운영을 통한 AI 경쟁력 확보 전략 벤치마킹 및 사업 다각화 기회 탐색.",
+    "keywords": [
+      "재보험",
+      "AI 데이터센터",
+      "Oxbridge Re",
+      "하드웨어 인프라",
+      "금융 AI"
+    ],
+    "_key": "e5078ad45715",
+    "_createdAt": "2026-08-05T08:56:04.160717+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160717+09:00"
+  },
+  {
+    "title": "INTX, 재보험 운영 시스템 위한 'Tenet' 지능형 레이어 출시",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnsa3C5Przxpm0_uLIlkhB2nWphWv8bK9ny2sDwXZi2HfZzihlGiNa_sh8V6bxhuM5WGBwwCqULEjzeE-lvfoR7miB2YUL38LGTatVGXkb-G34oKAKyqVGnniZiIEmxm3Fps2eSNZOoa_Rar-4X3UYg1QSnqdHiRMu0TTBJQNMNIz4ipWNc4LUdmuq5WmX__jYTWxR2MFViV3mT2vXzWt7yqb4EzPHNlJBwPo16afG1RzcP4_OYIMHwY9Xd9vJkZENbPPma_fTKToSk_wL4-4eJKhDJsZ2MPj6hOJ9Q=",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 업계 AI 도입 가속화, 의사결정 지능 플랫폼을 통한 운영 효율성 및 거버넌스 강화.",
+    "importance": 9,
+    "summary": "INTX가 재보험 운영 시스템에 내장된 지능형 레이어 'Tenet'을 출시, 의사결정 지능 및 거버넌스 강화에 기여한다.",
+    "corporateAction": "재보험 계약 및 정책 분석 자동화, AI 기반 의사결정 시스템 구축 방안 검토 및 벤치마킹을 고려해야 한다.",
+    "keywords": [
+      "재보험 AI",
+      "보험 AX",
+      "IT 거버넌스",
+      "의사결정 AI",
+      "INTX"
+    ],
+    "_key": "eb3b9e31d05c",
+    "_createdAt": "2026-08-05T08:56:04.160726+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160726+09:00"
+  },
+  {
+    "title": "NIST, 'Genesis Mission' 참여…AI 혁신 가속화 추진",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIloMA8OPM6YhNzB7TnJZDP5A2A53XJaYpTKOzR3hinf_lf169K2FjPm-51GPoGdPBZ6NSxuEJ_pmmvG8JtL8AqikiFrJH4IA3UNcg5EvKTjX9_rHsXo1f8XkyWp7HVj4Hxbuu7sjXBmJ4G8ZVgZ5L5GXzePU7OkTl0kx58LFIqdWrlAERPvCrh-CeMW4YgSEXhYNfNxR9sFDvc3RNoPGlZlMd9A=",
+    "category": "AI Agent",
+    "ecosystemImpact": "국가적 AI 에이전트 개발 및 보안 강화로 산업 전반에 AI 기술 파급효과 확산.",
+    "importance": 9,
+    "summary": "NIST가 Genesis Mission에 참여하여 AI 기반 자율 에이전트를 제조 및 사이버 보안에 적용, 2년간 집중 개발한다.",
+    "corporateAction": "AI 에이전트 도입 시 보안 및 윤리 가이드라인을 참고하고, 산업별 적용 가능성을 검토해야 한다.",
+    "keywords": [
+      "AI Agent",
+      "AI 보안",
+      "국가 전략",
+      "제조업 AI",
+      "사이버 보안"
+    ],
+    "_key": "2b20243cf558",
+    "_createdAt": "2026-08-05T08:56:04.160734+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160734+09:00"
+  },
+  {
+    "title": "빅테크, AI 데이터센터 구축에 1조 달러 이상 투자 부담 직면",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHua0Eb7gRNgraM0cEcP5iIU2DvrCL9THyQCMddlxiCjhDlRjsIBCOUjy4FtHJBYzTy4WV16zDjN3kjjILw1SGlN3b-JXyH_kf0PvPyYpx6_P0Kmid7qQsqO7A5z7QgrckO0dcMefc90ZUpwhIwpswU_Al9m8LwNPODh7ne-4Io-2ptYYxaNsU9PrfLMAqxfy4fRsv9tXUMKq4dv_U=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 수요 폭증으로 인한 데이터센터 및 반도체 산업의 급격한 성장과 투자 경쟁 심화.",
+    "importance": 9,
+    "summary": "마이크로소프트, 메타 등 빅테크 기업들이 AI 데이터센터 구축을 위해 1조 달러 이상의 리스 부담을 지고 있다.",
+    "corporateAction": "AI 인프라 확장의 장기적 비용 및 투자 효율성 분석, 클라우드 및 온프레미스 전략을 재검토해야 한다.",
+    "keywords": [
+      "AI 데이터센터",
+      "클라우드",
+      "NVIDIA",
+      "하드웨어 투자",
+      "빅테크"
+    ],
+    "_key": "b6469381acc4",
+    "_createdAt": "2026-08-05T08:56:04.160741+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160741+09:00"
+  },
+  {
+    "title": "Darktrace, Microsoft Agent 365와 통합하여 AI 보안 가시성 확장",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa91Fim3qxdeqTjvRyTeAo0A4ngvddNBDV2KGF0w-meD5G5RIv1YaRSXWytel_JjnqYoT4Ju4WmAxTd84ESSGZgo0qu-rr93BSFabQ9BvCWUCHNTrtFM0C1BHek7yBkQNmMg_V0owUDVWbsnFzjONlxM24ekd8noOJTcyB8bofzNzaJywycHy6Viaci6EQxnhe5VG8sdSKv7Crdrx35YHRkw=",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트 확산에 따른 보안 위협 증가, 통합 보안 솔루션의 중요성 증대.",
+    "importance": 8,
+    "summary": "Darktrace가 Microsoft Agent 365와 통합하여 행동 기반 AI 에이전트 위험 신호를 제공, 기업 AI 보안을 강화한다.",
+    "corporateAction": "AI 에이전트 도입 시 행동 기반 위협 탐지 및 통합 보안 관리 체계 구축을 검토해야 한다.",
+    "keywords": [
+      "AI Agent 보안",
+      "Darktrace",
+      "Microsoft 365",
+      "기업 보안"
+    ],
+    "_key": "cd877f89c7c3",
+    "_createdAt": "2026-08-05T08:56:04.160748+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160748+09:00"
+  },
+  {
+    "title": "Snyk, 자율 AI 공격 방어 위한 Evo Continuous Offensive Security 출시",
+    "date": "2026-08-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeh0kwG2AT6IcnzweTYaC-qtP19Z_LwwLSJwX2qoFuJ8yf2s1D2BB0LVwhUxVxLIi4of-laHWTr59EZvJdBH0ZyPEmQktDj00KQWzDZRXJShPjGQEqeNgnLNPGcnedOyHsij7J4jXIPJ8GYhDAoeekSG1Ryi3pFj6CrzBxpFKvjg=",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 공격 고도화에 대응하는 자율 방어 솔루션 시장 성장 및 보안 패러다임 변화.",
+    "importance": 8,
+    "summary": "Snyk이 AI 기반 침투 테스트 및 레드 팀을 제공하는 Evo COS를 출시, 자율 AI 공격으로부터 기업을 보호한다.",
+    "corporateAction": "AI 시스템의 잠재적 취약점 식별 및 선제적 방어를 위한 AI 기반 보안 솔루션 도입을 고려해야 한다.",
+    "keywords": [
+      "AI 보안",
+      "침투 테스트",
+      "레드 팀",
+      "Snyk",
+      "자율 AI 공격"
+    ],
+    "_key": "d51f1dc19a2c",
+    "_createdAt": "2026-08-05T08:56:04.160754+09:00",
+    "_updatedAt": "2026-08-05T08:56:04.160754+09:00"
   }
 ]
