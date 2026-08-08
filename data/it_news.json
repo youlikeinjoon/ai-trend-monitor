@@ -4685,5 +4685,141 @@
     "_key": "01c9b4a32839",
     "_createdAt": "2026-08-08T08:25:40.932530+09:00",
     "_updatedAt": "2026-08-08T08:25:40.932530+09:00"
+  },
+  {
+    "title": "금융권 AI 확산에 '책임자 명확히 해야'…KIF, 금융사 AI 거버넌스 구축 정책과제 발표",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBVJzF9LNCe1cpAfSQ7hTk4cFgVPE8ZuQQATai44aJwuhRe9RYRM_yhAgzqTc9UaCWTtl5RNFeekCzpeYSEjVqsu9nXGn_-ET8Urvihv4nmW_dYFFB6-n8-Qo7RBdswEX3",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융 AI 거버넌스 강화로 안전한 AI 생태계 조성 및 신뢰도 향상.",
+    "importance": 10,
+    "summary": "한국금융연구원(KIF)은 금융권 AI 확산에 따라 AI 시스템 기획부터 운영, 위험관리까지 단계별 책임자를 명확히 지정해야 한다고 제언했다.",
+    "corporateAction": "AI 시스템 도입 시 기획-운영-위험관리 전 과정에 걸쳐 책임자 지정 및 거버넌스 모델 구축.",
+    "keywords": [
+      "AI 거버넌스",
+      "금융 규제",
+      "AI 책임",
+      "데이터 보안",
+      "섀도 AI"
+    ],
+    "_key": "7aec75692163",
+    "_createdAt": "2026-08-09T08:19:11.950195+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950195+09:00"
+  },
+  {
+    "title": "보험업계 AI 전면전: 설계사 교육부터 인수심사·보상까지 AI 확대",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMQSVsiNqwbyMj5Yb7Yn8HxZc0W_Ol85kJteV9nCB3JzTdmf0YACZTcqVbbxmbsF69vGvK_RhiUOtEFfWDbYAHqqrqQ_agbDLN4iRv_plzj1U4cP3uFWf0xMD3RuNgzocl",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험업무 전반의 AI 적용 확대로 생산성 향상 및 고객 경험 혁신 가속화.",
+    "importance": 9,
+    "summary": "삼성생명, 한화생명 등 주요 보험사들이 설계사 교육, 영업 지원을 넘어 인수심사 및 보상 등 핵심 업무에 AI 도입을 확대하고 있다.",
+    "corporateAction": "AI 기반 설계사 역량 강화 교육 도입, 인수심사·보상 등 핵심 업무 자동화 및 효율화 검토.",
+    "keywords": [
+      "보험 AX",
+      "AI 교육",
+      "인수심사 자동화",
+      "보상 AI",
+      "생성형 AI"
+    ],
+    "_key": "e85d6dfb8112",
+    "_createdAt": "2026-08-09T08:19:11.950215+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950215+09:00"
+  },
+  {
+    "title": "Firebird, Nvidia 칩셋 기반 아르메니아에 CIS 최대 AI 팩토리 개소",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH626vmW0O55716bt3gUaK-FR4VFW5AhKPJlZTNzmYed9eeU6vqYC6nFl7xpfZqPNVLWifIit4K_gTi2zE9zIRMR-brm6JykcJKkVHl63PQEtWau5N3YJ_C3Y1CacvGCJJJFhSrmSOLVKG-6hej0p_c3htZkkQ=",
+    "category": "AI 하드웨어/인프라",
+    "ecosystemImpact": "글로벌 AI 인프라 확산 및 지역 에너지 자원 활용, AI 학습 및 개발 가속화.",
+    "importance": 9,
+    "summary": "Firebird가 Nvidia DSX 플랫폼 및 Dell PowerEdge 서버 기반 CIS 최대 AI 팩토리를 아르메니아에 개소하여 대규모 AI 학습 및 추론 워크로드를 지원한다.",
+    "corporateAction": "NVIDIA 기반 고성능 AI 인프라 구축 동향 주시, AI 워크로드 처리를 위한 컴퓨팅 자원 확보 전략 검토.",
+    "keywords": [
+      "NVIDIA",
+      "AI 팩토리",
+      "AI 인프라",
+      "데이터센터",
+      "Blackwell"
+    ],
+    "_key": "e4ef715bd5e7",
+    "_createdAt": "2026-08-09T08:19:11.950224+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950224+09:00"
+  },
+  {
+    "title": "MS·아마존·메타·알파벳의 'AI 과잉 투자'···왜 '투자 아닌 도박'일까?",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFP_pfGJkLFCQBjnKP98iQdIupZWJu-0QZlyHmuuxJyC4E7FX7n0aXY4JSum6aa3uLz9rX8w1323taMLC3y0Q7vRWvnC0MjcfXk-nJ4A7jGIOk3WhW2wxxv0OTq5vaH7liM09F0jZTTGwMPZx607QUxjkT-DahxewHAmod2qoDR9bvkYKgcXZzrGnCldHbWLBivvJ6WwxZMHVDl5MxKCFNdja84PLo7_GRFLL7cpiUZLIgIosVfNyOd1JDB3BqdmHdHQTlRcb1SY-AyYbOdpLDWNJy4_75Rih8GzG4LMuVuoN4woRHgTiZkVQDBBBgFN2v9QNdDKT6yReaAscXnnYJvzkwZbc=",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "빅테크 AI 투자 경쟁 심화로 기술 발전 가속화와 잠재적 시장 재편 가능성.",
+    "importance": 8,
+    "summary": "뉴욕대 스턴 경영대학원 교수는 MS, 아마존 등 빅테크 기업들이 AI 분야에 '과잉 투자'하고 있으며, 이는 '투자 아닌 도박'일 수 있다고 지적했다.",
+    "corporateAction": "AI 투자 시 단기적 성과보다 장기적 비즈니스 가치 창출에 집중하고, 비용 효율적 AI 도입 전략 모색.",
+    "keywords": [
+      "빅테크 AI 투자",
+      "AI 경제성",
+      "자본 지출",
+      "AI 버블"
+    ],
+    "_key": "75ce288947e7",
+    "_createdAt": "2026-08-09T08:19:11.950231+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950231+09:00"
+  },
+  {
+    "title": "“대답만 하던 AI는 끝났다”…'일잘러' AI 에이전트에 맡겨야 할 업무는",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs9dpl0C3olqaqIAbHw5cjaomOE_7kY-ii2I5KCMrA16tMEW8R3PvR4hkMxrjJaUduORhY3NLI3Zeyd76RtXLIqeg_os8i-cE077y-58MaxuXRcTumpVzwBT9CI38oHoU=",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트의 실제 업무 실행 능력 향상으로 기업 생산성 혁신 및 업무 자동화 범위 확장.",
+    "importance": 8,
+    "summary": "기존 RAG 방식에서 나아가 AI 에이전트가 목표를 설정하고 시스템 및 도구를 활용하여 실제 업무를 수행하는 단계로 진화하고 있다.",
+    "corporateAction": "AI 에이전트 도입 시 단순 정보 제공을 넘어 실제 업무 자동화 및 실행 가능성 중점 검토.",
+    "keywords": [
+      "AI Agent",
+      "RAG",
+      "업무 자동화",
+      "생산성 향상"
+    ],
+    "_key": "e4203eb31e75",
+    "_createdAt": "2026-08-09T08:19:11.950240+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950240+09:00"
+  },
+  {
+    "title": "[AI는 지금] 'LLM 키울 데이터가 없다'…中 AI, 중국어 부족에 비상등",
+    "date": "2026-08-08",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjQtmi73Tq4RAqqvvsJKDzvIKNX6UMIa3yd5WBB_4p4UWVNO_TSne_RDmeL64yLSsZncikkHt1bYnSbqClSESt32h8PYWf0-bQW6XWeXMm28CVMUIktBf3KMcV5x8CbEnKfSBfa6Q=",
+    "category": "LLM",
+    "ecosystemImpact": "고품질 데이터 확보가 LLM 개발의 핵심 과제로 부상, 데이터 생태계 구축 중요성 증대.",
+    "importance": 7,
+    "summary": "중국 AI 기업들이 LLM 개발을 위한 고품질 중국어 학습 데이터 부족에 직면, 데이터 확보 경쟁 심화 및 정부 주도 생태계 구축이 진행 중이다.",
+    "corporateAction": "LLM 도입 및 개발 시 데이터 확보 전략을 최우선으로 고려하고, 사내 데이터 축적 및 활용 방안 마련.",
+    "keywords": [
+      "LLM",
+      "AI 학습 데이터",
+      "데이터 고갈",
+      "중국 AI"
+    ],
+    "_key": "0d5a89a33dd7",
+    "_createdAt": "2026-08-09T08:19:11.950247+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950247+09:00"
+  },
+  {
+    "title": "세일포인트, 인간·비인간 아이덴티티 통합 보호 솔루션 공개...AI 시대 보안 사각지대 없앤다",
+    "date": "2026-08-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGhobg0Q3pUtdlB26NQ2y_FhK8tHkIF_gJXxBji6ufyM_KUTHrzt1LdqTJ78X93wQSrD_K7Q2BKj36pEAIoxy5lAVV1BWQzckByZJJ7DKRkeD7eCod9gGV-pq1biHFUzFeqs7UMm0NZGV--p3ds_xU8sBH6Yw0cw==",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 에이전트 확산에 따른 보안 취약점 증가, 통합 아이덴티티 보안 솔루션으로 안전한 AI 환경 조성.",
+    "importance": 7,
+    "summary": "세일포인트가 인간 및 비인간 아이덴티티를 통합 보호하는 솔루션을 출시, AI 에이전트 및 머신 계정의 보안 사각지대를 해소한다.",
+    "corporateAction": "AI 에이전트 도입 시 아이덴티티 및 접근 관리(IAM) 강화, AI 보안 전담 솔루션 도입을 통한 내부 통제 체계 구축.",
+    "keywords": [
+      "AI 보안",
+      "아이덴티티 관리",
+      "AI Agent 보안",
+      "사이버 보안"
+    ],
+    "_key": "d10356105cd7",
+    "_createdAt": "2026-08-09T08:19:11.950254+09:00",
+    "_updatedAt": "2026-08-09T08:19:11.950254+09:00"
   }
 ]
