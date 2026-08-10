@@ -4962,5 +4962,146 @@
     "_key": "a5de8addc2d6",
     "_createdAt": "2026-08-10T08:22:23.164164+09:00",
     "_updatedAt": "2026-08-10T08:22:23.164164+09:00"
+  },
+  {
+    "title": "NVIDIA, Apollo 등 금융기관과 5천억 달러 규모 AI 인프라 투자 플랫폼 조성 발표",
+    "date": "2026-08-10",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/newsroom/2026/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms/",
+    "category": "AI 하드웨어 인프라, 금융",
+    "ecosystemImpact": "AI 인프라 구축 가속화 및 금융권의 AI 투자 참여 확대를 이끌 것.",
+    "importance": 10,
+    "summary": "NVIDIA가 Apollo, BlackRock, Blackstone 등 세계 유수 금융기관들과 협력하여 5천억 달러 이상의 AI 컴퓨팅 인프라 구축을 위한 금융 플랫폼을 설립할 계획을 발표했다.",
+    "corporateAction": "재보험사의 AI 인프라 투자 동향을 분석하고, 새로운 인프라 투자 기회 또는 파트너십 가능성을 적극적으로 모색해야 한다.",
+    "keywords": [
+      "NVIDIA",
+      "AI 인프라",
+      "블랙웰",
+      "금융 투자",
+      "AI 팩토리"
+    ],
+    "_key": "31abc4fc72dd",
+    "_createdAt": "2026-08-11T08:26:53.004118+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004118+09:00"
+  },
+  {
+    "title": "Allstate, 독자적인 Agentic AI 플랫폼 'Allie' 개발 추진",
+    "date": "2026-08-10",
+    "url": "https://www.ciodive.com/news/allstate-allie-agentic-ai-platform-q2-2026-earnings/721868/",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험업계 AI 에이전트 도입 가속화 및 고객 서비스, 운영 효율성 혁신 촉진.",
+    "importance": 9,
+    "summary": "Allstate CEO 톰 윌슨은 2026년 2분기 실적 발표에서 고객 서비스 및 생산성 향상을 위한 독자적인 Agentic AI 플랫폼 'Allie'를 개발 중이라고 밝혔다.",
+    "corporateAction": "Agentic AI 기반의 고객 서비스 자동화 및 내부 업무 효율화 방안을 벤치마킹하고, 자체 Agentic AI 플랫폼 개발 또는 도입을 적극 검토해야 한다.",
+    "keywords": [
+      "Allstate",
+      "보험 AI",
+      "AI Agent",
+      "AX",
+      "고객 서비스",
+      "생산성"
+    ],
+    "_key": "d3823bc6445f",
+    "_createdAt": "2026-08-11T08:26:53.004141+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004141+09:00"
+  },
+  {
+    "title": "빅테크 4사, 2026년 AI 투자 7600억 달러 돌파…산업 인프라 전쟁 심화",
+    "date": "2026-08-10",
+    "url": "https://www.newsspace.co.kr/news/articleView.html?idxno=1000000",
+    "category": "AI 하드웨어 인프라, 빅테크",
+    "ecosystemImpact": "AI 산업 전반의 인프라 경쟁을 심화시키고 반도체, 전력 등 관련 산업에 큰 영향을 미칠 것.",
+    "importance": 9,
+    "summary": "아마존, 알파벳, 메타, 마이크로소프트 등 빅테크 4사의 2026년 AI 설비투자액이 전년 대비 77% 급증한 7600억 달러를 돌파하며 데이터센터 및 AI 반도체 선점 경쟁이 심화되고 있다.",
+    "corporateAction": "글로벌 빅테크의 AI 인프라 투자 동향을 지속적으로 주시하고, AI 워크로드에 필요한 하드웨어 및 클라우드 전략을 재점검해야 한다.",
+    "keywords": [
+      "빅테크",
+      "AI 투자",
+      "데이터센터",
+      "AI 하드웨어",
+      "클라우드"
+    ],
+    "_key": "043c1a13dbf2",
+    "_createdAt": "2026-08-11T08:26:53.004151+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004151+09:00"
+  },
+  {
+    "title": "Meta, 경량 AI 모델 'Muse Glimmer' 출시 및 오픈소스 전략 강화",
+    "date": "2026-08-10",
+    "url": "https://www.wkyc.com/article/tech/meta-ai-model-zuckerberg-open-weight-push/507-68b7593c-a960-4b53-b3c9-7e45e0541e24",
+    "category": "LLM, AI Agent, 오픈소스",
+    "ecosystemImpact": "엣지 AI 및 오픈소스 AI 생태계 확장을 가속화하고, AI 시장 경쟁을 더욱 심화시킬 것.",
+    "importance": 9,
+    "summary": "Meta가 개인 PC에서도 구동 가능한 경량 AI 모델 'Muse Glimmer'를 출시하고, AI 제어 집중의 위험성을 경고하며 오픈소스 AI 모델 개발을 강조했다.",
+    "corporateAction": "경량 AI 모델의 온디바이스(On-device) 적용 가능성을 검토하고, 오픈소스 AI 활용 전략 및 사내 AI 개발 표준화에 대한 심층적인 논의가 필요하다.",
+    "keywords": [
+      "Meta",
+      "Muse Glimmer",
+      "경량 LLM",
+      "엣지 AI",
+      "오픈소스 AI",
+      "AI Agent"
+    ],
+    "_key": "890b32c0f9e8",
+    "_createdAt": "2026-08-11T08:26:53.004159+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004159+09:00"
+  },
+  {
+    "title": "Microsoft, Black Hat 컨퍼런스에서 AI 시대 사이버 보안을 위한 '보안 개발' 강조",
+    "date": "2026-08-10",
+    "url": "https://www.scmagazine.com/news/secure-development-can-help-turn-the-tables-as-ai-alters-cyber-landscape",
+    "category": "AI 보안/망분리, IT 거버넌스",
+    "ecosystemImpact": "AI 기술 발전으로 인한 사이버 보안 위협 증가에 대한 인식을 높이고 보안 개발의 중요성을 부각.",
+    "importance": 8,
+    "summary": "마이크로소프트의 AI 보안 담당 임원이 Black Hat USA 컨퍼런스에서 AI가 사이버 공격의 효율성을 높이고 있음을 경고하며, 선제적인 보안 개발의 중요성을 역설했다.",
+    "corporateAction": "AI 시스템 개발 전 과정에 보안 내재화(Security by Design) 원칙을 강화하고, AI 기반의 새로운 보안 솔루션 도입 및 검증을 적극적으로 검토해야 한다.",
+    "keywords": [
+      "AI 보안",
+      "사이버 보안",
+      "IT 거버넌스",
+      "보안 개발",
+      "Black Hat"
+    ],
+    "_key": "e2272f04e32e",
+    "_createdAt": "2026-08-11T08:26:53.004167+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004167+09:00"
+  },
+  {
+    "title": "금융권, AI 거버넌스 자율성 제언 및 보험사의 AI 교육·활용 확산",
+    "date": "2026-08-09",
+    "url": "https://www.asiatoday.co.kr/view.php?key=20260809010005703",
+    "category": "보험/AX, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 규제 방향에 대한 논의를 활성화하고, 보험사의 AI 역량 강화 및 책임 있는 활용을 촉진.",
+    "importance": 8,
+    "summary": "한국금융연구원이 금융당국에 AI 거버넌스 관련 원칙을 제시하되 금융사의 자율적 구축을 강조했으며, 삼성생명과 NH농협생명은 AI 활용 교육을 통해 직원 역량을 강화하고 있다.",
+    "corporateAction": "금융당국의 AI 가이드라인 변화에 선제적으로 대응하고, AI 윤리 및 거버넌스 체계를 고도화하며, 전사적 AI 교육 프로그램을 도입하여 직원 역량을 강화해야 한다.",
+    "keywords": [
+      "AI 거버넌스",
+      "금융 규제",
+      "보험 AI",
+      "AI 윤리",
+      "직원 교육"
+    ],
+    "_key": "0e89b5c86a96",
+    "_createdAt": "2026-08-11T08:26:53.004174+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004174+09:00"
+  },
+  {
+    "title": "Gallagher Re, InsurTech 펀딩의 99%가 AI 기업에 집중",
+    "date": "2026-08-06",
+    "url": "https://www.reinsurancene.com/insurtech-funding-hits-four-year-high-as-ai-firms-capture-99-of-investment-gallagher-re/",
+    "category": "보험/AX, 스타트업",
+    "ecosystemImpact": "InsurTech 분야에서 AI 중심의 투자 가속화를 보여주며, 보험 산업 혁신의 중요한 동력으로 작용.",
+    "importance": 7,
+    "summary": "Gallagher Re 보고서에 따르면 2026년 2분기 InsurTech 펀딩이 4년 만에 최고치를 기록했으며, 전체 투자의 99%인 24.2억 달러가 AI 관련 기업에 집중되었다.",
+    "corporateAction": "AI 기반 InsurTech 스타트업들의 동향을 면밀히 주시하고, 혁신 기술 도입을 위한 전략적 파트너십 또는 투자 기회를 적극적으로 모색해야 한다.",
+    "keywords": [
+      "InsurTech",
+      "AI 투자",
+      "보험 스타트업",
+      "벤처 캐피탈"
+    ],
+    "_key": "514d5e200b40",
+    "_createdAt": "2026-08-11T08:26:53.004181+09:00",
+    "_updatedAt": "2026-08-11T08:26:53.004181+09:00"
   }
 ]
