@@ -5103,5 +5103,105 @@
     "_key": "514d5e200b40",
     "_createdAt": "2026-08-11T08:26:53.004181+09:00",
     "_updatedAt": "2026-08-11T08:26:53.004181+09:00"
+  },
+  {
+    "title": "보험금 줄까 말까…AI, 보험사 핵심업무까지 들어왔다",
+    "date": "2026-08-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo69C9p7whotAwRU3xmb2CGFGHxhWLxQmM5JcWbxSdvn-anf6mOGaboozQekXj4rSHxep0EDGJ2O-8sDo5zbfVSnajl-UnhTs7Umitp5sqSVBiAMtVQGovFKyAfdA0nRq9ym4V7dcEd9N0SDunKux7O3H1Wx8Wtb4vpTMy1Tfjqgsw1jYn",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험업계 AI 도입 가속화, 의사결정 책임 소재 및 소비자 보호 문제 대두.",
+    "importance": 10,
+    "summary": "국내 주요 보험사들이 AI를 보험금 심사, 인수심사 등 핵심 업무에 도입하여 효율성을 높이고 있으나, 책임 소재와 소비자 보호 문제가 새로운 과제로 부상하고 있습니다.",
+    "corporateAction": "AI 기반 핵심 업무 자동화 확대 검토 및 AI 윤리 및 책임 거버넌스 구축 선제적 추진.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "AI 심사",
+      "소비자 보호",
+      "IT 거버넌스"
+    ],
+    "_key": "8b27454aeccd",
+    "_createdAt": "2026-08-12T08:31:06.045439+09:00",
+    "_updatedAt": "2026-08-12T08:31:06.045439+09:00"
+  },
+  {
+    "title": "금융권 AX 숨통 트인다…전산망 분리 한시 해제",
+    "date": "2026-08-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmT6R0wCOYjZSK5F2cZQcO5SSCDIfYNfxyj-zDr5M_D82kO6MxvyMfvQGR5UMZqeyIqUbQLdzDEd0z1DZW58cdjZQztHYAzk4q-jxZ9ksq-IXnzQHitKzWFHWtTDtBVaybnvH_92ORKw==",
+    "category": "금융 규제",
+    "ecosystemImpact": "금융권 AI 활용 가속화, 데이터 유출 및 보안 책임 강화.",
+    "importance": 10,
+    "summary": "금융당국이 망분리 규제를 1년간 한시적으로 완화하며 금융권의 AI 및 클라우드 활용을 촉진합니다. 이는 금융사의 보안 책임 강화와 안정적인 통제 시스템 구축을 요구합니다.",
+    "corporateAction": "AI 및 클라우드 도입 가속화, 강화된 보안 체계 및 내부 통제 시스템 구축 방안 모색.",
+    "keywords": [
+      "금융 규제",
+      "망분리",
+      "AI 보안",
+      "클라우드",
+      "AX"
+    ],
+    "_key": "c0e269e78a23",
+    "_createdAt": "2026-08-12T08:31:06.045463+09:00",
+    "_updatedAt": "2026-08-12T08:31:06.045463+09:00"
+  },
+  {
+    "title": "기업용 AI 비용 최저치 하락… 빅테크 치킨게임과 中 '초저가 오픈소스' 영향",
+    "date": "2026-08-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGunY0WgKtwYaBcJsdCvFbZS3Bn5UuvQskBTTITffydJyfDIHLZKe3HATIprOoUeeErLDAA3fBMbRC_D5t26eJv8-kRpVbYmmDNO_d7zL8u7yM79kXRS-f5mYp0DQCbKgh-MBUdS2OraEMYTuXu8acagFyCplN6Rjyq5XEGCcNsHxE9bHGOi_jW8LK",
+    "category": "LLM",
+    "ecosystemImpact": "AI 상용화 가속화 및 중소 스타트업 구조조정 촉진.",
+    "importance": 9,
+    "summary": "글로벌 AI 추론 가격이 최저치를 기록하며, 빅테크 기업 간의 경쟁과 중국의 초저가 오픈소스 모델이 확산되고 있습니다. 이는 기업의 AI 도입을 가속화할 것으로 전망됩니다.",
+    "corporateAction": "AI 서비스 도입 및 활용 비용 효율성 검토, 오픈소스 AI 활용 전략 수립 및 활용 범위 확대.",
+    "keywords": [
+      "AI 비용",
+      "오픈소스 AI",
+      "빅테크 경쟁",
+      "AI 상용화",
+      "LLM"
+    ],
+    "_key": "101f5dd33d5b",
+    "_createdAt": "2026-08-12T08:31:06.045480+09:00",
+    "_updatedAt": "2026-08-12T08:31:06.045480+09:00"
+  },
+  {
+    "title": "한국딥러닝, 대형 보험사에 문서 AI 솔루션 '딥에이전트' 공급",
+    "date": "2026-08-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvkVxZ4kdQBaAtSoJl_DNhk7noAVWdMnkEFk6g2ucDCbAFUe406jmYZXXquZ-XOBVckl5vMfcXhpplw4HAZVPQxTAODWAVFJiKAb4ELrNEKo1-H0AMF5xS7IDMTXXLQ8ReOGEw74xt09h9HUM-oxfEr5Ilq_jF",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험사의 운영 효율성 증대 및 비용 절감, AI 솔루션 시장 확대.",
+    "importance": 9,
+    "summary": "한국딥러닝이 국내 대형 보험사에 문서 AI 솔루션 '딥에이전트'를 공급하여 보험금 청구 문서 처리 과정을 자동화했습니다. 이를 통해 연간 약 38억 원의 운영비 절감 효과가 기대됩니다.",
+    "corporateAction": "문서 처리 자동화 솔루션 도입 검토, AI Agent 기반 업무 효율화 및 비용 절감 방안 추진.",
+    "keywords": [
+      "보험 AI",
+      "문서 자동화",
+      "AI Agent",
+      "딥에이전트",
+      "운영 효율성"
+    ],
+    "_key": "6ff6a403b5b6",
+    "_createdAt": "2026-08-12T08:31:06.045490+09:00",
+    "_updatedAt": "2026-08-12T08:31:06.045490+09:00"
+  },
+  {
+    "title": "디인포메이션 MS, 자체 AI칩 생산 확대 계획",
+    "date": "2026-08-11",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0lCFBJdMrLh8Y6YnnxHTpY36LmW6Pg934gTx5Au7mo5__wSoBKzP-nQamw9DACwJ3YN6Uj7a72YQho5qHprGSTfSPwj_iMjtlLdgynLm7ozcpd8vWanUWjwuGA1swhqLJPTauxwmdiYg=",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "엔비디아 의존도 감소 및 클라우드 AI 경쟁 심화.",
+    "importance": 9,
+    "summary": "마이크로소프트가 자체 설계 AI 칩 '마이아 300'의 생산을 내년에 대폭 늘릴 계획이라고 디인포메이션이 보도했습니다. 이는 엔비디아 의존도를 낮추고 클라우드 AI 시장 경쟁을 심화시킬 것입니다.",
+    "corporateAction": "자체 AI 칩 개발 동향 모니터링 및 멀티 클라우드, 하이브리드 AI 전략 강화를 통한 유연성 확보.",
+    "keywords": [
+      "MS",
+      "AI 칩",
+      "마이아 300",
+      "엔비디아",
+      "클라우드 AI"
+    ],
+    "_key": "df486b953696",
+    "_createdAt": "2026-08-12T08:31:06.045497+09:00",
+    "_updatedAt": "2026-08-12T08:31:06.045497+09:00"
   }
 ]
