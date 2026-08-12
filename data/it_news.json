@@ -5203,5 +5203,119 @@
     "_key": "df486b953696",
     "_createdAt": "2026-08-12T08:31:06.045497+09:00",
     "_updatedAt": "2026-08-12T08:31:06.045497+09:00"
+  },
+  {
+    "title": "금융보안원, '금융 AI 안전성·신뢰성 평가 프레임워크' 개발",
+    "date": "2026-08-12",
+    "url": "http://www.boannews.com/media/view.asp?idx=145125",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 시스템의 안정적 도입 및 운영을 위한 규제 및 가이드라인 제시.",
+    "importance": 10,
+    "summary": "금융보안원이 금융권 특화 AI 안전성·신뢰성 평가 프레임워크를 개발하여 AI 활용 리스크 관리를 체계화한다.",
+    "corporateAction": "AI 시스템 도입 시 해당 프레임워크 준수 및 평가를 통한 신뢰성 확보 계획 수립.",
+    "keywords": [
+      "AI 보안",
+      "IT 거버넌스",
+      "금융규제",
+      "AI 평가"
+    ],
+    "_key": "b99e9c790165",
+    "_createdAt": "2026-08-13T08:31:47.912920+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912920+09:00"
+  },
+  {
+    "title": "엔비디아, 블랙록·KKR 등 월가 자본 조달 추진…700兆 컴퓨팅 금융 구축",
+    "date": "2026-08-12",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj5rdA1eQE96kwnEFao9iekUn_sdEyfyYFu47Q0pdtD6uKac6CRdnZzpiKzrJHwYimx62NHT0ud1Cy8oE_IGNcIOdkcKYxu3jhyMhAKv2F87RSPCUaOQWD6AP50Q-mKPVP2RlKeMNqf_k2GwlrVCmhvcQeLAd_OZe5TFzYwdN9Bl-cwtxPnmk=",
+    "category": "AI 하드웨어, 엔터프라이즈 AI, 금융",
+    "ecosystemImpact": "AI 인프라 투자 방식 혁신, 금융권 AI 투자 확대 촉진.",
+    "importance": 9,
+    "summary": "엔비디아가 월가 금융기관과 5000억 달러 규모 AI 인프라 금융 플랫폼을 구축, GPU를 금융자산화하여 AI 투자 부담을 완화한다.",
+    "corporateAction": "AI 인프라 확충 시 새로운 금융 조달 방식 및 파트너십 기회 탐색.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "금융",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "26f3e0ee1f0f",
+    "_createdAt": "2026-08-13T08:31:47.912941+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912941+09:00"
+  },
+  {
+    "title": "스페이스X, 그록 4.6 출시에 시장 환호⋯“오픈AI와 동급” 자신",
+    "date": "2026-08-12",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdPVFkgezYq8pgWPMxUk46W_K8Jq7KE320tTT5A9vagsWyvBoZ7N2w2TTPSxKI2VmLfvPulFWMhZmtanVTUpuI6x14cMVHTaYenWdAgdsWzPq_vt87MY31LjTofj1PnUVr38wG",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "AI 모델 경쟁 심화, 고성능 AI 에이전트 개발 가속화.",
+    "importance": 8,
+    "summary": "스페이스X가 최신 AI 모델 '그록 4.6'을 출시하며 오픈AI의 GPT-5.6 솔과 유사한 성능을 저렴한 비용으로 제공한다고 밝혔다.",
+    "corporateAction": "AI 에이전트 솔루션 도입 시 성능 및 비용 효율성을 고려한 모델 선택 기준 강화.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "스페이스X",
+      "경쟁"
+    ],
+    "_key": "7ae965581e70",
+    "_createdAt": "2026-08-13T08:31:47.912950+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912950+09:00"
+  },
+  {
+    "title": "“한 달 걸릴 설계·검증 이틀로 단축”… 삼성전자 반도체, 앤트로픽 '클로드' 투입해 성과",
+    "date": "2026-08-12",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI54ulfZG5WnzTrVkxlHGMpScGMnRaAJogEsbk2XOlrAxSlaT7mOOm_VQMt0lofmG7LpL9QQGGbBInIOYTA3VyHtHE_XIGOnvvXOtnLlyEENa6vNIcxD6JgaHtqY5EK1XQooK7er_J8bRpNw8WjwvBXjNHiHN-eZY-U0bULiWeeYUaxbIXyA",
+    "category": "엔터프라이즈 AI, LLM",
+    "ecosystemImpact": "산업별 특화 AI 도입 가속화, 개발 및 생산성 혁신 가능성 제시.",
+    "importance": 8,
+    "summary": "삼성전자 시스템LSI사업부가 앤트로픽 클로드를 도입하여 반도체 설계 및 검증 시간을 대폭 단축, AI의 실제 업무 생산성 향상을 입증했다.",
+    "corporateAction": "사내 핵심 업무 프로세스에 LLM 기반 AI 도입을 통한 효율성 개선 방안 모색.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "LLM",
+      "생산성",
+      "산업 적용"
+    ],
+    "_key": "a866cbd4e3a5",
+    "_createdAt": "2026-08-13T08:31:47.912958+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912958+09:00"
+  },
+  {
+    "title": "AI에이전트도 인력처럼 평가·검증…제네시스랩·네모파트너즈 맞손",
+    "date": "2026-08-12",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLIE4PiX54fuU_Viu4q1ncAIm-tJ3JPhVnrcouTnVcT1zz7TurbAuc72rxTI7OV1rK6InYSBpmC5z0WpTuWR5QFnPzP9sGW_FrwZ904JsOtKfckZeVoveKQj7rbMSAaLjFGDPkmzyWaSoiXDhMviZDe7Y9Q==",
+    "category": "AI Agent, IT 거버넌스",
+    "ecosystemImpact": "AI 에이전트의 신뢰성 및 안전성 확보를 위한 평가/검증 시장 성장.",
+    "importance": 7,
+    "summary": "제네시스랩과 네모파트너즈POC가 기업의 AI 에이전트 도입을 위한 평가·검증 솔루션 사업에 나서며 AI 에이전트의 신뢰성 확보를 지원한다.",
+    "corporateAction": "AI 에이전트 도입 전 성능 및 윤리적 측면 평가 프로세스 수립 및 검토.",
+    "keywords": [
+      "AI Agent",
+      "평가",
+      "검증",
+      "IT 거버넌스"
+    ],
+    "_key": "de31bb170a8a",
+    "_createdAt": "2026-08-13T08:31:47.912965+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912965+09:00"
+  },
+  {
+    "title": "클루커스, '오픈AI 셀렉트 파트너' 선정…글로벌 AI MSP 전략 강화",
+    "date": "2026-08-12",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMFtg-doa42k2kLMAfBmDk2wLPRfGSinyJrKOifcWHcj5ggURTVl4xU4G-H3ljJvA46OSloL6310umcSTaWpK_Lim8DGoo3oQM-mUvp2KQnpyCnjhdHIn4QrIMr6PpHQ==",
+    "category": "LLM, 엔터프라이즈 AI, 클라우드",
+    "ecosystemImpact": "기업의 AI 솔루션 도입 및 운영 지원을 위한 MSP 역할 확대.",
+    "importance": 7,
+    "summary": "클루커스가 오픈AI 셀렉트 파트너로 선정, 기업의 AI 솔루션 구축·배포·확장을 책임감 있게 지원하며 글로벌 AI MSP 전략을 강화한다.",
+    "corporateAction": "외부 AI 솔루션 도입 시 신뢰성 있는 MSP 파트너사와의 협력 방안 검토.",
+    "keywords": [
+      "오픈AI",
+      "MSP",
+      "클라우드",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "616c6b132211",
+    "_createdAt": "2026-08-13T08:31:47.912971+09:00",
+    "_updatedAt": "2026-08-13T08:31:47.912971+09:00"
   }
 ]
