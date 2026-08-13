@@ -5317,5 +5317,149 @@
     "_key": "616c6b132211",
     "_createdAt": "2026-08-13T08:31:47.912971+09:00",
     "_updatedAt": "2026-08-13T08:31:47.912971+09:00"
+  },
+  {
+    "title": "엔비디아, 710조원 규모 AI 인프라 자금조달 플랫폼 구축…GPU, 장기 인프라 자산으로 평가",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1nuYWWgvPLHriXRBY0kL9c0jjoSGpirRmHoxVG_-Ou9rRicK8Zn2GeXxFdk4M9gqqj9_ge7tFkn_0C28fqjnYP7b6VGh9aB65NmaEZMhyjJWiYzGzkXvErcEp6fFLGJak_0Hb-_vCtQ4=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 인프라 투자 가속화 및 GPU 자산화 모델 확립으로 산업 생태계 변화 예상",
+    "importance": 10,
+    "summary": "엔비디아가 월가 금융사들과 710조원 규모의 AI 인프라 자금조달 플랫폼을 구축, GPU를 장기 인프라 자산으로 평가하는 새로운 금융 모델을 제시했다.",
+    "corporateAction": "AI 인프라 투자 비용 절감 및 효율화를 위한 새로운 금융 모델 도입 가능성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "GPU",
+      "AI 인프라",
+      "금융 투자",
+      "자금 조달"
+    ],
+    "_key": "c887af9372fc",
+    "_createdAt": "2026-08-14T08:32:54.531503+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531503+09:00"
+  },
+  {
+    "title": "오픈AI, 기업 AI 활용 격차 8.3배 심화 보고서 발표…GPT-5.6 Sol 'Ultrafast' 모드 출시로 기업 공략",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs_BDYQcrGPbAd14u8uYE-tibd70uXjw3CbsQSCf2vEA2n7Vfjk8XckR_8iqhDUiLbUQNzx822IajnRiJlFnIsWXXhUkyidciOPozmaCdl3x1AWzUC5-odARxkBThVkDY=",
+    "category": "LLM, AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 AI 도입 전략 변화 촉진 및 AI 에이전트 시장 경쟁 심화.",
+    "importance": 9,
+    "summary": "오픈AI는 기업 AI 활용 격차가 8.3배로 확대되었고 AI가 질문 도우미에서 업무 실행자로 진화함을 밝혔다. 동시에 GPT-5.6 Sol의 14배 빠른 'Ultrafast' 모드를 공개하며 기업 시장 공략을 가속화했다.",
+    "corporateAction": "사내 AI 에이전트 도입 가속화 및 모델 성능 최적화 기술 도입 검토.",
+    "keywords": [
+      "OpenAI",
+      "GPT-5.6",
+      "엔터프라이즈 AI",
+      "AI Agent",
+      "LLM",
+      "활용 격차"
+    ],
+    "_key": "45818ed31b79",
+    "_createdAt": "2026-08-14T08:32:54.531532+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531532+09:00"
+  },
+  {
+    "title": "한화생명, 전 임직원 대상 M365 코파일럿 도입…AI 기반 종합금융 플랫폼 도약 박차",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHssOlXvHmo8RvzGzWyLOEWKaY4G-vJSa7P1ZNX67J4cypUlBOdUJfCQ3vREmFLVZ8AsJ4iHKBaS36A-IxLABO19ju14vIJAXylaO7feekMtUvHjaG30h5xyZPV9i-OIGco80qcyY6fa8ySR6cJfE3qpoOq9w==",
+    "category": "보험/AX, LLM, 엔터프라이즈 AI",
+    "ecosystemImpact": "국내 보험업계 AI 전환 가속화 및 타 금융사 도입 확산에 영향.",
+    "importance": 9,
+    "summary": "한화생명이 전 직원에 M365 코파일럿을 도입하고 58개 AI 혁신 과제를 추진하며 AI 기반 종합금융 플랫폼으로의 전환을 가속화한다.",
+    "corporateAction": "사내 생성형 AI 솔루션 전사 확대 적용 및 AI 혁신 과제 발굴, AX 인재 육성 벤치마킹.",
+    "keywords": [
+      "한화생명",
+      "생성형 AI",
+      "M365 코파일럿",
+      "보험/AX",
+      "종합금융 플랫폼",
+      "업무혁신"
+    ],
+    "_key": "7218de0351b4",
+    "_createdAt": "2026-08-14T08:32:54.531541+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531541+09:00"
+  },
+  {
+    "title": "노타·메타엠, AI 상담체계 공동개발 계약 체결…AI 에이전트 운영 최적화 및 RAG 기술 적용",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPQZU2zbhE0FpcgZnQGdXSM8WLC9-bPzg1NlFSUJQcZKJkI4idbui0n3Mmjh80omzsfsHeL4U16VbPUOYno6CBTEPZ0nuKrsNkxADxzG70Ig2LOSKaXyrqCiQMhTEkMUa8q6-LLbtg8iye",
+    "category": "AI Agent, RAG, AI 보안/망분리, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 컨택센터 및 AI 에이전트 상용화 가속, 효율적인 AI 운영 인프라 중요성 증대.",
+    "importance": 8,
+    "summary": "노타와 메타엠이 차세대 AI 상담체계 공동 개발 계약을 체결, 노타의 AI 최적화 기술과 RAG를 적용하여 AI 에이전트 기반 AICC의 효율적 운영을 목표한다.",
+    "corporateAction": "고객 서비스 AI 에이전트 도입 및 RAG, AI 모델 최적화 기술 적용 방안 모색.",
+    "keywords": [
+      "AI 컨택센터",
+      "AI Agent",
+      "RAG",
+      "AI 최적화",
+      "노타",
+      "메타엠",
+      "고객 서비스"
+    ],
+    "_key": "bbad87c1cbf8",
+    "_createdAt": "2026-08-14T08:32:54.531550+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531550+09:00"
+  },
+  {
+    "title": "뱅크샐러드, 금융 AI 에이전트 집중…인터넷은행-지방은행, 기업금융에 AI로 맞불",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXQJdbq_bT2J-9q6_h9594CecfoY0y21wBBArbrKsqMOhsv4Qe1vwsXl46DgjTg6EMZTnI7ljyGZ-_G9z7PrswGq3-88-PAlcfH6-lK8k6NXYekhdX3LOd67Sq0UUPZzMh",
+    "category": "AI Agent, 보험/AX, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 에이전트 경쟁 심화, 규제 샌드박스 통한 혁신 금융 서비스 확대.",
+    "importance": 8,
+    "summary": "뱅크샐러드가 금융 AI 에이전트에 집중하며 수익 다각화를 추진하고, 인터넷은행과 지방은행이 AI를 활용해 기업금융 시장 경쟁을 가속화하고 있다.",
+    "corporateAction": "금융 AI 에이전트 서비스 포트폴리오 확장 및 규제 샌드박스 활용 가능성 분석.",
+    "keywords": [
+      "금융 AI 에이전트",
+      "뱅크샐러드",
+      "인터넷은행",
+      "기업금융",
+      "규제 샌드박스"
+    ],
+    "_key": "5c4b7e3b23b8",
+    "_createdAt": "2026-08-14T08:32:54.531557+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531557+09:00"
+  },
+  {
+    "title": "IAG, 2026 회계연도 실적 개선…AI 도구 활용 및 OpenAI 파트너십으로 손해 처리 효율 증대",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJVoXICZOQzjSU4wRVmI2e7pjjxFIMMwoRZLVbI_2Pj1a6YwFV3uEdZnsBI97rZVr4DG8TYNEGy8Jk_G-31v0Y7br7KggTb18yPdLTLilB2Uk6_oev94ySK_It9GtMEOmUMW272706L2sSMWMpMytOWY0f2rcRa_",
+    "category": "보험/AX, AI Agent, LLM",
+    "ecosystemImpact": "글로벌 보험사의 AI 도입 가속화, 특히 손해 사정 분야 혁신 주도.",
+    "importance": 7,
+    "summary": "호주의 IAG가 AI 도구 활용률 60%를 달성하고 OpenAI와의 파트너십을 통해 특히 자연재해 상황에서의 손해 처리를 개선하며 2026년 실적을 개선했다.",
+    "corporateAction": "OpenAI 등 외부 AI 기술 파트너십 확대 및 재보험사 손해 사정 프로세스 AI 적용 심화.",
+    "keywords": [
+      "IAG",
+      "보험/AX",
+      "손해 처리",
+      "OpenAI",
+      "AI 도입"
+    ],
+    "_key": "4f305d575cad",
+    "_createdAt": "2026-08-14T08:32:54.531568+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531568+09:00"
+  },
+  {
+    "title": "구글, Gemini 3.7 Flash 출시…코딩 및 AI 에이전트 기능 강화, 가격 50% 인하",
+    "date": "2026-08-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtbEk73dEtxJcEftuuH2X3tI_fwLRWPkv_4dCnbFS1WVZduWkfsvWgHF2bZAHPKqDKzA2azgY90Vah-7EO-Ss7sx84vz4-yZWGsbV6f0qliETT8GEK2qWp",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "LLM 시장 경쟁 심화 및 AI 에이전트 개발 비용 절감 효과.",
+    "importance": 7,
+    "summary": "구글이 Gemini 3.7 Flash를 출시하며 코딩 및 AI 에이전트 기능을 강화하고, 이전 모델 대비 가격을 50% 인하하여 LLM 시장 경쟁을 심화시켰다.",
+    "corporateAction": "다양한 LLM 모델의 성능 및 비용 효율성 비교 분석, AI 에이전트 개발 플랫폼 확장.",
+    "keywords": [
+      "Google Gemini",
+      "LLM",
+      "AI Agent",
+      "코딩 AI",
+      "가격 경쟁"
+    ],
+    "_key": "c6c2cd4bcd7c",
+    "_createdAt": "2026-08-14T08:32:54.531575+09:00",
+    "_updatedAt": "2026-08-14T08:32:54.531575+09:00"
   }
 ]
