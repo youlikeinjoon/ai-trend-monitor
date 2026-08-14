@@ -5461,5 +5461,105 @@
     "_key": "c6c2cd4bcd7c",
     "_createdAt": "2026-08-14T08:32:54.531575+09:00",
     "_updatedAt": "2026-08-14T08:32:54.531575+09:00"
+  },
+  {
+    "title": "AI 개발 중단 촉구 및 AI 생성 바이러스 보고, AI 안전성 및 규제 압력 증대",
+    "date": "2026-08-14",
+    "url": "https://neuralbuddies.substack.com/p/ai-news-recap-august-14-2026",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 윤리, 안전성 논의 심화 및 정부/의회의 AI 규제 움직임 가속화.",
+    "importance": 10,
+    "summary": "AI가 바이러스를 설계하고 OpenAI가 모델 출시를 중단하는 등 AI 안전성 문제가 부각되며, 미 상원에서 AI 개발 일시 중단을 촉구했습니다.",
+    "corporateAction": "AI 시스템 도입 시 윤리 및 안전성 평가 강화, 잠재적 규제 변화에 대한 선제적 대응 계획 수립.",
+    "keywords": [
+      "AI 안전성",
+      "AI 규제",
+      "AI 윤리",
+      "사이버 보안",
+      "거버넌스"
+    ],
+    "_key": "81ee99bb0be0",
+    "_createdAt": "2026-08-15T08:15:32.108838+09:00",
+    "_updatedAt": "2026-08-15T08:15:32.108838+09:00"
+  },
+  {
+    "title": "북한 IT 노동자들, AI 활용하여 위장 취업 및 공격 역량 강화 확인",
+    "date": "2026-08-14",
+    "url": "https://www.youtube.com/watch?v=nE3_kF-u81Y",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 기반 사이버 위협 고도화, 금융권 보안 시스템 강화 필요성 증대.",
+    "importance": 9,
+    "summary": "북한 IT 위장 취업자들이 AI를 면접 및 얼굴 변조에 활용하고 있으며, AI를 통한 공격 체계가 진화하고 있음이 확인되었습니다.",
+    "corporateAction": "AI 기반 위협 탐지 시스템 도입 검토 및 내부 인력 채용 절차에서의 AI 악용 방지 대책 마련.",
+    "keywords": [
+      "AI 해킹",
+      "사이버 보안",
+      "금융망분리",
+      "위장취업",
+      "보안 위협"
+    ],
+    "_key": "f855ac4703a8",
+    "_createdAt": "2026-08-15T08:15:32.108859+09:00",
+    "_updatedAt": "2026-08-15T08:15:32.108859+09:00"
+  },
+  {
+    "title": "메타, 오픈소스 AI 모델 공개하며 '개방형 AI' 전략 가속화",
+    "date": "2026-08-14",
+    "url": "https://biz.chosun.com/it/ai/2026/08/14/meta-opensource-ai-model-release.html",
+    "category": "LLM",
+    "ecosystemImpact": "오픈소스 AI 생태계 경쟁 심화 및 접근성 증대.",
+    "importance": 9,
+    "summary": "메타가 새로운 오픈소스 AI 모델을 발표하며 중국의 추격에 맞서 개방형 AI 전략을 강화하고 있습니다.",
+    "corporateAction": "오픈소스 LLM의 활용 가능성 및 내부 시스템 통합 방안 검토, 모델 선택 전략 고도화.",
+    "keywords": [
+      "오픈소스 LLM",
+      "메타",
+      "AI 모델",
+      "개방형 AI"
+    ],
+    "_key": "944057f885de",
+    "_createdAt": "2026-08-15T08:15:32.108868+09:00",
+    "_updatedAt": "2026-08-15T08:15:32.108868+09:00"
+  },
+  {
+    "title": "금융 AI/AX 황금기 속 딥페이크 등 AI 활용 금융 범죄 급증 및 규제 강화 움직임",
+    "date": "2026-08-14",
+    "url": "https://www.youtube.com/watch?v=gT1yN_t7E0k",
+    "category": "보험/AX",
+    "ecosystemImpact": "금융 서비스 AI 전환 가속화와 동시에 AI 악용 범죄에 대한 대응 전략 중요성 증대.",
+    "importance": 8,
+    "summary": "AI 뱅킹의 황금기가 도래했으나 딥페이크, 암호화폐 해킹 등 AI를 활용한 금융 범죄가 진화하며 보안 및 규제 강화 필요성이 강조됩니다.",
+    "corporateAction": "AI 기반 금융 서비스 개발 시 보안 취약점 사전 분석 및 AI 윤리 가이드라인 적용 강화.",
+    "keywords": [
+      "금융 AI",
+      "AX",
+      "AI 범죄",
+      "딥페이크",
+      "금융 보안",
+      "규제"
+    ],
+    "_key": "1e02078c622c",
+    "_createdAt": "2026-08-15T08:15:32.108877+09:00",
+    "_updatedAt": "2026-08-15T08:15:32.108877+09:00"
+  },
+  {
+    "title": "빌 게이츠, 한국 방문하여 AI 전력 수요 대응 위한 소형 모듈 원전(SMR) 협력 논의",
+    "date": "2026-08-14",
+    "url": "https://www.youtube.com/watch?v=4dJ_xX1lQ1Y",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 데이터센터 전력 문제 해결을 위한 에너지 인프라 투자 및 기술 협력 중요성 부각.",
+    "importance": 7,
+    "summary": "빌 게이츠가 한국을 방문해 AI 확산으로 급증하는 전력 수요에 대응하기 위한 소형 모듈 원전(SMR) 협력 방안을 논의했습니다.",
+    "corporateAction": "장기적인 AI 인프라 구축 계획에 있어 전력 공급 안정성 및 친환경 에너지원 도입 가능성 검토.",
+    "keywords": [
+      "AI 인프라",
+      "SMR",
+      "전력",
+      "데이터센터",
+      "에너지"
+    ],
+    "_key": "da3c28b317ba",
+    "_createdAt": "2026-08-15T08:15:32.108888+09:00",
+    "_updatedAt": "2026-08-15T08:15:32.108888+09:00"
   }
 ]
