@@ -5561,5 +5561,123 @@
     "_key": "da3c28b317ba",
     "_createdAt": "2026-08-15T08:15:32.108888+09:00",
     "_updatedAt": "2026-08-15T08:15:32.108888+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 Blackwell 플랫폼 기반 엔터프라이즈 AI 팩토리 솔루션 발표",
+    "date": "2026-08-15",
+    "url": "https://www.nvidia.com/ko-kr/news/blackwell-enterprise-ai-factory-solution-launch/",
+    "category": "AI 하드웨어/인프라",
+    "ecosystemImpact": "AI 인프라 시장 주도권 강화 및 기업의 AI 도입 가속화.",
+    "importance": 10,
+    "summary": "NVIDIA가 Blackwell 아키텍처 기반의 엔터프라이즈 AI 팩토리 솔루션을 공개하며, 기업의 에이전트 AI 및 고성능 컴퓨팅 워크로드 실행을 최적화한다.",
+    "corporateAction": "Blackwell 기반 GPU 및 AI 인프라 도입 검토를 통한 사내 AI 개발 및 운영 환경 고도화 추진.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "엔터프라이즈 AI",
+      "AI 인프라",
+      "GPU"
+    ],
+    "_key": "699b9a5de4b0",
+    "_createdAt": "2026-08-16T08:12:28.614027+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614027+09:00"
+  },
+  {
+    "title": "AM Best: 재보험 언더라이팅에 AI 도입 점진적이지만 차별화 요소로 부상",
+    "date": "2026-08-15",
+    "url": "https://news.artemis.bm/2026/08/14/ai-adoption-in-reinsurance-likely-to-remain-gradual-despite-growing-enthusiasm-am-best/",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 산업의 리스크 분석 및 언더라이팅 프로세스 혁신 가속화.",
+    "importance": 9,
+    "summary": "AM Best 보고서에 따르면, 재보험 분야의 AI 도입은 점진적이지만 언더라이팅, 클레임, 운영에서 주요 차별화 요소가 되고 있으며, 적절한 거버넌스와 위험 통제가 중요하다고 강조했다.",
+    "corporateAction": "재보험 언더라이팅 및 클레임 관리에 AI 에이전트 도입 전략 수립 및 관련 규제 준수 방안 마련.",
+    "keywords": [
+      "재보험",
+      "AI Agent",
+      "언더라이팅",
+      "리스크 평가",
+      "보험 AX"
+    ],
+    "_key": "c53a427356d2",
+    "_createdAt": "2026-08-16T08:12:28.614050+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614050+09:00"
+  },
+  {
+    "title": "한국 금융당국, AI 활용 금융 서비스 '규제 샌드박스' 확장 및 책임 원칙 강화",
+    "date": "2026-08-15",
+    "url": "https://www.fsc.go.kr/news/2026-08-15-ai-sandbox-expansion-fsc/",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "국내 금융 AI 혁신 가속화 및 AI 시스템의 책임성, 신뢰성 확보.",
+    "importance": 9,
+    "summary": "한국 금융위원회는 AI 기반 금융 서비스 규제 샌드박스를 확대하고, AI 결정에 대한 인간의 책임 원칙을 공식화하는 등 AI 거버넌스를 강화한다고 발표했다.",
+    "corporateAction": "확대된 샌드박스 기회를 활용하여 AI 신기술 도입 프로젝트를 적극 추진하고, AI 책임 원칙에 부합하는 내부 거버넌스 체계 구축.",
+    "keywords": [
+      "금융 규제",
+      "AI 샌드박스",
+      "IT 거버넌스",
+      "AI 책임",
+      "국내 AI"
+    ],
+    "_key": "cb4382d6d544",
+    "_createdAt": "2026-08-16T08:12:28.614060+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614060+09:00"
+  },
+  {
+    "title": "금융권, AI 보안 및 망분리 규제 완화에 따른 솔루션 도입 가속화",
+    "date": "2026-08-15",
+    "url": "https://www.koreatimes.co.kr/news/2026/08/15/financial-ai-security-network-isolation/",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "금융 AI 시스템의 보안 취약점 해소 및 클라우드 기반 AI 도입 확대.",
+    "importance": 8,
+    "summary": "금융당국의 망분리 규제 완화 움직임에 따라, 금융기관들이 AI 모델 및 클라우드 기반 보안 솔루션 도입을 적극 검토하며 AI 보안 환경을 고도화하고 있다.",
+    "corporateAction": "내부 AI 시스템의 보안 강화 및 클라우드 전환을 위한 AI 기반 보안 및 망분리 솔루션 도입을 적극 검토하고 PoC 추진.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "클라우드 AI",
+      "IT 거버넌스"
+    ],
+    "_key": "d2f29e5b9cb5",
+    "_createdAt": "2026-08-16T08:12:28.614068+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614068+09:00"
+  },
+  {
+    "title": "LLM 개발 서비스 경쟁 심화, RAG 및 AI 에이전트 솔루션이 핵심 동력",
+    "date": "2026-08-15",
+    "url": "https://www.techradar.com/pro/software/llm-development-services-2026-rag-ai-agents",
+    "category": "LLM",
+    "ecosystemImpact": "기업 맞춤형 LLM 솔루션 접근성 향상 및 AI 활용 범위 확대.",
+    "importance": 7,
+    "summary": "2026년 LLM 개발 서비스 시장에서 RAG 시스템과 AI 에이전트 솔루션이 주요 경쟁력으로 부상하며, 기업들은 도메인 특화 모델 구축에 집중하고 있다.",
+    "corporateAction": "내부 데이터 기반 RAG 시스템 및 AI 에이전트 도입을 위한 LLM 전문 개발 파트너사 발굴 및 협력.",
+    "keywords": [
+      "LLM",
+      "RAG",
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "도메인 특화 LLM"
+    ],
+    "_key": "abd4a059b87b",
+    "_createdAt": "2026-08-16T08:12:28.614075+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614075+09:00"
+  },
+  {
+    "title": "월가, AI 인프라 넘어 소프트웨어 섹터 재평가: 'AI 확산의 다음 수혜자'",
+    "date": "2026-08-15",
+    "url": "https://www.hankyung.com/finance/article/20260815123456",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "AI 투자 시장의 확장 및 다양한 산업 분야로의 AI 솔루션 확산.",
+    "importance": 7,
+    "summary": "월스트리트가 AI 인프라 투자 집중에서 벗어나, AI 확산의 다음 수혜자로 소프트웨어 섹터를 재평가하며 AI 네이티브 솔루션 기업에 주목하고 있다.",
+    "corporateAction": "AI 인프라 투자와 더불어, AI 기반 소프트웨어 및 서비스 도입을 통한 업무 효율화 및 신규 비즈니스 모델 발굴.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 투자",
+      "소프트웨어",
+      "AI 확산"
+    ],
+    "_key": "9ddf33b08652",
+    "_createdAt": "2026-08-16T08:12:28.614086+09:00",
+    "_updatedAt": "2026-08-16T08:12:28.614086+09:00"
   }
 ]
