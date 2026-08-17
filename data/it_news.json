@@ -5816,5 +5816,122 @@
     "_key": "3cb7318d0ec6",
     "_createdAt": "2026-08-17T08:11:43.738667+09:00",
     "_updatedAt": "2026-08-17T08:11:43.738667+09:00"
+  },
+  {
+    "title": "금융권 AI 보안 목적 망분리 규제 한시적 완화 및 전면 해제 검토",
+    "date": "2026-05-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKatKNINJzyRTuOxUOXhLvkKg-DobPkDPdGxe8EntrTxlJB7qShcicnlWKpCOM6lGeZUfNZ5WFC8DBkjpNJa4EKx_gmVGjGs_6s-BuSFkoU7pLVkyzaolluaYqAYxq1WZHACVgJDSE-b7eUkfkKqw=",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 AI 기반 보안 산업 성장 촉진.",
+    "importance": 10,
+    "summary": "금융당국이 고성능 AI 기반 보안 위협 대응을 위해 금융권 망분리 규제를 한시적으로 완화하고, 보안 역량 우수 기업은 전면 해제도 검토한다.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 및 내부통제 시스템 정비, 규제 변화에 선제적 대응 필요.",
+    "keywords": [
+      "AI 보안",
+      "망분리 규제",
+      "금융 규제 샌드박스",
+      "IT 거버넌스"
+    ],
+    "_key": "11ad7528d10a",
+    "_createdAt": "2026-08-18T08:14:31.389696+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389696+09:00"
+  },
+  {
+    "title": "코리안리, 국내 최초 '요율산정 AI' 도입…혁신금융서비스 지정",
+    "date": "2026-03-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEymCtAIUo0CGg-XzX7EBl0XywNY25yNDCkF9vtjAqDtNLAwMyCYRY9ALR1cQ9s_4ne8t7KF-RUcdmmbC51SaB4OYuK-3PFU2nN7IHqFTbnUp4vIjFS_aEQ9hZ5chuAYeg=",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "재보험 언더라이팅 자동화 선례, 금융권 AI 활용 확산 촉진.",
+    "importance": 9,
+    "summary": "코리안리가 국내 최초로 AWS Bedrock, GCP Vertex AI 활용한 기업성 보험 요율산정 AI 어시스턴트를 도입한다.",
+    "corporateAction": "재보험 업무 자동화 및 AI 에이전트 도입 기회 모색, 클라우드 기반 AI 인프라 벤치마킹.",
+    "keywords": [
+      "재보험",
+      "요율산정",
+      "언더라이팅 자동화",
+      "AI Agent",
+      "혁신금융서비스"
+    ],
+    "_key": "8dfef7a2b6a1",
+    "_createdAt": "2026-08-18T08:14:31.389718+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389718+09:00"
+  },
+  {
+    "title": "2026년 기업 환경, AI 에이전트와 엔터프라이즈 AI 인프라 구축에 집중",
+    "date": "2026-02-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaZhTrVdf7mTbCu2ikyM_Lup_DETDIrxmQTXiKGhAMTB3rPLZbxakIP6fu4ucJ0qaLENGvNYcWVSWpikOxp25GtyqzTqD9mZ8y-NQkRQ7YJ8xqeGODGhBQwqyHxvQfpC3StIrW9qomjzWe1BuPfUfZv11KkN35JEQ2Q_NYwYCiYCE1QqTUdo4DWV0BNZ1gV2kGkS8I",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 업무 방식의 근본적 변화, AI 인프라 및 거버넌스 중요성 증대.",
+    "importance": 9,
+    "summary": "2026년은 AI 에이전트가 기업 업무의 40%까지 관여하고, AI 인프라 구축과 거버넌스가 핵심 경쟁력이 되는 해로 예측된다.",
+    "corporateAction": "AI 에이전트 도입 전략 수립, 데이터 기반 AI 인프라 및 거버넌스 체계 강화.",
+    "keywords": [
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "IT 거버넌스",
+      "데이터 거버넌스"
+    ],
+    "_key": "9bbf4a34f930",
+    "_createdAt": "2026-08-18T08:14:31.389728+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389728+09:00"
+  },
+  {
+    "title": "NVIDIA, 2026년 차세대 GPU '루빈' 출시 및 업그레이드 주기 1년으로 단축",
+    "date": "2026-01-18",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1nypUdrD1nTC6uqGz8Ps19QYSf5OFrYvURfD56Ccq1W9_M9htfzEm-QjCF4kGUfSJV64yU5eE4hUbIgQ2vwiZyFbp7fWoMjGdHZTukkYkUBby-26Fyu1Nu9IUabIGP5wpQzOisqEvEB8r51GbJUhJ5BX2Y4iZGEhuTHpLrNoU1UGUrP4touG8WtmvqBSBRftqWzvqGQ==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능 혁신 가속화, AI GPU 시장 경쟁 심화.",
+    "importance": 8,
+    "summary": "엔비디아가 2026년 차세대 루빈 GPU(HBM4, Vera CPU 포함)를 출시하며 GPU 업그레이드 주기를 1년으로 단축, AI 가속기 시장을 선도.",
+    "corporateAction": "최신 AI 하드웨어 로드맵 주시, AI 인프라 확장 및 최적화 전략 검토.",
+    "keywords": [
+      "NVIDIA",
+      "GPU",
+      "Rubin",
+      "Blackwell",
+      "AI 하드웨어"
+    ],
+    "_key": "1e92d6b58f26",
+    "_createdAt": "2026-08-18T08:14:31.389735+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389735+09:00"
+  },
+  {
+    "title": "금융권, 'AI 오답 리스크' 해결 위한 RAG 기술 도입 가속화",
+    "date": "2026-04-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOWtsdKEnfCGBkspO_LzNCfCnszrqKpF-dQYXas_bPFRunJPyH7sRFoTiBCRqk1iDPHiOLQHGBOIbQzvMIA0tZ58fO0fatreKnsDwL-UfuzL3IAjhfaEAdJWLwf7iY0UeoUT9A4H0IwKLbD4s=",
+    "category": "RAG, AI 보안",
+    "ecosystemImpact": "금융 AI의 신뢰성 및 활용도 향상, AI 규제 준수 솔루션 시장 성장.",
+    "importance": 8,
+    "summary": "금융권은 AI 환각 현상과 책임 문제를 해결하기 위해 내부 규정 기반 RAG 기술 도입을 가속화하며, 정확하고 근거 있는 답변 제공에 집중.",
+    "corporateAction": "RAG 시스템 도입 검토, 내부 지식 기반 AI 에이전트 구축, AI 오답 리스크 관리 강화.",
+    "keywords": [
+      "RAG",
+      "금융 AI",
+      "AI 환각",
+      "신뢰성",
+      "보안"
+    ],
+    "_key": "ee8718fa852d",
+    "_createdAt": "2026-08-18T08:14:31.389741+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389741+09:00"
+  },
+  {
+    "title": "금융규제 샌드박스 전면 개편, 핀테크·AI 혁신 도전 문턱 낮춘다",
+    "date": "2026-07-06",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNb2EtXJDug47Ryo0dY0MhgiZRpaMrkTXZOrRXE9ZPjQuUnuLug9MdhppMABJVkkcENtg8W2IDqmrZP3c7wbugcwGPBbZE2dP5HTJiN3qhB5uoRDpxro_sAqg2napKzXgzyXWnxuFMjs2uSdE-Gusif5zVRp3z7qg=",
+    "category": "금융 규제 샌드박스, IT 거버넌스",
+    "ecosystemImpact": "핀테크 및 금융회사의 AI 서비스 개발 활성화, 제도권 연착륙 지원.",
+    "importance": 7,
+    "summary": "금융위, 샌드박스 제도를 개편하여 배타적 운영권 조기 부여, 법령정비 단축 등 핀테크·AI 혁신 기업의 사업화 및 성장 지원.",
+    "corporateAction": "혁신금융서비스 적극 활용, AI 기반 신규 서비스 개발 및 시장 테스트 기회 모색.",
+    "keywords": [
+      "금융규제 샌드박스",
+      "핀테크",
+      "AI 혁신",
+      "규제 완화"
+    ],
+    "_key": "27c880751ece",
+    "_createdAt": "2026-08-18T08:14:31.389748+09:00",
+    "_updatedAt": "2026-08-18T08:14:31.389748+09:00"
   }
 ]
