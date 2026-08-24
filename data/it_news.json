@@ -6551,5 +6551,146 @@
     "_key": "3edb37469705",
     "_createdAt": "2026-08-24T08:12:15.296253+09:00",
     "_updatedAt": "2026-08-24T08:12:15.296253+09:00"
+  },
+  {
+    "title": "은행 보안, AI로 실제 공격 가능성까지 검증하며 재편",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzqgoxhokbkGa2KcZw2vrFVaJ2J2GG7x7GEp2La3KARTE4WF7ViZIHk3FFxMbqWztjLOCAuqCABpVI7gDZC1rUVz_Zrdf75jcSgZAVJJBdFVyCBswk-32C07LrkD-u10U=",
+    "category": "IT 거버넌스/보안, AI Agent, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 보안 체계 고도화 및 규제 완화 촉진.",
+    "importance": 10,
+    "summary": "KB국민은행 등 국내 은행들이 AI를 활용해 SW 취약점을 분석하고 공격 재현까지 검증하는 보안 체계를 추진. AI 레드티밍, AI 에이전트 모의해킹 도입.",
+    "corporateAction": "AI 기반 SW 취약점 분석 및 공격 재현 시스템 도입 검토, AI 에이전트 활용 모의해킹 전략 수립.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "레드팀",
+      "AI 에이전트",
+      "취약점 분석"
+    ],
+    "_key": "e1b659213a0f",
+    "_createdAt": "2026-08-25T08:15:22.265513+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265513+09:00"
+  },
+  {
+    "title": "2026년, AI 거버넌스 및 금융·가상자산 규제 강화 원년",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcTbKzfnZ0vVWWnAcqpGUf0kp6XvxL4aG1tn4wAkkAvGeZJgEyhIoWv0cN8FQkiJ4raaROkX3SC_EUgHsmFe_KfOJaBejp3JJoZtV2c39nhDU5-ILevYRwi2vXLZLk-iLJv8s=",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, 글로벌 트렌드",
+    "ecosystemImpact": "글로벌 AI 규제 법제화 가속화 및 기업 컴플라이언스 강화.",
+    "importance": 9,
+    "summary": "미국, EU 등 전 세계적으로 AI 규제가 법적 의무화 단계로 진입, 한국도 금융·가상자산 분야 규제 강화.",
+    "corporateAction": "글로벌 AI 규제 동향 면밀히 분석하고, AI 위험관리 프레임워크(AI RMF) 도입 검토 및 내부 가이드라인 마련.",
+    "keywords": [
+      "AI 규제",
+      "AI 거버넌스",
+      "금융 규제",
+      "AI RMF",
+      "컴플라이언스"
+    ],
+    "_key": "79b02899dc6b",
+    "_createdAt": "2026-08-25T08:15:22.265537+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265537+09:00"
+  },
+  {
+    "title": "네이버, 검색 API 약관 개정으로 AI 학습 및 활용 전면 제한",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOoEpsfbf1S9VmMBriatyIH7EH0CTU_o3dDthkCbkm9aZJguIGt-oiYzv2_BiXPqYqmspOCjRfyIhZDOH7pT_46pd2GvQWWGf95wxJgzQ92W89i6PgTqlPhYz9Pjj1uV1On5ty3QHvqE-OHyVKAtZovPbu3GC3MT_iZ8zIzGiuUNbHbOkF5wo=",
+    "category": "RAG, AI 보안, LLM, 데이터 거버넌스",
+    "ecosystemImpact": "외부 검색 데이터 기반 RAG 시스템 구축에 큰 영향, 데이터 확보 전략 변화.",
+    "importance": 9,
+    "summary": "네이버가 검색 API 이용약관을 개정, AI 학습/활용 및 검색 데이터 노출을 금지하여 외부 AI의 데이터 접근을 차단.",
+    "corporateAction": "외부 데이터 활용 RAG 및 AI 모델 개발 시 법적/기술적 제약 사항 고려, 내부 데이터 구축 전략 중요성 증대.",
+    "keywords": [
+      "RAG",
+      "데이터 거버넌스",
+      "AI 학습 데이터",
+      "LLM",
+      "API 정책"
+    ],
+    "_key": "30b7849d5664",
+    "_createdAt": "2026-08-25T08:15:22.265552+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265552+09:00"
+  },
+  {
+    "title": "신한투자증권, 현업 중심 'AX 챔피언스데이'로 AI Agent 확산 가속화",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTf4Hlajfr_CdZVPfsRtSIGYjpwwcpUffgQX0zLSSbEuc_g0SJ_fqf_ISZ2I51SZPpZc_TxngTFJIdqcYlgTy2LQv8JJYqJnGSt8lqdTfiN-ogjpYj0Ijcd0MDgTs6AI_tOo=",
+    "category": "보험/AX, AI Agent, IT 거버넌스, 엔터프라이즈 AI",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 현업 중심 AI 활용 성공 사례 창출.",
+    "importance": 9,
+    "summary": "신한투자증권이 AX 챔피언스데이를 통해 AI Agent 활용 우수 사례 공유 및 전사적 AI 전환 추진 체계 강화.",
+    "corporateAction": "현업 부서의 AI Agent 도입 및 활용 확대를 위한 지원 프로그램 벤치마킹, AI 전환(AX) 리더 양성 및 조직 문화 확산.",
+    "keywords": [
+      "AX",
+      "AI Agent",
+      "금융 AI",
+      "엔터프라이즈 AI",
+      "디지털 전환"
+    ],
+    "_key": "023ea1bc1b54",
+    "_createdAt": "2026-08-25T08:15:22.265561+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265561+09:00"
+  },
+  {
+    "title": "NVIDIA, Vera Rubin 및 Blackwell로 에이전트 AI 성능 신기록",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqrXFYup69k0X6UlxqejubBSZYdvtI9oYiTGsoTgNXWhQztz8rqOrA4UfRm0su7U9HpRWxrYZw7iq3N1BnwczZI1EyQQ5vI9CAsDldH_q7KweJsrEsZ3hHPCI0WIRRAnQm-c-NLgYYRczQo27MKDkJ7zfE3P724q_G1of98_b9dJmczg==",
+    "category": "AI 하드웨어 인프라, AI Agent",
+    "ecosystemImpact": "AI 하드웨어 기술 발전이 에이전트 AI 상용화 가속화.",
+    "importance": 9,
+    "summary": "NVIDIA가 Vera Rubin 플랫폼 및 Blackwell 아키텍처를 통해 에이전트 AI의 성능 및 전력 효율성을 극대화.",
+    "corporateAction": "차세대 에이전트 AI 워크로드 대비 NVIDIA Blackwell/Vera Rubin 기반 GPU 인프라 도입 및 확장 전략 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "Vera Rubin",
+      "AI 하드웨어",
+      "AI Agent",
+      "GPU"
+    ],
+    "_key": "b7bd4571d602",
+    "_createdAt": "2026-08-25T08:15:22.265569+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265569+09:00"
+  },
+  {
+    "title": "삼성SDS, 서울대 'AI 네이티브 캠퍼스' 구축…초고속망 및 AI망 분리",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG99lLobOxBCd4kcpd-XEJIkjWsHzbWFLUaeEAajx8l3PFD22tplBvTFaRhD1gLL4EW4yXM2lWq63beB4sDbX1XaAQ4WXEOq5wN2e-yhJVzJS0K7z6aZ0QB9e6COVnnlzjAWGGekN8zzLwAsg==",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI, IT 거버넌스",
+    "ecosystemImpact": "대규모 기관의 AI 인프라 구축 표준 제시 및 AI 연구 활성화 기여.",
+    "importance": 8,
+    "summary": "삼성SDS가 서울대에 800Gbps 초고속망과 AI 연구/교육망 분리를 통해 'AI 네이티브 캠퍼스' 인프라 구축.",
+    "corporateAction": "AI 워크로드에 최적화된 고대역폭 네트워크 인프라 구축 벤치마킹, AI 망분리 통한 보안 강화 및 운영 효율성 확보.",
+    "keywords": [
+      "AI 인프라",
+      "네트워크",
+      "망분리",
+      "엔터프라이즈 AI",
+      "삼성SDS"
+    ],
+    "_key": "6979674bdb0d",
+    "_createdAt": "2026-08-25T08:15:22.265577+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265577+09:00"
+  },
+  {
+    "title": "NIA, 국내 독파모 프로젝트 평가에 AI 에이전트 '실행 능력' 강조",
+    "date": "2026-08-24",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYlJ54wrp5-XK6vbG6xQy_2S2bjziLPPlANh6BbTw3_X_0WT6vjd05Zn9rCq-dYVfu7qifg4mkj4KwlrbsC7Z_4wmOyIu7jdchz5NymsqVRrGCnu5HYumT_47HfwBAplPI8kQKz78=",
+    "category": "LLM, AI Agent, 글로벌 트렌드",
+    "ecosystemImpact": "국내 파운데이션 모델 개발 방향이 실제 과업 수행 능력으로 전환.",
+    "importance": 8,
+    "summary": "NIA, 독자 AI 파운데이션 모델 평가에 도구·에이전트, 코딩 분야 신규 도입. 텍스트 기반 넘어 실제 실행 능력 검증.",
+    "corporateAction": "AI Agent 기반의 실제 업무 자동화 및 과업 수행 능력 강화 기술 동향 주시, 국내 AI 모델 개발 협력 기회 탐색.",
+    "keywords": [
+      "독파모",
+      "AI 에이전트",
+      "LLM 평가",
+      "실행 능력",
+      "파운데이션 모델"
+    ],
+    "_key": "bc73a36646b6",
+    "_createdAt": "2026-08-25T08:15:22.265584+09:00",
+    "_updatedAt": "2026-08-25T08:15:22.265584+09:00"
   }
 ]
