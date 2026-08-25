@@ -6692,5 +6692,143 @@
     "_key": "bc73a36646b6",
     "_createdAt": "2026-08-25T08:15:22.265584+09:00",
     "_updatedAt": "2026-08-25T08:15:22.265584+09:00"
+  },
+  {
+    "title": "Google Cloud, 금융/법률 산업 특화 AI 에이전트 및 Gemini Enterprise 출시",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr8GDRqnKjuc-iQgtIaB_l4tNjo1jcgggNxiSU9d2hObQ71GMsJLa8KCrAjJLZqFJNWvAo3Ge3Z0bRLuj3jlRv9mHn4PML1xkBcwgqHGIlQDZwjg5dVoBYYhotKY-KPyG4fUPBS3v73iMRoS31-9y6mOlgCYSWsMb3zMHvHIUYfgrk3wL4zjzxTXpPHEn-ijTitHej5IVU8OxJHrYwzqbcw15BnHfqpyPfMiwKaEM-kEnr1Rc=",
+    "category": "AI Agent, LLM, 보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "금융/법률 산업 AI 도입 가속화, 전문 데이터 활용 및 보안 강화.",
+    "importance": 10,
+    "summary": "Google Cloud가 금융 및 법률 산업을 위한 Gemini Enterprise 기반 특화 AI 에이전트 솔루션을 출시, 금융 리서치, KYC, 계약 검토 등 복잡한 워크플로우 자동화 및 보안/규제 준수 강조.",
+    "corporateAction": "산업 특화 AI 에이전트 도입을 통한 금융 업무 자동화 및 효율성 증대 검토. 데이터 보안 및 규제 준수 프레임워크 벤치마킹.",
+    "keywords": [
+      "AI Agent",
+      "Gemini Enterprise",
+      "금융 AI",
+      "IT 거버넌스",
+      "규제 준수"
+    ],
+    "_key": "a56b1884bde0",
+    "_createdAt": "2026-08-26T08:17:55.191050+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191050+09:00"
+  },
+  {
+    "title": "Oracle, 엔터프라이즈 AI의 GPU 중심에서 거버넌스 및 멀티클라우드 전환 강조",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEleZkTFRoENFgRkSsRdzs0g_rcQSMup7NLezEZ-VaazQQlcuPYX0RfFOhgyvzPTDt789j6eBnUdUFm2hBllcg12r5aJ1iRsrFl8rljlHOdO0zf8jK_dzrSApLq9M8bjHLcww_TkyU3-pCGincezWC3orxEeEmrIPhmQadPttpNgECUpgnmkk2ETxTckJaEC_fpFvcI5kjQ2deWRvZ7690k4jVtEtzBLQ0Q5lJng_Sbm_DMiqMuqRYDyPhiOQOv_nbvQOYrzewcASTqc-OT-Q==",
+    "category": "IT 거버넌스/보안, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 AI 도입 핵심이 모델 개발에서 운영 및 규제 준수로 이동, 보안과 효율성 중요성 증대.",
+    "importance": 9,
+    "summary": "Oracle은 엔터프라이즈 AI 초점이 GPU 및 모델 훈련을 넘어 거버넌스, 보안, 비용 통제 및 데이터 연결로 이동 중이며, 유연한 멀티클라우드 인프라의 중요성을 강조.",
+    "corporateAction": "AI 도입 시 운영, 거버넌스, 보안, 비용 효율성을 통합 고려하는 전략 수립. 멀티클라우드 AI 배포 방안 연구.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "IT 거버넌스",
+      "AI 보안",
+      "멀티클라우드",
+      "운영 효율성"
+    ],
+    "_key": "2e72a29d05ae",
+    "_createdAt": "2026-08-26T08:17:55.191075+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191075+09:00"
+  },
+  {
+    "title": "금융 시장 기관용 AI 에이전트 및 자율 워크플로우 보고서 2026 발표",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKAkL9Vb7SMdmnNZfpSq5kxLwA-D2SoHji6YMnV7cHrA_t9_TT0Rktj0ubBSiGR2ZMPcDQS2FgRg9XWeYKdxLSZIqgQt7JUvFRG-aCUw1Qf80PBy2bYWxXWTKL9YpfMSaYuKyu-LUQYdIduzAmZy0w_r-IJq1aZeV9XM-tvOUzPDKKhE4qUYZSyii7tgBvqnh45Hq9ABodyB8l9OVNDt4EsxI1p7aga2n_dq-Tuew3v-g5RdBEz98rH7ap5_UMpKd-Vyg7LipTZhILU34uVoL9r8c5NbtWyTY5Tq-Vdyjp1DZiZcmGWido1Ehld9MioeiQ9uc0xSkirt5Ek5arB4ohZClxpH_SdgrjA8nhnyIypiCMnXNB0KvsNsvpG8XJtD9VD75n0DL3M61WpmfkYDY=",
+    "category": "AI Agent, 보험/AX, IT 거버넌스",
+    "ecosystemImpact": "금융권 AI 에이전트 도입 가속화 예상, 데이터 통합 및 거버넌스 부재 시 프로젝트 실패 위험 경고.",
+    "importance": 9,
+    "summary": "금융 서비스 부문이 자율 AI 시스템으로 전환 중이며, AI 에이전트 도입이 1년 내 6%에서 44%로 급증 예상. 데이터 파편화, 비용, 거버넌스 부족으로 40% 실패 가능성 경고.",
+    "corporateAction": "AI 에이전트 도입 시 데이터 통합 전략 및 강력한 거버넌스 프레임워크 구축에 우선순위 부여. 예상 비용 및 ROI 분석 강화.",
+    "keywords": [
+      "AI Agent",
+      "금융 AI",
+      "자율 워크플로우",
+      "데이터 거버넌스",
+      "도입 리스크"
+    ],
+    "_key": "5d642a62358a",
+    "_createdAt": "2026-08-26T08:17:55.191085+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191085+09:00"
+  },
+  {
+    "title": "빅테크 기업, 장부 외 숨겨진 'AI 부채' 3조 달러 경고등",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm1Skz-vChBYn7pYTHnQWG9N91cfpkmOMRjf_28cHh_oQg2uoXdgo-c1O6hlClmnBRDW4LXeDw-5YJfcMT2pyamPs9ov0hmsWdChRfHzZKpr38BtMCjeOROQW8thWzqGDTggdAOsaYpgvnVCXQC0pq8ZI6XGrUDx4xDj0W",
+    "category": "AI 하드웨어, 금융 리스크",
+    "ecosystemImpact": "AI 인프라 투자 관련 잠재적 재무 위험 증가, AI 산업의 지속가능성 재평가 필요성 제기.",
+    "importance": 8,
+    "summary": "빅테크의 해외 채권 발행 및 순환 금융 확대로 미개시 리스 등 장부 외 'AI 부채'가 3조 달러에 달하며 잠재적 재무 위험 증가. AI 산업의 지속가능성 우려.",
+    "corporateAction": "AI 관련 투자 및 인프라 구축 시 장기적 재무 건전성 및 잠재적 부채 리스크 철저 분석. 빅테크 투자 전략 모니터링.",
+    "keywords": [
+      "AI 부채",
+      "빅테크 투자",
+      "AI 인프라",
+      "금융 리스크"
+    ],
+    "_key": "8618a84b0e15",
+    "_createdAt": "2026-08-26T08:17:55.191097+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191097+09:00"
+  },
+  {
+    "title": "Apple, AI 연산 및 성능 대폭 향상된 M6 및 M5 Ultra 칩 공개",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYVxYVm7FX8YSiBKjpiOQHZdKS8BcYZF9Yiqd-qjIrKAs6NVaLfLEqvY6EYE0Yb9nQAlVdQM2YQy4GvjpmyQkQq9ss6lDbYEA_oUblpyq0rkVLObeSV_5Ckplazn-lEM3IJfhgkZZ_lETM9MtKmxjnsWN5LKjKKBtZkE4Oum2eXRRT9anXpKn37mnuEdp97Bq4LG3d-kzQR4GpfOzHXRue4C_vMXwtDiPZd-4gGLFzjw==",
+    "category": "AI 하드웨어, LLM",
+    "ecosystemImpact": "로컬 AI 실행 능력 증대로 개인 기기에서의 AI 활용도 증가, 데이터 보안 및 프라이버시 강화 가능성.",
+    "importance": 8,
+    "summary": "Apple이 2nm M6 및 M5 Ultra 칩을 발표하며 AI 컴퓨팅 성능을 대폭 향상. M6는 온디바이스 LLM을, M5 Ultra는 대규모 AI 모델 처리를 지원하여 로컬 AI 시대를 가속화.",
+    "corporateAction": "온디바이스 AI 및 로컬 LLM 실행 기술 동향 모니터링. 민감 정보 처리 시 보안 및 프라이버시 측면에서 온디바이스 AI 활용 가능성 탐색.",
+    "keywords": [
+      "Apple M6",
+      "Apple M5 Ultra",
+      "온디바이스 AI",
+      "LLM",
+      "AI 하드웨어"
+    ],
+    "_key": "6106ce99843e",
+    "_createdAt": "2026-08-26T08:17:55.191105+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191105+09:00"
+  },
+  {
+    "title": "Mavrix Insurance Services, 독자적인 AI 에이전트 플랫폼 'Millie' 출시",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFYkT_i_Wv0mT0QjRKT5FP_RyJbXoR7vRUcaYFS208bbi86UFjfqaZD2HikWtw43KdwSaGlcWwG_IZvqLn9kNCASlNTfy3Z13gsp9mKYPkVyXyMZXKCw0xdWqrBxgi-VCwEJizMpqsdXl_1dlS3fv49NLF-5OrTK8YjJ5HKK84c_jzyu1Aas2XLVMUVDoWfyxhhf6CzPrdWq2yPHvyszWmhxtmBqxCsoTEKr2m-k0xn2ohwQF-V7zaVwWm9cv8zrNRQQXKE4OiYuLhyI9xeIcSEZDMzKAJsj_5sw==",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험 중개업무 효율화 및 고객 서비스 향상, AI 에이전트의 산업별 특화 적용 사례 증가.",
+    "importance": 8,
+    "summary": "Mavrix Insurance Services가 보험 중개업무를 위한 독자적인 AI 에이전트 플랫폼 'Millie'를 출시. 인테이크, 견적, 서비스 등 워크플로우를 자동화하여 에이전트가 고객 응대에 집중하도록 지원.",
+    "corporateAction": "보험 중개 및 서비스 업무에 AI 에이전트 도입을 통한 프로세스 효율화 및 생산성 향상 방안 검토. 단계별 워크플로우 자동화 모델 연구.",
+    "keywords": [
+      "보험 AI",
+      "AI Agent",
+      "워크플로우 자동화",
+      "인슈어테크"
+    ],
+    "_key": "65ce00bba546",
+    "_createdAt": "2026-08-26T08:17:55.191114+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191114+09:00"
+  },
+  {
+    "title": "NVIDIA, 엔트리 레벨 엣지 AI 로봇 컴퓨터 'Jetson Orin Nano 2' 발표",
+    "date": "2026-08-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHZuazMvFmvzjLG5egsGXPabYXn-JKrRdmWlGS0uXy0WiRXz2iZkjP9r-RKmXJ9vBo1pP-65vWAIt8ef9eojOwRaP9CQs9oRjlc0MWV3WXoA0SkLr87gbdo0N11T__-eHcFbBp_AVRrsBA0G9l_5SEtyNwJ-5LqciTNjgmjAvOy39XX-O3oP5Mw-k_91MeS7_r-_vMrtwGCdLdE3kt1yNKV9N9fG25_UyIGedL9MKi42xlVg==",
+    "category": "AI 하드웨어, 엣지 AI",
+    "ecosystemImpact": "소형, 저전력 엣지 AI 장치 확산 가속화 및 다양한 물리적 AI 애플리케이션 개발 촉진.",
+    "importance": 7,
+    "summary": "NVIDIA가 엔트리 레벨 엣지 AI를 위한 Jetson Orin Nano 2 로봇 컴퓨터를 발표, 이전 모델 대비 2배의 추론 성능과 40% 낮은 전력 소비를 제공하며 로봇, 드론 등 물리적 AI 확산에 기여.",
+    "corporateAction": "엣지 AI 기술의 발전 동향 주시 및 물리적 AI 기반 서비스와의 연계 가능성 검토. AI 하드웨어 최적화 동향 파악.",
+    "keywords": [
+      "NVIDIA",
+      "Jetson",
+      "엣지 AI",
+      "로봇",
+      "AI 하드웨어"
+    ],
+    "_key": "d5478976a3ce",
+    "_createdAt": "2026-08-26T08:17:55.191121+09:00",
+    "_updatedAt": "2026-08-26T08:17:55.191121+09:00"
   }
 ]
