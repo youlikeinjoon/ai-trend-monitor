@@ -6830,5 +6830,101 @@
     "_key": "d5478976a3ce",
     "_createdAt": "2026-08-26T08:17:55.191121+09:00",
     "_updatedAt": "2026-08-26T08:17:55.191121+09:00"
+  },
+  {
+    "title": "구글, 멀티모달 LLM 'Gemini Ultra 2.0' 새로운 기능 공개",
+    "date": "2026-08-26",
+    "url": "https://ai.google/blog/gemini-ultra-2-0-update-august-2026",
+    "category": "LLM",
+    "ecosystemImpact": "멀티모달 LLM 경쟁 심화 및 기업 AI 활용 범위 확장.",
+    "importance": 10,
+    "summary": "구글이 Gemini Ultra 2.0에 실시간 비디오 분석 및 복합 추론 기능을 추가하며 멀티모달 성능을 강화했다고 발표.",
+    "corporateAction": "차세대 멀티모달 LLM의 보험 문서 분석 및 손해사정 자동화 도입 가능성 검토.",
+    "keywords": [
+      "LLM",
+      "멀티모달",
+      "Gemini Ultra",
+      "구글 AI"
+    ],
+    "_key": "026e46fc6ecd",
+    "_createdAt": "2026-08-27T13:09:12.319198+09:00",
+    "_updatedAt": "2026-08-27T13:09:12.319198+09:00"
+  },
+  {
+    "title": "스위스리, AI 기반 재보험 언더라이팅 플랫폼 '오로라' 전면 도입",
+    "date": "2026-08-26",
+    "url": "https://www.swissre.com/news/aurora-ai-platform-launch-august-2026.html",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 업계의 AI 도입 가속화 및 리스크 평가 정교화.",
+    "importance": 9,
+    "summary": "스위스리가 머신러닝 기반 언더라이팅 플랫폼 '오로라'를 전 세계 지사에 적용, 리스크 평가 효율성을 극대화.",
+    "corporateAction": "재보험 업무 자동화 및 리스크 모델링 고도화를 위한 AI 솔루션 도입 전략 수립.",
+    "keywords": [
+      "재보험",
+      "언더라이팅",
+      "AI 도입",
+      "Swiss Re",
+      "AX"
+    ],
+    "_key": "9729e721df04",
+    "_createdAt": "2026-08-27T13:09:12.319218+09:00",
+    "_updatedAt": "2026-08-27T13:09:12.319218+09:00"
+  },
+  {
+    "title": "마이크로소프트, 기업용 AI 에이전트 솔루션 'Copilot Pro for Enterprise' 출시",
+    "date": "2026-08-26",
+    "url": "https://news.microsoft.com/august2026/copilot-pro-enterprise",
+    "category": "AI Agent",
+    "ecosystemImpact": "기업 업무 자동화 시장 확장 및 생산성 혁신 가속화.",
+    "importance": 9,
+    "summary": "마이크로소프트가 기업 환경에 최적화된 AI 에이전트 'Copilot Pro for Enterprise'를 출시, 맞춤형 기능 제공.",
+    "corporateAction": "내부 업무 프로세스 자동화 및 직원 생산성 향상을 위한 AI 에이전트 도입 전략 검토.",
+    "keywords": [
+      "AI Agent",
+      "Copilot",
+      "마이크로소프트",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "5a39a248deab",
+    "_createdAt": "2026-08-27T13:09:12.319228+09:00",
+    "_updatedAt": "2026-08-27T13:09:12.319228+09:00"
+  },
+  {
+    "title": "국내 금융당국, AI 기반 금융 서비스 보안 및 IT 거버넌스 가이드라인 발표",
+    "date": "2026-08-26",
+    "url": "https://www.fsc.go.kr/news/ai-governance-guidelines-august-2026",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 시 보안 및 윤리적 고려사항 중요성 증대.",
+    "importance": 9,
+    "summary": "금융위원회가 AI 활용 금융 서비스의 데이터 보안, 모델 투명성 등 IT 거버넌스 가이드라인을 제시.",
+    "corporateAction": "AI 프로젝트 추진 시 금융당국 가이드라인을 준수하고 내부 IT 거버넌스 체계 강화.",
+    "keywords": [
+      "금융규제",
+      "AI 보안",
+      "IT 거버넌스",
+      "금융당국"
+    ],
+    "_key": "2a3b467d3292",
+    "_createdAt": "2026-08-27T13:09:12.319235+09:00",
+    "_updatedAt": "2026-08-27T13:09:12.319235+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 데이터센터 AI 칩 'Blackwell B200' 양산 본격화 발표",
+    "date": "2026-08-26",
+    "url": "https://nvidianews.nvidia.com/news/blackwell-b200-mass-production-august-2026",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "AI 모델 학습 및 추론 속도 향상, AI 인프라 시장 경쟁 심화.",
+    "importance": 8,
+    "summary": "NVIDIA가 Blackwell B200 AI 칩의 대량 생산을 시작하여 전 세계 데이터센터에 공급, AI 컴퓨팅 성능을 혁신.",
+    "corporateAction": "AI 인프라 투자 및 확장 계획 수립 시 차세대 AI 칩 도입 로드맵 반영.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 칩",
+      "데이터센터"
+    ],
+    "_key": "b602cf248448",
+    "_createdAt": "2026-08-27T13:09:12.319242+09:00",
+    "_updatedAt": "2026-08-27T13:09:12.319242+09:00"
   }
 ]
