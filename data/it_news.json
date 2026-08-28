@@ -6926,5 +6926,146 @@
     "_key": "b602cf248448",
     "_createdAt": "2026-08-27T13:09:12.319242+09:00",
     "_updatedAt": "2026-08-27T13:09:12.319242+09:00"
+  },
+  {
+    "title": "NVIDIA, Hugging Face 인수 임박... AI 산업 지형 변화 예고",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8eCh0cQ3-_74dpqfasLKSG0BjzbHOfnkPyx_SiO88HEN0QrkgtvsYIkAX8skBVIclYLPq7YB3i41hxwaPQHNQN3UMUOZNZFmL6LpA2OpwIxsR3-1lMXvDjMpVQmdpDy6UHDwETfiAuhNs1VyDtGSf9EhYSrO3J4VmviqVsFPHVbVQLpfmdDtPmzehD_peHd-ojwey",
+    "category": "AI 모델, AI 하드웨어 인프라, 글로벌 트렌드",
+    "ecosystemImpact": "엔비디아의 AI 소프트웨어 시장 영향력 확대 및 GPU 수요 급증 전망.",
+    "importance": 10,
+    "summary": "엔비디아가 허깅페이스를 129억 달러에 인수하고 아마존은 엔비디아 GPU 2백만 개를 추가 주문했습니다.",
+    "corporateAction": "최신 AI 모델 및 인프라 동향 주시, GPU 기반 AI 전략 검토 필요.",
+    "keywords": [
+      "NVIDIA",
+      "Hugging Face",
+      "인수",
+      "GPU",
+      "AI 모델",
+      "AI 인프라"
+    ],
+    "_key": "1154b68b14ff",
+    "_createdAt": "2026-08-28T15:27:00.613252+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613252+09:00"
+  },
+  {
+    "title": "빅테크 120곳, AI 보안 공개서한…\"디지털 방어망 재구축해야\"",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFgO_q4HSUrlR-aW8VrB8ZZHUXCyk-YYq0xpWWxEMcMeBZ4rTg08HoRORRxMKJbusnXKJvYekurMtRXvxVo8shpCXLzBGhmr5-8_zqyfBW-LenVbQNn2WUpWqwIaVfdKaSuGoumOsvJ9LM",
+    "category": "AI 보안, IT 거버넌스, 금융 규제",
+    "ecosystemImpact": "AI 기반 사이버 위협 증가, 전 세계적 공동 대응 및 보안 기준 강화 촉구.",
+    "importance": 9,
+    "summary": "오픈AI, 구글 등 120개 빅테크 및 금융 기업들이 AI 기반 사이버 공격 대응 공개서한 발표.",
+    "corporateAction": "AI 보안 위협에 대한 선제적 대응 및 내부 보안 강화, 책임감 있는 AI 정책 수립.",
+    "keywords": [
+      "AI 보안",
+      "사이버 위협",
+      "IT 거버넌스",
+      "금융 보안",
+      "규제"
+    ],
+    "_key": "50cf9ee08b33",
+    "_createdAt": "2026-08-28T15:27:00.613274+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613274+09:00"
+  },
+  {
+    "title": "“AI 가치는 실제 사용에서”…금융권 AX, 경영진이 이끈다",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBc66ZpEG_RchRMGz-ojLXUrBdbv9tSuXw9FlY4fRhrGsjSg5nqGXsUY2TcUIAwxx8JDDN1sTqIdeZTyaOxdGJSpKvtAm1yitjb-JwGyJeCn0pNTTql_sQ0Vllps1wTUM_kw==",
+    "category": "보험/AX, 금융 AI, IT 거버넌스",
+    "ecosystemImpact": "금융권 AI 도입 가속화, 경영진 주도하에 실질적 비즈니스 가치 창출 강조.",
+    "importance": 9,
+    "summary": "알리안츠, AIG 등 글로벌 보험사들이 AI를 활용해 업무 생산성 향상 및 신상품 개발에 나섰습니다.",
+    "corporateAction": "경영진의 AI 비전과 전사적 지원을 통한 AI 도입 가속화 및 실제 적용 사례 발굴.",
+    "keywords": [
+      "금융 AI",
+      "보험 AX",
+      "AI 도입 사례",
+      "경영진 리더십"
+    ],
+    "_key": "58df716cafc3",
+    "_createdAt": "2026-08-28T15:27:00.613284+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613284+09:00"
+  },
+  {
+    "title": "\"망분리, AI 확장의 벽 아니다\"…KB증권·국민은행이 보여준 실전 해법은?",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnv2KPd_S9i_whO528rWhXzA_W1JImZeBK85PmweP_Yh2s31vNjZ-Kk7wggpr-o5CtxZG2gN0g6dNzqWpww-WsMsmlcEDZmAI_7qJZuzIK6jBbyyRAud2hA00D63dYrRF085shedC76xCBVO9dFy-fNw==",
+    "category": "AI 보안/망분리, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 망분리 규제 내 AI 활용 가능성 입증, 안전한 AI 도입 확산 기대.",
+    "importance": 8,
+    "summary": "KB증권과 KB국민은행이 망분리 규제 하에 AI 코딩 도구 및 에이전트 도입 성공 사례를 발표했습니다.",
+    "corporateAction": "금융 망분리 환경에서의 AI 도입 실례 벤치마킹, 규제 준수 AI 보안 솔루션 도입 검토.",
+    "keywords": [
+      "망분리",
+      "AI 보안",
+      "금융 규제",
+      "KB금융",
+      "AI 에이전트"
+    ],
+    "_key": "f95110ca05eb",
+    "_createdAt": "2026-08-28T15:27:00.613297+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613297+09:00"
+  },
+  {
+    "title": "장영근 카카오페이손해보험 대표 - AI 네이티브 보험사, 일하는 방식을 바꾸다",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb7ME641wfZQRPdtwjnEVoNIN2xA-uOWMvyABdcXeRA0ldSsoRi5gFFtSgJGUXdYDVxDeJIrQfikNNY5MqeIUlQvl9PTHXrCqAOZDKQCgtw9Dw8UoQ9u3IX60fBpOXNSWnC21xqQeNKwjxJ5QfsVTFxqhyMqTsYEi-DtA=",
+    "category": "보험/AX, AI Agent, RAG",
+    "ecosystemImpact": "AI 네이티브 보험사의 등장, 고객 경험 및 업무 효율 혁신 가속화.",
+    "importance": 8,
+    "summary": "카카오페이손해보험이 클라우드와 AI로 설계된 'AI 네이티브' 전략을 통해 보험금 청구 및 심사 과정에 AI를 적용했습니다.",
+    "corporateAction": "AI 네이티브 전략 벤치마킹, AI 에이전트 및 RAG 기반 지식관리 시스템 도입 검토.",
+    "keywords": [
+      "카카오페이손해보험",
+      "AI 네이티브",
+      "보험금 청구",
+      "AI Agent",
+      "RAG",
+      "AX"
+    ],
+    "_key": "597117ff2dff",
+    "_createdAt": "2026-08-28T15:27:00.613304+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613304+09:00"
+  },
+  {
+    "title": "AI 데이터센터 투자 2030년 7조달러…월가·보험까지 위험 확산",
+    "date": "2026-08-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErTZqUk63vBNIwgqXvoXZc7VDj9BuFpkFVKT8YF-9aTTnuGjmEgF2QCk6dlL05I2Tf7l8IjVe_ZN6AanslFFzuFy8oXrkyclGAiY7dp3_PFo0_Ejs0o4_yD2acvSXs9O8QcqmQXqZSkA0aELHVSqO1Mlo89MwVLgb8Dj_UPgfqFirCFJotdLrUwvgKyg==",
+    "category": "AI 하드웨어 인프라, 보험/AX, 금융 규제",
+    "ecosystemImpact": "AI 데이터센터 투자 급증, 금융 시스템 전반으로 투자 위험 확산 우려 제기.",
+    "importance": 7,
+    "summary": "AI 데이터센터 투자가 2030년까지 7조 달러에 이를 것으로 전망되며, 월가와 보험업계에 거대한 투자 위험이 확산되고 있습니다.",
+    "corporateAction": "AI 인프라 투자 리스크 관리 강화 및 보험 시장 내 새로운 위험 평가 모델 개발.",
+    "keywords": [
+      "AI 데이터센터",
+      "AI 인프라",
+      "투자 위험",
+      "보험",
+      "금융 시장"
+    ],
+    "_key": "e2a02f67b6e9",
+    "_createdAt": "2026-08-28T15:27:00.613311+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613311+09:00"
+  },
+  {
+    "title": "MSI XpertStation WS300, 엔비디아 DGX 스테이션 기반으로 정식 출시",
+    "date": "2026-08-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC9gDrNr20b3O4YqkXGcqHgwo3l_WuvkzTlIsl9ONM7zCOy-cOg6_dQ81CAwB1D8VTzLeh-fz3pgiSmb_ASxWw2K7V_yhg9a-mrmldok64fn3foQRfXfX0045IJ4zdc7avAGibgTI=",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "엔비디아 블랙웰 기반 데스크톱 AI 슈퍼컴퓨터 출시, 온프레미스 AI 개발 가속화.",
+    "importance": 7,
+    "summary": "MSI가 엔비디아 블랙웰 울트라 데스크톱 슈퍼칩 기반의 XpertStation WS300을 출시하여 기업의 AI 개발 및 배포 환경을 지원합니다.",
+    "corporateAction": "고성능 온프레미스 AI 인프라 도입 검토, AI 모델 개발 및 배포 효율성 증대 방안 모색.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 슈퍼컴퓨터",
+      "AI 인프라",
+      "온프레미스 AI"
+    ],
+    "_key": "acc191439f93",
+    "_createdAt": "2026-08-28T15:27:00.613318+09:00",
+    "_updatedAt": "2026-08-28T15:27:00.613318+09:00"
   }
 ]
