@@ -7202,5 +7202,112 @@
     "_key": "4e6ace0a8a4d",
     "_createdAt": "2026-08-29T12:58:37.565000+09:00",
     "_updatedAt": "2026-08-29T12:58:37.565000+09:00"
+  },
+  {
+    "title": "OpenAI, GPT-5.6 모델 시리즈(Sol, Terra, Luna) 정식 출시",
+    "date": "2026-08-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8NiDBgxyaIGecuJamMBqXm6baWLsxifVDWi1yFMX0bsVPjggk0A8DhAvtDqQ1ubfEQyxxcuGmyClNYZGAWB06gIO0M2VcFRTT4DUedKIuTlVRoi3_eUUGFrTZSh2mFGZ4BYHDqJDNZsKLyUcO1CxAfJSl7fFHcB4zZSC7Qh0THvTe9eC-UJZeC_8eZ7QXxhiq74Gh4u5eHQiGT0jHP7ezrt5b-3y9GbrH52039gHaZ_NQxxF4wcgiygQ0QwXsdmpcX_Vv_-sOA59OQBto",
+    "category": "LLM",
+    "ecosystemImpact": "LLM 시장 경쟁 심화 및 AI 모델 성능 기준 상향 가속화.",
+    "importance": 10,
+    "summary": "OpenAI가 추론 및 생성 능력이 향상된 GPT-5.6 모델(Sol, Terra, Luna)을 공식 출시했으며, 특히 Sol은 사이버 보안 분야에서 뛰어난 성능을 입증했다.",
+    "corporateAction": "신규 LLM의 성능 및 비용 효율성 분석 후 자사 금융 서비스 및 보안 시스템 적용 검토.",
+    "keywords": [
+      "LLM",
+      "OpenAI",
+      "GPT-5.6",
+      "사이버보안",
+      "AI 모델 성능"
+    ],
+    "_key": "ce487b2aacea",
+    "_createdAt": "2026-08-30T09:55:27.704461+09:00",
+    "_updatedAt": "2026-08-30T09:55:27.704461+09:00"
+  },
+  {
+    "title": "Anthropic, 미 국방부 법적 분쟁 승소 및 AI 에이전트의 사이버 공격 활용 증가",
+    "date": "2026-08-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1jpNyRJ-SLvr2OQqi3_pTguXGWD7qT579whNE4WdvCj4NssdmVyJKbY_W7t-8hMIGVBXhvMwrqeT_b48q8XjDUbNuBCt9ycnEeyduI1nvrTEQDB1RGKqp7kqSAM2p7cZ47qKVso4GeST8eVHbeGlMrF-iUftn4bjMIPVsoPH3GTA=",
+    "category": "AI Agent, AI 보안/망분리, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기업과 정부 관계의 중요한 선례 형성; AI 에이전트 보안 위협 증대.",
+    "importance": 9,
+    "summary": "Anthropic이 미 국방부와의 법적 분쟁에서 승소하며 AI 모델의 책임감 있는 사용을 옹호했고, 동시에 러시아 해커 그룹이 AI 에이전트를 사이버 공격에 활용한 사례가 보고되었다.",
+    "corporateAction": "AI 에이전트 도입 시 통제 및 책임성 확보 방안 마련, AI 기반 사이버 위협 방어 전략 강화.",
+    "keywords": [
+      "AI Agent",
+      "Anthropic",
+      "AI 보안",
+      "IT 거버넌스",
+      "사이버 공격"
+    ],
+    "_key": "844a89a72f6b",
+    "_createdAt": "2026-08-30T09:55:27.704483+09:00",
+    "_updatedAt": "2026-08-30T09:55:27.704483+09:00"
+  },
+  {
+    "title": "국내 금융권, AI 보안 강화 및 망분리 규제 완화에 따른 클라우드 AI 샌드박스 구축 가속화",
+    "date": "2026-08-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLB0oXckXpluA_y-sKNM5HP42SesGWCHC0bfJtN2mDNxxjEJFby3ntQAG7HiCoMYR_uJPkmwg7dF256w91Q3N6X6BA1vaTVghULBuicSrEwW5NRDcYxwK_eIjffGm5IRon06VnisQ=",
+    "category": "AI 보안/망분리, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융 AI 도입의 제도적 기반 강화 및 보안 기준 고도화, AI 개발 환경 혁신.",
+    "importance": 10,
+    "summary": "금융권에서 앤스로픽 '미토스' 모델 후 AI 보안 위기감 고조로 금융AI보안연구소 신설. JB금융지주는 망분리 완화 속 클라우드 기반 AI 샌드박스를 구축하여 RAG 및 AI 에이전트 실험을 추진 중이다.",
+    "corporateAction": "AI 보안 가이드라인 준수 및 자체 AI 보안 역량 강화, 클라우드 기반 AI 개발 환경(샌드박스) 구축 검토.",
+    "keywords": [
+      "금융 AI",
+      "AI 보안",
+      "망분리",
+      "금융 규제",
+      "AI 샌드박스",
+      "RAG",
+      "AI Agent",
+      "IT 거버넌스"
+    ],
+    "_key": "411c2583eea8",
+    "_createdAt": "2026-08-30T09:55:27.704494+09:00",
+    "_updatedAt": "2026-08-30T09:55:27.704494+09:00"
+  },
+  {
+    "title": "엔비디아, AI 인프라 시장 지배력 강화 속 경쟁 및 비용 이슈 부각",
+    "date": "2026-08-29",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3oZRz9Jq_TQ-KCHTfoEBun301RWF_1SNkfwznZrpByrVbC5thkMPgKSTqc82or52YoZN_BhFbDfSXdMUQ0WqmdZHnUd-O80FcAL4Gu4StbYL3XXy8gXx880QfbcagikgwTLzFuX3lEOkTbXY-_8P1Mg70ZIHtd94Nq1SBJD4iu426cXXxrjWQJzdnaF8BeHxTr8JjkQ==",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 투자 지속 확대, HBM 가격 및 전력 병목 심화, 커스텀 칩 경쟁 가속.",
+    "importance": 9,
+    "summary": "엔비디아가 높은 실적과 2028년 70% 매출 성장 전망을 제시하며 AI 인프라 지배력을 공고히 했으나, HBM 원가 상승으로 서버 가격 인상 및 OpenAI의 자체 칩 개발 등 경쟁이 심화되고 있다. 엔비디아는 AI 모델 출시 주기를 4-6주로 단축하며 소프트웨어 개발 속도를 높이고 있다.",
+    "corporateAction": "AI 인프라 투자 계획 재검토 (비용, 전력 효율), 장기적인 AI 칩 공급망 전략 수립 및 LLM 인프라 최적화 방안 모색.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "AI 인프라",
+      "Blackwell",
+      "HBM",
+      "AI 칩",
+      "데이터센터",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "3da6baa73b75",
+    "_createdAt": "2026-08-30T09:55:27.704502+09:00",
+    "_updatedAt": "2026-08-30T09:55:27.704502+09:00"
+  },
+  {
+    "title": "글로벌 재보험 시장, AI 위험심사 도입 확산에 따른 요율 및 통제 양극화",
+    "date": "2026-08-28",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbD8-ydyH9CHEhu6B6ut1J31ZeQ9Tq4xp52jL-AmqFBYxBkYQGQRjZwEpoNa3M2us1YTMWWh2-PFEskK6Cs8QdjAEAIdgwtzmtZlBfTP-ZG8IGLSMdkRj1wZe2HQdH4wXHuh7IfXX3vqCvzpNYhyOMerkJgEQOiobb",
+    "category": "보험/AX, IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "재보험사의 AI 기반 위험 분석 역량 차등화, AI 거버넌스의 중요성 증대.",
+    "importance": 8,
+    "summary": "글로벌 재보험 시장에서 AI 위험심사 도입이 확산되며 요율 안정화와 함께 보안 통제 미달 기업에 대한 요율 할증 및 차등 스크리닝이 도입되는 등 AI 거버넌스 중요성이 부각되고 있다.",
+    "corporateAction": "재보험 위험심사 프로세스에 AI 도입 및 고도화, AI 기반 통제 및 준법 시스템 구축으로 경쟁력 확보.",
+    "keywords": [
+      "재보험",
+      "보험/AX",
+      "AI 위험심사",
+      "IT 거버넌스",
+      "요율산정",
+      "언더라이팅"
+    ],
+    "_key": "3befe532dd60",
+    "_createdAt": "2026-08-30T09:55:27.704509+09:00",
+    "_updatedAt": "2026-08-30T09:55:27.704509+09:00"
   }
 ]
