@@ -7911,5 +7911,145 @@
     "_key": "a16024ff4a29",
     "_createdAt": "2026-09-03T09:52:41.809272+09:00",
     "_updatedAt": "2026-09-03T09:52:41.809272+09:00"
+  },
+  {
+    "title": "엔비디아, AI 인프라 확장을 위해 허깅페이스 129억 달러에 인수",
+    "date": "2026-09-03",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-agrees-to-acquire-hugging-face-for-129-billion-to-expand-ai-infrastructure-93CH-3932822",
+    "category": "AI 하드웨어 인프라, LLM, 스타트업, 인수합병",
+    "ecosystemImpact": "AI 개발 생태계 주도권 강화 및 오픈소스 AI 가속화.",
+    "importance": 10,
+    "summary": "엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 129억 달러에 인수하여 AI 인프라 및 생태계 영향력을 확대한다.",
+    "corporateAction": "AI 모델 배포 및 관리를 위한 전략적 플랫폼 활용 방안 검토 및 파트너십 강화.",
+    "keywords": [
+      "NVIDIA",
+      "Hugging Face",
+      "AI 인프라",
+      "오픈소스 AI",
+      "LLM"
+    ],
+    "_key": "aafd76d7b690",
+    "_createdAt": "2026-09-04T09:33:05.377601+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377601+09:00"
+  },
+  {
+    "title": "오픈AI, 최고 성능 모델 'GPT-6 아스트라' 공개",
+    "date": "2026-09-03",
+    "url": "https://kr.investing.com/news/economy/openai-unveils-gpt6-astra-amid-ai-agent-surveillance-concerns-2781491",
+    "category": "LLM, AI Agent, 신규 AI 모델",
+    "ecosystemImpact": "AI 에이전트 능력 향상 및 전문 업무 자동화 가속화.",
+    "importance": 10,
+    "summary": "오픈AI가 GPT-6 아스트라를 공개하며 컴퓨터 활용, SW 개발, 과학 연구 등 전문 직무 영역을 타겟한다.",
+    "corporateAction": "최신 LLM 및 AI 에이전트 도입을 통한 업무 효율화 및 신규 서비스 기획.",
+    "keywords": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "LLM",
+      "AI Agent",
+      "생성형 AI"
+    ],
+    "_key": "98324a720a2f",
+    "_createdAt": "2026-09-04T09:33:05.377625+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377625+09:00"
+  },
+  {
+    "title": "금융위, 2차 망분리 규제 긴급 완화…중소 금융·전금업자 대상 확대",
+    "date": "2026-09-03",
+    "url": "https://www.etnews.com/20260903000001",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, 보험/AX",
+    "ecosystemImpact": "금융권 AI 보안 기술 도입 가속화 및 클라우드 활용 확대.",
+    "importance": 9,
+    "summary": "금융위가 AI 보안 목적 망분리 규제를 완화하여 중소 금융사와 전자금융업자 75곳에 AI 활용 기회를 확대한다.",
+    "corporateAction": "AI 보안 솔루션 도입 및 클라우드 기반 AI 서비스 활용 전략 재검토.",
+    "keywords": [
+      "망분리",
+      "금융 규제",
+      "AI 보안",
+      "금융 샌드박스",
+      "AX"
+    ],
+    "_key": "384c80d4846b",
+    "_createdAt": "2026-09-04T09:33:05.377637+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377637+09:00"
+  },
+  {
+    "title": "네이버클라우드, 정부 '사이버 보안 특화 AI 모델' 개발 사업자로 최종 발탁",
+    "date": "2026-09-03",
+    "url": "https://www.byline.network/2026/09/0903-10/",
+    "category": "AI 보안/망분리, LLM, 엔터프라이즈 AI, AI 하드웨어 인프라",
+    "ecosystemImpact": "국내 사이버 보안 역량 강화 및 국가 핵심 시설 AI 방어 기반 마련.",
+    "importance": 9,
+    "summary": "네이버클라우드 컨소시엄이 사이버 보안 특화 AI 모델 개발 사업자로 선정, 엔비디아 B200 GPU로 공격/방어 모델을 개발한다.",
+    "corporateAction": "금융 보안을 위한 AI 모델 개발 동향 주시 및 폐쇄망 환경 AI 적용 연구.",
+    "keywords": [
+      "네이버클라우드",
+      "사이버 보안 AI",
+      "B200",
+      "LLM",
+      "폐쇄망"
+    ],
+    "_key": "eaf96a3ca044",
+    "_createdAt": "2026-09-04T09:33:05.377646+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377646+09:00"
+  },
+  {
+    "title": "20년간 꿈쩍 않던 보험 산업, AI가 처음으로 판을 뒤집는다",
+    "date": "2026-09-02",
+    "url": "https://zdnet.co.kr/view/?no=20260902153956",
+    "category": "보험/AX, 글로벌 트렌드, IT 거버넌스/보안",
+    "ecosystemImpact": "보험 산업 전반의 AI 전환(AX) 가속화 및 새로운 비즈니스 모델 창출.",
+    "importance": 9,
+    "summary": "맥킨지 보고서는 AI가 보험 산업의 성장, 판매, 생산성, 변화 속도를 동시 변화시키는 핵심 동력이 될 것을 지적한다.",
+    "corporateAction": "전사적인 AI 전환 전략 수립 및 핵심 업무에 AI 적용하여 경쟁력 확보.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "보험 트렌드",
+      "맥킨지",
+      "디지털 전환"
+    ],
+    "_key": "58fdf16d447a",
+    "_createdAt": "2026-09-04T09:33:05.377653+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377653+09:00"
+  },
+  {
+    "title": "우리금융, AI 스타트업 육성 본격화…'디노랩 테크 1기' 출범",
+    "date": "2026-09-03",
+    "url": "https://zdnet.co.kr/view/?no=20260903153123",
+    "category": "보험/AX, AI Agent, 스타트업, 금융 규제 샌드박스",
+    "ecosystemImpact": "국내 금융권 AI 기술 혁신 및 스타트업 생태계 활성화.",
+    "importance": 8,
+    "summary": "우리금융그룹이 AI 스타트업 4곳을 선발해 자산관리, 리서치, 업무 자동화 등 금융 서비스 개발에 AI를 접목한다.",
+    "corporateAction": "AI 스타트업과의 협력 모델 구축 및 금융 서비스 내 AI 적용 확대 기회 모색.",
+    "keywords": [
+      "우리금융",
+      "AI 스타트업",
+      "디노랩",
+      "금융 AI",
+      "자산관리 AI"
+    ],
+    "_key": "e09ee2e2029f",
+    "_createdAt": "2026-09-04T09:33:05.377660+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377660+09:00"
+  },
+  {
+    "title": "해빗팩토리, SKT '모두의 AI' 합류… 금융 특화 AI 에이전트 개발",
+    "date": "2026-09-03",
+    "url": "https://news.mt.co.kr/mtview.php?no=2026090316432653818",
+    "category": "AI Agent, RAG, 보험/AX, 신규 AI 모델",
+    "ecosystemImpact": "마이데이터 기반 AI 에이전트 금융 서비스 발전 가속화.",
+    "importance": 8,
+    "summary": "해빗팩토리가 SKT 컨소시엄에 참여해 마이데이터와 AI 에이전트를 결합한 자산관리 및 노후설계 서비스를 개발한다.",
+    "corporateAction": "마이데이터 및 AI 에이전트 기술을 활용한 개인 맞춤형 금융 상품 개발 검토.",
+    "keywords": [
+      "해빗팩토리",
+      "SKT",
+      "금융 AI 에이전트",
+      "마이데이터",
+      "RAG"
+    ],
+    "_key": "674f7588b753",
+    "_createdAt": "2026-09-04T09:33:05.377666+09:00",
+    "_updatedAt": "2026-09-04T09:33:05.377666+09:00"
   }
 ]
