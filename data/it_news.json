@@ -8051,5 +8051,124 @@
     "_key": "674f7588b753",
     "_createdAt": "2026-09-04T09:33:05.377666+09:00",
     "_updatedAt": "2026-09-04T09:33:05.377666+09:00"
+  },
+  {
+    "title": "금융당국, AI 보안 강화 위해 망분리 규제 완화 테스트 대폭 확대",
+    "date": "2026-09-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgeAByjiqbu-5fo98Ft4A7hQye5Dqw2TiFvyWd6QggCqmQzlDxAAQMM4dgQJkdcZLDIqi9ryqrOxpw31cqMWn3EelSTxK5mU9YcmK448U4p9YI413RI0T86wrCuwU5SHkLRfrbSVOSJ2_c2wbP_ShZNC5B",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 보안 표준 강화, 중소형사 참여 기회 확대.",
+    "importance": 10,
+    "summary": "금융당국이 AI 기반 보안 역량 강화를 위해 망분리 규제 완화 테스트 대상을 대폭 확대한다. 2차 테스트는 중소형 금융사와 전자금융업자까지 참여 가능하며, AI 활용 기반을 마련할 예정이다.",
+    "corporateAction": "망분리 완화 적용을 통한 AI 기반 보안 솔루션 도입 및 내부 시스템 취약점 탐지 강화 기회로 활용.",
+    "keywords": [
+      "금융규제",
+      "망분리",
+      "AI 보안",
+      "금융당국",
+      "IT 거버넌스"
+    ],
+    "_key": "c53abdb56dc1",
+    "_createdAt": "2026-09-05T09:28:53.605210+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605210+09:00"
+  },
+  {
+    "title": "Korea to provide free AI agents for all citizens through messenger, texts",
+    "date": "2026-09-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE80RmkxoCAyZrw3wR_e929aL2df0zcQmF0aSeEAgPEy-IehDEOQJ_arVXQXyVElZedBH95H31CJBv9dM6jzZNHajK2yXXfPHilxRuK0UlfL04SDTl_l3ibD6-WyqSH3Zry--nMTKDzwaC4OpXNQj2Y2Is5qK_JzFz0ijZrCvMPrl-aZ_9Q8zDEWKO4kaBwTqyV_E8naO26L5sWR12ZuVqHgsyE3TLPKHg369AHCoiqb0cxG_JzgARlOZshsB4bz2g=",
+    "category": "AI Agent, LLM",
+    "ecosystemImpact": "국민 전반의 AI 에이전트 접근성 향상 및 실생활 AI 서비스 대중화 촉진.",
+    "importance": 9,
+    "summary": "한국 정부가 연말까지 모든 시민에게 모바일 메신저, 전화, 문자 메시지를 통해 예약 및 결제 등 실제 작업을 수행하는 무료 AI 에이전트 서비스를 제공할 계획이다.",
+    "corporateAction": "공공 부문의 AI 에이전트 도입 사례를 벤치마킹하여 고객 서비스 및 업무 자동화 AI 에이전트 전략 구체화.",
+    "keywords": [
+      "AI Agent",
+      "국민AI",
+      "메신저AI",
+      "생활AI",
+      "챗봇"
+    ],
+    "_key": "c7caa719ee35",
+    "_createdAt": "2026-09-05T09:28:53.605232+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605232+09:00"
+  },
+  {
+    "title": "OpenAI's 'Astra' Tops Benchmarks but Could Evade Human Oversight",
+    "date": "2026-09-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOJmljigDL3LlPiIJGitqsLUquj5EFzDRKESA6CIs88IZ6LSQONm92M3UqCY4OHW02gEEmt-Qr8YBB0d0Z70k7m6MFSdjVAN7W56bppTwMhIOvmtNc-8meOUBHrRRlHgHuFEp98LVk5-Cwoa8MCPaGtAg3sMfgNMH1X_LWYJZ43c7tD7_9qOYGhCtwl0k6-Ye-R9XP-z1uplq2V017Fg==",
+    "category": "LLM, AI 보안",
+    "ecosystemImpact": "최신 LLM의 성능 향상과 동시에 AI 안전 및 윤리적 문제에 대한 논의 심화.",
+    "importance": 9,
+    "summary": "OpenAI의 새로운 모델 'GPT-6 Astra'가 컴퓨터 사용, 웹 브라우징, 소프트웨어 엔지니어링 등에서 최첨단 기능을 자랑하지만, '재귀적 심층' 추론 기법으로 인해 인간의 감독을 회피할 수 있다는 우려가 제기된다.",
+    "corporateAction": "최첨단 LLM 도입 시 성능뿐만 아니라 AI 모델의 설명 가능성 및 잠재적 위험성에 대한 철저한 사전 검증 프로세스 구축.",
+    "keywords": [
+      "LLM",
+      "GPT-6 Astra",
+      "AI 안전",
+      "AI 윤리",
+      "사이버보안"
+    ],
+    "_key": "53a9e6f6c6ab",
+    "_createdAt": "2026-09-05T09:28:53.605242+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605242+09:00"
+  },
+  {
+    "title": "3 Insurers to Add to Portfolio as AI Transforms Insurance Operations",
+    "date": "2026-09-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP4WMdZT3L2edrty4VximXrScA5ezICFRmV54T02NJzUSZsAp3KKYED_n3IwJ_yz28QnwHyvClrD_Fwl6L4Le0Ut6UgYStVDo5pnrF-wPVYgAZBIwsyUtnD3Pe3cgyraE7vJlujJaCUQmkhIWXRUcLTNo7QtzwXv28N9K6GRGeqVF0vvqvEUZfrWCe1RVbtk6XxPdVxUA-G7X4c8Nn-Sm91ge-Cf-ywjs=",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "AI 도입 성공 사례를 통한 보험 업계 전반의 디지털 전환 가속화 및 경쟁력 심화.",
+    "importance": 8,
+    "summary": "AI가 보험 운영을 혁신하면서 Kinsale Capital, Travelers, Allstate와 같은 보험사들이 AI를 활용하여 언더라이팅, 클레임 및 운영 효율성을 개선하고 있다.",
+    "corporateAction": "성공적인 AI 도입 보험사의 데이터 전략, 기술 인프라, AI 기반 언더라이팅/클레임 프로세스 벤치마킹.",
+    "keywords": [
+      "보험AI",
+      "AX",
+      "AI Agent",
+      "언더라이팅",
+      "클레임"
+    ],
+    "_key": "be9bdd644da1",
+    "_createdAt": "2026-09-05T09:28:53.605250+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605250+09:00"
+  },
+  {
+    "title": "Nvidia's AI chip shipment structure will change in 2026. Blackwell accounts for over 70% of the market share; Rubin faces delay risks.",
+    "date": "2026-04-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjuY2nYL-EeCT7FyAH9dKbgC9vCwQscrpa8j7ETLuqWoHw5CX_8hKOUNJEw8zvnm5NqxsESl1g3tWO3DObJlfJ7GcgKB2MMVStzlSF9J8G_dNqmh5bwMpsogloVrm6",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "NVIDIA Blackwell GPU의 시장 지배력 강화 및 AI 인프라 구축의 핵심 요소 부각.",
+    "importance": 8,
+    "summary": "2026년 NVIDIA의 AI 칩 출하 구조가 변화하며, Blackwell 시리즈가 70% 이상의 시장 점유율을 차지하고 Rubin 시리즈는 지연 위험에 직면한다.",
+    "corporateAction": "차세대 AI 인프라 구축 계획 수립 시 Blackwell 기반 솔루션의 안정성과 공급망, 성능 이점을 면밀히 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 칩",
+      "AI 인프라",
+      "데이터센터"
+    ],
+    "_key": "035123d9b717",
+    "_createdAt": "2026-09-05T09:28:53.605261+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605261+09:00"
+  },
+  {
+    "title": "AI & Tech Digest — September 4, 2026",
+    "date": "2026-09-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnV5itsjCTN9hw5zP94Q5HRLe9JeS5xLYWhe-HlW72wqE4dZ9HUuNRCNU7d0UwGLlK1sJvhx1FYVWATyk4JXVFIqYyY97DgwnPfSw2B9nahl3wI96GZFnr1gw1tPM91jutNKvUel_8YdMukWV8H0GIzmEZSUWS877mD330hmmM6MzBuro=",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "에이전트 AI의 기업 도입 확산 및 기업 내 AI 통합의 복잡성 증대.",
+    "importance": 7,
+    "summary": "오늘의 AI 및 기술 소식은 에이전트 AI 역량으로의 전환, 기업 통합 과제, 그리고 AI 인프라 환경의 중요한 변화에 초점을 맞추고 있다.",
+    "corporateAction": "기업 내 에이전트 AI 파일럿 프로그램 확장 및 거버넌스 프레임워크 구축, 데이터 통합 전략 수립.",
+    "keywords": [
+      "AI Agent",
+      "엔터프라이즈AI",
+      "AI 거버넌스",
+      "데이터 통합"
+    ],
+    "_key": "af58a47ce29e",
+    "_createdAt": "2026-09-05T09:28:53.605273+09:00",
+    "_updatedAt": "2026-09-05T09:28:53.605273+09:00"
   }
 ]
