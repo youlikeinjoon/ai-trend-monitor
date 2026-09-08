@@ -8436,5 +8436,154 @@
     "_key": "79b3bbbb8f49",
     "_createdAt": "2026-09-07T09:30:35.331785+09:00",
     "_updatedAt": "2026-09-07T09:30:35.331785+09:00"
+  },
+  {
+    "title": "생명보험협회, AI 기반 업무혁신…민원관리·광고심의 등 17개 과제 추진",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS-k2iSXhxlhw3n9CS5lpn697mzxUtSay6QUyAAOY77XrTPaD0WYN_K4Cw7lDBIIOyykGaRWJN2nmgMydnSPPLYKWmUA8pfHxp7tiI4gd66xNIchqB1OPglUW7Tyth-8OZUThshBUmrJwG_VB50QTemQ==",
+    "category": "보험/AX, IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "국내 보험업계 AI 도입 가속화, 효율성 증대 및 서비스 품질 향상",
+    "importance": 10,
+    "summary": "생명보험협회가 민원관리, 광고심의, 내부규정 검색 등 AI 기반 시스템을 가동하고 내년까지 17개 과제로 확대할 계획을 발표했다.",
+    "corporateAction": "국내 보험사 AI 도입 선도 사례 벤치마킹하여 내부 시스템 구축 및 단계별 확산 전략 수립.",
+    "keywords": [
+      "보험",
+      "AI 도입",
+      "민원관리",
+      "광고심의",
+      "내부규정",
+      "AI Agent",
+      "IT 거버넌스"
+    ],
+    "_key": "e8b0e33e17de",
+    "_createdAt": "2026-09-08T09:49:11.904446+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904446+09:00"
+  },
+  {
+    "title": "보험금 청구, AI가 문서 처리 속도 높여…규제 당국, AI 평가 도구 개발",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN_TIc7sM8fYd7PU6ln8Jhkbym2eoBLkxt4uT8bZX_MPl_f-oFV4O-aZWalZOwaC5ypf2KX_kfcXYqyhKnH7wJw_DobPDWyaNXYw_xABMt2U2ZjtIw2fPGSdLiEciNQpkPZVUxx09rVIT5ZU1etVZe0k-m1s9Am0JceofFaucoWB2Oix4cHuStarMrANxVkvUxZEGKJFjtAXZh",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI의 보험 핵심 업무 적용 확대, 규제 프레임워크 발전 가속화",
+    "importance": 9,
+    "summary": "AI 에이전트가 보험금 청구 및 사기 조사에 활용되며 효율성을 높이고 있다. 미국 NAIC는 AI 시스템 평가 도구를 개발 중이다.",
+    "corporateAction": "글로벌 AI 거버넌스 동향 모니터링 및 선제적 내부 AI 시스템 평가/감독 프레임워크 구축 검토.",
+    "keywords": [
+      "보험금 청구",
+      "AI Agent",
+      "사기 탐지",
+      "규제",
+      "NAIC",
+      "IT 거버넌스"
+    ],
+    "_key": "fbb66e5b9408",
+    "_createdAt": "2026-09-08T09:49:11.904469+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904469+09:00"
+  },
+  {
+    "title": "AI, 재보험 운영 효율성 증대 및 잠재적 2차 시장 형성 가능성 제기",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMWnylrfDXg76YDVYt8EHSNjOI1zL6gWoFEIs0o2KwkJSOrj2QBMTjVNeh_3RlSypc3fVKvJWnBTHwW1FDKfLVhhFOxplyt9lXS_xuutiTWJmSvwG9JdMwZlynRgrMalXZv7jO0pu_GulLc_AdlT4B4T3kHLqt_n5OXNAjvf2zRw86sL5B_m0WJgZ5FLtDZXgxdvJGVLdrBncvdYkHQb9xltESmXfFSA==",
+    "category": "재보험/AX, AI Agent, RAG",
+    "ecosystemImpact": "재보험 업무 프로세스 혁신, 신규 시장 창출 가능성 모색",
+    "importance": 9,
+    "summary": "Mea Platform은 AI가 재보험 운영상의 비효율성을 줄이고 데이터 품질을 높인다고 언급했다. AI가 재보험 2차 시장 형성도 도울 수 있다.",
+    "corporateAction": "재보험 핵심 업무(데이터 추출, 워크플로우 자동화)에 AI 에이전트 도입 파일럿 추진.",
+    "keywords": [
+      "재보험",
+      "운영 효율성",
+      "워크플로우 자동화",
+      "데이터 품질",
+      "2차 시장",
+      "AI Agent"
+    ],
+    "_key": "d2e23c920876",
+    "_createdAt": "2026-09-08T09:49:11.904479+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904479+09:00"
+  },
+  {
+    "title": "OpenAI, AI 에이전트로 연구 속도 가속화 및 GPT-6 Astra 출시 (AGI 논의 촉발)",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtP8nLc-OMOym51HAikTJ8Zv8es_DBnmj2MsuU2rIE-dLOCSIk_cCvYt78evvDHlt-efdeUlwyRjU8s9n0JxSJ6IscohE1lHEj_78DzCVvdLNVpmzadQuhhWu3D9BnkH-KlTj9qfvvx_QtHNiXALLewwNgaYCYIaRG6MyUPDKla2UluOlJ_wDV",
+    "category": "LLM, AI Agent, 글로벌 트렌드",
+    "ecosystemImpact": "AI 기술 발전 가속화, AGI 도래 논의 심화 및 윤리/안전성 중요성 부각",
+    "importance": 8,
+    "summary": "OpenAI는 AI 에이전트가 내부 연구를 가속화하고 '자동화된 연구 인턴' 목표를 달성했다고 발표했다. GPT-6 Astra 출시로 AGI 논의가 활발하다.",
+    "corporateAction": "최신 AI 모델 연구 개발 동향 및 윤리/안전성 확보 방안 지속 검토, 내부 AI R&D 생산성 향상 방안 모색.",
+    "keywords": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "AI Agent",
+      "AGI",
+      "AI 안전성",
+      "연구 자동화"
+    ],
+    "_key": "708d148f4cca",
+    "_createdAt": "2026-09-08T09:49:11.904488+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904488+09:00"
+  },
+  {
+    "title": "NVIDIA, '풀스택 AI 팩토리 플랫폼'으로 변모하며 AI 인프라 시장 주도",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNP1H7o6dNGXwEc5n8mna9DTjJLKyJLXisuIZVr5bjm80p1kMfpZBLxtl1EhpyIVg9cz6MyvSFuA_LB1bppz5RIJ0aRTtXijDmVMUXsNECUNebrft1vmClxurozhdnF_CxCDxF8enRXEd2iHjSutGOVLlSyw-UkKOE3jOSlqk3bG76yWwboTyczBodkNBz71SZj0fZCQVIyJ9aQ9BsF7sv2OWkHDvJp5g23RSARJjlMWXUlp-DkTcLeUHA1bg==",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 시장의 통합 및 고도화 가속, 기술 스택 전반의 지배력 강화",
+    "importance": 8,
+    "summary": "NVIDIA는 자사를 풀스택 AI 팩토리 플랫폼으로 정의하며, Vera Rubin GPU 기반 AI 인프라에서 기가와트당 400억 달러의 매출 기회를 강조했다.",
+    "corporateAction": "AI 인프라 투자 전략 재검토, 풀스택 플랫폼 도입을 통한 AI 모델 학습 및 운영 효율성 극대화 방안 모색.",
+    "keywords": [
+      "NVIDIA",
+      "AI 인프라",
+      "GPU",
+      "Vera Rubin",
+      "풀스택",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "6ea270749bcc",
+    "_createdAt": "2026-09-08T09:49:11.904496+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904496+09:00"
+  },
+  {
+    "title": "엔터프라이즈 AI 에이전트, '컨텍스트 실패' 해결 위한 지식 메시(Knowledge Mesh) 출시",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoQVhmmQjZzkogEP1_Xuf0AWYw98dyoyz0Qb-mPV_1G07-NH5rls4uyA9oA9OgiSQCEoOZ7xzEND3lmLYLS_MHsS41cfE7dMyEZle26eZPUoUTOGLiN2bJxcvQB0gDxu_P8obWwoTZRh45bdNKc9ADCNRBeQ3szbetM2dyI4BhruIdbktdAfk4Q6FXzpvN7nEtnLffDoRZC-aEHznPJq6490vfcIIPEO0=",
+    "category": "AI Agent, RAG, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 에이전트의 기업 도입 성공률 향상, 비용 절감 및 정확도 개선 기대",
+    "importance": 8,
+    "summary": "Voicing AI는 엔터프라이즈 AI 에이전트의 '컨텍스트 실패' 문제를 해결하기 위한 지식 메시(Knowledge Mesh)를 출시했다. Gartner는 40% 이상의 AI 에이전트 프로젝트가 취소될 것으로 예측했다.",
+    "corporateAction": "RAG 기반 지식 관리 시스템 고도화 및 AI 에이전트의 컨텍스트 관리 역량 강화를 통한 도입 실패율 감소.",
+    "keywords": [
+      "AI Agent",
+      "RAG",
+      "컨텍스트",
+      "지식 메시",
+      "엔터프라이즈 AI",
+      "Voicing AI"
+    ],
+    "_key": "53b61434fecd",
+    "_createdAt": "2026-09-08T09:49:11.904504+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904504+09:00"
+  },
+  {
+    "title": "북한 해킹 조직, AI 코딩 에이전트 활용한 '자동 해킹 공격' 정황 포착",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmUhYoeHuUVNmwv8p_UGD_rdkN3EmvxLYtv4dU5lSFz36wkPQe3XoQLMQLsOjXk5vHbEwIaItsdutzX97xjKiZgkeREpTFetER0p44l0wDeIzHHwAFR9834FGbFxRxk9ueRaQ7BZOA1Rgyh1PahJEGi39kKVcbsRFB",
+    "category": "AI 보안/망분리, AI Agent",
+    "ecosystemImpact": "AI를 활용한 사이버 위협 증대, AI 보안 및 방어 체계 강화 필요성 부각",
+    "importance": 7,
+    "summary": "북한 해킹 조직 '김수키'가 AI 코딩 에이전트 '오픈코드'를 이용해 해킹 공격을 자동화한 정황이 확인되어, 사이버 위협이 고도화되고 있다.",
+    "corporateAction": "AI 시스템 보안 취약점 분석 및 방어 전략 강화, AI 기반 사이버 위협 탐지 시스템 도입 검토.",
+    "keywords": [
+      "AI 보안",
+      "해킹",
+      "AI Agent",
+      "사이버 위협",
+      "망분리",
+      "김수키",
+      "OpenCode"
+    ],
+    "_key": "7c147ca89c72",
+    "_createdAt": "2026-09-08T09:49:11.904514+09:00",
+    "_updatedAt": "2026-09-08T09:49:11.904514+09:00"
   }
 ]
