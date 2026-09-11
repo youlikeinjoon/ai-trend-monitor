@@ -8728,5 +8728,143 @@
     "_key": "6d7a63214ff8",
     "_createdAt": "2026-09-09T09:53:00.996735+09:00",
     "_updatedAt": "2026-09-09T09:53:00.996735+09:00"
+  },
+  {
+    "title": "스위스 리, AI 데이터센터 붐으로 2030년까지 910억 달러 규모 신규 보험 시장 창출 전망",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNr8YJ352xpNUzSRQza4KLFJfvMMlDwbCwwIdryFd6aKx6uFHGA08lG5HP3fcEO8ZrFpU_-XJGYGoHfCgmXghFodw_WhpUeaBVc9yAnoyFDRhs26B1QTfejITbSPOpkzjilg2FT49G79E21snNICYGTDKz0ovYjL_vqBAsWEaSQBbBlyFVZCHQDbNk2V8QldBwsAwgc6DUeIy7Sq9d4LbW86CqcQXGeM9c0DWR9HI4Eq7L8AX_dIWERI0qh09lzLMrhdocwjwGFNHwPR9Hl0wSB2hyo3Qpn73kJ8fjpLDGzy3sAcfHvLM6eUpciVyLq9HwWWw9IkpT3xo3H_gfV3WLFETf0j2ieY-nzlb7N8jfI4UtqXI=",
+    "category": "보험/AX, 재보험",
+    "ecosystemImpact": "AI 인프라 관련 보험 시장의 폭발적 성장, 재보험사의 새로운 사업 기회 모색 필요.",
+    "importance": 10,
+    "summary": "스위스 리 보고서에 따르면 AI 데이터센터 확대로 2030년까지 누적 보험료 910억 달러 규모의 초대형 보험 시장이 열릴 것으로 예측된다.",
+    "corporateAction": "AI 데이터센터 등 신기술 인프라 관련 보험 상품 개발 및 재보험 포트폴리오 확장 기회 탐색.",
+    "keywords": [
+      "재보험",
+      "보험시장",
+      "AI 인프라",
+      "데이터센터",
+      "신사업"
+    ],
+    "_key": "0e9ffc3eb1fb",
+    "_createdAt": "2026-09-11T09:42:05.594521+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594521+09:00"
+  },
+  {
+    "title": "금융위, 중소 금융사·전자금융업자 대상 AI 활용 망분리 규제 2차 완화 추진",
+    "date": "2026-09-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGedUAg0XSDvkPA1UJ4jOleYlXdYYscspMojlgXJvRCCbd4AMZQzV7NGVVs6cCOus8umlKP5-LHLJDYY8uNt3MHgEuPzZpGUAsVU7r6IU_xe1j2wk6yBvk7jLLplewcGVessvnj58c4Ddnheo3-1fX9jWEAN7DAPaYDiS_uVRYVCNd1XmSd",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 보안 역량 강화, 중소형사 기회 확대.",
+    "importance": 9,
+    "summary": "금융위가 AI 활용 보안 강화를 위해 중소 금융회사 및 전자금융업자까지 망분리 규제 완화 대상을 확대하고, 심사를 거쳐 10월 중 최대 15곳에 비조치의견서 발급 예정.",
+    "corporateAction": "AI 활용 보안 시스템 도입 및 금융 규제 변화에 대한 지속적인 모니터링 필요. 자체 보안 역량 강화 방안 모색.",
+    "keywords": [
+      "금융규제",
+      "망분리",
+      "AI 보안",
+      "규제 샌드박스",
+      "IT 거버넌스"
+    ],
+    "_key": "57ab5a82cba9",
+    "_createdAt": "2026-09-11T09:42:05.594544+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594544+09:00"
+  },
+  {
+    "title": "LLM Daily: Salesforce AI 인수 가속화, Apple A20 Pro 온디바이스 AI 강화, 금융 AI 에이전트 확산",
+    "date": "2026-09-10",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-ofmdca87weAnHlBIxV3qUde9Jq8li1517jWsgMfo9wVyLSBiBrgRNb0DWOyI-GRhLgDwS4uFkByqrizjO-CcGH9hlxbc3WYGf9j47Oh-gt_wii_bZCFTpExmYj6nKX98WZKCCaWMWPFn51o9oPAkD0oXeUs39lsurwOaiQ==",
+    "category": "LLM, AI Agent, AI 하드웨어 인프라",
+    "ecosystemImpact": "온디바이스 AI 발전, 기업용 AI 에이전트 시장 경쟁 심화, 금융 분야 AI 특화 모델 중요성 증대.",
+    "importance": 9,
+    "summary": "Salesforce가 AI 기업 인수를 가속하고 Apple A20 Pro 칩이 온디바이스 AI 성능을 두 배 향상, 금융 AI 에이전트 프레임워크가 빠르게 성장 중이다.",
+    "corporateAction": "온디바이스 AI 적용 가능성 검토, 금융 특화 AI 에이전트 기술 동향 주시 및 도입 전략 수립.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "온디바이스 AI",
+      "금융 AI",
+      "AI 하드웨어"
+    ],
+    "_key": "1c62b78ce706",
+    "_createdAt": "2026-09-11T09:42:05.594561+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594561+09:00"
+  },
+  {
+    "title": "2026년 엔터프라이즈 RAG, 성능 핵심은 검색 품질 및 인프라 최적화",
+    "date": "2026-09-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIa5hVUim-Sh143c_R9anBt-s_GGPa2oRUTuiWhyRCBtDp1BDtrRq1z1_THU5nC6l464grf0UBV1tWwXAsjDv1pIMizNuQ6sWst9rLeE4f_nItxjlMPAGarcDQvZ02SlpNMQy09jBZK_ABrRdBFx3L8MQZpqsQNopv1fGcOg4p0yuPtoBTzZGh67spCPhP3S6f1NtvY8WH6tzFrTc39Dg5UTukahEMak0nQa-rLaw5uOK_IRrtZjCI8A==",
+    "category": "RAG, 엔터프라이즈 AI, AI 하드웨어 인프라",
+    "ecosystemImpact": "기업용 AI 시스템의 핵심인 RAG 기술의 고도화 및 인프라 중요성 증대.",
+    "importance": 9,
+    "summary": "2026년 엔터프라이즈 RAG는 LLM 자체보다 검색 품질, 청킹, 재랭킹, 벡터 데이터베이스 등 검색 파이프라인 최적화가 성능을 좌우한다.",
+    "corporateAction": "RAG 시스템 도입 시 LLM 외에 검색 파이프라인 전반의 설계 및 최적화에 중점, 관련 인프라 투자.",
+    "keywords": [
+      "RAG",
+      "엔터프라이즈 AI",
+      "검색 증강 생성",
+      "AI 인프라",
+      "성능 최적화"
+    ],
+    "_key": "b9dace62e08d",
+    "_createdAt": "2026-09-11T09:42:05.594569+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594569+09:00"
+  },
+  {
+    "title": "코난테크놀로지, 'AI 서밋 2026'서 발전·사법·제조 분야 AI 에이전트 확장 전략 공개",
+    "date": "2026-09-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw36y-kLsEXhlR38dTDf3XlHm-atmJcKTFsnlr_cOTgfymIyaywY4XbdIHqUd6MphH5pqa1u7Mjyyb5cI-8nMooxDOMlizLqve_s6a8pVb0e4QRh59xF1kLDrtrowneCwEyntwn0sI2lQsbAI2YtAPzpc0",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 에이전트의 산업 현장 적용 가속화, 기업 업무 자동화 및 생산성 혁신.",
+    "importance": 8,
+    "summary": "코난테크놀로지가 'AI 서밋 2026'에서 발전·사법·제조 분야에 AI 에이전트를 적용한 사례와 기업용 'Agent-X' 전략을 발표했다.",
+    "corporateAction": "에이전트 기반 업무 자동화 및 지능형 워크플로우 도입 검토, 산업 특화 AI 에이전트 솔루션 벤치마킹.",
+    "keywords": [
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "산업 AI",
+      "자동화"
+    ],
+    "_key": "1bfd9236661c",
+    "_createdAt": "2026-09-11T09:42:05.594577+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594577+09:00"
+  },
+  {
+    "title": "생명보험협회, 민원·광고심의에 AI 도입…내년까지 17개 과제 확대",
+    "date": "2026-09-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPiLjDdOP7Rxc72YEE2YAO5OeT4GyFRAFEVngkRxfGUaU6HuZyLYl6RPxbPdUtP1oHlWsHAqx1VonrscCkS5jCy53_InO8JafA8-5DpIhZeXdv2ODTdSGzdYc2XCQTef2e_4q_irnVEq6HoGnhHQu3e0qoUGthbKQDu9JGN5UHmAc=",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "국내 보험업계 AI 도입 확산 및 업무 효율 증대, 소비자 서비스 품질 향상.",
+    "importance": 8,
+    "summary": "생명보험협회가 민원 및 광고심의에 AI 시스템을 가동하고, 2027년까지 17개 AI 과제로 확대하여 업무 효율성과 서비스 품질을 강화할 계획이다.",
+    "corporateAction": "민원 처리, 심의 등 반복 업무에 AI 도입하여 효율 증대 및 인력 재배치 효과 검토.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "생성형 AI",
+      "업무 자동화"
+    ],
+    "_key": "659d9ce678ee",
+    "_createdAt": "2026-09-11T09:42:05.594583+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594583+09:00"
+  },
+  {
+    "title": "HPE, AI 인프라 경쟁 변화 진단: GPU 확보 넘어 통합 솔루션으로 전환 강조",
+    "date": "2026-09-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPjAEj0OaFev-Bz2QkBe-r5AgAOCX63Gcfs30KBbkQOintJi8JFeV-ShxEKBfu82gkFwP1npHFaIpcQdVzqpjxthpBbG1AFrYGIS3flYKWz3bL99Tvn0IWF6FCabeYKq9NTS-Dq0YuM4PBlWlHXmmKN9c=",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 구축의 복잡성 증가 및 통합 솔루션 제공 기업의 경쟁력 강화.",
+    "importance": 8,
+    "summary": "HPE가 AI 인프라 시장에서 GPU 확보를 넘어 소프트웨어, 서비스, 네트워크, 스토리지를 결합한 통합 솔루션이 중요해지고 있다고 밝혔다.",
+    "corporateAction": "AI 인프라 도입 시 개별 요소보다 통합 솔루션 관점의 접근, HPE 등 전문 기업과의 협력 고려.",
+    "keywords": [
+      "AI 인프라",
+      "엔터프라이즈 AI",
+      "GPU",
+      "통합 솔루션",
+      "HPE"
+    ],
+    "_key": "56cfbbb21909",
+    "_createdAt": "2026-09-11T09:42:05.594591+09:00",
+    "_updatedAt": "2026-09-11T09:42:05.594591+09:00"
   }
 ]
