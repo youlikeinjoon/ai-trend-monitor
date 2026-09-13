@@ -8967,5 +8967,141 @@
     "_key": "0eed07bc8ebd",
     "_createdAt": "2026-09-12T09:48:53.608266+09:00",
     "_updatedAt": "2026-09-12T09:48:53.608266+09:00"
+  },
+  {
+    "title": "코리안리재보험, 특종보험 요율 산정에 '로민' 다큐먼트 AI 에이전트 도입",
+    "date": "2026-09-09",
+    "url": "https://www.etnews.com/20260909000216",
+    "category": "보험/AX, AI Agent, RAG",
+    "ecosystemImpact": "재보험 언더라이팅 자동화 및 효율성 혁신, VLM 기반 비정형 문서 처리 기술 확산.",
+    "importance": 10,
+    "summary": "코리안리재보험이 특종보험 요율 산정 과정에 로민의 다큐먼트 AI 에이전트를 도입하여 비정형 문서 처리 및 요율 산정 업무를 자동화했다.",
+    "corporateAction": "재보험 핵심 업무에 AI 에이전트 및 RAG 기술 도입 검토, 비정형 데이터 자동화 PoC 추진.",
+    "keywords": [
+      "재보험",
+      "AI Agent",
+      "RAG",
+      "언더라이팅 자동화",
+      "VLM"
+    ],
+    "_key": "9a7a965c713b",
+    "_createdAt": "2026-09-13T09:30:55.995434+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995434+09:00"
+  },
+  {
+    "title": "금융위원회, AI 에이전트 결제 및 신용정보법·망분리 규제 단계적 완화 추진",
+    "date": "2026-09-11",
+    "url": "https://www.mk.co.kr/news/economy/11130638",
+    "category": "금융 규제, AI Agent, AI 보안/망분리",
+    "ecosystemImpact": "금융권 AI 활용 촉진 및 서비스 확장 기대, 규제 변화에 대한 선제적 대응 필요.",
+    "importance": 9,
+    "summary": "금융위원회가 AI 에이전트 기반 결제 서비스 활성화를 위해 신용정보법 및 망분리 규제를 단계적으로 완화하겠다고 발표했다.",
+    "corporateAction": "AI 에이전트 활용 금융 서비스 확장 가능성 분석, 관련 규제 완화 동향 상시 모니터링.",
+    "keywords": [
+      "금융 규제",
+      "AI Agent",
+      "망분리",
+      "금융보안"
+    ],
+    "_key": "869e2b67a294",
+    "_createdAt": "2026-09-13T09:30:55.995456+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995456+09:00"
+  },
+  {
+    "title": "금융당국, AI 모델 설명가능성 및 편향성 관리를 위한 금융분야 가이드라인 강조",
+    "date": "2026-09-12",
+    "url": "https://www.lawtimes.co.kr/Legal-News/199986",
+    "category": "IT 거버넌스/보안, 금융 규제, 설명가능한 AI",
+    "ecosystemImpact": "금융 AI 모델의 투명성과 신뢰성 확보 중요성 증대, 규제 준수 부담 증가.",
+    "importance": 9,
+    "summary": "금융당국이 AI 모델의 설명 가능성 확보, 편향성 검증 및 관리에 대한 중요성을 강조하며 관련 가이드라인 준수를 요청했다.",
+    "corporateAction": "AI 모델 개발 및 운영 시 설명 가능성과 편향성 평가 체계 내재화, 규제 준수 로드맵 강화.",
+    "keywords": [
+      "AI 거버넌스",
+      "설명가능한 AI",
+      "AI 윤리",
+      "금융 규제",
+      "AI 보안"
+    ],
+    "_key": "528b323afd99",
+    "_createdAt": "2026-09-13T09:30:55.995466+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995466+09:00"
+  },
+  {
+    "title": "NVIDIA, IFA 2026서 로컬 AI 가속 신기술 및 RTX Spark 플랫폼 공개",
+    "date": "2026-09-08",
+    "url": "https://www.nvidia.com/ko-kr/geforce/news/nvidia-ifa-2026-local-ai/",
+    "category": "AI 하드웨어, 엔터프라이즈 AI, AI Agent",
+    "ecosystemImpact": "온디바이스 AI 및 로컬 환경에서의 AI Agent 실행 가속화, 기업 AI 도입 가속.",
+    "importance": 8,
+    "summary": "NVIDIA가 IFA 2026에서 로컬 AI 가속 기술과 AI 애호가 및 개발자를 위한 소형 PC인 RTX Spark를 10월 출시 예정으로 공개했다.",
+    "corporateAction": "로컬 AI 및 온디바이스 AI 솔루션 도입 가능성 검토, 보안 및 성능 이점 분석.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "로컬 AI",
+      "AI Agent"
+    ],
+    "_key": "1ca955e47d22",
+    "_createdAt": "2026-09-13T09:30:55.995474+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995474+09:00"
+  },
+  {
+    "title": "국내 보험업계, AI 기반 영업·심사·민원 처리 등 핵심 업무 전방위 확대",
+    "date": "2026-09-12",
+    "url": "https://www.newsway.co.kr/news/view?ud=202609120000000",
+    "category": "보험/AX, LLM, AI Agent",
+    "ecosystemImpact": "보험산업의 AI 전환 가속화, 고객 경험 및 업무 효율성 개선, 경쟁 심화.",
+    "importance": 8,
+    "summary": "국내 보험사들이 AI를 활용해 영업 지원, 보험금 심사, 민원 관리 등 핵심 업무 효율성을 높이며 전방위적인 AI 도입을 가속화하고 있다.",
+    "corporateAction": "국내외 보험사 AI 적용 사례 벤치마킹, 당사 핵심 업무에 생성형 AI 및 LLM 도입 전략 수립.",
+    "keywords": [
+      "보험",
+      "영업 AI",
+      "심사 AI",
+      "민원 AI",
+      "LLM"
+    ],
+    "_key": "3a8960c4c719",
+    "_createdAt": "2026-09-13T09:30:55.995483+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995483+09:00"
+  },
+  {
+    "title": "Red Hat, 엔터프라이즈 AI 성공의 핵심으로 '거버넌스'와 'RAG' 강조",
+    "date": "2026-09-12",
+    "url": "https://techmeme.com/260912/p46",
+    "category": "엔터프라이즈 AI, IT 거버넌스, RAG",
+    "ecosystemImpact": "기업 AI 도입 시 기술 외적 요소의 중요성 부각, RAG 기술의 전략적 활용 필요성 증대.",
+    "importance": 7,
+    "summary": "Red Hat은 엔터프라이즈 AI 프로젝트 성공의 가장 큰 장애물로 거버넌스를 지적하며, LLM 응답 개선을 위한 RAG 프레임워크의 중요성을 강조했다.",
+    "corporateAction": "엔터프라이즈 AI 도입 시 기술뿐 아니라 거버넌스 체계 구축 선행, RAG 기반 LLM 활용 전략 고도화.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 거버넌스",
+      "RAG",
+      "LLM"
+    ],
+    "_key": "167d84d8201a",
+    "_createdAt": "2026-09-13T09:30:55.995490+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995490+09:00"
+  },
+  {
+    "title": "Subquadratic, 12M 토큰 추론 및 RAG 대안 제시하는 LLM 주목",
+    "date": "2026-09-12",
+    "url": "https://techmeme.com/260912/p46",
+    "category": "LLM, RAG, 빅테크",
+    "ecosystemImpact": "LLM 성능 경쟁 심화, RAG에 대한 새로운 접근법 제시, 개발자 생태계에 영향.",
+    "importance": 7,
+    "summary": "Techmeme에서 1,200만 토큰 추론이 가능하고 RAG 없이도 코드베이스 및 문서 세트 분석이 가능한 Subquadratic LLM을 주목했다.",
+    "corporateAction": "고성능 LLM 및 RAG 대체 기술 동향 파악, 내부 LLM 개발/도입 전략에 반영.",
+    "keywords": [
+      "LLM",
+      "RAG",
+      "초거대 AI",
+      "스타트업"
+    ],
+    "_key": "d36378811770",
+    "_createdAt": "2026-09-13T09:30:55.995497+09:00",
+    "_updatedAt": "2026-09-13T09:30:55.995497+09:00"
   }
 ]
