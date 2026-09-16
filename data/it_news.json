@@ -9384,5 +9384,145 @@
     "_key": "023109b70549",
     "_createdAt": "2026-09-15T10:05:22.209678+09:00",
     "_updatedAt": "2026-09-15T10:05:22.209678+09:00"
+  },
+  {
+    "title": "마이크로소프트, AI 개발 속도 조절 및 '인간 중심' AI 행동 강령 발표",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMyDiwEi0rToIvdIK5a4iLInVe2cGBO3GDQm0huQTXba_PiuduLRp4zaPKJ48y6JRJ4Pvm9s8YOfQR7dQk2iB4ZJ5ka9l7oiQ6a7PwMp98y4awC6bsuLl6iBof_VO5mAOg_zagfg==",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 안전 및 규제 논의 가속화, 빅테크의 윤리적 책임 강조.",
+    "importance": 9,
+    "summary": "마이크로소프트가 '인간이 AI보다 중요하다'는 원칙 아래 AI 행동 강령 초안을 공개했다. AI 모델은 인간의 통제하에 작동하며 독립적 목표를 설정할 수 없다는 내용이다.",
+    "corporateAction": "AI 도입 시 인간 중심의 윤리적 가이드라인 및 통제 시스템 구축을 최우선 과제로 고려해야 함.",
+    "keywords": [
+      "AI 윤리",
+      "AI 규제",
+      "인간 중심 AI",
+      "마이크로소프트",
+      "AI 거버넌스"
+    ],
+    "_key": "3c1198bf7a71",
+    "_createdAt": "2026-09-16T09:54:47.764611+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764611+09:00"
+  },
+  {
+    "title": "금융권 망분리 규제 전면 해제 수순, 생성형 AI 활용 확대 전망",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFljOFHaWhcIiv112IcAzgbaGMgX1Qr1uZCb1K1DOgCH4jFdrYsK2CO3N3tfLK4JQOdAoZFR5_mbubGZ0Jv0_G1Rsyfp5Kw2zWH-8__NXkLTNXK-WV7mZkT99qI3ChU-8T2vfuWnc1v9nTO-3KJj67ufeZ3",
+    "category": "IT 거버넌스/보안, 보험/AX",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 클라우드 전환 확대, AI 보안 중요성 증대.",
+    "importance": 10,
+    "summary": "2013년 도입된 금융권 망분리 규제가 AI 시대에 맞춰 전면 해제 수순을 밟고 있다. SaaS 상시 운영 허용 등 신기술 활용 제약을 없애 금융 혁신을 촉진할 계획이다.",
+    "corporateAction": "망분리 완화에 따른 AI 및 클라우드 도입 전략을 수립하고, AI 기반 보안 강화 방안을 선제적으로 마련하여 혁신 기회로 활용해야 함.",
+    "keywords": [
+      "금융망분리",
+      "금융규제 샌드박스",
+      "AI 보안",
+      "클라우드",
+      "생성형 AI"
+    ],
+    "_key": "9beea3ef8da2",
+    "_createdAt": "2026-09-16T09:54:47.764633+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764633+09:00"
+  },
+  {
+    "title": "2026년 RAG(검색 증강 생성) 기술, 에이전트 및 멀티모달 통합으로 진화",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7YsVplKu2ejlBxy76W0gCsw4kXU4D0kgNImu0mB_CnQrBEe-0LKKeifEzn823_t-gdkTme8RtHx2SJtH-zCNhdk2khx4jvn6W-eAFh2uE_puhuqCmxRzGp0ajb8fB7W-RaUu",
+    "category": "RAG, AI Agent, LLM",
+    "ecosystemImpact": "LLM의 정확성과 신뢰도 향상, 엔터프라이즈 AI 적용 확대 가속화.",
+    "importance": 9,
+    "summary": "2026년 RAG 기술은 실시간 데이터 검색 및 멀티모달 기능 통합, 에이전트형 시스템과의 연동을 통해 LLM의 '환각' 현상을 줄이고 정확도를 높이며 진화하고 있다.",
+    "corporateAction": "RAG 기술의 고도화를 통해 내부 문서 및 최신 정보 기반의 정확한 AI 응답 시스템을 구축하고, AI 에이전트와 연계하여 업무 자동화 적용 범위를 확대해야 함.",
+    "keywords": [
+      "RAG",
+      "멀티모달 AI",
+      "AI Agent",
+      "LLM",
+      "정확도 향상"
+    ],
+    "_key": "aa2ea681f98b",
+    "_createdAt": "2026-09-16T09:54:47.764644+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764644+09:00"
+  },
+  {
+    "title": "NVIDIA Blackwell Ultra, 2026년 AI 인프라 시장 주도 예상",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOVZXyh2WeYK4epawicW0Iad76CUbU_Alsexs2gJF6dbcuZdv8eFU2vGUcSR0vqjrcnTviOj5GgHTI_O8tXe-8l9HA-bNMbQVQ52GZ9Q9sUrwShPza1iFpcRTsn_aYtLAjXCJSrrsTJGx-5FY=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "고성능 AI 컴퓨팅 수요 충족 및 AI 모델 개발/운영 비용 효율성 증대.",
+    "importance": 8,
+    "summary": "NVIDIA의 Blackwell Ultra GB300 시리즈가 2026년 AI 인프라 시장을 주도할 것으로 전망되며, 출하량이 현재의 두 배로 증가할 것으로 예상된다.",
+    "corporateAction": "고성능 AI 인프라 도입 계획 시 엔비디아 Blackwell Ultra와 같은 차세대 GPU 기술 동향을 면밀히 검토하고, 확장성 및 비용 효율성을 고려해야 함.",
+    "keywords": [
+      "NVIDIA Blackwell",
+      "AI 인프라",
+      "GPU",
+      "AI 컴퓨팅",
+      "데이터센터"
+    ],
+    "_key": "b562348a319b",
+    "_createdAt": "2026-09-16T09:54:47.764652+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764652+09:00"
+  },
+  {
+    "title": "보험 산업, AI 도입으로 고객 가입 비용 20~40% 절감 및 생산성 10~20% 향상",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcAAsUyPBNI-4bsGmiK90D7H3VGqPtPIMFpMfEYlkYDjufApzKL7iM51iWoxpZHeFI2JWbO80JNSdEC0vui6EfAO6Z_ih23rzc5B851917uimmOOUWv3qUckB9WILLMvrjAS3YRA==",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업 전반의 디지털 전환 가속화 및 새로운 비즈니스 기회 창출.",
+    "importance": 9,
+    "summary": "맥킨지 보고서에 따르면 AI 도입으로 보험사는 고객 가입 절차 비용을 20~40% 줄이고 설계사 생산성을 10~20% 높였다. 인수 심사, 보험금 지급 등 전 과정의 비용을 절감한다.",
+    "corporateAction": "고객 서비스, 인수 심사, 보험금 지급 등 핵심 업무에 AI 적용을 확대하여 운영 효율성을 극대화하고, 새로운 보험 상품 개발에 AI를 활용해야 함.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "인수심사",
+      "보험금 지급",
+      "생산성 향상"
+    ],
+    "_key": "0d972dd4c1b2",
+    "_createdAt": "2026-09-16T09:54:47.764660+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764660+09:00"
+  },
+  {
+    "title": "글로벌 빅테크, 'AI 개발 속도 조절론' 뒤편에서 AI 인프라 투자 가속화",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4C88NpKBP5q-kw39itna8lf-Kagk5m7qDobCeJPoJNjx-bKPPFyOEg0zLK9hjb-VUrdM8XZdIvO0iRlF1fGbB3tlEqakLbypKnDRNfKHPNOjm-OwukwRr4RQhR4yN5bSu9Zh4nO2qk59DQcJXE0nJZO2K",
+    "category": "AI 하드웨어 인프라, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기술 패권 경쟁 심화, 데이터센터 및 GPU 등 인프라 투자 집중.",
+    "importance": 8,
+    "summary": "마이크로소프트 등 일부 빅테크가 AI 개발 속도 조절을 요구하면서도, 엔트로픽이 137억 달러 규모의 GPU 계약을 맺는 등 AI 인프라 투자에는 적극적으로 나서고 있다.",
+    "corporateAction": "AI 기술 개발 속도와 윤리적 책임에 대한 이중적 움직임을 주시하며, 장기적인 AI 인프라 투자 로드맵 수립 및 공급망 안정화 전략을 모색해야 함.",
+    "keywords": [
+      "AI 투자",
+      "GPU",
+      "데이터센터",
+      "빅테크",
+      "AI 패권 경쟁"
+    ],
+    "_key": "b19d85a80b1d",
+    "_createdAt": "2026-09-16T09:54:47.764668+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764668+09:00"
+  },
+  {
+    "title": "AI 에이전트, '생성'을 넘어 '행동'하는 시대로 진화하며 업무 자동화 혁명 예고",
+    "date": "2026-09-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkrGPiCc6PAM1AM_MBzzAY6f57nSoPgoSolJ_unRqFS_s8gf-X1nF-0v1CkiYo5_rdes0sUryDG98ve5X79B0CkbwfoTQi8FCRuXfaih5WAdDogcgvaGHkk4DrJcSP6uNq9zLhtA==",
+    "category": "AI Agent, LLM",
+    "ecosystemImpact": "비즈니스 생산성 향상 및 지식 노동자 역할 변화, 새로운 AI 서비스 모델 창출.",
+    "importance": 9,
+    "summary": "AI 에이전트가 단순한 질문 응답을 넘어 스스로 목표를 설정하고 계획, 실행하는 자율형 AI로 진화 중이다. 이는 금융, 코딩 등 전문 영역의 생산성을 폭발적으로 증가시킬 잠재력을 가졌다.",
+    "corporateAction": "AI 에이전트 도입을 통해 반복적이고 정형화된 업무를 자동화하고, 고부가가치 업무에 인력을 재배치하여 전사적 생산성 향상 전략을 추진해야 함.",
+    "keywords": [
+      "AI 에이전트",
+      "업무 자동화",
+      "생산성 혁신",
+      "자율형 AI",
+      "LLM"
+    ],
+    "_key": "f3d005ccdd1f",
+    "_createdAt": "2026-09-16T09:54:47.764675+09:00",
+    "_updatedAt": "2026-09-16T09:54:47.764675+09:00"
   }
 ]
