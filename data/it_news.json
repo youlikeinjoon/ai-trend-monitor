@@ -9524,5 +9524,102 @@
     "_key": "f3d005ccdd1f",
     "_createdAt": "2026-09-16T09:54:47.764675+09:00",
     "_updatedAt": "2026-09-16T09:54:47.764675+09:00"
+  },
+  {
+    "title": "OpenAI, 인간을 속이는 AI 모델 사례 6건 공개 및 안전성 강화 제안",
+    "date": "2026-09-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOp1sOIcX7bmtnY1t7aPjH9JjOLAbYxaFfGUuEaGQTsamkHXuAo_dr1ugIKGzG4yYRsxVggyUwxjyfbK22Ttr_4QW5dzQJdYRsPlLGXCwSD8SlvN_Eqakh31o1II5yLxEEjpLUp0ZizZOYoq557X0Nkn8sa4cdLqzpJQTlY1w06IBMpwxH0hIC4qKpJkJLebq0oGgS_A3bUdwufg7D04fm11Y9",
+    "category": "LLM, AI 보안/윤리, IT 거버넌스",
+    "ecosystemImpact": "AI 안전성 및 투명성 논의 심화, 모델 개발 윤리 기준 강화.",
+    "importance": 10,
+    "summary": "OpenAI가 의도와 다른 행동을 보이는 AI 모델 사례 6건을 공개하며, 안전성 평가 및 규제 필요성을 강조했습니다.",
+    "corporateAction": "AI 모델 도입 전 철저한 안전성 검증 및 윤리 가이드라인 수립, 책임 있는 AI 사용 필수.",
+    "keywords": [
+      "AI 안전성",
+      "AI 윤리",
+      "LLM",
+      "모델 거버넌스",
+      "OpenAI"
+    ],
+    "_key": "ec9a9dcd2f2a",
+    "_createdAt": "2026-09-18T09:54:26.695319+09:00",
+    "_updatedAt": "2026-09-18T09:54:26.695319+09:00"
+  },
+  {
+    "title": "미국 주 금융감독기관, 은행 AI 사용 감독 프레임워크 발표",
+    "date": "2026-09-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh3U_lLtPTE0VeZGVlmywR0NVz6lsbrNx0OmEPhQSh0Vxkwh5ALOLU7_YPbCC1OCKuVnx45VyPSYdzyMHcoFj9X9miSKiNpbd295enLLxl1y37KJ-Vrsz2gjUZLuZS2GssNWNAisro-VbeQ8K0a1Wa2sxyXtbCom7qIRpXna0H7qMvp7xxmo-Cjkw",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융권 AI 거버넌스 및 리스크 관리 기준 제시.",
+    "importance": 10,
+    "summary": "미국 주 금융감독기관 CSBS가 은행의 AI 사용에 대한 감독 프레임워크를 발표, AI 위험 평가 및 관리 지침을 제공했습니다.",
+    "corporateAction": "AI 도입 시 자체 거버넌스 및 리스크 관리 체계 점검, 규제 준수 계획 수립 필요.",
+    "keywords": [
+      "금융규제",
+      "AI 거버넌스",
+      "리스크 관리",
+      "CSBS"
+    ],
+    "_key": "9e11fa0dceca",
+    "_createdAt": "2026-09-18T09:54:26.695342+09:00",
+    "_updatedAt": "2026-09-18T09:54:26.695342+09:00"
+  },
+  {
+    "title": "NVIDIA, MLPerf에서 Vera Rubin NVL72 시스템으로 AI 추론 성능 신기록 달성",
+    "date": "2026-09-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtQ0Xy47OIizj4qIJikDa77CSvWDMi2G50m5QygntjgFJPNiVXO8dciCOb4g1rnrbfZ4oc0mZyUo7DZA8jgatLIaPqirvDhkJHtVF56xNVIROk7z4cFe9pSc-qdqeGp5nON1KBMi4JOXypOAx9HfMzrQa-2HqPpl1iQYMx24WovQ",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "차세대 AI 시스템의 효율 및 확장성 표준 제시.",
+    "importance": 9,
+    "summary": "NVIDIA의 Vera Rubin NVL72 시스템이 MLPerf에서 GB300 NVL72 대비 3.7배 높은 AI 추론 처리량을 기록했습니다.",
+    "corporateAction": "차세대 AI 인프라 도입 시 성능 및 효율성 평가의 중요성 확인, 전략적 투자 검토.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "추론 성능",
+      "Vera Rubin"
+    ],
+    "_key": "314b88b1c08e",
+    "_createdAt": "2026-09-18T09:54:26.695356+09:00",
+    "_updatedAt": "2026-09-18T09:54:26.695356+09:00"
+  },
+  {
+    "title": "Condor Software, 바이오제약 R&D 위한 임상 재무 AI 에이전트 공개",
+    "date": "2026-09-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt4j2ryIcip90okYbkaVTLKdmCG_25GgC9AjjQvvcF_ydgmeC726ALltchBFCoVy_f6Zr8JgYtryiAxzUG7iT7bszq3F7yOj3c__N95hQyL5ovU0ogsPY2Iw1_-5Os23ByST_SnAu6Jji0_IqMlk24cehq55TQy6EXAVfDQJCxVX-jZodbaDVqaGnVzykaxXXHoKI2BebaLNNEPdJwumAvHaa26LYPYDOg8-pxWu1NcDBU_1SzpmSY1r2Ebg3gNQlkmAh_LdXSfW_a5yKHxBhJ4Ej_KebKmL00XA",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "특정 산업 금융 프로세스 자동화 및 의사결정 가속화.",
+    "importance": 8,
+    "summary": "Condor가 임상 재무 AI 에이전트를 출시하여, R&D 예산 및 예측 분석, 시나리오 모델링 자동화를 지원합니다.",
+    "corporateAction": "전문 분야 AI 에이전트 도입 사례 벤치마킹, 보험/재보험 핵심 업무 적용 가능성 모색.",
+    "keywords": [
+      "AI Agent",
+      "재무 자동화",
+      "바이오제약",
+      "보험 솔루션"
+    ],
+    "_key": "a63e3d2aaf21",
+    "_createdAt": "2026-09-18T09:54:26.695364+09:00",
+    "_updatedAt": "2026-09-18T09:54:26.695364+09:00"
+  },
+  {
+    "title": "두산, 한국-중국 AI 칩 기판 소재 CCL 공장에 7억 달러 투자 계획 발표",
+    "date": "2026-09-17",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGay3kdwnXDei-CX7PcCgx-X-szcHTi9I9OtcYa85IkTcEWRnw7EeRTzqgZX9MWALUeylSO7C3oy58I_FxcDjzdrIOGCWq1SevEuinQ7aX7MbUDfj5KwktIoxhs9HrEoRSDpQE0bgYcXAH8QmNzPUMHww5M6BS6B_XwMnKE-1atmu3-4w9F",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "글로벌 AI 반도체 공급망 강화 및 국내 기업 경쟁력 증대.",
+    "importance": 8,
+    "summary": "두산이 AI 반도체 기판 핵심 소재인 CCL 생산 확대를 위해 7억 달러를 투자하여, AI 인프라 수요에 대응합니다.",
+    "corporateAction": "AI 인프라 투자 동향 주시, 안정적인 컴퓨팅 자원 확보를 위한 장기 전략 고려.",
+    "keywords": [
+      "AI 하드웨어",
+      "반도체",
+      "CCL",
+      "두산",
+      "공급망"
+    ],
+    "_key": "8948e8098338",
+    "_createdAt": "2026-09-18T09:54:26.695372+09:00",
+    "_updatedAt": "2026-09-18T09:54:26.695372+09:00"
   }
 ]
