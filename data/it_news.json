@@ -9621,5 +9621,104 @@
     "_key": "8948e8098338",
     "_createdAt": "2026-09-18T09:54:26.695372+09:00",
     "_updatedAt": "2026-09-18T09:54:26.695372+09:00"
+  },
+  {
+    "title": "금융보안원, “금융권 AI 에이전트 공격은 현실, API 보안 관리 등 선제적 대응해야”",
+    "date": "2026-09-18",
+    "url": "https://www.boannews.com/media/view.asp?idx=122420",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 시 AI 에이전트 기반 공격에 대한 보안 강화 필요성 증대.",
+    "importance": 10,
+    "summary": "금융보안원은 금융권 AI 에이전트 공격 사례를 소개하며, API 보안 관리 강화 및 AI 활용 선제적 위협 대응을 강조했다.",
+    "corporateAction": "AI 에이전트 도입 시 API 보안 관리 프로세스 강화 및 AI 기반 보안 솔루션 도입 검토 필요.",
+    "keywords": [
+      "AI Agent",
+      "금융 보안",
+      "API 보안",
+      "금융보안원",
+      "망분리"
+    ],
+    "_key": "260ff3c08089",
+    "_createdAt": "2026-09-19T09:48:10.772245+09:00",
+    "_updatedAt": "2026-09-19T09:48:10.772245+09:00"
+  },
+  {
+    "title": "젠슨 황·저커버그, AI 규제기구 제동…앤트로픽 “AI가 AI 개발 26% 주도”",
+    "date": "2026-09-18",
+    "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/18/20260918500060",
+    "category": "LLM",
+    "ecosystemImpact": "AI 개발 주도권 및 안전성 확보를 위한 빅테크와 규제당국 간의 논쟁 심화.",
+    "importance": 9,
+    "summary": "엔비디아 젠슨 황과 메타 저커버그 CEO가 민간 주도 AI 규제기구 설립에 제동을 걸었고, 앤트로픽은 자사 AI가 AI 연구개발의 26%를 주도한다고 발표했다.",
+    "corporateAction": "AI 모델의 자율성 및 개발 윤리적 문제에 대한 글로벌 동향 주시, 내부 AI 개발 거버넌스 강화.",
+    "keywords": [
+      "AI 규제",
+      "LLM",
+      "AI Agent",
+      "빅테크",
+      "AI 안전"
+    ],
+    "_key": "6affa6ce8588",
+    "_createdAt": "2026-09-19T09:48:10.772270+09:00",
+    "_updatedAt": "2026-09-19T09:48:10.772270+09:00"
+  },
+  {
+    "title": "NVIDIA, Google, Emerald AI launch AI data center power coalition",
+    "date": "2026-09-18",
+    "url": "https://qz.com/nvidia-google-emerald-ai-data-center-power-alliance-1850849767",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 데이터센터의 전력 효율 개선 및 그리드 연결 가속화 추진.",
+    "importance": 9,
+    "summary": "엔비디아, 구글 등이 AI 데이터센터의 전력 소비를 그리드 조건에 맞춰 동적으로 관리하는 연합을 출범하여 전력 효율을 높인다.",
+    "corporateAction": "AI 인프라 확장 계획 시 전력 효율성 및 친환경 데이터센터 구축 방안을 적극 고려해야 함.",
+    "keywords": [
+      "NVIDIA",
+      "Google",
+      "데이터센터",
+      "전력 관리",
+      "AI 인프라"
+    ],
+    "_key": "80fff94fdaf3",
+    "_createdAt": "2026-09-19T09:48:10.772277+09:00",
+    "_updatedAt": "2026-09-19T09:48:10.772277+09:00"
+  },
+  {
+    "title": "세계 무역 살린 AI…빅테크 투자 꺾이면 한국도 흔들린다 [김주완의 글로벌머니 X파일]",
+    "date": "2026-09-18",
+    "url": "https://www.hankyung.com/article/202609183311i",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "AI 관련 상품 교역 증가, 빅테크 AI 투자 둔화 시 글로벌 공급망 및 경제 전반에 영향.",
+    "importance": 8,
+    "summary": "AI 관련 상품이 세계 무역 증가를 주도하고 있으나, 빅테크의 AI 설비투자 둔화는 반도체 등 아시아 수출에 연쇄 타격을 줄 수 있다.",
+    "corporateAction": "글로벌 AI 투자 동향을 지속적으로 모니터링하고, AI 공급망 위험 관리 전략 수립 필요.",
+    "keywords": [
+      "AI 투자",
+      "글로벌 경제",
+      "빅테크",
+      "반도체",
+      "AI 공급망"
+    ],
+    "_key": "ec35236d26be",
+    "_createdAt": "2026-09-19T09:48:10.772283+09:00",
+    "_updatedAt": "2026-09-19T09:48:10.772283+09:00"
+  },
+  {
+    "title": "Honor Reveals 2 Liter AI Workstation with AMD, Intel, or NVIDIA CPU Options",
+    "date": "2026-09-18",
+    "url": "https://www.techpowerup.com/2026/09/honor-reveals-2-liter-ai-workstation-with-amd-intel-or-nvidia-cpu-options/",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "작은 폼팩터의 고성능 AI 워크스테이션 시장 확대, 온디바이스 AI 활용 가능성 증대.",
+    "importance": 7,
+    "summary": "Honor가 AMD, Intel, NVIDIA CPU를 선택할 수 있는 2리터 소형 AI 워크스테이션 'Tiangong AXB35'를 공개하며 엔터프라이즈 AI에 초점.",
+    "corporateAction": "Edge AI 및 온디바이스 AI 도입을 위한 하드웨어 솔루션 다양성 검토, 분산형 AI 인프라 구축 가능성 타진.",
+    "keywords": [
+      "AI 워크스테이션",
+      "온디바이스 AI",
+      "AI 하드웨어",
+      "Honor"
+    ],
+    "_key": "c80c39acbe5a",
+    "_createdAt": "2026-09-19T09:48:10.772288+09:00",
+    "_updatedAt": "2026-09-19T09:48:10.772288+09:00"
   }
 ]
