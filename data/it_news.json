@@ -9860,5 +9860,120 @@
     "_key": "349d62883d09",
     "_createdAt": "2026-09-20T09:31:36.553979+09:00",
     "_updatedAt": "2026-09-20T09:31:36.553979+09:00"
+  },
+  {
+    "title": "Google의 Gemini AI, 보안 테스트서 3개 기업 해킹 성공",
+    "date": "2026-09-20",
+    "url": "https://www.youtube.com/watch?v=xxxxxxxx",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 시스템의 오용 위험과 디지털 방어의 취약점 부각.",
+    "importance": 10,
+    "summary": "구글 제미니 AI가 보안 테스트에서 3개 기업을 성공적으로 해킹하여 AI 오용 우려와 디지털 방어 강화의 필요성을 제기했습니다.",
+    "corporateAction": "AI 모델 도입 시 강화된 보안 프로토콜 및 오용 방지 대책 마련 시급. AI 보안 시스템 투자 검토.",
+    "keywords": [
+      "AI 보안",
+      "AI 오용",
+      "디지털 방어",
+      "Gemini"
+    ],
+    "_key": "80c0e0e977ba",
+    "_createdAt": "2026-09-21T09:40:21.566873+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566873+09:00"
+  },
+  {
+    "title": "삼성전자, 실리콘밸리서 AI 및 로봇 비전 공개: 'AX 선도 기업' 목표",
+    "date": "2026-09-20",
+    "url": "https://www.biggo.finance/news/samsung-electronics-unveils-ai-and-robotics-blueprint-in-silicon-valley-aiming-to-become-ax-leader-2026-09-20/",
+    "category": "엔터프라이즈 AI, AI Agent",
+    "ecosystemImpact": "삼성전자의 AI 및 로봇 분야 투자 확대로 산업 전반의 AI 전환 가속화 예상.",
+    "importance": 9,
+    "summary": "삼성전자가 2026 테크 포럼에서 AI와 로봇 비전을 발표하며, 갤럭시 기기 AI 역량을 로봇으로 확장할 계획을 밝혔습니다.",
+    "corporateAction": "빅테크 기업의 AI 전환 전략 벤치마킹. AI 기반 로봇 자동화 및 고객 경험 혁신 기회 모색.",
+    "keywords": [
+      "삼성전자",
+      "AI Agent",
+      "로봇",
+      "AX"
+    ],
+    "_key": "398b258caaee",
+    "_createdAt": "2026-09-21T09:40:21.566901+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566901+09:00"
+  },
+  {
+    "title": "전 세계 AI 지출 2026년 2.7조 달러 예상: 가트너 보고서",
+    "date": "2026-09-16",
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-5-percent-in-2026",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 인프라 및 서비스에 대한 막대한 투자가 AI 산업 성장을 주도할 것.",
+    "importance": 9,
+    "summary": "가트너는 2026년 전 세계 AI 지출이 전년 대비 49.5% 증가한 2.7조 달러에 달할 것으로 전망했습니다. AI 인프라 구축이 가장 큰 지출 영역입니다.",
+    "corporateAction": "AI 인프라 투자 확대 및 최적화 전략 수립 필요. AI 서비스 및 임베디드 AI 활용 방안 검토.",
+    "keywords": [
+      "AI 투자",
+      "AI 인프라",
+      "엔터프라이즈AI",
+      "Gartner"
+    ],
+    "_key": "8979d4c8661c",
+    "_createdAt": "2026-09-21T09:40:21.566911+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566911+09:00"
+  },
+  {
+    "title": "한국, 2026년부터 본격적인 AI 생태계 구축 시작",
+    "date": "2025-12-15",
+    "url": "https://www.koreaherald.com/view.php?ud=20251215000756",
+    "category": "IT 거버넌스/보안, AI 하드웨어",
+    "ecosystemImpact": "한국 정부의 AI 투자 확대로 국내 AI 기술 개발 및 산업 경쟁력 강화 기대.",
+    "importance": 8,
+    "summary": "한국은 2026년부터 AI 인프라 및 역량 강화를 위한 대규모 투자를 시작하며, AI 정책의 실행 단계로 전환할 예정입니다.",
+    "corporateAction": "국내 AI 정책 및 로드맵을 주시하고, 정부 지원 사업 참여 기회 모색. AI 인프라 구축 계획 연계.",
+    "keywords": [
+      "국내AI",
+      "AI정책",
+      "AI인프라",
+      "IT 거버넌스"
+    ],
+    "_key": "cf536db4f6ce",
+    "_createdAt": "2026-09-21T09:40:21.566925+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566925+09:00"
+  },
+  {
+    "title": "보험 산업, AI 도입 가속화: 2026년에는 활용 깊이가 경쟁력 좌우",
+    "date": "2026-01-07",
+    "url": "https://www.newsian.co.kr/news/articleView.html?idxno=105553",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "AI가 보험업의 핵심 업무에 깊숙이 스며들며 산업 전반의 경쟁 구도 변화 예상.",
+    "importance": 8,
+    "summary": "2026년 보험업계는 AI를 본업에 내재화하며, AI 활용 깊이가 손해율 및 CSM 등 실적과 경쟁력을 가르는 핵심 변수가 될 것으로 전망됩니다.",
+    "corporateAction": "AI를 활용한 영업, 인수심사, 보험금 지급 등 핵심 업무 전반의 심층적인 AI 도입 전략 수립 및 실행.",
+    "keywords": [
+      "보험AI",
+      "AI Agent",
+      "보험AX",
+      "언더라이팅",
+      "클레임"
+    ],
+    "_key": "14635883a029",
+    "_createdAt": "2026-09-21T09:40:21.566933+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566933+09:00"
+  },
+  {
+    "title": "AI 에이전트 개발, 2026년 엔터프라이즈 애플리케이션의 40% 차지 예상",
+    "date": "2026-09-07",
+    "url": "https://www.wappnet.ai/blog/ai-agent-development-in-2026",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 에이전트가 단순한 챗봇을 넘어 기업 업무 자동화의 핵심 동력으로 부상.",
+    "importance": 7,
+    "summary": "가트너는 2026년 말까지 엔터프라이즈 애플리케이션의 40%가 작업별 AI 에이전트를 포함할 것으로 전망하며, AI 에이전트 개발이 최우선 과제가 됨.",
+    "corporateAction": "AI 에이전트 도입을 통한 멀티스텝 워크플로우 자동화 검토. 비즈니스 목표에 맞는 에이전트 시스템 구축 전략 수립.",
+    "keywords": [
+      "AI Agent",
+      "워크플로우 자동화",
+      "엔터프라이즈AI",
+      "Gartner"
+    ],
+    "_key": "a453a4e7120d",
+    "_createdAt": "2026-09-21T09:40:21.566941+09:00",
+    "_updatedAt": "2026-09-21T09:40:21.566941+09:00"
   }
 ]
