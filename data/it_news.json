@@ -10120,5 +10120,147 @@
     "_key": "b396cdad681e",
     "_createdAt": "2026-09-22T10:22:22.301334+09:00",
     "_updatedAt": "2026-09-22T10:22:22.301334+09:00"
+  },
+  {
+    "title": "Nvidia Vera Rubin NVL72 Full Production: What Changed",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH4YoCKgDb7pkQC6uCAB0_SEs0qO4km2rPyxgGo9repP_nRzJTBqFAewg3mwM_b9j1bLA9SZVl65PkwVpHpNfjdOhRgtoJeFn9KAPSIE55uDZV4OFbsQ5gdoJA80MgFYsx5ZeKn8TmZcs3FLQiDP5UusJYFsibTOsVbSW7eQ==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능과 효율성 향상, 클라우드 AI 서비스 발전 가속화.",
+    "importance": 10,
+    "summary": "엔비디아의 차세대 데이터센터 플랫폼 베라 루빈 NVL72가 전면 생산에 돌입하여 클라우드 데이터센터에 공급된다. 이는 블랙웰 후속작으로 AI 인프라 경쟁의 다음 단계를 알린다.",
+    "corporateAction": "차세대 AI 인프라 투자 및 클라우드 AI 서비스 활용 전략 재검토 필요.",
+    "keywords": [
+      "NVIDIA",
+      "Vera Rubin",
+      "AI 칩",
+      "데이터센터",
+      "하드웨어"
+    ],
+    "_key": "f135cb3632df",
+    "_createdAt": "2026-09-23T10:04:39.902538+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902538+09:00"
+  },
+  {
+    "title": "KISA “보안 특화 AI, 국가 전략 자산으로 키워야… 한국형 위협·인프라 학습 필요”",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFla7s8aze3mgjvhPlOH6zAP9bfGhFwMhLQRg2WqQI7Pu_gXF889xoCvqTWsPnn640u4TtM-5DfF6JDuO5ebVzBGcEOn2VQaTXbR_gOxZ0X-QcHeCn0IdmjbGddiIUqBCDxr9Yh0GuuV6rj1f1ZTUdD4LKM7XR8-OfqW1dRLkeAsv-dxz3zbU=",
+    "category": "AI 보안/망분리, IT 거버넌스",
+    "ecosystemImpact": "국가 차원의 사이버 보안 강화, 금융망분리 환경 특화 AI 모델 발전.",
+    "importance": 10,
+    "summary": "한국인터넷진흥원(KISA)과 네이버 등 컨소시엄이 한국형 위협 및 인프라에 특화된 AI 보안 모델 개발을 추진하며, 이를 국가 전략 자산으로 육성할 계획이다. 금융망분리 환경 대응에 중요하다.",
+    "corporateAction": "금융망분리 환경 내 AI 보안 모델 도입 및 자체 보안 AI 역량 강화 검토.",
+    "keywords": [
+      "AI 보안",
+      "망분리",
+      "KISA",
+      "네이버",
+      "국가 전략",
+      "IT 거버넌스"
+    ],
+    "_key": "3cfe95895def",
+    "_createdAt": "2026-09-23T10:04:39.902558+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902558+09:00"
+  },
+  {
+    "title": "Anthropic, 더 저렴하고 빠른 Claude Opus 5.5 모델 공개",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqYTOzECuwyxMCN4igCHDYKopFYrAWlefu8jLY07lJ6DGD7DHOdkfQFnWbddeY9xw3qUEVcidlv6B-lC-sw_czA_QKMooyX39puFuCYluWYrn7nC7dobZTSCTMh_dCojWEw7y09p3X159_ol6CZcCcTsVimKQG0DMW0A==",
+    "category": "LLM",
+    "ecosystemImpact": "기업용 AI 모델 경쟁 심화, 비용 효율적인 LLM 도입 가속화.",
+    "importance": 9,
+    "summary": "Anthropic이 더 저렴하고 빠른 기업용 LLM인 Claude Opus 5.5를 출시했다. 이는 기존 Opus 5 대비 비용 효율과 성능을 크게 개선하여 기업 워크플로우에 초점을 맞춘다.",
+    "corporateAction": "고성능/저비용 LLM 도입 검토 및 금융 서비스 특화 AI 모델 개발 전략 수립.",
+    "keywords": [
+      "Anthropic",
+      "Claude Opus 5.5",
+      "LLM",
+      "기업용 AI",
+      "비용 효율"
+    ],
+    "_key": "4d629291e181",
+    "_createdAt": "2026-09-23T10:04:39.902564+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902564+09:00"
+  },
+  {
+    "title": "AI가 틀린 답 내놔도 보험은 '사각지대'…해외는 전용보험 경쟁",
+    "date": "2026-09-21",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_sul_nSnidp0cK2KbBI9MJjyJ3bLTATcSUDSTT2sQfbdncI0NLeTRBJjLugZH-wks7TLhxf6m7YXhRXc9v3I6RToOGR04KzISTJCeoTV6dm5JsX6mgtmkPuOvxz7t-D5wzHVAeg==",
+    "category": "보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 관련 신규 리스크 발생, 보험 산업의 새로운 상품 개발 기회 및 책임 문제 부상.",
+    "importance": 9,
+    "summary": "AI의 잘못된 판단으로 인한 손해배상 책임에 대해 기존 보험 상품으로는 보장 공백이 발생하며, 해외에서는 AI 전용 특약 및 독립형 배상책임보험이 출시되고 있다.",
+    "corporateAction": "AI 리스크 평가 모델 개발, AI 전용 보험 상품 개발 검토, AI 사용에 따른 법적 책임 분석.",
+    "keywords": [
+      "AI 리스크",
+      "보험 상품",
+      "배상책임",
+      "IT 거버넌스",
+      "신상품 개발"
+    ],
+    "_key": "a42e608eac97",
+    "_createdAt": "2026-09-23T10:04:39.902569+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902569+09:00"
+  },
+  {
+    "title": "화웨이 Fintelligent AI Solution 출시… 글로벌 금융기관의 'AI를 소유하고 지능을 소유하라' 실현 지원",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTcj97J-DlHXcvLaxFqQ9hNw1R04hlJ-xVYWlSNrkycoPbOgWxFkLMJzm2fEB6_AJTP6ZY-TYiFjsO-5UtB7j9S8ey9xD3Wz2tPHQmm2vm6Ynxkqf4qgEFZYUqVmhmlXV5wZukG9ZcaJ6PGpIf0nkhcdUaC5y9RN7SHfdH3vTxnvohRmakpGvhMw5m156dgF403CwZwcGQCFnH0FYkHttsQ7sIlKEgotPcI5i99nuq7_GBaxEODG1E7thyKnGnXHYutouYVCcdHBG1Fh74Tc9qJBDoXtRQZvziNXr-VNJ4uO6vMgEjZjULcGz5RXHgN-cmuFir_BoShhmGzm5rGxQ8Sqm",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "금융 산업의 에이전틱 AI 전환 가속화, 전사적 AI 시스템 역량 경쟁 심화.",
+    "importance": 9,
+    "summary": "화웨이가 글로벌 금융기관을 위한 Fintelligent AI Solution을 출시하며, 금융기관이 자체 AI를 보유하고 에이전틱 뱅킹으로 나아가도록 지원한다.",
+    "corporateAction": "금융 에이전틱 AI 플랫폼 도입 및 자체 AI 역량 확보를 위한 전략 수립.",
+    "keywords": [
+      "화웨이",
+      "금융 AI",
+      "AI Agent",
+      "Fintelligent AI Solution",
+      "에이전틱 뱅킹"
+    ],
+    "_key": "f56a0a015272",
+    "_createdAt": "2026-09-23T10:04:39.902574+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902574+09:00"
+  },
+  {
+    "title": "'K-손보' 판 커진다…삼성화재·KB손보 CEO, 모나코 재보험 총회 집결",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOMlCvZILm_Tti_cA7t0CR5S8ceASDZZ9-lopwjY3EsmXqJGgxRl1QwZkF2ncuWWveKFCrNSMkB82h5V1sCyVmqjH3wpUcdYcRTt89mq6ebsO-sNKqpmmRGOWK2gOE77_E",
+    "category": "보험/AX, 재보험",
+    "ecosystemImpact": "글로벌 재보험 시장의 AI 도입 가속화, 신종 리스크 관리 중요성 증대.",
+    "importance": 8,
+    "summary": "삼성화재, KB손보 등 국내 주요 손해보험사 CEO들이 모나코 재보험 총회에 참석해 AI와 보험산업, 신종 리스크 관리 등을 주요 의제로 논의했다.",
+    "corporateAction": "글로벌 재보험 동향 파악 및 AI 기반 신종 리스크 평가 및 언더라이팅 역량 강화.",
+    "keywords": [
+      "재보험",
+      "모나코 재보험 총회",
+      "보험 AI",
+      "리스크 관리",
+      "언더라이팅"
+    ],
+    "_key": "5eb36525bf63",
+    "_createdAt": "2026-09-23T10:04:39.902578+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902578+09:00"
+  },
+  {
+    "title": "엔비디아 인증에 MS 협력까지…LG전자, AI 냉각 사업 '날개'",
+    "date": "2026-09-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgmDLhrBr2MpZiYU7c3kqvQf4QaDA8H0RIWfRdSnp1gzLX_akyF9PiIWSigcFWMv61r3OWRPteQrwWUMz1qBDqZISKZt8BuDXT4_Du5DYEkJeElO6AWBYe3v-NjUtKYZAhJrLJFuMSQV1JV8YmJNQQtjkbpJtABw==",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 데이터센터 효율성 향상 및 구축 가속화, 국내 기업의 AI 인프라 시장 기여 증대.",
+    "importance": 8,
+    "summary": "LG전자가 엔비디아의 차세대 AI 팩토리 규격 승인을 획득하고 마이크로소프트와 협력하여 AI 데이터센터 냉각 사업을 강화, 글로벌 AI 인프라 시장 공략에 나선다.",
+    "corporateAction": "고성능 AI 데이터센터 구축을 위한 냉각 솔루션 기술 동향 파악 및 협력 가능성 모색.",
+    "keywords": [
+      "LG전자",
+      "NVIDIA",
+      "MS",
+      "AI 데이터센터",
+      "냉각 솔루션",
+      "하드웨어"
+    ],
+    "_key": "df7f37b36bcc",
+    "_createdAt": "2026-09-23T10:04:39.902582+09:00",
+    "_updatedAt": "2026-09-23T10:04:39.902582+09:00"
   }
 ]
