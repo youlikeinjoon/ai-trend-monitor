@@ -10262,5 +10262,104 @@
     "_key": "df7f37b36bcc",
     "_createdAt": "2026-09-23T10:04:39.902582+09:00",
     "_updatedAt": "2026-09-23T10:04:39.902582+09:00"
+  },
+  {
+    "title": "유엔 안보리, AI 국제 안보 위협 논의... 오픈AI 등 AI 리더들 협력 촉구 및 UK 총리 글로벌 표준 주장",
+    "date": "2026-09-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8TJV4wUYfvQgUlrWd5Cz5QQaU8nX3G-oWWBQq4aQh3TbPBxmH4quK0qQGtitkLzCAt4SBRdS383sd127RM5I2Zx9qqBgirQ99OLpczx_PjNnFBDhwxO1bgezCrvNeYoUaiTvZcUr3xUz52Am0WPVdxHCyNWJi2Cu_BaE5gNA1MfXr-HSm7A5aQgUz1yPdsPoFnoCrM2D5RX5-BiMRCefoZD_E85OXCkUc",
+    "category": "IT 거버넌스/보안, LLM, AI Agent",
+    "ecosystemImpact": "AI의 윤리적 사용, 보안 및 국제 규제 논의 가속화.",
+    "importance": 10,
+    "summary": "유엔 안보리에서 AI가 국제 안보에 미칠 위험이 논의되었으며, 오픈AI 등 주요 AI 기업 CEO와 영국 총리가 글로벌 AI 거버넌스 및 안전 표준 협력을 촉구했다.",
+    "corporateAction": "AI 시스템 도입 시 윤리 및 보안 거버넌스 체계 강화, 국제 표준 동향 지속적 모니터링 및 선제적 대응 필요.",
+    "keywords": [
+      "AI 거버넌스",
+      "AI 보안",
+      "국제 규제",
+      "UN",
+      "오픈AI",
+      "LLM 안전"
+    ],
+    "_key": "7ba7ec8fd6d0",
+    "_createdAt": "2026-09-24T09:58:43.496438+09:00",
+    "_updatedAt": "2026-09-24T09:58:43.496438+09:00"
+  },
+  {
+    "title": "메타, AI 비서 '뮤즈'의 '인간 컨시어지' 기능 중단... 개인정보 유출 우려 제기",
+    "date": "2026-09-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELXdWOZx2tODA1oc3VraaZJxJNV5ZjJH7HZFG6aVxrmEUfsuVAWNMJ5TH8Vo7qMaaz_WkAYFTOgOGT0eDYsEe-H2KoSBzlD5S6ngZZ1wzFLNJz5f4vK4a8ZiLk6fQ_bCQP27U5--mw1OpqPJ4js38gwoqVKSiYnQVXqe5kLgPBS0ZZ4M5ZP-9ix1YxefWsUgRzUJW9yDA4JSg5hBtOVj5kMCMmJA==",
+    "category": "AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 에이전트의 윤리적 배포와 개인정보 보호 중요성 강조.",
+    "importance": 9,
+    "summary": "메타의 AI 비서 '뮤즈'가 인간 직원의 개입으로 인한 개인정보 유출 우려로 '인간 컨시어지' 기능을 중단했다.",
+    "corporateAction": "AI 에이전트 도입 시 개인정보 보호 및 데이터 유출 방지를 위한 강력한 통제 및 감사 시스템 구축.",
+    "keywords": [
+      "AI Agent",
+      "개인정보 보호",
+      "윤리 AI",
+      "Meta Muse"
+    ],
+    "_key": "c610fbf59c62",
+    "_createdAt": "2026-09-24T09:58:43.496459+09:00",
+    "_updatedAt": "2026-09-24T09:58:43.496459+09:00"
+  },
+  {
+    "title": "2026년 엔터프라이즈 AI 보고서: AI 가치 격차와 컴퓨팅 비용 관리의 중요성 부각",
+    "date": "2026-09-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDgjsqzpXHOc7tiLgr4kwrX5IGUnw4Wbkdb6TCa-qgfPQSGfQp3GRFt6lVgg_kQRpwxibZFFyNmHmAxNN4wNH5MwRCbjeu4h_NYSCMVkN_0DmM3bDjbLYEoT24DTHA43R0179RWgNp6F7i4o_mP1BfcIpVcNbHi_bDuXk-omCr4K5vnAgfH5iRDIGdcIm21h7a91bXSWbkDTdpurl-ACyung==",
+    "category": "엔터프라이즈 AI, IT 거버넌스/보안",
+    "ecosystemImpact": "기업의 AI 도입 전략에서 비용 효율성 및 실제 가치 창출 중요성 증대.",
+    "importance": 9,
+    "summary": "2026년 엔터프라이즈 AI 보고서는 AI의 가치 격차와 함께 실제 운영 환경에서 LLM 컴퓨팅 비용 관리가 기업의 AI 아키텍처 및 구매 결정에 큰 영향을 미친다고 분석.",
+    "corporateAction": "AI 모델 도입 전 총 소유 비용(TCO) 분석 강화, 특정 워크로드에 최적화된 모델 및 인프라 선택 기준 마련.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 비용",
+      "LLM",
+      "ROI",
+      "AI 인프라"
+    ],
+    "_key": "d2d80eb53556",
+    "_createdAt": "2026-09-24T09:58:43.496469+09:00",
+    "_updatedAt": "2026-09-24T09:58:43.496469+09:00"
+  },
+  {
+    "title": "국내 AI 인프라 스타트업 베슬 AI, 1.5억 달러 규모 시리즈 C 투자 검토 중",
+    "date": "2026-09-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIMxzCfuKwU4lMVE168Xq9sfPC7pJFwpsKuaqIAuObwAeZk5JAlM1JiQnE5kIDnh6xB_6nJqcTaz0kc5OgHBPpxHB3dJU_NPzNzKh_4EPZv4WZPr_QVmnvLmghDmSvrmY3dvub6CQ4Gq3hjlAg5iX17-K0R9NGCIIvscMojQ==",
+    "category": "AI 하드웨어 인프라, 스타트업, 국내 동향",
+    "ecosystemImpact": "국내 AI 인프라 경쟁력 강화 및 GPU 클라우드 시장 성장 촉진.",
+    "importance": 8,
+    "summary": "한국의 국부펀드가 국내 AI 인프라 스타트업 베슬 AI의 1.5억 달러 규모 시리즈 C 투자 라운드 참여를 검토 중이며, 이는 GPU 인프라 확장에 사용될 예정.",
+    "corporateAction": "국내 AI 인프라 스타트업과의 협력 가능성 모색, AI 학습 및 추론을 위한 GPU 클라우드 활용 전략 검토.",
+    "keywords": [
+      "AI 인프라",
+      "GPU",
+      "스타트업 투자",
+      "국내 AI"
+    ],
+    "_key": "cd189ec5e218",
+    "_createdAt": "2026-09-24T09:58:43.496477+09:00",
+    "_updatedAt": "2026-09-24T09:58:43.496477+09:00"
+  },
+  {
+    "title": "퀄컴, 에이전트 AI 전환 가속화: 디바이스가 '의도' 기반으로 작동",
+    "date": "2026-09-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR19AulNsijSNGA0DqVIGpXOmdX0hgBkKMcDDtGp-sP7w8NDQPOFtpsdwmUqs6aFGcSU5dxAylVqwNKDfpw2YuhxemBetKH289YfAegxsN2-di35JYi5xLVbmatQwFzVNU42mVrpbHH7Yc1C_3rIAQ4_nycUGVpJB_jgRNeKydGg=",
+    "category": "AI Agent, 하드웨어 인프라",
+    "ecosystemImpact": "디바이스 AI 에이전트 시장 확산 및 사용자 경험 변화 가속화.",
+    "importance": 7,
+    "summary": "퀄컴이 에이전트 AI 기반 디바이스로의 전환을 주도하며, 알리바바의 'Qwen Book'과 같은 제품이 PC에 AI 에이전트를 통합하여 '의도' 기반으로 작업을 수행한다고 발표.",
+    "corporateAction": "온디바이스 AI 및 에이전트 AI 기술 동향 주시, 금융 서비스 접점에서의 적용 가능성 연구.",
+    "keywords": [
+      "AI Agent",
+      "온디바이스 AI",
+      "퀄컴",
+      "알리바바",
+      "하드웨어"
+    ],
+    "_key": "a55f89ca66ab",
+    "_createdAt": "2026-09-24T09:58:43.496485+09:00",
+    "_updatedAt": "2026-09-24T09:58:43.496485+09:00"
   }
 ]
