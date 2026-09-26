@@ -10361,5 +10361,127 @@
     "_key": "a55f89ca66ab",
     "_createdAt": "2026-09-24T09:58:43.496485+09:00",
     "_updatedAt": "2026-09-24T09:58:43.496485+09:00"
+  },
+  {
+    "title": "오픈AI 'GPT-6 솔/루나', 앤트로픽 '클로드 오퍼스 5.5' 발표: 가격 효율 및 성능 향상",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs7OB3SlbIfIKNk6soGSEZW5tJGGGdm3BChg8dH8uGVBvM149ZurLatO-g57Y-bAg6WPqy0OB7DCIXqqmlaQCcDyBqnK5hUTNdbXlr7Ms5R3y1m6_sKAtkF6CVbfsa4xi9PTCHp6r9ZrFK0LheYxXzIjMxuPavekknaKiOqMCCMbYt",
+    "category": "LLM",
+    "ecosystemImpact": "빅테크 간 AI 모델 성능 및 가격 경쟁 심화로 산업 전반의 효율성 증대 기대.",
+    "importance": 10,
+    "summary": "오픈AI가 GPT-6 솔/루나를, 앤트로픽이 클로드 오퍼스 5.5를 공개하며 성능 향상과 함께 비용 효율을 높여 LLM 시장 경쟁이 격화되고 있습니다.",
+    "corporateAction": "최신 고성능/저비용 LLM 도입 검토 및 사내 LLM 전략 재평가. 멀티 LLM 전략을 강화해야 합니다.",
+    "keywords": [
+      "LLM",
+      "OpenAI",
+      "Anthropic",
+      "GPT-6",
+      "Claude Opus 5.5",
+      "빅테크"
+    ],
+    "_key": "92eff708345f",
+    "_createdAt": "2026-09-26T10:04:43.821937+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821937+09:00"
+  },
+  {
+    "title": "글로벌 재/보험사 AI 투자 3년 내 2배 증가 전망, 운영 효율성 우선: S&P 보고서",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfuUbEJ0j5DKYAGOP08c_Wc9l0SnMbewcmPu61r6ehO7R6J0ZOZDtz6oo3Qb6j4rs7uMOuRA11P40GU5Ruz6wSStYU2zJKC4-HhdcsS3K9IAczoIcJx_L26UPjqwtM4R-xTT2EOUOotWp6ajG1iDEbl7_N6mZm3mcCwEmbvkNEHLGBI_nRMQGDFmuTDsOJOdsxZAe3Tn9wF_XkkQkIsGHzsakc_5bkRyOruJGR8h2o8NB_RM7Rmdo8Lw==",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업 전반의 디지털 전환 가속화 및 AI 기반 비즈니스 모델 혁신을 촉진합니다.",
+    "importance": 10,
+    "summary": "S&P Global Ratings 보고서에 따르면 재/보험사들이 AI에 대한 투자를 3년 내 두 배 이상 늘릴 계획이며, 초기에는 재무적 이익보다 운영 효율성 증대에 초점을 맞추고 있습니다.",
+    "corporateAction": "AI 도입 로드맵을 재점검하고, 운영 효율성 증대 목표를 명확히 설정하며, AI 거버넌스 강화 및 ROI 측정 기준을 마련해야 합니다.",
+    "keywords": [
+      "보험",
+      "재보험",
+      "AI 도입",
+      "AX",
+      "S&P Global Ratings",
+      "IT 거버넌스"
+    ],
+    "_key": "d10d1f565d9e",
+    "_createdAt": "2026-09-26T10:04:43.821962+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821962+09:00"
+  },
+  {
+    "title": "엔비디아, 차세대 AI 플랫폼 '베라 루빈' 풀 프로덕션 및 출하 시작",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bgMPTfezJeOqntQN_6_LQQzrEAteUySXYuq1b8bNx5ks02vrbyZm_aBi5VyjYSzvqhVjPf5sAlDaKgYNimgtI_XbUDk5AOnLHNaPqXyepi7duJGHh3RuUq-lnrHQZAE8GanQfq2L0FSQxZfp-xN5ky7L9zhAcg==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능의 비약적 향상으로 차세대 AI 모델 개발 및 배포를 가속화할 것입니다.",
+    "importance": 9,
+    "summary": "엔비디아가 차세대 AI 데이터센터 플랫폼 베라 루빈의 본격적인 생산 및 고객 출하를 발표하며, AI 칩 시장의 경쟁 심화와 성능 한계 돌파를 이끌고 있습니다.",
+    "corporateAction": "차세대 GPU 도입 계획을 검토하고 장기적인 AI 인프라 전략을 수립해야 합니다. 비용 효율적인 클라우드 AI 인프라 활용을 병행하는 방안도 모색해야 합니다.",
+    "keywords": [
+      "NVIDIA",
+      "Vera Rubin",
+      "AI 하드웨어",
+      "GPU",
+      "데이터센터"
+    ],
+    "_key": "47ae213e644e",
+    "_createdAt": "2026-09-26T10:04:43.821971+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821971+09:00"
+  },
+  {
+    "title": "MS, 구글, Databricks 등 빅테크, 기업용 RAG 및 AI 에이전트 기능 강화",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0V-ZQZfYMOqApmm9dkLVbJ0m1-Sr5-ADbXTj1yfS8FygpybRdq9BcYlnInAXEXeLf1H1v1G_DPb6WS80TID5hBwIXyZZz6voMDYJA85KibOo0NYINeDWnOVyyudlkXYt054WB0uTopnmeu2r-VCiLPM9rZej152QYFzScuDsYoMV2mW0FjZpAw==",
+    "category": "RAG, AI Agent",
+    "ecosystemImpact": "기업 AI 도입 장벽을 완화하고 특정 업무 자동화 솔루션 시장의 성장을 촉진할 것입니다.",
+    "importance": 9,
+    "summary": "마이크로소프트, 구글, Databricks 등이 RAG 및 AI 에이전트 기술을 고도화하며 기업의 지식 검색 및 자동화 업무에 활용을 확대하고 있습니다.",
+    "corporateAction": "RAG 및 AI 에이전트 기반 금융 특화 서비스 개발을 가속화해야 합니다. 데이터 거버넌스 및 보안 프레임워크 구축이 필수적입니다.",
+    "keywords": [
+      "RAG",
+      "AI Agent",
+      "기업 AI",
+      "검색 증강 생성",
+      "자동화"
+    ],
+    "_key": "4820229c8b74",
+    "_createdAt": "2026-09-26T10:04:43.821979+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821979+09:00"
+  },
+  {
+    "title": "국내 금융규제 샌드박스, AI 활용 금융혁신 촉진 위한 제도 개선 추진",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0xKwHFxDzQVm0UwQ6m3_prPuk15fP_s2bRzUsfNSkXpjLPf0e2vL0ji5fPdPSPfhDF82KBba3naWA8ZudRIp0acGMnqIYti3N5rmYd2CNhj25e4mPNDl8dqhqd5yRjD6M6Ho8Q3IEimejyPgOfYsi7gpU-rl8mfI=",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "국내 금융 산업의 AI 기술 도입을 가속화하고 핀테크 스타트업의 성장 환경을 개선할 것입니다.",
+    "importance": 8,
+    "summary": "금융위원회가 AI 기반 혁신 서비스의 제도권 안착을 지원하고 망분리 규제 완화 등 금융규제 샌드박스 개편안을 추진, AI 활용 확대가 기대됩니다.",
+    "corporateAction": "국내 규제 샌드박스를 활용하여 AI 기반 혁신 서비스를 실증하고, 금융망분리 예외 적용 가능성을 검토해야 합니다.",
+    "keywords": [
+      "금융규제 샌드박스",
+      "AI 규제",
+      "금융망분리",
+      "핀테크",
+      "IT 거버넌스"
+    ],
+    "_key": "13715562a72b",
+    "_createdAt": "2026-09-26T10:04:43.821986+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821986+09:00"
+  },
+  {
+    "title": "2026년 기업 AI 보안 시장 급성장, AI 에이전트 대상 위협 증가에 대응",
+    "date": "2026-09-25",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvDz5AINy3i825PjArGTLx8ZpAMutrkpybV7dfTMUGnY5y1R6WtAV0smXJVMmmQ4RgSfhSpmyJY3fi_vdfb5FR0uUuBl1yY0kJnEz3ZUtV84JE4oiKIkR-Eug1jPkY2w0Pp4oeTVxFoGRP-G8RymaVps0hi8Q85ATK7Vu2S4M5ZrZopLG6QBr197mB7NViceioTA==",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 시스템의 안정성과 신뢰성 확보 중요성이 증대되며, 전용 보안 솔루션 시장이 확대될 것입니다.",
+    "importance": 8,
+    "summary": "2026년 기업 AI 시스템의 확산과 함께 프롬프트 인젝션 등 AI 에이전트 대상 공격 증가, 이에 대응하는 통합 AI 보안 플랫폼의 필요성이 부각됩니다.",
+    "corporateAction": "AI 시스템 도입 시 전용 보안 프레임워크 구축, AI 에이전트 보안 가이드라인 마련, 통합 AI 보안 솔루션 도입을 검토해야 합니다.",
+    "keywords": [
+      "AI 보안",
+      "AI 에이전트 보안",
+      "IT 거버넌스",
+      "사이버보안",
+      "프롬프트 인젝션"
+    ],
+    "_key": "c2d2c4676eca",
+    "_createdAt": "2026-09-26T10:04:43.821993+09:00",
+    "_updatedAt": "2026-09-26T10:04:43.821993+09:00"
   }
 ]
