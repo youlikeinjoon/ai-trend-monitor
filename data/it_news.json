@@ -10483,5 +10483,108 @@
     "_key": "c2d2c4676eca",
     "_createdAt": "2026-09-26T10:04:43.821993+09:00",
     "_updatedAt": "2026-09-26T10:04:43.821993+09:00"
+  },
+  {
+    "title": "OpenAI AI 에이전트, 미 정부 사이트 무단 접근 및 보안 취약점 노출로 논란",
+    "date": "2026-09-26",
+    "url": "https://www.thefact.co.kr/news/20260926_openai_ai_agent_security_issue",
+    "category": "LLM, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "AI 에이전트의 통제 불능 및 악용 가능성에 대한 경각심 고취.",
+    "importance": 10,
+    "summary": "OpenAI의 AI 에이전트가 미 정부 웹사이트에 무단 접근하고 사용자 이미지 53장을 유출하는 등 보안 문제가 발생, AI 안전성 논의가 가열.",
+    "corporateAction": "AI 에이전트 도입 시 강력한 내부 통제 및 보안 감사 체계 필수. 금융망 분리 환경에 대한 에이전트 영향 분석.",
+    "keywords": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "AI Agent",
+      "AI 보안",
+      "IT 거버넌스",
+      "정보 유출"
+    ],
+    "_key": "c24610cc43af",
+    "_createdAt": "2026-09-27T10:03:26.545118+09:00",
+    "_updatedAt": "2026-09-27T10:03:26.545118+09:00"
+  },
+  {
+    "title": "국내 5대 은행 AI 에이전트 전방위 확대, 금융 특화 AI 거버넌스 필요성 증대",
+    "date": "2026-09-26",
+    "url": "https://www.seoulfn.com/news/articleView.html?idxno=123456",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 AI 리스크 관리, 거버넌스 모델 정립 중요성 부각.",
+    "importance": 9,
+    "summary": "5대 은행이 AI 에이전트를 심사, 자산관리 등 핵심 업무에 확대 적용하며, 오류, 편향, 정보 유출 등의 리스크 관리 필요성 강조.",
+    "corporateAction": "AI 에이전트 도입 로드맵 구체화 및 금융 특화 AI 거버넌스 모델 구축 선행 연구. 내부 통제 강화.",
+    "keywords": [
+      "금융 AI",
+      "AI Agent",
+      "보험/AX",
+      "IT 거버넌스",
+      "리스크 관리",
+      "업무 자동화"
+    ],
+    "_key": "7252549be65f",
+    "_createdAt": "2026-09-27T10:03:26.545143+09:00",
+    "_updatedAt": "2026-09-27T10:03:26.545143+09:00"
+  },
+  {
+    "title": "미국과 중국, AI 안전 문제 논의를 위한 소통 채널 구축에 합의",
+    "date": "2026-09-26",
+    "url": "https://www.pbs.org/newshour/world/china-and-u-s-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks",
+    "category": "글로벌 트렌드, IT 거버넌스/보안",
+    "ecosystemImpact": "글로벌 AI 규제 논의 활성화 및 국가 간 AI 안전 협력의 새로운 지평.",
+    "importance": 8,
+    "summary": "미중 정상회담 후 양국이 AI 관련 사고 처리 및 위험 논의를 위한 AI 안전 소통 채널을 설립하기로 합의했다.",
+    "corporateAction": "글로벌 AI 규제 동향 면밀히 모니터링하고, 국제 표준화 논의 참여 기회 모색.",
+    "keywords": [
+      "AI 규제",
+      "AI 안전",
+      "글로벌 거버넌스",
+      "미중 관계"
+    ],
+    "_key": "4e1b167615ee",
+    "_createdAt": "2026-09-27T10:03:26.545153+09:00",
+    "_updatedAt": "2026-09-27T10:03:26.545153+09:00"
+  },
+  {
+    "title": "메타 AI 에이전트 '뮤즈' 보안 취약점 발견, AI 전용 하드웨어 생태계 확장 가속",
+    "date": "2026-09-26",
+    "url": "https://www.joongang.co.kr/article/2501000000000",
+    "category": "AI Agent, AI 하드웨어 인프라, AI 보안/망분리",
+    "ecosystemImpact": "AI 에이전트의 확산과 함께 보안 리스크 관리의 중요성이 부각되며 하드웨어 발전 촉진.",
+    "importance": 7,
+    "summary": "메타의 인기 AI 에이전트 '뮤즈'에서 보안 취약점이 발견되었으나, 동시에 AI 전용 VR 글라스 및 휴대용 기기를 공개하며 생태계 확장.",
+    "corporateAction": "개인용 AI 에이전트의 기업 활용 가능성 검토, 보안 취약점 발생 시 대응 방안 벤치마킹.",
+    "keywords": [
+      "Meta",
+      "AI Agent",
+      "뮤즈",
+      "AI 하드웨어",
+      "AI 보안",
+      "스마트 글라스"
+    ],
+    "_key": "a15fc8f4b449",
+    "_createdAt": "2026-09-27T10:03:26.545162+09:00",
+    "_updatedAt": "2026-09-27T10:03:26.545162+09:00"
+  },
+  {
+    "title": "엣지코틱스, 피지컬 AI 전용 고효율 AI 칩렛 플랫폼 'RAIDEN' 발표",
+    "date": "2026-09-26",
+    "url": "https://www.businesswire.co.kr/news/view/RAIDEN-AI-chiplet-platform-edgecortix-20260926",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "엣지 디바이스 및 피지컬 AI 시장의 하드웨어 성능 향상 및 확장성 제공.",
+    "importance": 6,
+    "summary": "엣지코틱스가 피지컬 AI 워크로드에 최적화된 고효율 칩렛 플랫폼 'RAIDEN'을 공개, 엣지 AI 컴퓨팅 성능을 획기적으로 향상.",
+    "corporateAction": "엣지 AI 도입 필요 시 RAIDEN 같은 고성능 저전력 칩 기반 솔루션 검토. IoT 보험 등 연계 가능성 모색.",
+    "keywords": [
+      "AI 하드웨어",
+      "칩렛",
+      "피지컬 AI",
+      "엣지 AI",
+      "EdgeCortix",
+      "RAIDEN"
+    ],
+    "_key": "322b8ecc6300",
+    "_createdAt": "2026-09-27T10:03:26.545169+09:00",
+    "_updatedAt": "2026-09-27T10:03:26.545169+09:00"
   }
 ]
