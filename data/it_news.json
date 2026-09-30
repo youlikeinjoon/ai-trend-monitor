@@ -10832,5 +10832,119 @@
     "_key": "d162ce90eaea",
     "_createdAt": "2026-09-29T11:25:56.458479+09:00",
     "_updatedAt": "2026-09-29T11:25:56.458479+09:00"
+  },
+  {
+    "title": "Trintech, '자율 금융'을 위한 AI 에이전트 3종 출시: 거버넌스 및 감사 추적 기능 강화",
+    "date": "2026-09-28",
+    "url": "https://www.prnewswire.com/news-releases/trintech-launches-three-new-ai-agents-to-advance-governed-autonomous-finance-302307137.html",
+    "category": "AI Agent, IT 거버넌스/보안, 보험/AX",
+    "ecosystemImpact": "금융 백오피스 자동화 가속화 및 AI 에이전트 신뢰성 기준 제시.",
+    "importance": 10,
+    "summary": "Trintech, 재무 마감 프로세스 자동화를 위한 3종 AI 에이전트 공개. 통제, 승인, 감사 추적 기능을 내재화.",
+    "corporateAction": "거버넌스 내재화된 AI 에이전트 솔루션 벤치마킹. 백오피스 자동화 및 내부 통제 강화 연구.",
+    "keywords": [
+      "AI Agent",
+      "자율금융",
+      "IT거버넌스",
+      "재무자동화"
+    ],
+    "_key": "8426dbbe4891",
+    "_createdAt": "2026-09-30T10:45:29.575143+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575143+09:00"
+  },
+  {
+    "title": "OpenAI, 차세대 LLM 'GPT-6.1 Sol' 출시 및 'GPT-6.1 Astra' 안전성 문제로 출시 취소",
+    "date": "2026-09-29",
+    "url": "https://openai.com/blog/gpt-6.1-sol-release-astra-cancellation",
+    "category": "LLM, AI 보안",
+    "ecosystemImpact": "최신 LLM 성능 경쟁 심화, AI 안전 및 윤리적 개발의 중요성 부각.",
+    "importance": 9,
+    "summary": "OpenAI가 새로운 LLM 'GPT-6.1 Sol'을 발표했으나, 'GPT-6.1 Astra'는 안전 기준 미충족으로 출시를 철회했다.",
+    "corporateAction": "차세대 LLM 기술 동향 파악 및 AI 모델 도입 시 안전성/윤리적 검증 프로세스 강화.",
+    "keywords": [
+      "LLM",
+      "OpenAI",
+      "AI안전",
+      "GPT-6"
+    ],
+    "_key": "71b4eafff126",
+    "_createdAt": "2026-09-30T10:45:29.575160+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575160+09:00"
+  },
+  {
+    "title": "OvationCXM 연구: 금융 리더들, AI 에이전트의 금융 거래 실행 단계 진입 확인",
+    "date": "2026-09-29",
+    "url": "https://www.globenewswire.com/news-release/2026/09/29/3004383/0/en/54-of-Finance-Leaders-Using-AI-Agents-Would-Seek-a-Workaround-if-Their-Bank-Can-t-Support-Them.html",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "AI 에이전트가 금융 서비스의 핵심 거래 채널로 부상, 은행의 대응 필요성 증대.",
+    "importance": 9,
+    "summary": "OvationCXM 보고서, 금융 리더 75%가 AI 에이전트를 금융 워크플로우에 사용 중이며 거래 실행까지 기대.",
+    "corporateAction": "AI 에이전트 기반 고객 경험 및 거래 자동화 서비스 개발 가속화. 금융망 연동 보안 강화 검토.",
+    "keywords": [
+      "AI Agent",
+      "금융AI",
+      "거래자동화",
+      "고객경험"
+    ],
+    "_key": "9c898e2bdd4b",
+    "_createdAt": "2026-09-30T10:45:29.575166+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575166+09:00"
+  },
+  {
+    "title": "EY 보고서: 기업 AI 리더들, 거버넌스 프레임워크 신뢰 부족 및 전문성 부족 우려",
+    "date": "2026-09-28",
+    "url": "https://www.cfo.com/ai/2026/09/firms-ai-leaders-lack-confidence-in-governance-frameworks/",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "기업 AI 도입의 주요 장애물로 거버넌스 역량 부족 부각, 책임있는 AI 중요성 증대.",
+    "importance": 8,
+    "summary": "EY 조사 결과, AI 의사결정자의 69%가 거버넌스 정책 보유에도 전문성 및 규제 대응력 부족을 우려.",
+    "corporateAction": "AI 거버넌스 전문 인력 양성 및 내부 규제/정책 업데이트, Agentic AI 리스크 관리 강화.",
+    "keywords": [
+      "AI거버넌스",
+      "AI보안",
+      "규제준수",
+      "리스크관리"
+    ],
+    "_key": "e4ddbbed32d3",
+    "_createdAt": "2026-09-30T10:45:29.575173+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575173+09:00"
+  },
+  {
+    "title": "중국, 엔비디아 AI 칩 구매 재개 움직임…고성능 메모리 수요 확대 전망",
+    "date": "2026-09-29",
+    "url": "https://www.newstomato.com/ReadNews.aspx?no=1202816",
+    "category": "AI 하드웨어 인프라, 엔터프라이즈 AI",
+    "ecosystemImpact": "AI 반도체 공급망 재편 가능성 및 글로벌 AI 인프라 투자 가속화.",
+    "importance": 8,
+    "summary": "중국 정부가 엔비디아 신형 AI 칩 구매를 허용하면서 삼성전자, SK하이닉스 등 고성능 메모리 수요 증가 기대.",
+    "corporateAction": "AI 인프라 투자 계획에 반영, GPU 및 고성능 메모리 수급 동향 주시, 공급망 다변화 검토.",
+    "keywords": [
+      "NVIDIA",
+      "AI하드웨어",
+      "반도체",
+      "데이터센터"
+    ],
+    "_key": "d2c669b67a86",
+    "_createdAt": "2026-09-30T10:45:29.575178+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575178+09:00"
+  },
+  {
+    "title": "IMF, AI 시대 결제 정책 미래 논의: AI 에이전트 위한 효율적이고 안전한 시스템 강조",
+    "date": "2026-09-28",
+    "url": "https://www.imf.org/en/News/Articles/2026/09/28/sp-092826-ai-and-the-future-of-payments-policy",
+    "category": "금융 규제, AI Agent",
+    "ecosystemImpact": "AI 중심 경제에서 결제 시스템의 근본적인 변화와 보안 강화의 필요성 대두.",
+    "importance": 7,
+    "summary": "IMF 고위 관계자, AI 에이전트의 대규모 경제 활동에 대비한 효율적이고 안전한 결제 시스템 구축의 중요성 역설.",
+    "corporateAction": "AI 에이전트 기반 자동 결제 및 금융 거래 시스템 구축 시 보안 및 규제 준수 로드맵 수립.",
+    "keywords": [
+      "금융AI",
+      "AI Agent",
+      "결제시스템",
+      "금융규제"
+    ],
+    "_key": "6075446d05a7",
+    "_createdAt": "2026-09-30T10:45:29.575182+09:00",
+    "_updatedAt": "2026-09-30T10:45:29.575182+09:00"
   }
 ]
