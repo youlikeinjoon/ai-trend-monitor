@@ -10946,5 +10946,127 @@
     "_key": "6075446d05a7",
     "_createdAt": "2026-09-30T10:45:29.575182+09:00",
     "_updatedAt": "2026-09-30T10:45:29.575182+09:00"
+  },
+  {
+    "title": "망분리 빗장 푸는 금융권…보안 초점, '망'넘어 '사람'으로",
+    "date": "2026-09-30",
+    "url": "https://www.zdnet.co.kr/view/?no=20260930180608",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI/클라우드 도입 가속화, 보안 패러다임 변화.",
+    "importance": 10,
+    "summary": "금융위, AI 활용 위한 망분리 규제 완화 대상 75개사로 확대. 보안 초점 '망'에서 '사람'으로 이동 강조.",
+    "corporateAction": "외부 AI 및 클라우드 서비스 활용 기회 확대. AI 보안/거버넌스 전략 재정비 필요.",
+    "keywords": [
+      "금융규제",
+      "망분리",
+      "AI 보안",
+      "IT 거버넌스",
+      "클라우드"
+    ],
+    "_key": "9016ed719ce6",
+    "_createdAt": "2026-10-01T10:42:37.139793+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139793+09:00"
+  },
+  {
+    "title": "일레븐랩스, 기업가치 220억 달러…반년 만에 '몸값 2배'",
+    "date": "2026-10-01",
+    "url": "https://www.zdnet.co.kr/view/?no=20261001103031",
+    "category": "AI Agent",
+    "ecosystemImpact": "음성 AI 에이전트 시장 성장 가속화, 보험 등 산업 적용 확대.",
+    "importance": 9,
+    "summary": "음성 AI 스타트업 일레븐랩스 기업가치 $220억 달러로 급등. AI 에이전트 사업 확장, 보험 갱신 등 실제 업무 투입.",
+    "corporateAction": "음성 AI 에이전트 도입 통한 고객 응대/업무 자동화 모델 벤치마킹. AX 가속화.",
+    "keywords": [
+      "AI Agent",
+      "음성 AI",
+      "스타트업 투자",
+      "AX",
+      "보험 갱신"
+    ],
+    "_key": "436d366046d1",
+    "_createdAt": "2026-10-01T10:42:37.139817+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139817+09:00"
+  },
+  {
+    "title": "전영현 삼성전자 부회장 \"에이전틱 AI, 일하는 방식 근본적으로 바꿀 것\"",
+    "date": "2026-09-30",
+    "url": "https://www.fntimes.com/html/view.php?ud=202609301602055610813872476b_18",
+    "category": "AI Agent",
+    "ecosystemImpact": "에이전틱 AI의 기업 업무 혁신 가능성 제시, AI 거버넌스 중요성 부각.",
+    "importance": 9,
+    "summary": "삼성 AI 포럼 2026에서 에이전틱 AI의 업무 방식 변화 논의. 오픈AI, AWS 등 참여해 보안/거버넌스 전략 강조.",
+    "corporateAction": "에이전틱 AI 기반 업무 프로세스 혁신 및 AI 거버넌스 체계 구축 로드맵 수립.",
+    "keywords": [
+      "에이전틱 AI",
+      "삼성",
+      "엔터프라이즈 AI",
+      "AI 거버넌스",
+      "오픈AI",
+      "AWS"
+    ],
+    "_key": "ff01f3016457",
+    "_createdAt": "2026-10-01T10:42:37.139826+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139826+09:00"
+  },
+  {
+    "title": "트럼프 회동 하루 만에 美당국, 앤트로픽 등 조사…오픈AI는 첫 피소",
+    "date": "2026-10-01",
+    "url": "https://n.news.naver.com/article/008/0005118742",
+    "category": "AI 보안",
+    "ecosystemImpact": "AI 안전 및 통제에 대한 규제 당국의 감시 강화, 기업 책임성 증대.",
+    "importance": 8,
+    "summary": "美 FTC, 오픈AI, 앤트로픽 등 AI 기업의 모델 안전 관리 실태 조사 착수. '통제되지 않는 AI 에이전트' 겨냥.",
+    "corporateAction": "AI 모델 도입 및 운영 시 안전성 검증 절차 강화, 윤리 가이드라인 준수.",
+    "keywords": [
+      "AI 규제",
+      "AI 안전",
+      "FTC",
+      "오픈AI",
+      "앤트로픽",
+      "IT 거버넌스"
+    ],
+    "_key": "e82e881445ff",
+    "_createdAt": "2026-10-01T10:42:37.139832+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139832+09:00"
+  },
+  {
+    "title": "LG U+, AI로 고객센터 대기 47초→5초…\"제로 웨이트까지 간다\" (종합)",
+    "date": "2026-09-30",
+    "url": "https://news.mt.co.kr/mtview.php?no=2026093010530752497",
+    "category": "엔터프라이즈 AI",
+    "ecosystemImpact": "AICC 시장 성장 및 기업 AX 가속화, 고객 경험 혁신 사례 제시.",
+    "importance": 8,
+    "summary": "LG U+, AI로 고객센터 상담 대기시간 47초에서 5초로 90% 단축. 2030년 '대기 없는 AICC' 목표.",
+    "corporateAction": "고객 서비스 AI 전환(AX) 전략 수립 시 AICC 성공 사례 벤치마킹 및 도입 검토.",
+    "keywords": [
+      "AICC",
+      "고객 경험",
+      "AI Agent",
+      "AX",
+      "LG유플러스"
+    ],
+    "_key": "ff17b7128618",
+    "_createdAt": "2026-10-01T10:42:37.139840+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139840+09:00"
+  },
+  {
+    "title": "'현금 부자' 美 5대 빅테크도 빚투… 내년 1600조원 투자",
+    "date": "2026-09-30",
+    "url": "https://biz.chosun.com/policy/policy_sub/2026/09/30/B4W5P4D2XFCRXJJV6B3S4Y6K7M/",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "글로벌 AI 인프라 경쟁 심화, 장기적 AI 서비스 비용 및 공급망 영향.",
+    "importance": 7,
+    "summary": "美 5대 빅테크, 내년 AI 인프라에 1.2조 달러 투자 전망. 현금 외 부채 활용, 치열한 AI 경쟁.",
+    "corporateAction": "AI 인프라 투자 동향 주시, AI 도입 전략 수립 시 인프라 비용/공급망 고려.",
+    "keywords": [
+      "AI 인프라",
+      "빅테크 투자",
+      "AI 하드웨어",
+      "데이터센터",
+      "GPU"
+    ],
+    "_key": "21cc5ca8755f",
+    "_createdAt": "2026-10-01T10:42:37.139845+09:00",
+    "_updatedAt": "2026-10-01T10:42:37.139845+09:00"
   }
 ]
