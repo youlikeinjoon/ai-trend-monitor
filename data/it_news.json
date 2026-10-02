@@ -11068,5 +11068,105 @@
     "_key": "21cc5ca8755f",
     "_createdAt": "2026-10-01T10:42:37.139845+09:00",
     "_updatedAt": "2026-10-01T10:42:37.139845+09:00"
+  },
+  {
+    "title": "금융기관, 위험·규제 대응 기술 예산 약 30% AI에...실제 업무 적용·투자 성과 확인",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5KS-muQ8S1SQfMUCy5cgjWQVt2f-o-lj3FF_ZIBwfDkbr3EyI9W0-ZAZ4CGoAfb9PjOyUA8S0O8aqszfCYYZm3Bb3mWBocJ0Bv0tGBz1yI4uKZMJg01a1o76vkPB3N92fIw0enKE-H2H9mTDIJj6MRN1unw==",
+    "category": "보험/AX, IT 거버넌스/보안",
+    "ecosystemImpact": "금융 AI가 실험 단계를 넘어 실제 운영 및 성과 창출에 집중.",
+    "importance": 10,
+    "summary": "금융기관이 위험 관리 및 규제 준수 분야에 AI 예산의 약 30%를 배정하며, 실제 업무 적용 및 투자 성과를 중시하고 있다.",
+    "corporateAction": "AI 도입 시 운영 성과 및 ROI를 최우선 고려, 위험 관리 및 규제 준수 AI 적용 확대.",
+    "keywords": [
+      "금융AI",
+      "위험관리",
+      "규제준수",
+      "투자성과",
+      "AX"
+    ],
+    "_key": "957a5ea5fe98",
+    "_createdAt": "2026-10-02T10:53:56.248308+09:00",
+    "_updatedAt": "2026-10-02T10:53:56.248308+09:00"
+  },
+  {
+    "title": "금융권 AI 혁신의 선결 조건, 보안 역량 재정립 방법은",
+    "date": "2026-10-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPFWMo8kVOO6esxdNCNOqVwBnduNWadlTCItiplLdp10NF0wu4BWPiUhwPof4bkp-qoTBKdBrIpbYXfPTFzK2vclTsLiUJwXxXIb30KsmDZonhNfgCR4Dueyey2FX-Gqo=",
+    "category": "IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "금융 망분리 규제 완화로 AI/SaaS 활용 확대, 제로 트러스트 기반 보안 강화.",
+    "importance": 9,
+    "summary": "마이크로소프트는 금융권 AI 시대의 망분리 이후 보안 전략으로 에이전틱 시큐리티와 제로 트러스트 기반 강화를 강조했다.",
+    "corporateAction": "AI 활용 위한 망분리 완화 정책 활용, 제로 트러스트 기반 보안 체계 및 AI 거버넌스 구축.",
+    "keywords": [
+      "금융망분리",
+      "AI보안",
+      "IT거버넌스",
+      "제로트러스트",
+      "에이전틱AI"
+    ],
+    "_key": "05feb18cee77",
+    "_createdAt": "2026-10-02T10:53:56.248328+09:00",
+    "_updatedAt": "2026-10-02T10:53:56.248328+09:00"
+  },
+  {
+    "title": "금융권의 AI 추격, 어떻게 격차를 좁힐 것인가",
+    "date": "2026-10-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs_umLzsyByqwNvGl5PrxNgGbjY65fi8BTXHoOFXDj4lO-rWAwvb04hcvVy_9R6X-F-x1pQf3gPi-UvUPupCVAkH7ixm6aUxbTuzv37JhJg6AGcPMe4sd5n5AF3Wovo5c=",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "국내 금융권 AI 도입 확산, 단순 RAG 넘어 AI 에이전트 기반 가치 창출 모색.",
+    "importance": 9,
+    "summary": "국내 금융권이 AI 도입률은 높으나 핵심 업무 적용은 미미하여, 인텔리전스와 트러스트 영역 내재화 및 AI 에이전트 활용을 통한 격차 해소 필요.",
+    "corporateAction": "AI 에이전트 도입을 통한 핵심 금융 업무 혁신, 내부 역량 강화 및 파트너십 활용.",
+    "keywords": [
+      "금융AI",
+      "AI에이전트",
+      "디지털전환",
+      "AX",
+      "RAG"
+    ],
+    "_key": "2d2cabe19e3c",
+    "_createdAt": "2026-10-02T10:53:56.248337+09:00",
+    "_updatedAt": "2026-10-02T10:53:56.248337+09:00"
+  },
+  {
+    "title": "마이디어, 데이터 센터 월드 아시아 2026에서 고밀도 AI 데이터 센터 위한 혁신 냉각 기술 공개",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0AJT2DIzUh8WAtrIdlR7S-LH-5uH1WpYSwYhwQxyFBp_85aDlcajaRQnDPeKp--N-xy5HzeH0x7sNVN12gaDT_nJa8W4Z9RQ2-nzn0Su_TBFs7gm5bM-Rm2meJwgJrtrWqVB_Zr90pDtSZ-92m0rWIWN15FKl8dXtJz-1IF4pUtqo2XXRcDmNg2zxfBLEDNoFwQLSeMuOls7c7GWDfHwI543Gv77ZVaaw1E-jwVeFc0evVe82A40CTe8wgmoz389t2cDl7wyBz1qPr16X-Rtw7y5dhlxpek_CadEboJN4qTYu0iK0yE1d_5Dz9miuRGY3Lh8qo5qVwo6BWNEjmdcf2Yg==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "고밀도 AI 데이터센터의 전력 및 냉각 문제 해결 위한 혁신 기술 제안.",
+    "importance": 8,
+    "summary": "마이디어가 '데이터 센터 월드 아시아 2026'에서 고밀도 AI 데이터 센터를 위한 전력-냉각 하이퍼컨버지드 아키텍처와 풀스택 냉각 솔루션을 공개했다.",
+    "corporateAction": "AI 인프라 확장에 대비, 고밀도 컴퓨팅 환경에 적합한 차세대 냉각 및 전력 솔루션 도입 검토.",
+    "keywords": [
+      "AI인프라",
+      "데이터센터",
+      "냉각기술",
+      "GPU",
+      "블랙웰"
+    ],
+    "_key": "d16fe31c0c57",
+    "_createdAt": "2026-10-02T10:53:56.248345+09:00",
+    "_updatedAt": "2026-10-02T10:53:56.248345+09:00"
+  },
+  {
+    "title": "API 없이 AI도 없다…콩·사피엔스 'AI 게이트웨이 통합 관리·운영 체계 만들어야'",
+    "date": "2026-10-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYm1SQkCwg6Pmoi-yYPH0zFFVsb6cfA5h_8t0m3LDcUnEb-lRj8aQcSAo2F3SQ0D4hw5IvlGVdxr9sOQpO--QoWmhSIGWBsWidw8DKq-mIryJW7d3l9xgQEUQPI-EqQV987zb1O8w3Q0PiGlO0T1yO",
+    "category": "IT 거버넌스/보안, AI Agent",
+    "ecosystemImpact": "AI 시대의 API 게이트웨이 통합 관리 중요성 부각, 비용 및 보안 리스크 관리.",
+    "importance": 8,
+    "summary": "콩과 사피엔스가 '콩 커넥트 코리아 2026'에서 AI 시대의 엔터프라이즈 보안 및 AI 게이트웨이 거버넌스 중요성을 강조했다.",
+    "corporateAction": "AI 도입 시 API 게이트웨이 통합 관리 전략 수립, AI 토큰 비용 및 보안 리스크 제어.",
+    "keywords": [
+      "AI거버넌스",
+      "API게이트웨이",
+      "AI보안",
+      "토크노믹스",
+      "엔터프라이즈AI"
+    ],
+    "_key": "0f5c46c67e99",
+    "_createdAt": "2026-10-02T10:53:56.248353+09:00",
+    "_updatedAt": "2026-10-02T10:53:56.248353+09:00"
   }
 ]
