@@ -11168,5 +11168,125 @@
     "_key": "0f5c46c67e99",
     "_createdAt": "2026-10-02T10:53:56.248353+09:00",
     "_updatedAt": "2026-10-02T10:53:56.248353+09:00"
+  },
+  {
+    "title": "구글, 100만 토큰 출력 윈도우 지원 'Gemini 4 Argon' 공개",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW0pykxDVawPRXKt6Uj2n6IpR7pL_B0JMPcwWxu9jHOeO4yn3TtHar0YU8EgAEvQvrQiSiJyUlu5HB-oSP6d0eE87-6vP3U6vZCEYhjYrANp7vLP8Tad2c1i9zQPD5BESu2FAEudV25TzCpu0Mof7pjcrWe9GlPYh_wQ==",
+    "category": "LLM",
+    "ecosystemImpact": "LLM 성능 및 장문 처리 능력 향상으로 AI 애플리케이션 혁신 가속.",
+    "importance": 10,
+    "summary": "구글이 100만 토큰 출력 윈도우를 지원하는 새로운 플래그십 모델 Gemini 4 Argon을 출시했다. 사이버 방어 및 복잡한 지식 작업에 특화되어 있으며, 기존 모델 대비 긴 컨텍스트 윈도우를 제공한다.",
+    "corporateAction": "장문 처리 및 복잡한 시나리오 분석에 Gemini 4 Argon 도입 검토, AI Agent 활용성 증대.",
+    "keywords": [
+      "LLM",
+      "Gemini",
+      "Google",
+      "AI Agent",
+      "장문처리"
+    ],
+    "_key": "e9ec18de3990",
+    "_createdAt": "2026-10-03T10:34:59.781437+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781437+09:00"
+  },
+  {
+    "title": "국내 주요 은행, AI 에이전트 활용 해킹 공격 피해 발생…보안 비상",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh8Y8JCU9UhQdMelbB0Lc3aSLOS59vKjc2orJz9psQMQG-punLiB6Y6BFU1qyY-cZIbOYsS2RdXX2Anvsm59Dugl97uVa6LIiz7tkPEFQ1QU0217W4Yj49tZLPzOcefqRavwE-mRps0SFuu5JYAx4xW5scdtMM2ExtxsgG2EQ==",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "금융권 AI 보안 위협 현실화, 자율형 AI 에이전트 악용 공격에 대한 경각심 고조.",
+    "importance": 9,
+    "summary": "KB국민, 신한, 하나, BNK부산은행 등 국내 주요 은행들이 AI 에이전트를 활용한 해킹 공격으로 고객 정보 유출 피해를 입었다. 이는 AI를 이용한 시스템 취약점 발견 및 공격 경로 탐색의 현실화를 보여준다.",
+    "corporateAction": "AI 에이전트 기반 보안 시스템 강화, 금융망분리 환경에서의 AI 보안 취약점 점검 및 대응책 마련 시급.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "AI Agent",
+      "해킹",
+      "금융규제"
+    ],
+    "_key": "ee7df95cca7f",
+    "_createdAt": "2026-10-03T10:34:59.781460+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781460+09:00"
+  },
+  {
+    "title": "NVIDIA, 온디바이스 AI 위한 'DGX Spark 64GB' 출시",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB0LrOfFBBtvB_R_8v47OHvufjbr0Tuii5r8V2PoroS-QnOmbVHw9d_AV4dZ3LKqaPftMl3lVnimoweLjNqo6Bv5He1DvqU3Mct_wGRlrrr8YAH3K_I9OVCsYOK0zXv1FbD-aDUGiB13mMNJsaB8AkdNsuSvhb",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "로컬 AI 개발 및 확산 가속화, 온디바이스 AI 시장 성장에 기여.",
+    "importance": 8,
+    "summary": "NVIDIA가 온디바이스 AI 개발을 위한 DGX Spark 64GB 모델을 4,999달러에 출시했다. 이 시스템은 클라우드 종속 없이 로컬에서 AI 에이전트 실행을 지원하며, 10월 23일부터 주요 제조사를 통해 판매될 예정이다.",
+    "corporateAction": "온디바이스 AI 활용을 위한 인프라 투자 및 PoC 검토, 데이터 프라이버시 강화에 활용.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "온디바이스 AI",
+      "DGX Spark",
+      "AI Agent"
+    ],
+    "_key": "44bf18fc5bbd",
+    "_createdAt": "2026-10-03T10:34:59.781469+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781469+09:00"
+  },
+  {
+    "title": "Liberate, AI 에이전트 활용 보험 청구 처리 자동화로 1억 분 절감",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAXg8onSDKLo44nUM_WFZPT_v90gE-ADDQC5RqhmJUe8yJfyxu957xswvI423QCVXMcLDbyvHHh6WltmHOjNWifNugi8TTTFpdweDOGn6OgNwHK5az3tPdYjcyn46YVllS5aL0oaJZWnbQwx8Fy_vmmvcPTuVrxpOnaeRgwnPKtLlrKjCs85SssufI2hB1atR4qw2Boe8bqhI=",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업의 AI 도입 가속화 및 운영 효율성 극대화, 고객 경험 개선.",
+    "importance": 8,
+    "summary": "보험사 AI 에이전트 공급업체 Liberate가 보험 청구 처리 자동화를 통해 1억 분 이상의 시간을 절감했다고 발표했다. 이를 통해 24/7 고객 서비스 및 재해 시 대규모 청구 처리 능력을 입증했다.",
+    "corporateAction": "AI 에이전트 기반 청구, 언더라이팅 자동화 솔루션 도입 검토, 운영 비용 절감 및 고객 만족도 향상.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "AI Agent",
+      "청구자동화",
+      "운영효율"
+    ],
+    "_key": "eb92eec75dde",
+    "_createdAt": "2026-10-03T10:34:59.781482+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781482+09:00"
+  },
+  {
+    "title": "AWS, AI 에이전트 기반 클라우드 환경 감사 서비스 공개",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMNHDat-kBZGa7ujD5xsZ9gRVoi6SeAnK0ekFgFGZGIciAXOPlqbwYxl0uUnso69myW7cpR0R3qLua4KzycMH-tOXiYvh61NINK_rqf0mqUC40wiobMrmntdCsFH_NvSsog4TBkBDDEBuimFlFVEV4EVbkHn7qYLhzPFiRk6FxhNeVgh15bomaHUgIYt95BDNM0I5bqF2ymoROX2hKLQjFGMjN0FuQi23WgUlghHne",
+    "category": "클라우드/IT 거버넌스",
+    "ecosystemImpact": "클라우드 환경의 AI 기반 최적화 및 보안 강화, 엔터프라이즈 AI 도입 촉진.",
+    "importance": 7,
+    "summary": "AWS가 AI 에이전트 기반의 'AWS Well-Architected Agent'를 공개했다. 이 서비스는 고객의 클라우드 환경을 분석하여 비용, 보안, 성능 및 복원력 개선 방안을 추천한다.",
+    "corporateAction": "클라우드 인프라 운영 최적화를 위해 AWS AI 에이전트 도입 검토, AI 기반 IT 거버넌스 강화.",
+    "keywords": [
+      "AWS",
+      "AI Agent",
+      "클라우드",
+      "IT 거버넌스",
+      "AI 보안"
+    ],
+    "_key": "3774096845b3",
+    "_createdAt": "2026-10-03T10:34:59.781489+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781489+09:00"
+  },
+  {
+    "title": "GSA, LLM 계약자 데이터 보호 규정 강화, AI 보안 및 거버넌스 중요성 부각",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgZlPXdPN0v8i5Xp6OSJPNKi51RTGllUCa7yFH71xmiQ_rXHfF8kKuFJVqWNRT3PBCbcbMHZ7BcE8AAOgY6Lxl7aFEZHWkJ1zG1kZoCFKFnyH2D3lz844nrOOhMRxGQ6M8BnxzMhRSd8Or2c3GeJR_U1KoRxJMYbnSnDJSmkZtdcnd0PQw3K28",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "정부 및 공공 부문 AI 도입의 보안 및 윤리적 기준 강화, 산업 전반에 영향.",
+    "importance": 7,
+    "summary": "미국 조달청(GSA)이 LLM 계약자에게 정부 데이터 보호를 위한 강화된 규정을 발표했다. 이는 AI 시스템의 데이터 처리 및 보안에 대한 엄격한 기준을 제시하며, AI 거버넌스의 중요성을 강조한다.",
+    "corporateAction": "LLM 도입 시 데이터 보호 및 보안 정책 강화, AI 모델 학습 데이터 활용 규정 준수 및 내부 가이드라인 수립.",
+    "keywords": [
+      "AI 거버넌스",
+      "AI 보안",
+      "LLM",
+      "데이터 보호",
+      "금융규제"
+    ],
+    "_key": "252a6f8e39a3",
+    "_createdAt": "2026-10-03T10:34:59.781497+09:00",
+    "_updatedAt": "2026-10-03T10:34:59.781497+09:00"
   }
 ]
