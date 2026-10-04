@@ -11288,5 +11288,141 @@
     "_key": "252a6f8e39a3",
     "_createdAt": "2026-10-03T10:34:59.781497+09:00",
     "_updatedAt": "2026-10-03T10:34:59.781497+09:00"
+  },
+  {
+    "title": "국내 금융권, AI 기반 해킹으로 대규모 개인정보 유출 사태 발생",
+    "date": "2026-10-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvc-8Ia89vz3xQMi_-NGY-nX6U553dvaaq5J7QrzrJx6C7eBNmSXJ_XGb_WdQ83Rgjqzmd2zM3bgVlHNzafKlkLpomkVcPSp-9B-TpQzoEw5ShjiKoeMedqe1yv5M=",
+    "category": "AI 보안/IT 거버넌스",
+    "ecosystemImpact": "금융 AI 보안 투자 및 거버넌스 전면 재검토의 계기 마련.",
+    "importance": 10,
+    "summary": "신한, 국민, 하나은행 등 국내 주요 금융기관들이 AI 기반 자동화 해킹 공격을 받아 대규모 고객 정보가 유출되었다. 중국어 기반 AI 침투 도구가 활용된 정황이 포착되며 AI 에이전트 해킹의 첫 사례 가능성이 제기되었다.",
+    "corporateAction": "AI 기반 위협 탐지 및 대응 시스템 도입 가속화, AI 보안 거버넌스 재편 시급.",
+    "keywords": [
+      "AI 해킹",
+      "금융보안",
+      "IT 거버넌스",
+      "개인정보유출",
+      "AI Agent"
+    ],
+    "_key": "36db2bca0d71",
+    "_createdAt": "2026-10-04T11:16:01.096324+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096324+09:00"
+  },
+  {
+    "title": "백악관, AI 위험 및 기회 검토 위한 '슈퍼 인텔리전스 태스크포스' 구성",
+    "date": "2026-10-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHduV_W4BOmVbfrcmiIiiS4P9vPS_XCPSJVKSYfoQ7dTyV037hAw5eMfKh2p-x7QTFVjDENJEfMfQsYG_sQ2Lx0nBxyiNp_UXpZ80WMtc8oM0MQp_cx3zuNfoBOVqKptv1tKXKi3ZBNPauEk0mU_269YDpb3D0=",
+    "category": "IT 거버넌스/금융 규제",
+    "ecosystemImpact": "글로벌 AI 정책 및 규제 프레임워크 구축에 중요한 기준점 제시 예상.",
+    "importance": 9,
+    "summary": "백악관이 AI 기술의 위험과 기회를 검토하고 연방 정부의 역할을 정의할 '슈퍼 인텔리전스 태스크포스'를 구성했다. 금융 분야 리스크 프레임워크를 참고하여 정부와 업계 간 협력을 통해 메커니즘을 개발할 계획이다.",
+    "corporateAction": "글로벌 AI 규제 동향 면밀히 주시하고, 선제적 AI 윤리 및 거버넌스 전략 수립.",
+    "keywords": [
+      "AI 규제",
+      "AI 거버넌스",
+      "정책",
+      "금융규제"
+    ],
+    "_key": "62370a0ee8b9",
+    "_createdAt": "2026-10-04T11:16:01.096349+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096349+09:00"
+  },
+  {
+    "title": "소비자 AI 에이전트, 금융 서비스 시장에 파괴적 영향 예고",
+    "date": "2026-10-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLLOItY-2H2VZfgfnsPMTgSw0z_LLnMyF-pznCUH00DbL-cE4WRslD7lh9WUy_ifXk9Q0Lr7NeoDepJxfFqNQdw2Q3SjFL6NxFJjMS2A3B5p_P-eYELJqdn3EjbRcxjQqejo41TyyKTwZmb8qIg87N3Jxfccg=",
+    "category": "AI Agent",
+    "ecosystemImpact": "금융 소비자의 의사결정 방식 변화 및 기존 금융 상품 모델 재편 가속화.",
+    "importance": 8,
+    "summary": "메타의 뮤즈(Muse)와 오픈AI의 닷츠(DOTS)와 같은 소비자 AI 에이전트가 금융 서비스의 마찰 요인에 도전하며 보험 비교, 예금 이동 등을 자동화할 수 있다. 이는 고객 충성도를 약화시키고 금융 수익에 압력을 가할 수 있다는 분석이다.",
+    "corporateAction": "AI 에이전트 기반 개인화된 금융 상품 및 서비스 개발을 통해 경쟁 우위 확보.",
+    "keywords": [
+      "AI Agent",
+      "금융 서비스",
+      "소비자 AI",
+      "경쟁 구도"
+    ],
+    "_key": "e063f1a8beed",
+    "_createdAt": "2026-10-04T11:16:01.096362+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096362+09:00"
+  },
+  {
+    "title": "DB손해보험, 자동차보험에 AI 적용 확대…사고 과실부터 ADAS 판독까지",
+    "date": "2026-10-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw7OoueuQGjgqs_nBljxnGP8s13TuGY_xZPrmsUKDtpjAfRCWkhaKhokMyDh3KDuGryhI9vRoT7Vf96CHKPRVY2MCQ_mg1eH7D2b6wGHmqzOPybgnGqbulFxz9qaJbb5-Uy0ffhpDDLJr8v7gHvIO5eQvN5w==",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험업무 자동화 및 효율성 증대를 통한 손해율 개선 및 고객 경험 향상 기여.",
+    "importance": 7,
+    "summary": "DB손해보험이 블랙박스 영상 활용 AI 과실 판정 시스템과 생성형 AI 기반 ADAS 이미지 자동 판독 서비스를 도입하여 자동차보험 업무에 AI 적용을 확대했다. 이는 담당자의 판단이 필요했던 영역까지 AI 활용을 넓힌 사례이다.",
+    "corporateAction": "언더라이팅, 보상 등 핵심 보험 업무에 AI 도입을 검토하고 자동화 범위 확장.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "언더라이팅",
+      "손해율",
+      "자동차보험"
+    ],
+    "_key": "8fbb1cf888ac",
+    "_createdAt": "2026-10-04T11:16:01.096370+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096370+09:00"
+  },
+  {
+    "title": "엔비디아 5천억 달러 AI 금융 계획, 월스트리트의 현실 점검 직면",
+    "date": "2026-10-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_m_AMyL70qatLzKbrBWIMazOzJ45MOlw4ySkqJIXkOIO-x7cHs0L3ljTKXV-EnVgS2LC8KSl86LHdYX2LAEVU5O43PQXX-er2CqF_SVn7onqI2qomYm3CexBGuiC2zSolbzVqciW4KS8Pqs3Abk5iIJaR",
+    "category": "AI 하드웨어/인프라",
+    "ecosystemImpact": "AI 하드웨어 시장의 자금 조달 방식 및 리스크 평가에 새로운 기준을 제시.",
+    "importance": 7,
+    "summary": "엔비디아의 5천억 달러 규모 AI 금융 계획에 대해 은행과 투자자들이 칩 기반 대출의 담보 가치와 수익 창출 기간에 의문을 제기하며 더 강력한 보증을 요구하고 있다.",
+    "corporateAction": "AI 인프라 투자 시 장기적인 가치 평가와 유연한 자금 조달 전략을 고려해야 함.",
+    "keywords": [
+      "NVIDIA",
+      "AI 하드웨어",
+      "AI 인프라",
+      "자금 조달"
+    ],
+    "_key": "1b74e9f6b617",
+    "_createdAt": "2026-10-04T11:16:01.096378+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096378+09:00"
+  },
+  {
+    "title": "한국 금융권 망분리 규제 완화, AI 도입 가속화 기대",
+    "date": "2026-10-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuxFiDSTmZORZrGFSbzQvWZuicErNygiBRNwWoz6qfj07PeQDmgRp-XXr3V-YU9cWZeu2PYU-RcpM9FpgxgzRgV5PwYFb2TGBg32rhplI1gokByD0RhexAoeRvejkgXTBq",
+    "category": "IT 거버넌스/금융 규제",
+    "ecosystemImpact": "금융사의 AI 기술 도입 장벽 낮춰 혁신 서비스 개발 및 경쟁력 강화에 기여.",
+    "importance": 6,
+    "summary": "정부가 금융권의 망분리 규제 완화에 속도를 내면서 내부 업무망에서의 SaaS 및 AI 활용이 상시화되고 있다. 이는 보안 목적에 한해 AI 망분리 긴급 완화 정책이 발표된 데 따른 것으로, AI 활용 및 디지털 경쟁력 강화에 중요한 의미가 있다.",
+    "corporateAction": "완화된 규제 환경을 적극 활용하여 AI 기반의 혁신 시스템 도입을 추진하고 검토.",
+    "keywords": [
+      "금융규제",
+      "망분리",
+      "SaaS",
+      "AI 도입",
+      "IT 거버넌스"
+    ],
+    "_key": "e2122e2965c5",
+    "_createdAt": "2026-10-04T11:16:01.096384+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096384+09:00"
+  },
+  {
+    "title": "코리안리, 국내 최초 '요율산정 AI' 도입…재보험 분야 AI 혁신 선도",
+    "date": "2026-03-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQd5RnkxowmRZt5YWiANqExp_0xQP4_yzNUHTQE-NFK70FlNxOFznKE6mq3ihKWH255HRBFylP9gyQvee-7J0dz4CJgtYqW9lyd5RGKD-KjpB_J44uJG1mwG0xLgA9NSU=",
+    "category": "재보험/AX",
+    "ecosystemImpact": "재보험 분야의 복잡한 요율 산정 프로세스에 AI를 적용하여 효율성과 정확성 향상.",
+    "importance": 6,
+    "summary": "국내 최대 재보험사 코리안리가 국내 최초로 기업성 보험 요율 산정 AI 어시스턴트 서비스를 도입한다. 이는 혁신금융서비스로 지정되어 AI가 언더라이터 업무 전반을 보조하게 된다.",
+    "corporateAction": "재보험 요율 산정 자동화를 벤치마킹하여 당사 언더라이팅 프로세스 혁신 방안 모색.",
+    "keywords": [
+      "재보험",
+      "AI 언더라이팅",
+      "요율산정",
+      "혁신금융서비스"
+    ],
+    "_key": "84ed9af7091d",
+    "_createdAt": "2026-10-04T11:16:01.096390+09:00",
+    "_updatedAt": "2026-10-04T11:16:01.096390+09:00"
   }
 ]
