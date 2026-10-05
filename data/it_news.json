@@ -11424,5 +11424,145 @@
     "_key": "84ed9af7091d",
     "_createdAt": "2026-10-04T11:16:01.096390+09:00",
     "_updatedAt": "2026-10-04T11:16:01.096390+09:00"
+  },
+  {
+    "title": "금융당국, AI 활용 금융 서비스에 대한 IT 거버넌스 및 보안 강화 가이드라인 발표",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNLUrwZUd2Zt5xQe0Lu8hO6yZ-hbmAt4qRf7qwP2Fvb-izuB-w4sxsyR5mCZmwdwxC6nLl2WPQkaZD-okIfvD4b-PpwxGQrQ0Q5pMBygbA94yE6HwQ3U3phnh3xAn1Atac2ol1PiaYlJRNz_9KdO7iHytNiQ==",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융 AI 서비스의 신뢰성 및 안정성 제고, 준법 감시 비용 증가 예상.",
+    "importance": 10,
+    "summary": "금융당국이 AI 모델의 데이터 보안, 설명 가능성, 책임성 확보를 위한 세부 지침을 발표하며 금융권 AI 활용에 대한 규제 명확화를 시도.",
+    "corporateAction": "당사 AI 개발 및 운영 프로세스에 해당 가이드라인을 선제적으로 반영하여 리스크 관리 강화 및 준법 시스템 고도화 추진.",
+    "keywords": [
+      "IT 거버넌스",
+      "AI 보안",
+      "금융 규제",
+      "설명가능AI",
+      "망분리"
+    ],
+    "_key": "cb73821f0161",
+    "_createdAt": "2026-10-05T10:25:18.929632+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929632+09:00"
+  },
+  {
+    "title": "국내 주요 보험사, AI 기반 언더라이팅 시스템 고도화로 보험료 산정 정교화",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmXSVgGdE4k4HLWl2C_6YbD4QBkBI--Bth689hwpWai6dv5Q7mxsaHspq5-hl98iYCAMnJR0OOuoLTHLOfZCB4a8PEdzP7x_q9Lq6zLYzJDNUPvkXxpy2ho_FE1340vTclUStcCw-N3PCLmNVhMjwbXr-VRQ==",
+    "category": "보험/AX, LLM, RAG",
+    "ecosystemImpact": "보험 산업의 효율성 및 고객 맞춤형 서비스 강화, 경쟁 심화.",
+    "importance": 10,
+    "summary": "국내 선두 보험사가 최신 LLM과 RAG 기술을 결합한 언더라이팅 시스템을 도입하여 위험 평가 및 보험료 산정의 정확도를 향상.",
+    "corporateAction": "당사 언더라이팅 시스템에 최신 RAG 기반 LLM 기술 적용 방안 심층 검토 및 PoC(개념 증명) 계획 수립.",
+    "keywords": [
+      "보험",
+      "언더라이팅",
+      "RAG",
+      "LLM",
+      "금융AI"
+    ],
+    "_key": "bb6e4adb2a71",
+    "_createdAt": "2026-10-05T10:25:18.929653+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929653+09:00"
+  },
+  {
+    "title": "글로벌 빅테크, 차세대 엔터프라이즈 AI 에이전트 플랫폼 출시로 비즈니스 자동화 혁신 예고",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELG-CBZ1y4Kc30EHmsMwx0G9idnNts8cvNtcw5DZs5wLeL6PwinaTBbSOfir3CKFrhDTZ-G2nMR6snH6Mm6f2B6sNq6redKeSJVFGkbirF8gTgWPMLZ245TMB6WEGStatfkUJFYji-fwIo1jyIQg==",
+    "category": "AI Agent, LLM",
+    "ecosystemImpact": "기업 생산성 극대화 및 AI 에이전트 시장 경쟁 심화.",
+    "importance": 9,
+    "summary": "거대 기술 기업이 기업 환경에 최적화된 고급 AI 에이전트 플랫폼을 발표하며, 복합 업무 자동화 및 의사 결정 지원 기능 강화를 목표로 함.",
+    "corporateAction": "당사 내부 업무 프로세스 자동화 및 고객 서비스 효율화를 위한 AI 에이전트 도입 가능성 검토 및 파일럿 프로젝트 추진.",
+    "keywords": [
+      "AI Agent",
+      "Enterprise AI",
+      "자동화",
+      "생산성",
+      "빅테크"
+    ],
+    "_key": "942a740bf3cb",
+    "_createdAt": "2026-10-05T10:25:18.929663+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929663+09:00"
+  },
+  {
+    "title": "국내 스타트업, 금융 특화 소형 LLM 개발 성공... 망분리 환경 최적화로 보안성 강화",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9hQRGn8oZryu-CzoB4jgjoTXCOeYy4a4JmD7wj3CaI9ad4yYK8BsyBucAGKW7Ms2ImOzr5kHlhHj-nBHY465DWDLlItzA5s_x0AwAxc1i18uRiPXhY0SDh7Seu-cbVUjmJeKu4xiWpOp0sxwCwz6PQA==",
+    "category": "LLM, AI 보안/망분리, 스타트업",
+    "ecosystemImpact": "국내 금융 AI 솔루션 시장의 다양성 증가 및 보안 규제 준수 용이성 증대.",
+    "importance": 9,
+    "summary": "한 국내 스타트업이 금융 데이터를 학습한 소형 LLM을 개발, 특히 망분리 환경에서의 적용을 염두에 둔 보안 기능으로 주목받음.",
+    "corporateAction": "당사 내부 망분리 환경 내 AI 도입 시, 해당 기술을 활용한 솔루션 도입 검토 및 협업 기회 모색.",
+    "keywords": [
+      "소형LLM",
+      "망분리",
+      "금융AI",
+      "스타트업",
+      "AI보안"
+    ],
+    "_key": "5c841b726a7d",
+    "_createdAt": "2026-10-05T10:25:18.929671+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929671+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 AI 가속기 'DGX Spark 64GB' 출시, 개인 및 소규모 팀 AI 개발 가속화",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHL4iI7jkbG2jhHYAAGfuRAMeqXDOvuNhySSlQojF1cnDLC6G5xdLAt6TCh4DrgWkBlanvpBl2ch-jQaUlaGidcP9ny7bMatQsvwUrf39GazJd9o4WnTAXPdtooM5zcYy4-d4oqeXH9wIZM1Paf-9WVLRhXBw==",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "고성능 AI 모델 학습 및 추론 접근성 향상, 개발 환경 구축 비용 효율화.",
+    "importance": 8,
+    "summary": "엔비디아가 개인 및 소규모 팀을 위한 64GB DGX Spark AI 가속기를 출시하며, 로컬 환경에서 AI 에이전트 및 모델 개발을 지원.",
+    "corporateAction": "당사 AI 개발 부서의 효율성 증대를 위해 해당 하드웨어 도입 검토 및 AI 인프라 확충 계획에 반영.",
+    "keywords": [
+      "NVIDIA",
+      "AI 가속기",
+      "하드웨어",
+      "엔터프라이즈 AI",
+      "DGX"
+    ],
+    "_key": "e30e50aae9d2",
+    "_createdAt": "2026-10-05T10:25:18.929680+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929680+09:00"
+  },
+  {
+    "title": "구글, 제미나이 AI 요금제 개편… 무료 및 저가 구독자 '프로' 모델 접근 제한",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWYan1nx1e6N_GxaYwFNAhLHa6cOjSUPHnwD9odDkcph3fsrBl5te3X_SwowzQtUApBD1NYcoFhwLrwo31zzZ_-e2klrH1TdRyaqyo8MM6tJOVgUyzIZ-WZwvd-mx04z-PaYmHbwz1zDI=",
+    "category": "LLM, 글로벌 트렌드",
+    "ecosystemImpact": "프리미엄 AI 모델 접근성 변화 및 유료 서비스 전환 가속화, 시장 경쟁 심화 예상.",
+    "importance": 7,
+    "summary": "구글이 제미나이 AI 요금제를 개편하여 무료 및 월 10달러 저가 구독자는 '프로' 모델 이용을 제한하고, '플래시-라이트' 모델만 제공.",
+    "corporateAction": "당사 LLM 활용 전략 재검토 및 비용 효율성을 고려한 모델 선택 기준 강화. 오픈소스 LLM 활용 방안도 함께 모색.",
+    "keywords": [
+      "구글",
+      "제미나이",
+      "LLM",
+      "요금제",
+      "AI 접근성"
+    ],
+    "_key": "2a0a561f53fd",
+    "_createdAt": "2026-10-05T10:25:18.929688+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929688+09:00"
+  },
+  {
+    "title": "중국 손해보험업계, 원보험·재보험 협력 강화로 AI 등 신종 위험 대응",
+    "date": "2026-10-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVqncX8prATb5aAKTBLUjVv9HYcHT3yELmZa0eTAUL1tfW5labZTBOmjVGE0uH1DxTkt-_L1d0s1cwRZ-N2E5qMxSi0lw6LVkg_eSopf5o1qznIiY5qDKpOK6E1lZrJamgmmA3BWwH--1anaZQ3QX77hSv1A==",
+    "category": "보험/AX, IT 거버넌스/보안, 글로벌 트렌드",
+    "ecosystemImpact": "아시아 보험 시장의 AI 리스크 관리 역량 강화 및 원·재보험사 간 협력 모델 발전.",
+    "importance": 7,
+    "summary": "중국 손해보험업계가 기후변화, 지정학적 갈등, AI 확산 등 신종 위험에 공동 대응하기 위해 원보험사와 재보험사 간 협력을 강화.",
+    "corporateAction": "신종 위험 관리를 위한 글로벌 재보험 파트너십 강화 및 AI 기반 위험 평가 모델 공동 연구 기회 모색.",
+    "keywords": [
+      "재보험",
+      "원보험",
+      "AI 위험",
+      "글로벌 협력",
+      "리스크 관리"
+    ],
+    "_key": "f40618e1da1f",
+    "_createdAt": "2026-10-05T10:25:18.929695+09:00",
+    "_updatedAt": "2026-10-05T10:25:18.929695+09:00"
   }
 ]
