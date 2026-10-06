@@ -11564,5 +11564,122 @@
     "_key": "f40618e1da1f",
     "_createdAt": "2026-10-05T10:25:18.929695+09:00",
     "_updatedAt": "2026-10-05T10:25:18.929695+09:00"
+  },
+  {
+    "title": "금융당국, AI 해킹 확산에 '망분리' 규제 완화 검토",
+    "date": "2026-10-05",
+    "url": "https://www.seoul.co.kr/news/economy/finance/2026/10/06/20261006002001",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 AI 활용 촉진 및 보안 패러다임 변화 유도",
+    "importance": 10,
+    "summary": "금융당국이 AI 기반 해킹 위협에 대응하고 금융사의 AI 보안 기술 활용을 위해 망분리 규제 완화를 검토 중. 앤트로픽 모델의 보안 취약점 발견 등 AI 공격 고도화가 배경.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 및 클라우드 연계 전략 재검토 필요. 금융당국 가이드라인 주시.",
+    "keywords": [
+      "금융보안",
+      "망분리",
+      "AI 공격",
+      "IT 거버넌스",
+      "금융규제"
+    ],
+    "_key": "90c9718fc355",
+    "_createdAt": "2026-10-06T11:35:59.845550+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845550+09:00"
+  },
+  {
+    "title": "엔비디아 투자 스타트업 리플렉션AI, 오픈웨이트 AI 모델 '빔' 공개",
+    "date": "2026-10-05",
+    "url": "https://www.newspim.com/news/view/20261005000570",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "오픈 모델 경쟁 심화 및 엔터프라이즈 맞춤형 AI 모델 개발 가속화",
+    "importance": 9,
+    "summary": "구글 딥마인드 출신이 설립한 리플렉션AI가 엔비디아 지원을 받아 저비용 고성능 오픈웨이트 AI 모델 '빔'을 공개, 중국 모델과 경쟁.",
+    "corporateAction": "최신 오픈 모델 동향 주시 및 내부 시스템에 적용 가능한 오픈소스 AI 전략 검토.",
+    "keywords": [
+      "LLM",
+      "오픈소스 AI",
+      "AI 모델",
+      "엔비디아",
+      "Reflection AI"
+    ],
+    "_key": "16a566922abd",
+    "_createdAt": "2026-10-06T11:35:59.845570+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845570+09:00"
+  },
+  {
+    "title": "Info-Tech Research Group, 기업 AI 투자 가치 실현 위한 인프라 정렬 강조",
+    "date": "2026-10-05",
+    "url": "https://www.morningstar.com/news/pr-newswire/20261005LN59135/enterprise-ai-bottlenecks-stem-from-workload-misalignment-says-infotech-research-group",
+    "category": "엔터프라이즈 AI, AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 투자 효율성 증대 및 인프라 구축 전략의 중요성 부각",
+    "importance": 9,
+    "summary": "Info-Tech Research Group은 AI 투자의 가치를 실현하기 위해 워크로드에 맞는 AI 인프라 설계가 중요하다고 발표. 성능 및 확장성 향상에 초점.",
+    "corporateAction": "AI 인프라 구축 시 워크로드 특성 분석 및 최적화된 아키텍처 설계 우선 검토.",
+    "keywords": [
+      "AI 인프라",
+      "엔터프라이즈 AI",
+      "성능 최적화",
+      "IT 거버넌스"
+    ],
+    "_key": "1ba1abeb5bf8",
+    "_createdAt": "2026-10-06T11:35:59.845577+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845577+09:00"
+  },
+  {
+    "title": "FurtherAI, 2026 Insurance Insider US Honors 'AI 구현 올해의 기업' 선정",
+    "date": "2026-10-05",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3547285/0/en/FurtherAI-Wins-AI-Implementation-of-the-Year-at-the-2026-Insurance-Insider-US-Honors.html",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험 산업 내 AI의 실제 비즈니스 가치 증명 및 도입 확산 가속화",
+    "importance": 8,
+    "summary": "FurtherAI가 보험 업계 AI 구현 성공 사례로 인정받아 수상. 복잡한 워크플로우 자동화 및 비즈니스 영향력 입증.",
+    "corporateAction": "AI 에이전트를 활용한 복잡한 보험 업무 자동화 및 디지털 전환 성공 사례 벤치마킹.",
+    "keywords": [
+      "보험 AI",
+      "AI Agent",
+      "디지털 전환",
+      "자동화"
+    ],
+    "_key": "89a0d952a051",
+    "_createdAt": "2026-10-06T11:35:59.845587+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845587+09:00"
+  },
+  {
+    "title": "보험 업계, AI의 물리적 세계 확장과 새로운 리스크 논의",
+    "date": "2026-10-05",
+    "url": "https://www.intelligentinsurer.com/news/ai-moves-into-the-physical-world-as-insurance-leaders-gather-to-tackle-emerging-risks/a3089851.aspx",
+    "category": "보험/AX, AI 보안/망분리",
+    "ecosystemImpact": "AI 관련 법적 책임 및 보험 상품 개발의 필요성 증대",
+    "importance": 8,
+    "summary": "AI가 물리적 세계로 확장됨에 따라 새로운 책임, 재산, 운영 위험이 발생하고 있으며, 보험 업계는 이에 대한 보험 상품 및 인수 모델을 논의.",
+    "corporateAction": "AI 관련 신규 위험 분석 모델 개발 및 AI 책임보험 상품 포트폴리오 확장 기회 모색.",
+    "keywords": [
+      "보험 AI",
+      "AI 위험",
+      "AI 책임",
+      "신상품 개발",
+      "언더라이팅"
+    ],
+    "_key": "a256553c7e9a",
+    "_createdAt": "2026-10-06T11:35:59.845591+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845591+09:00"
+  },
+  {
+    "title": "아마존, 엔비디아 블랙웰 칩 80억 달러 규모 리스백 추진",
+    "date": "2026-10-05",
+    "url": "https://ko.kalkinemedia.com/news/general-investing/a/amazon-nvidia-blackwell-chips-8-billion-plan-kalkinemedia-12",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "클라우드 기업의 AI 인프라 투자 전략 변화 및 경자산 경영 가속화",
+    "importance": 7,
+    "summary": "아마존이 80억 달러 상당의 엔비디아 블랙웰 칩을 SPV를 통해 리스백 방식으로 조달하여 재무구조를 강화하고 경자산 경영을 추진.",
+    "corporateAction": "AI 인프라 도입 시 직접 구매 외 리스백 등 다양한 금융 조달 방식 검토.",
+    "keywords": [
+      "AI 하드웨어",
+      "NVIDIA Blackwell",
+      "클라우드 인프라",
+      "재무 전략"
+    ],
+    "_key": "8fb5461bbbdc",
+    "_createdAt": "2026-10-06T11:35:59.845596+09:00",
+    "_updatedAt": "2026-10-06T11:35:59.845596+09:00"
   }
 ]
