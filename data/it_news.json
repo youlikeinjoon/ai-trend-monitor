@@ -11681,5 +11681,124 @@
     "_key": "8fb5461bbbdc",
     "_createdAt": "2026-10-06T11:35:59.845596+09:00",
     "_updatedAt": "2026-10-06T11:35:59.845596+09:00"
+  },
+  {
+    "title": "금융권 AI발 해킹 공격 확산, 당국 망분리 완화 유지하며 대응 강화",
+    "date": "2026-10-06",
+    "url": "https://www.dailyenews.co.kr/news/articleView.html?idxno=xxx",
+    "category": "AI 보안, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융권 전체 AI 보안 체계 강화 및 규제 변화 촉진.",
+    "importance": 10,
+    "summary": "금융권에 AI 기반 해킹 공격이 확산됨에 따라 금융당국이 망분리 규제 완화를 유지하며 긴급 점검을 지시했다. 특히 LLM 기반 자율형 침투 테스트 시스템 'ARTEX AI'의 흔적이 발견되었다.",
+    "corporateAction": "AI 활용 보안 솔루션 도입 가속화 및 AI 보안 거버넌스 강화, 금융망분리 완화 정책 활용 검토.",
+    "keywords": [
+      "AI 해킹",
+      "금융망분리",
+      "AI 보안",
+      "IT 거버넌스",
+      "ARTEX AI"
+    ],
+    "_key": "5f26609816af",
+    "_createdAt": "2026-10-07T10:54:48.570257+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570257+09:00"
+  },
+  {
+    "title": "\"AI가 사고 치면 CEO가 책임진다?\"…보험사, 대규모 손해배상 대비",
+    "date": "2026-10-06",
+    "url": "https://www.newsis.com/view/?id=NISX20261006_0003004652",
+    "category": "보험/AX, AI Agent, IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "AI 에이전트 활용 보험 상품/서비스의 법적, 윤리적 책임 문제 부각.",
+    "importance": 10,
+    "summary": "글로벌 보험사들이 AI 에이전트의 통제 불능 행위에 따른 대규모 손해배상 청구에 대비하며 AI 기업 CEO의 법적 책임 가능성도 논의되고 있다.",
+    "corporateAction": "AI 에이전트 도입 시 책임 범위 및 보험 상품 개발 전략 재검토, 관련 법규 동향 주시 필요.",
+    "keywords": [
+      "AI 에이전트",
+      "AI 책임",
+      "손해배상",
+      "보험",
+      "IT 거버넌스"
+    ],
+    "_key": "849a2d6d6768",
+    "_createdAt": "2026-10-07T10:54:48.570280+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570280+09:00"
+  },
+  {
+    "title": "\"AI 알고리즘 위험, 이사회가 직접 통제\"… 中 은행, 'AI 내부 거버넌스 규정' 채택 확산",
+    "date": "2026-10-04",
+    "url": "https://www.ceoscoredaily.com/news/articleView.html?idxno=245224",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, 글로벌 트렌드",
+    "ecosystemImpact": "금융권 AI 도입 시 강력한 내부 거버넌스 및 위험 관리 체계 요구.",
+    "importance": 9,
+    "summary": "중국 핑안은행이 AI 기술의 전 생애주기 위험을 이사회 차원에서 통제하는 'AI 관리·거버넌스 규정'을 채택, 중국 금융권 전반으로 확산될 전망이다.",
+    "corporateAction": "AI 거버넌스 체계 고도화 및 이사회 차원의 AI 위험 관리 전략 수립 검토. 해외 사례 벤치마킹.",
+    "keywords": [
+      "AI 거버넌스",
+      "금융 규제",
+      "AI 위험 관리",
+      "중국 금융"
+    ],
+    "_key": "2692044ebca1",
+    "_createdAt": "2026-10-07T10:54:48.570290+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570290+09:00"
+  },
+  {
+    "title": "Gemini 4 Argon 총정리: GPT-6 Astra·Claude Opus 5.5와 벤치마크까지 비교",
+    "date": "2026-09-30",
+    "url": "https://heynow.ai/gemini-4-argon-overview/",
+    "category": "LLM, AI Agent, AI 보안",
+    "ecosystemImpact": "최신 LLM의 사이버 보안 기능 강화 및 기업 AI 도입 시 보안성 고려 증가.",
+    "importance": 9,
+    "summary": "구글 Gemini 4 Argon이 코딩, 전문 지식, 멀티모달 외 사이버 보안 분야에서 뛰어난 성능을 보이며 취약점 탐지 및 패치까지 가능하다.",
+    "corporateAction": "최신 LLM의 보안 기능을 활용한 내부 시스템 강화 및 AI 기반 보안 솔루션 도입 검토.",
+    "keywords": [
+      "LLM",
+      "Gemini",
+      "AI 보안",
+      "사이버 보안",
+      "프론티어 AI"
+    ],
+    "_key": "fa9ae85199a7",
+    "_createdAt": "2026-10-07T10:54:48.570299+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570299+09:00"
+  },
+  {
+    "title": "Anthropic, 정부 및 사이버 방어 파트너에 AI 모델 접근 확대",
+    "date": "2026-10-06",
+    "url": "https://kr.investing.com/news/stock-market-news/article-920630",
+    "category": "LLM, AI 보안, IT 거버넌스",
+    "ecosystemImpact": "주요 AI 모델의 국가 안보 및 사이버 방어 분야 활용 가속화.",
+    "importance": 8,
+    "summary": "Anthropic이 Claude Opus 5.5 등 최정교 AI 모델 접근을 정부 및 검증된 사이버 방어팀으로 확대하며 사이버 검증 프로그램을 강화했다.",
+    "corporateAction": "고성능 AI 모델의 안전한 활용을 위한 내부 검증 절차 및 파트너십 전략 수립 시사점 도출.",
+    "keywords": [
+      "LLM",
+      "Anthropic",
+      "AI 보안",
+      "사이버 방어",
+      "Claude"
+    ],
+    "_key": "dc66440aa168",
+    "_createdAt": "2026-10-07T10:54:48.570307+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570307+09:00"
+  },
+  {
+    "title": "엔비디아가 투자한 리플렉션 AI, 첫 오픈웨이트 모델 공개…中 AI에 도전",
+    "date": "2026-10-06",
+    "url": "https://biz.chosun.com/it/it_general/2026/10/06/B7XF2Z4YFJHJ3J3G3H3J3J3G3H3/",
+    "category": "LLM, AI Agent, AI 하드웨어 인프라",
+    "ecosystemImpact": "오픈웨이트 모델 시장의 경쟁 심화 및 AI 기술의 비용 효율성 증대.",
+    "importance": 8,
+    "summary": "엔비디아 투자 리플렉션 AI가 고난도 추론 벤치마크에서 중국 모델에 필적하는 성능을 보이면서도 비용을 낮춘 오픈웨이트 AI 모델 '빔(Beam)'을 공개했다.",
+    "corporateAction": "오픈소스 LLM의 활용 가능성 및 비용 효율성 검토, AI 모델 도입 전략 다각화 모색.",
+    "keywords": [
+      "오픈웨이트 모델",
+      "LLM",
+      "NVIDIA",
+      "Reflection AI",
+      "AI 비용 효율성"
+    ],
+    "_key": "da93c27ccc16",
+    "_createdAt": "2026-10-07T10:54:48.570314+09:00",
+    "_updatedAt": "2026-10-07T10:54:48.570314+09:00"
   }
 ]
