@@ -11800,5 +11800,146 @@
     "_key": "da93c27ccc16",
     "_createdAt": "2026-10-07T10:54:48.570314+09:00",
     "_updatedAt": "2026-10-07T10:54:48.570314+09:00"
+  },
+  {
+    "title": "NVIDIA, Blackwell Ultra 기반 Windows용 DGX Station 공개 및 RTX Spark AI 노트북 출시",
+    "date": "2026-10-07",
+    "url": "https://wccftech.com/nvidias-ai-powerhouse-dgx-station-breaks-out-of-linux-cramming-748-gb-of-memory-and-20-pflopss-into-a-windows-workstation/",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "AI 개발 및 엔터프라이즈 AI 워크로드의 개인화 및 접근성 향상.",
+    "importance": 10,
+    "summary": "NVIDIA가 748GB 메모리와 20 PFLOPs의 AI 연산 성능을 제공하는 Blackwell Ultra 기반 Windows용 DGX Station을 발표했다. 또한, Microsoft와 협력하여 RTX Spark AI 칩이 탑재된 새로운 AI 노트북을 공개하며 로컬 AI 컴퓨팅 시대를 열었다.",
+    "corporateAction": "고성능 AI 연산을 위한 온프레미스 솔루션 및 Edge AI 도입 가능성을 검토하고, 개발 환경 확장 전략 수립.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell Ultra",
+      "RTX Spark",
+      "DGX Station",
+      "AI 하드웨어",
+      "로컬 AI"
+    ],
+    "_key": "2729be2982dd",
+    "_createdAt": "2026-10-08T11:23:51.030474+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030474+09:00"
+  },
+  {
+    "title": "MAS, 금융기관의 책임 있는 AI 도입을 위한 가이드라인 발표",
+    "date": "2026-10-07",
+    "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "싱가포르 금융권의 AI 리스크 관리 및 거버넌스 표준 제시.",
+    "importance": 9,
+    "summary": "싱가포르 통화청(MAS)이 금융 부문의 책임 있는 AI 도입을 지원하기 위한 AI 리스크 관리 가이드라인을 발표했다. AI 사용에 따른 위험을 관리하고, 자율적인 AI 시스템 도입에 대한 추가 지침을 2027년에 협의할 예정이다.",
+    "corporateAction": "MAS 가이드라인을 벤치마킹하여 AI 리스크 관리 및 IT 거버넌스 체계를 강화하고, AI 윤리 및 책임성 확보 방안 마련.",
+    "keywords": [
+      "금융규제",
+      "AI 거버넌스",
+      "AI 리스크 관리",
+      "MAS",
+      "AI 윤리"
+    ],
+    "_key": "17d05f3cc14c",
+    "_createdAt": "2026-10-08T11:23:51.030497+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030497+09:00"
+  },
+  {
+    "title": "Ledgebrook, Allianz X 주도로 2억 달러 투자 유치 및 Allianz Re와 재보험 계약 체결",
+    "date": "2026-10-07",
+    "url": "https://www.prnewswire.com/news-releases/ledgebrook-raises-usd-200-million-in-primary-equity-financing-co-led-by-allianz-x-to-scale-ai-native-specialty-insurance-platform-302324632.html",
+    "category": "보험/AX",
+    "ecosystemImpact": "AI 기반 전문 보험 플랫폼 성장 가속화 및 재보험 시장 혁신.",
+    "importance": 9,
+    "summary": "AI 기반 전문 보험 플랫폼 Ledgebrook이 Allianz X 주도로 2억 달러 규모의 투자를 유치했다. 동시에 Allianz Re와 다년간의 재보험 계약을 체결하며 AI-native 언더라이팅 플랫폼인 Blackbird 확장을 가속화할 예정이다.",
+    "corporateAction": "AI-native 보험 플랫폼의 언더라이팅 역량 및 재보험 연계 모델을 벤치마킹하여 AX 및 재보험 상품 개발에 활용.",
+    "keywords": [
+      "보험/AX",
+      "재보험",
+      "AI 언더라이팅",
+      "인슈어테크",
+      "스타트업"
+    ],
+    "_key": "e7825f172883",
+    "_createdAt": "2026-10-08T11:23:51.030507+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030507+09:00"
+  },
+  {
+    "title": "ElevenLabs, AI 에이전트 채택으로 220억 달러 가치 평가 달성",
+    "date": "2026-10-07",
+    "url": "https://www.fintechglobal.com/2026/10/07/elevenlabs-hits-22bn-as-financial-firms-adopt-ai-agents/",
+    "category": "AI Agent",
+    "ecosystemImpact": "금융 서비스 분야 AI 에이전트 도입 확산 및 대화형 AI 시장 성장.",
+    "importance": 8,
+    "summary": "AI 음성 및 대화형 에이전트 개발사 ElevenLabs가 금융 서비스 기업들의 기술 채택에 힘입어 220억 달러의 기업 가치를 달성했다. 고객 서비스 및 운영 전반에 걸쳐 AI 에이전트 활용이 확대되고 있다.",
+    "corporateAction": "고객 접점 및 내부 운영 효율화를 위한 대화형 AI 에이전트 도입 사례 연구 및 PoC 추진.",
+    "keywords": [
+      "AI Agent",
+      "대화형 AI",
+      "음성 AI",
+      "금융 서비스",
+      "고객 경험"
+    ],
+    "_key": "3a93f6f73a9d",
+    "_createdAt": "2026-10-08T11:23:51.030519+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030519+09:00"
+  },
+  {
+    "title": "Incognia, 자율 금융 거래 보안을 위한 AI 에이전트 탐지 솔루션 출시",
+    "date": "2026-10-07",
+    "url": "https://ffnews.com/newsarticle/incognia-launches-ai-agent-detection-to-secure-autonomous-financial-transactions/",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "자율 AI 에이전트 거래의 보안 강화 및 금융 사기 방지.",
+    "importance": 8,
+    "summary": "Incognia가 AI 에이전트가 시작한 거래가 실제 계좌 소유자에 의해 승인되었는지 확인하는 AI 에이전트 탐지 솔루션을 출시했다. 이는 금융 기관이 AI 기반 자율 거래의 무단 활동으로부터 보호하는 데 도움을 준다.",
+    "corporateAction": "AI 에이전트 기반 금융 서비스 도입 시, 보안 강화를 위한 AI 에이전트 인증 및 이상 거래 탐지 시스템 구축 검토.",
+    "keywords": [
+      "AI Agent",
+      "AI 보안",
+      "금융망분리",
+      "이상거래탐지",
+      "핀테크"
+    ],
+    "_key": "df007f770259",
+    "_createdAt": "2026-10-08T11:23:51.030526+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030526+09:00"
+  },
+  {
+    "title": "중국 오픈소스 AI 에이전트, 한국 금융사 해킹에 사용된 흔적 발견",
+    "date": "2026-10-07",
+    "url": "https://www.kedglobal.com/news/chinese-open-source-ai-agent-traced-in-hacking-of-korean-financial-firms/articles/202610071329249673",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "오픈소스 AI 에이전트의 악용 가능성 부각 및 사이버 보안 위협 증대.",
+    "importance": 7,
+    "summary": "중국에서 개발된 오픈소스 AI 에이전트 'ARTEX AI'의 흔적이 한국 금융 회사들을 대상으로 한 해킹 공격에서 발견되었다. 이는 AI 기반 사이버 보안 도구가 공격에 악용될 수 있음을 시사한다.",
+    "corporateAction": "오픈소스 AI 에이전트 도입 시 보안 취약점 검증 강화 및 AI 기반 사이버 공격에 대한 방어 전략 수립.",
+    "keywords": [
+      "AI 보안",
+      "오픈소스 AI",
+      "사이버 공격",
+      "금융망분리",
+      "ARTEX AI"
+    ],
+    "_key": "bad068e00bef",
+    "_createdAt": "2026-10-08T11:23:51.030533+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030533+09:00"
+  },
+  {
+    "title": "Sapiens, 보험 AI 성숙도 지수 발표: 보험사 67%, 3년 내 완전 자율 AI 예상",
+    "date": "2026-10-07",
+    "url": "https://www.morningstar.com/news/prs/20261007PR00085/sapiens-launches-industry-wide-insurance-ai-maturity-index-as-67-predict-full-autonomy-within-2-to-3-years",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업의 AI 도입 가속화 및 자율 AI 기술 발전 촉진.",
+    "importance": 7,
+    "summary": "Sapiens가 발표한 보험 AI 성숙도 지수에 따르면, 보험 전문가의 67%가 향후 2~3년 내에 보험 AI가 완전 자율화될 것으로 예상한다. 그러나 거버넌스 전략 부족이 주요 장애물로 지적되었다.",
+    "corporateAction": "보험 AI 도입 로드맵 수립 시, 완전 자율 AI 전환 준비 및 AI 거버넌스, 인력 양성 전략을 우선적으로 추진.",
+    "keywords": [
+      "보험/AX",
+      "AI 성숙도",
+      "자율 AI",
+      "AI 거버넌스",
+      "인력양성"
+    ],
+    "_key": "d2885fd6bf23",
+    "_createdAt": "2026-10-08T11:23:51.030540+09:00",
+    "_updatedAt": "2026-10-08T11:23:51.030540+09:00"
   }
 ]
