@@ -12083,5 +12083,121 @@
     "_key": "6dda89136cc1",
     "_createdAt": "2026-10-09T11:40:21.564067+09:00",
     "_updatedAt": "2026-10-09T11:40:21.564067+09:00"
+  },
+  {
+    "title": "금융 AI 에이전트, 숨은 명령에 조종된다...데이터 유출·거래 권한 악용 경고",
+    "date": "2026-10-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlLwTCtM3v3k8jursmVkaQdlDlUVjDuiGqSEFbl6gI33ETW4V-mwKp4U81u3x0N3IxxZjkw6C9aPUnZ6i5sGJ_0c_9hZAxBru89TId38DBfvcMnW-W9j3YMcmlUUlHgozcz7QCD2MM-_7kzsR_coY0fN1ZL1o=",
+    "category": "AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 에이전트 도입 시 보안 취약점 발생 가능성 경고, 보안 강화 필요성 증대.",
+    "importance": 10,
+    "summary": "금융 업무용 AI 에이전트가 이메일, 공유 문서 내 숨은 명령에 조종되어 데이터 유출 및 거래 권한 악용 위험이 있다는 보고서가 발표됨.",
+    "corporateAction": "AI 에이전트 도입 시 입력 콘텐츠 검사 및 최소 권한 적용, 지속적 감시 등 강력한 보안 거버넌스 구축 필수.",
+    "keywords": [
+      "AI Agent",
+      "보안",
+      "데이터 유출",
+      "금융망분리"
+    ],
+    "_key": "c76081c698cc",
+    "_createdAt": "2026-10-10T10:59:55.743481+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743481+09:00"
+  },
+  {
+    "title": "금융보안원, 금융권 AI 에이전트 보안 평가기준 마련",
+    "date": "2026-10-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfSnvhSW0ViXlbtTiZVzRrgVfzR8rJbMecp5h3Fuzq60Xo2bB6tE-PXOUVsuVyTXtgmmFKBtRntCYP7MC_67yBfHz7GlKjQv5h_WD3IAaHhSNoqr_dKlMMhA4P6ysr8g9PLLVXfgGtCZzfZoJpXGkSAA=",
+    "category": "IT 거버넌스/보안, 금융/AX, AI Agent",
+    "ecosystemImpact": "금융권 AI 에이전트 도입의 안전성 및 신뢰성 확보, IT 거버넌스 표준화에 기여.",
+    "importance": 9,
+    "summary": "금융보안원이 AI 에이전트의 오작동 및 보안 위협에 대응하기 위한 '금융분야 AI 에이전트 보안 평가 기준'을 개발.",
+    "corporateAction": "AI 에이전트 도입 및 운영 시 금융보안원 평가 기준을 준수하여 보안 취약점 사전 제거 및 IT 거버넌스 강화.",
+    "keywords": [
+      "AI Agent",
+      "보안",
+      "금융 규제",
+      "IT 거버넌스"
+    ],
+    "_key": "fa75efdce23f",
+    "_createdAt": "2026-10-10T10:59:55.743502+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743502+09:00"
+  },
+  {
+    "title": "[AI돋보기] 해커도 AI에 묻는다…해킹의 문턱이 무너졌다",
+    "date": "2026-10-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVL6X3YZ5Bw99lk5b9So3r7_xIqGhFwlnEs_7f0KVKlAuUxW1Jsg--gRJDa8E88NSQ2u02eZduCq5uwc8-IOeUBS61gK_EFIsjfJ7GAxNsAMyUOUFG0xBJsFmsfblipi8wc9d2JFprBQi2",
+    "category": "AI 보안/망분리, AI Agent",
+    "ecosystemImpact": "AI를 활용한 사이버 공격 급증, 특히 금융권에 대한 위협 증대 및 AI 보안의 시급성 부각.",
+    "importance": 9,
+    "summary": "AI가 사이버 공격의 전 과정에 개입하며 해킹의 문턱을 낮추고 있으며, 국내 금융기관 공격에도 AI 기반 도구가 포착됨.",
+    "corporateAction": "AI 기반의 방어 시스템 구축 가속화, AI 에이전트 및 LLM 활용 시 보안 취약점 점검 및 대응 프로세스 강화 필요.",
+    "keywords": [
+      "AI 보안",
+      "사이버 공격",
+      "LLM",
+      "금융권 위협"
+    ],
+    "_key": "6c625055ff16",
+    "_createdAt": "2026-10-10T10:59:55.743511+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743511+09:00"
+  },
+  {
+    "title": "엔비디아, 마이크로소프트와 RTX 스파크·AI 에이전트로 윈도우 PC의 새 시대 개막",
+    "date": "2026-10-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Mui8QiucjQl2j5G30gEgYlcaKPS3c7uzx5S0DExxjZfGxy-L2DO8OJ9HOwDQLtkJ_rVhzkc0jCeZMP6id3Oy4_U44mvOnRAGE_wocj_ARPNkCKpKTsMZzITq1Wf-H8fDm2P4wOAqXBy4rI9QgQO_kTIB0=",
+    "category": "AI 하드웨어 인프라, AI Agent",
+    "ecosystemImpact": "로컬 AI 컴퓨팅 능력 대폭 향상, 기업 및 개인의 온디바이스 AI 활용 가속화.",
+    "importance": 9,
+    "summary": "엔비디아와 마이크로소프트가 윈도우 PC용 RTX 스파크(블랙웰 RTX GPU, Grace CPU)를 공개하며 AI 에이전트 실행 플랫폼으로 윈도우를 전환.",
+    "corporateAction": "온디바이스 AI 모델 및 에이전트 활용을 위한 AI 하드웨어 도입 전략 수립 및 로컬 AI 환경 보안 강화 검토.",
+    "keywords": [
+      "AI 하드웨어",
+      "NVIDIA",
+      "Blackwell",
+      "AI Agent",
+      "온디바이스 AI"
+    ],
+    "_key": "d15bfc456903",
+    "_createdAt": "2026-10-10T10:59:55.743522+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743522+09:00"
+  },
+  {
+    "title": "AI 에이전트 금융, 디지털자산 투자에 새로운 패러다임 열어",
+    "date": "2026-10-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf3kvY7dUaiexZjombuuyp8HjMtql2F4g-4YgJyKssv-tejdFlPRev1hFqn_cD307klRL2-bcteHz4Md0bYAqF0ka-oOJsXJa_kiKsw99-JRoZytG-FR-tAKZ-433J0DdLywWNSSQ=",
+    "category": "AI Agent, 금융/AX",
+    "ecosystemImpact": "AI 에이전트와 블록체인 결합으로 디지털자산 투자 패러다임 변화, 규제 완화 동향.",
+    "importance": 8,
+    "summary": "AI 에이전트 기반 금융이 블록체인 인프라와 결합하여 디지털자산 투자를 확대하며 새로운 투자 패러다임을 형성 중.",
+    "corporateAction": "AI 에이전트와 블록체인 기술을 활용한 신규 금융 상품 및 서비스 개발 가능성 검토, 디지털 자산 규제 동향 모니터링.",
+    "keywords": [
+      "AI Agent",
+      "디지털자산",
+      "블록체인",
+      "금융 혁신",
+      "규제 샌드박스"
+    ],
+    "_key": "0074d521ecc6",
+    "_createdAt": "2026-10-10T10:59:55.743529+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743529+09:00"
+  },
+  {
+    "title": "엔터프라이즈 AI 에이전트 출시 후 BMO, 매그니피센트 7 종목에 강세 전망",
+    "date": "2026-10-09",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbprmMz0CttMXw1wvJpwTipWMN8Nps-mGC53ff0PArL9eHoK_NasXnOY1IoS-YLj5chOuI9M-pN9NkgWB5AI0UeixLxPdKyXJZvOhJZITYToQF2HfQvUp_NwTYI-6miwWaWb9FiKu99e61AAeZOOK0Z0F1nMRd7bCOZw=",
+    "category": "AI Agent, 글로벌 트렌드",
+    "ecosystemImpact": "빅테크의 엔터프라이즈 AI 에이전트 출시가 산업 전반의 AI 도입 가속화 및 투자 기회 창출.",
+    "importance": 8,
+    "summary": "알파벳이 클라우드 기반 통합 엔터프라이즈 AI 에이전트 '제미나이 에이전트'를 출시하며 AI 시장의 경쟁을 심화.",
+    "corporateAction": "자사 업무 자동화 및 효율화를 위해 엔터프라이즈 AI 에이전트 솔루션 도입을 검토하고 적용 방안 모색.",
+    "keywords": [
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "빅테크",
+      "Gemini Agent"
+    ],
+    "_key": "09e0e5c93f3c",
+    "_createdAt": "2026-10-10T10:59:55.743537+09:00",
+    "_updatedAt": "2026-10-10T10:59:55.743537+09:00"
   }
 ]
