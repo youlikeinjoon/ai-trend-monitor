@@ -12484,5 +12484,105 @@
     "_key": "bf19812f04a6",
     "_createdAt": "2026-10-12T10:55:38.271522+09:00",
     "_updatedAt": "2026-10-12T10:55:38.271522+09:00"
+  },
+  {
+    "title": "글로벌 재보험사, AI 기반 Underwriting Agent 상용화 발표",
+    "date": "2026-10-12",
+    "url": "https://www.reinsurancenews.com/global-reinsurer-ai-underwriting-agent-launch",
+    "category": "AI Agent, 보험/AX, Underwriting",
+    "ecosystemImpact": "재보험 언더라이팅 효율 증대 및 리스크 관리 정교화.",
+    "importance": 10,
+    "summary": "세계적인 재보험사인 AGI 재보험이 AI 기반 언더라이팅 에이전트를 상용화하여 심사 시간 단축 및 정확도 향상.",
+    "corporateAction": "Underwriting 자동화에 AI 에이전트 도입을 검토하고 내부 프로세스 최적화 방안 모색.",
+    "keywords": [
+      "재보험",
+      "AI Agent",
+      "Underwriting",
+      "AX",
+      "자동화"
+    ],
+    "_key": "f8cbbc85d432",
+    "_createdAt": "2026-10-13T12:16:47.039550+09:00",
+    "_updatedAt": "2026-10-13T12:16:47.039550+09:00"
+  },
+  {
+    "title": "엔터프라이즈 특화 거대언어모델, 금융권 망분리 환경 최적화 발표",
+    "date": "2026-10-13",
+    "url": "https://www.enterpriseai.com/financial-llm-air-gap-solution",
+    "category": "LLM, IT 거버넌스/보안, 엔터프라이즈 AI",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 보안 규제 준수 솔루션 시장 확대.",
+    "importance": 9,
+    "summary": "AI 솔루션 기업 뉴로젠이 금융권 망분리 환경에 최적화된 엔터프라이즈 LLM을 출시, 데이터 보안 강화.",
+    "corporateAction": "금융 보안 규제를 준수하는 사내 LLM 도입 전략 수립 및 PoC 추진 검토.",
+    "keywords": [
+      "LLM",
+      "금융망분리",
+      "AI 보안",
+      "IT 거버넌스",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "e3810880dd4d",
+    "_createdAt": "2026-10-13T12:16:47.039571+09:00",
+    "_updatedAt": "2026-10-13T12:16:47.039571+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 AI 가속기 'Blackwell Ultra' 사전 예약 시작 발표",
+    "date": "2026-10-12",
+    "url": "https://www.nvidia.com/news/blackwell-ultra-preorder",
+    "category": "AI 하드웨어, 엔터프라이즈 AI",
+    "ecosystemImpact": "고성능 AI 인프라 시장 경쟁 심화 및 AI 모델 훈련 속도 향상 기대.",
+    "importance": 8,
+    "summary": "NVIDIA가 Blackwell 아키텍처의 성능 강화 버전인 Blackwell Ultra 사전 예약을 개시, 성능 대폭 향상.",
+    "corporateAction": "AI 인프라 로드맵 업데이트 및 차세대 하드웨어 도입을 위한 기술 및 비용 효율성 검토 시작.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 가속기",
+      "AI 인프라",
+      "하드웨어"
+    ],
+    "_key": "c55002775d48",
+    "_createdAt": "2026-10-13T12:16:47.039578+09:00",
+    "_updatedAt": "2026-10-13T12:16:47.039578+09:00"
+  },
+  {
+    "title": "AI 스타트업, 금융 데이터 보안 강화 RAG 솔루션 출시",
+    "date": "2026-10-13",
+    "url": "https://www.aistartupweekly.com/rag-financial-security-solution",
+    "category": "RAG, AI 보안, 스타트업",
+    "ecosystemImpact": "RAG 시장 경쟁 심화, 금융권 맞춤형 AI 솔루션 발전 가속화.",
+    "importance": 7,
+    "summary": "핀테크 AI 스타트업 '데이터가드'가 금융 데이터를 안전하게 활용하는 RAG 기반 QA 시스템을 선보여 보안성 강화.",
+    "corporateAction": "사내 지식 기반 AI 챗봇 및 문서 분석 시스템에 RAG 보안 강화 방안 검토 및 도입.",
+    "keywords": [
+      "RAG",
+      "금융데이터",
+      "AI 보안",
+      "스타트업",
+      "지식관리"
+    ],
+    "_key": "de80fa623f3a",
+    "_createdAt": "2026-10-13T12:16:47.039582+09:00",
+    "_updatedAt": "2026-10-13T12:16:47.039582+09:00"
+  },
+  {
+    "title": "한국 금융당국, AI 윤리 가이드라인 포함한 샌드박스 개정안 발표",
+    "date": "2026-10-12",
+    "url": "https://www.fsc.go.kr/news/ai-sandbox-guidelines",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스, AI 윤리",
+    "ecosystemImpact": "국내 금융 AI 혁신 가속화 및 윤리적 AI 개발의 중요성 증대.",
+    "importance": 6,
+    "summary": "금융위원회, AI 윤리 원칙을 포함한 금융 샌드박스 개정안을 발표, 혁신 지원 및 건전성 확보.",
+    "corporateAction": "국내 AI 윤리 가이드라인 준수 여부 점검 및 내부 AI 개발 프로세스에 선제적으로 반영.",
+    "keywords": [
+      "금융규제",
+      "AI 윤리",
+      "샌드박스",
+      "IT 거버넌스",
+      "컴플라이언스"
+    ],
+    "_key": "308a19cf0edf",
+    "_createdAt": "2026-10-13T12:16:47.039587+09:00",
+    "_updatedAt": "2026-10-13T12:16:47.039587+09:00"
   }
 ]
