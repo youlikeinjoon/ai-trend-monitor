@@ -12584,5 +12584,141 @@
     "_key": "308a19cf0edf",
     "_createdAt": "2026-10-13T12:16:47.039587+09:00",
     "_updatedAt": "2026-10-13T12:16:47.039587+09:00"
+  },
+  {
+    "title": "코리안리재보험, 국내 최초 '요율산정 AI' 도입",
+    "date": "2026-03-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7KnU1fMgOZUv6XDvsOXrTed1ppEUevfUlyrbq3RXePisKdTambpbNBUAiCAEUwz3wNwZmMZlWks3amRnwSxjwqFeM3-GnbI0erEy-rtG54cwo-bEQAuvi6tWJdKNV0MA=",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험사의 핵심 업무에 AI 적용, 금융 산업 AI 도입 가속화.",
+    "importance": 10,
+    "summary": "코리안리재보험이 AWS Bedrock 및 GCP Vertex AI 기반으로 기업성 보험 요율 산정 AI 어시스턴트를 국내 최초 도입했다.",
+    "corporateAction": "보험 요율 산정 및 언더라이팅 자동화를 위한 LLM/RAG 기반 AI 모델 도입 벤치마킹.",
+    "keywords": [
+      "재보험",
+      "요율산정",
+      "언더라이팅",
+      "AI 도입",
+      "RAG",
+      "금융 AI"
+    ],
+    "_key": "10ee213751e7",
+    "_createdAt": "2026-10-14T10:29:14.466118+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466118+09:00"
+  },
+  {
+    "title": "오픈AI, 'GPT-6.1 솔' 컨텍스트 길이 50만 토큰으로 대폭 상향",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1IbTSaumspBRuK1Zvok83oV0xFGG59CehQEAtmxvCJTgpA76zEFUBWpMOnYKps43BIL-ZscoEmrt2faRBZIS3VZ4mGkBl3AQl4cs9OeuF93r6p4kxI7RDjJy_tzTxh4faTOgIRk-DVIbAeMolMoiPX2eI3Mo=",
+    "category": "LLM, AI Agent, RAG",
+    "ecosystemImpact": "LLM의 복잡한 정보 처리 능력 향상, 다양한 산업군 활용도 증가.",
+    "importance": 9,
+    "summary": "오픈AI가 GPT-6.1 Sol의 기본 컨텍스트 길이를 50만 토큰으로 확장, 장시간 작업의 맥락 유지 및 정확성 개선을 목표로 한다.",
+    "corporateAction": "장문 계약서/보고서 분석 등 금융 업무 LLM 적용 시, 긴 컨텍스트 모델 도입 검토.",
+    "keywords": [
+      "LLM",
+      "RAG",
+      "컨텍스트 길이",
+      "OpenAI"
+    ],
+    "_key": "ec0b7c69c86d",
+    "_createdAt": "2026-10-14T10:29:14.466145+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466145+09:00"
+  },
+  {
+    "title": "워크데이, 인사·재무·IT 업무 자동화 AI 에이전트 공개 및 Sana AI 외부 플랫폼 통합",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI0yUxl8wPGvHylrVWN5rf3PZFhJRS4-kAyMbDDtcMothDHdIOc5B42SJlmHTMjQ_UA9A3-ya2MEcNaDDxnf7L7RCayltspOV5yG2uGxX0T33qUdK2_u6Mo8_E5esrcbsTYR3Ni3XiJEhl7Y310hgkqAR5GzhyvVCxmQ==",
+    "category": "AI Agent, Enterprise AI, IT 거버넌스",
+    "ecosystemImpact": "기업 업무 자동화 가속화 및 AI 에이전트 활용 생태계 확장.",
+    "importance": 9,
+    "summary": "워크데이가 인사, 재무, IT 자동화 AI 에이전트를 공개하고, Sana AI를 Gemini, Copilot 등 외부 플랫폼과 통합한다.",
+    "corporateAction": "내부 업무 프로세스 자동화를 위한 AI 에이전트 도입 및 기존 시스템 연동 전략 수립.",
+    "keywords": [
+      "AI Agent",
+      "업무 자동화",
+      "금융 IT",
+      "Workday"
+    ],
+    "_key": "a1a95fd42355",
+    "_createdAt": "2026-10-14T10:29:14.466155+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466155+09:00"
+  },
+  {
+    "title": "IMF 총재, \"AI, 세계 경제 살리지만 일자리는 흔들 것\" 경고",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGHS-Eb4YyVGTIH8J9L84kgVuNqHXyGrEqCTxkgA6lpQZx4k8zUhIFYieAkTHQeqkZkVUjWVCHFvkhN_HICXK-9ugVSjasbSX_MZr-gS9CjO9AvEdBUj7rUOrWEOHdftTJDRriBDoeHsYe5spogw==",
+    "category": "글로벌 트렌드, 거버넌스",
+    "ecosystemImpact": "AI의 경제 전반 영향력 증대 및 노동 시장 구조 변화 촉발.",
+    "importance": 8,
+    "summary": "IMF 총재는 AI 투자가 세계 경제 성장을 견인하지만 전 세계 일자리의 약 40%에 영향을 미칠 것으로 경고했다.",
+    "corporateAction": "AI 도입 전략 수립 시 장기적인 인력 운용 계획 및 AI 교육/재훈련 프로그램 고려.",
+    "keywords": [
+      "AI 경제 영향",
+      "일자리 변화",
+      "거버넌스",
+      "IMF"
+    ],
+    "_key": "0ede2d851b8e",
+    "_createdAt": "2026-10-14T10:29:14.466162+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466162+09:00"
+  },
+  {
+    "title": "마이크로소프트, 애저 마이아 AI 시스템 멀티 기가와트 규모로 확대",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBRnME1sZQovHdOwW_sbNnLjjbzvZfhfYrPRi5bj04VXptNGgNEAbqVZGrySu2pu0wXx3iVUecmpVMcURVSAkY4Y6raqRPbqcClEYCrKvrOO92rBuSYorsbLFde-tz3qfv44mdZdTa6Kxz1HvuEDl969KsgvjD3khPaAWuuMQHgQvWF78FQHX1kR0IggWRIuJGaL5H37SPk_li_oh4qPE7VjjFT5Z2wFet58cNnxX_RLwD29Z47AmdO9iYOrLYpWp8RTfs0mXX466mJcbgHvPcb4eylVmVxcZyzu7_YJWeOs11U4-eJvMyOfll4nQX3nmmBWXGOSyb7Av82EpNe0kR2Qvh-AsejDxAldKUyAbOe0-RnL2E5WTnPpf-Kycwu5pX3rzlb_Z0Cp80UCmHKI1HPXfbKjSsus7iHMIg",
+    "category": "AI 하드웨어 인프라, Enterprise AI, LLM",
+    "ecosystemImpact": "클라우드 AI 인프라 확장 및 AI 추론 효율성 극대화.",
+    "importance": 8,
+    "summary": "마이크로소프트가 애저 마이아 AI 시스템 배포를 멀티 기가와트 규모로 확대하고, 2027년 추론 중심의 마이아 300을 출시할 예정이다.",
+    "corporateAction": "AI 서비스 확장을 위한 클라우드 인프라 전략 수립 시, 추론 최적화 하드웨어 도입 고려.",
+    "keywords": [
+      "AI 인프라",
+      "클라우드 AI",
+      "AI 추론",
+      "Microsoft"
+    ],
+    "_key": "42e2ad2125c9",
+    "_createdAt": "2026-10-14T10:29:14.466170+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466170+09:00"
+  },
+  {
+    "title": "엔비디아, 중국 AI 칩 시장 점유율 하락…미국 규제 및 화웨이 경쟁 심화",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6H-14LlCdY0BYUfaL-i0-MNbBVxfFG4GBbaKOTvGAcWE-nU4XcrW-PyFbWKVU3F9lg9XoQ2XB_7waMKGa5mumfGrujwcNEsBr6cpnByhzM5tRoFydxHKYxp2kWqNTHXTsLN1gTVIEhna-jzBh3Yvf8x0Ku74o_xuaG1A2f6oiqc25bYe3kxBKk9fUV3H9AGU6wKmntRQ-0quq3GWLSxAxOi2DVNlV5WJXRrnInA1m0c_n7THyZzBkpoWFTYkhAl0",
+    "category": "AI 하드웨어 인프라, 글로벌 트렌드, AI 보안/망분리",
+    "ecosystemImpact": "AI 반도체 시장 경쟁 심화 및 공급망 불안정성 증대.",
+    "importance": 7,
+    "summary": "미국 수출 규제와 화웨이의 경쟁 심화로 2026년 상반기 엔비디아의 중국 AI 데이터센터 칩 시장 점유율이 34%로 하락했다.",
+    "corporateAction": "AI 인프라 투자 시 지정학적 리스크 및 공급망 다변화 전략 수립 필요.",
+    "keywords": [
+      "AI 반도체",
+      "NVIDIA",
+      "화웨이",
+      "공급망",
+      "지정학"
+    ],
+    "_key": "82765211ba80",
+    "_createdAt": "2026-10-14T10:29:14.466177+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466177+09:00"
+  },
+  {
+    "title": "코오롱베니트 대표, \"AI 도입만으론 생산성 안 높아져…업무 재설계 필요\"",
+    "date": "2026-10-13",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSH0DaxKKezS__v85iT4TOal-nsJ9wh52Cvk17fY1pAlgiMaF4yLIQW5lW7_m7E0JogBPn7y_FK3x36e5pfdT-H_KHJWvptS2yO4ZXjQw8vAhonibeVkqFm4J8UJM6v-UeCwm1z_8g1qry",
+    "category": "Enterprise AI, IT 거버넌스",
+    "ecosystemImpact": "기업 AI 도입 성공을 위한 전략적 접근 및 업무 혁신의 중요성 부각.",
+    "importance": 7,
+    "summary": "코오롱베니트 강이구 대표가 AI 도입만으로 생산성 향상이 어렵고, AI와 사람의 역할 구분 및 업무 재설계가 필수적임을 강조했다.",
+    "corporateAction": "AI 도입 시 기술뿐만 아니라 조직 변화 관리 및 업무 프로세스 재설계에 중점.",
+    "keywords": [
+      "AI 생산성",
+      "업무 재설계",
+      "IT 거버넌스",
+      "조직 변화"
+    ],
+    "_key": "7727a2950ab1",
+    "_createdAt": "2026-10-14T10:29:14.466184+09:00",
+    "_updatedAt": "2026-10-14T10:29:14.466184+09:00"
   }
 ]
