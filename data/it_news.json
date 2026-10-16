@@ -12720,5 +12720,140 @@
     "_key": "7727a2950ab1",
     "_createdAt": "2026-10-14T10:29:14.466184+09:00",
     "_updatedAt": "2026-10-14T10:29:14.466184+09:00"
+  },
+  {
+    "title": "구글, 최상위 AI '제미나이 4 아르곤' 출시",
+    "date": "2026-10-15",
+    "url": "https://www.donga.com/news/article/all/20261014/134843004/2",
+    "category": "LLM",
+    "ecosystemImpact": "복잡한 업무 처리 능력 향상으로 산업 전반의 AI 활용 가속화.",
+    "importance": 9,
+    "summary": "구글이 코딩, 법률, 금융, 과학 등 복잡한 업무에 특화된 최상위 AI 모델 제미나이 4 아르곤을 출시했다.",
+    "corporateAction": "금융/재보험 업무 자동화 및 생산성 향상에 기여할 LLM 모델 적용 가능성을 검토.",
+    "keywords": [
+      "LLM",
+      "Google Gemini",
+      "AI 모델",
+      "금융 AI"
+    ],
+    "_key": "1cb0c77195fd",
+    "_createdAt": "2026-10-16T09:54:42.581274+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581274+09:00"
+  },
+  {
+    "title": "빅테크, 자체 AI칩 개발·도입 확대…서비스 운영 효율 높인다",
+    "date": "2026-10-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQEZE8uCpaXlPvYn_uc_uE0FeFkzCBrIbBmDXKimTR3Fj1A6En5xTqQVbqgu9B8tjijkzZKaJTiTjEVby3ba-u5A3mfRmarSWB2ncB4adYl6tkntmfn07SmOeSKeMMkMSJbpEypiJXWd-LIjH0Wg==",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "AI 인프라 비용 효율성 증대 및 성능 개선을 통해 AI 서비스 확산 촉진.",
+    "importance": 8,
+    "summary": "마이크로소프트, 구글 등 빅테크 기업들이 자체 AI 칩 개발 및 도입을 확대하며 서비스 운영 효율성을 높인다.",
+    "corporateAction": "클라우드 기반 AI 인프라 비용 절감 및 성능 최적화를 위한 자체 칩 전략 변화 모니터링 필요.",
+    "keywords": [
+      "AI 칩",
+      "빅테크",
+      "하드웨어",
+      "클라우드 AI"
+    ],
+    "_key": "d4997bbc25d6",
+    "_createdAt": "2026-10-16T09:54:42.581295+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581295+09:00"
+  },
+  {
+    "title": "AI 해킹 공포…5대 금융 '보안 체계' 뜯어보니",
+    "date": "2026-10-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ0kffpP4UXX8u9fjbMHwWGVSzwZdWC7K1Me0Jx0voSpRpw76yhcpCABxsSRVWdf7_ho4TTt36Q8mT-pDhV83MLasgKe5vBafw04TajXJjkXRCN2nx1ehuFKP1GLgHMIO1rCum5lUffn1ZCveb8ILm_tGXkPaNniLfZQ==",
+    "category": "AI 보안/IT 거버넌스",
+    "ecosystemImpact": "금융권 AI 기반 보안 위협 증가, 선제적 방어 체계 및 규제 강화 필요성 대두.",
+    "importance": 10,
+    "summary": "AI 기반 해킹 위협이 현실화됨에 따라 국내 5대 금융그룹이 AI 기반 탐지 및 자동 대응 등 다층적 보안 체계를 강화하고 있다.",
+    "corporateAction": "AI 기반 보안 솔루션 도입 가속화, 제로 트러스트(Zero Trust) 아키텍처 적용, AI 에이전트 보안 위험 평가 및 통제 강화.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "사이버 보안",
+      "IT 거버넌스"
+    ],
+    "_key": "c43b89892bdd",
+    "_createdAt": "2026-10-16T09:54:42.581302+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581302+09:00"
+  },
+  {
+    "title": "[2026 금융대상] 미래에셋생명, 'AI 네이티브 보험사' 전환 가속화",
+    "date": "2026-10-07",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuU76ZTgtnY3_Qcur1KaEl_ah2ZHM34JndX0TF6jYPIrb599oLqjFI-ApIJ9igYkCxUVP6Uhxla0I_g4ZLE0w8zTUDk03o0Qm4JUBT09V9MfZOvp2G0Va-tCtiFAvTZ-H5un_q8cERHR93BadaeWVyt1z_qDwZP-U=",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험업무 전반의 효율성 및 고객 경험 향상, AI 기반 신규 서비스 모델 창출.",
+    "importance": 9,
+    "summary": "미래에셋생명이 언더라이팅, 헬스케어, 자산운용 등 보험 전반에 AI를 적용하며 'AI 네이티브 보험사'로 전환을 가속화한다.",
+    "corporateAction": "사내 전용 AI 챗봇 및 LLM 기반 언더라이팅 시스템 도입, AI 기반 자산운용 등 AX 전환 모델 벤치마킹.",
+    "keywords": [
+      "보험 AI",
+      "AX",
+      "언더라이팅",
+      "AI 챗봇",
+      "생성형 AI"
+    ],
+    "_key": "ea428358081b",
+    "_createdAt": "2026-10-16T09:54:42.581308+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581308+09:00"
+  },
+  {
+    "title": "JP모건, AI 시대 '통제 불능 에이전트' 대···은행권 새 보안 위협 부상",
+    "date": "2026-10-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgeQ5gcfz0kh-XeHJxZDC7ype1F7jqc2cjZusNLEnxLSSZ7zCKOmQ_6SQ9tT9cGkI2TCofhSo8K1VhiIdOPYmtiJIocK1eirKxPOsdGgf0QfNLJb2BkPHa7amQ6Z1rwpv6YwcU04ZKDuF4MJb0cVY9C8VALhvaJ-CcFD2MIXwy9fILn42HLVOR3TD54C9xIVdGxFWQTzNnGaZ_ba4AByx42VOGIjtmFUVkpgwERmibbQvm0v9E7Y3uE494eczGN_oRNgWH5ZCeoAtfO--w58kdmMjRR_HBilUIJPe56ACSBfovi9sjegKJ1Nol-tYxLewSrUcGHAW-Yp-VbTLkr_q_j4SWy58=",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트의 자율적 행동에 대한 규제 및 통제 프레임워크 구축 필요성 증대.",
+    "importance": 9,
+    "summary": "JP모건 CEO는 AI 에이전트의 무단 행동이 야기할 수 있는 새로운 유형의 보안 위험에 대해 경고하며 통제의 중요성을 강조했다.",
+    "corporateAction": "AI 에이전트 도입 시 책임 소재, 보안, 고객 동의 등 IT 거버넌스 및 리스크 관리 방안 선제적 마련.",
+    "keywords": [
+      "AI Agent",
+      "금융 보안",
+      "IT 거버넌스",
+      "위험 관리"
+    ],
+    "_key": "a03b537d9e53",
+    "_createdAt": "2026-10-16T09:54:42.581313+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581313+09:00"
+  },
+  {
+    "title": "베슬AI, 2030년까지 GPU 20만장 확보 추진…AI 인프라 승부수",
+    "date": "2026-10-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxTjWJBxz4sPtgTU8qEBY0jD2aqvY1QC0c7-lE9pTrkqkDoEYQNg0gHUYY6m7-ihtnG2ZcxSYVXWlC59enrepLjR2lYLCLj3f6PoBJOOk-_IRfHvg4W8kvvoEnqCaJsGoZLHKUcBpDISJo",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "대규모 AI 모델 학습 및 추론에 필요한 컴퓨팅 자원 공급 확대로 AI 산업 성장 견인.",
+    "importance": 8,
+    "summary": "베슬AI가 2030년까지 GPU 20만 장 확보 및 전국 AI 데이터센터 거점 구축을 통해 글로벌 네오클라우드 기업으로 도약한다.",
+    "corporateAction": "고성능 AI 워크로드 처리를 위한 안정적인 GPU 인프라 확보 전략 및 클라우드 파트너십 강화 검토.",
+    "keywords": [
+      "GPU",
+      "AI 인프라",
+      "데이터센터",
+      "네오클라우드",
+      "하드웨어"
+    ],
+    "_key": "4ef19ccf8dd3",
+    "_createdAt": "2026-10-16T09:54:42.581319+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581319+09:00"
+  },
+  {
+    "title": "美·中, 11월 시진핑-트럼프 회담 앞두고 'AI 거버넌스 협약' 조율 총력",
+    "date": "2026-10-15",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVL2njthK3IruA4sVtBkL8EMHGASzuHYi7Jncp_rK6sNuWlTYyeTsb0KVarHdpxDc_QmXm6UWBubnIItek0K3-8Dy2NMkyygSV2Op7wLzBJub_Y3DYY_I3N0oiRR2ah9PcC4DCbfjjsURxkiroYjv_dvWGWjBVMfDcw1FzwXmUOoJhW5b4RFYQgMruaQ==",
+    "category": "IT 거버넌스/글로벌 트렌드",
+    "ecosystemImpact": "글로벌 AI 규범 형성 및 국제적 협력 채널 구축으로 AI 리스크 관리 표준화 기대.",
+    "importance": 9,
+    "summary": "미국과 중국이 11월 정상회담을 앞두고 AI 안전 및 위기관리 프레임워크, 양자 소통 채널 구축을 위한 협약 조율에 집중하고 있다.",
+    "corporateAction": "글로벌 AI 규제 동향 및 거버넌스 표준화 움직임을 주시하고, 국내외 정책 변화에 선제적으로 대응.",
+    "keywords": [
+      "AI 거버넌스",
+      "국제 협력",
+      "AI 규제",
+      "글로벌 트렌드"
+    ],
+    "_key": "26d6fe96f1e8",
+    "_createdAt": "2026-10-16T09:54:42.581327+09:00",
+    "_updatedAt": "2026-10-16T09:54:42.581327+09:00"
   }
 ]
