@@ -12998,5 +12998,150 @@
     "_key": "1ce562dee7df",
     "_createdAt": "2026-10-17T09:54:33.531279+09:00",
     "_updatedAt": "2026-10-17T09:54:33.531279+09:00"
+  },
+  {
+    "title": "NVIDIA, 데스크탑 AI 시대 여는 RTX Spark 플랫폼 출시: 1페타플롭 AI 연산 가능",
+    "date": "2026-10-17",
+    "url": "https://forkast.news/nvdia-rtx-spark-ships-petaflop-desktop-compute-landlord-extends-lease/",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "로컬 AI 추론을 엔터프라이즈 표준으로 격상, 데이터 주권 강화.",
+    "importance": 10,
+    "summary": "NVIDIA가 Blackwell RTX GPU 및 Grace Armv9 CPU 기반의 RTX Spark 플랫폼을 출시, 1페타플롭 AI 연산 능력을 데스크탑에서 제공하며 온디바이스 AI 시대를 본격화했다.",
+    "corporateAction": "GPU 의존형 클라우드에서 로컬 AI 전환을 위한 하드웨어 전략 및 비용 효율성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "RTX Spark",
+      "Blackwell",
+      "Grace CPU",
+      "온디바이스 AI",
+      "AI 하드웨어"
+    ],
+    "_key": "e957c0719b1b",
+    "_createdAt": "2026-10-18T09:30:56.538978+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.538978+09:00"
+  },
+  {
+    "title": "중국, 대형 AI 모델 및 AI 에이전트 포함 40개 핵심 기술 수출 통제 추진",
+    "date": "2026-10-17",
+    "url": "https://www.newspim.com/news/view/20261017000000",
+    "category": "글로벌 트렌드/IT 거버넌스",
+    "ecosystemImpact": "글로벌 AI 기술 공급망 및 개발 생태계에 중대한 지정학적 영향 예상.",
+    "importance": 10,
+    "summary": "중국 상무부와 과학기술부가 대형 AI 모델 및 AI 에이전트 관련 기술을 포함한 40개 핵심 기술의 수출 통제 목록 추가를 추진한다.",
+    "corporateAction": "핵심 AI 기술 도입 시 중국발 기술 의존도 리스크 평가 및 다변화 전략 수립.",
+    "keywords": [
+      "중국",
+      "AI 규제",
+      "기술 수출 통제",
+      "AI 에이전트",
+      "LLM",
+      "지정학"
+    ],
+    "_key": "fa4828080377",
+    "_createdAt": "2026-10-18T09:30:56.539000+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539000+09:00"
+  },
+  {
+    "title": "금융당국, AI 보안 강화를 위한 망분리 규제 완화 2차 선정 연기: 금융권 해킹 사고 영향",
+    "date": "2026-10-16",
+    "url": "https://www.asiatoday.co.kr/view.php?key=20261016001000",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 및 보안 체계 구축 속도에 불확실성 증대.",
+    "importance": 9,
+    "summary": "금융당국이 AI 보안 강화를 위한 망분리 규제 완화 2차 대상 선정 일정을 금융권 해킹 사고로 연기했다.",
+    "corporateAction": "강화된 보안 요구사항에 맞춰 AI 도입 로드맵 재검토 및 규제 준수 방안 마련.",
+    "keywords": [
+      "금융 규제",
+      "망분리",
+      "AI 보안",
+      "IT 거버넌스",
+      "규제 샌드박스"
+    ],
+    "_key": "4c7dfc4bd247",
+    "_createdAt": "2026-10-18T09:30:56.539009+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539009+09:00"
+  },
+  {
+    "title": "앤트로픽 공동창업자, AI로 4년간 美 GDP 50% 성장 전망",
+    "date": "2026-10-17",
+    "url": "https://www.yna.co.kr/view/AKR20261017000000000",
+    "category": "글로벌 트렌드",
+    "ecosystemImpact": "AI의 막대한 경제적 파급력에 대한 기대감 고조 및 산업 전반의 AI 도입 가속화.",
+    "importance": 9,
+    "summary": "앤트로픽 공동창업자 잭 클라크는 AI 기술 발전이 미국의 GDP를 4년간 50% 성장시킬 것이며, 과학적 발견을 비약적으로 증대시킬 것이라고 전망했다.",
+    "corporateAction": "장기적인 AI 투자 전략 수립 시 AI 기술이 가져올 거시 경제적 변화 및 산업별 파급효과 고려.",
+    "keywords": [
+      "앤트로픽",
+      "경제 영향",
+      "AI 발전",
+      "거시경제",
+      "산업 변화"
+    ],
+    "_key": "102e688fea78",
+    "_createdAt": "2026-10-18T09:30:56.539015+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539015+09:00"
+  },
+  {
+    "title": "딥씨크, AI 모델 업데이트 및 검색(Search)/페치(Fetch) API 전면 개방",
+    "date": "2026-10-17",
+    "url": "https://kr.investing.com/news/stock-market-news/article-906001",
+    "category": "LLM/AI Agent",
+    "ecosystemImpact": "경쟁 모델 성능 향상 및 개발자 생태계 확대로 LLM 활용성 증대.",
+    "importance": 8,
+    "summary": "중국 AI 스타트업 딥씨크가 DeepSeek-V4.1-Flash-1017 모델을 업데이트하고 검색 및 페치 API를 모든 사용자에게 개방, 효율성과 도구 접근성을 높였다.",
+    "corporateAction": "새로운 LLM 및 API 서비스의 기술 스택 및 비용 효율성 분석을 통한 내부 시스템 적용 가능성 검토.",
+    "keywords": [
+      "DeepSeek",
+      "LLM",
+      "API",
+      "검색 증강 생성",
+      "AI 모델",
+      "스타트업"
+    ],
+    "_key": "b6ec4eafab79",
+    "_createdAt": "2026-10-18T09:30:56.539021+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539021+09:00"
+  },
+  {
+    "title": "보험업계, 혁신금융서비스 AI 쏠림: 업무 효율화에 집중",
+    "date": "2026-10-16",
+    "url": "https://www.ajunews.com/view/20261016091000",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험 산업 내 AI 활용이 비용 절감 및 생산성 개선에 집중되는 경향 심화.",
+    "importance": 7,
+    "summary": "보험업계의 혁신금융서비스가 AI를 활용한 상담, 업무 지원, 직원 교육 등에 편중되어, 새로운 상품 개발보다는 기존 업무 자동화에 무게를 두는 경향이 나타났다.",
+    "corporateAction": "AI 혁신 추진 방향 재정립: 단순 업무 자동화를 넘어선 AI 기반 신규 상품/서비스 개발 투자 확대 검토.",
+    "keywords": [
+      "보험",
+      "AI 도입",
+      "혁신금융서비스",
+      "AX",
+      "업무 자동화",
+      "생산성"
+    ],
+    "_key": "d4abcf3e3c1d",
+    "_createdAt": "2026-10-18T09:30:56.539025+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539025+09:00"
+  },
+  {
+    "title": "엑시나, CXL 기반 메모리 솔루션 'MX1'으로 AI 추론 및 RAG 벡터 검색 가속화",
+    "date": "2026-10-16",
+    "url": "https://www.news1.kr/articles/20261016000000",
+    "category": "AI 하드웨어 인프라/RAG",
+    "ecosystemImpact": "AI 추론 효율성 및 RAG 시스템 성능 향상에 기여, 데이터센터 인프라 변화 촉진.",
+    "importance": 7,
+    "summary": "엑시나가 OCP 글로벌 서밋에서 CXL 기반 메모리 솔루션 'MX1'을 공개, 서버 간 KV 캐시 공유 및 RAG 벡터 검색 가속화를 통해 AI 추론 시장을 공략한다.",
+    "corporateAction": "LLM 및 RAG 기반 서비스 확대를 위해 CXL 메모리 기술 도입을 통한 인프라 최적화 검토.",
+    "keywords": [
+      "CXL",
+      "AI 추론",
+      "RAG",
+      "메모리",
+      "하드웨어",
+      "데이터센터"
+    ],
+    "_key": "4c73b7840c85",
+    "_createdAt": "2026-10-18T09:30:56.539031+09:00",
+    "_updatedAt": "2026-10-18T09:30:56.539031+09:00"
   }
 ]
