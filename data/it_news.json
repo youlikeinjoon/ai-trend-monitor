@@ -13143,5 +13143,141 @@
     "_key": "4c73b7840c85",
     "_createdAt": "2026-10-18T09:30:56.539031+09:00",
     "_updatedAt": "2026-10-18T09:30:56.539031+09:00"
+  },
+  {
+    "title": "글로벌 재보험사 '리인슈어텍 솔루션즈', AI 기반 언더라이팅 에이전트 전면 도입 발표",
+    "date": "2026-10-18",
+    "url": "https://example.com/reinsuretech-ai-underwriting-agent-rollout-20261018",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "재보험 산업의 언더라이팅 프로세스 혁신 및 효율성 증대.",
+    "importance": 10,
+    "summary": "리인슈어텍 솔루션즈가 리스크 평가 및 가격 책정을 자동화하는 AI 에이전트를 모든 사업부에 도입하여 운영 효율을 극대화한다.",
+    "corporateAction": "당사 재보험 언더라이팅 부서의 AI 에이전트 도입 타당성 및 비용-효과 분석 착수.",
+    "keywords": [
+      "AI Agent",
+      "재보험",
+      "언더라이팅",
+      "AX",
+      "프로세스자동화"
+    ],
+    "_key": "3dce4e759196",
+    "_createdAt": "2026-10-19T09:37:18.742363+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742363+09:00"
+  },
+  {
+    "title": "메타, 기억 및 자율 실행 기능을 갖춘 차세대 AI 모델 'Muse Wonder Full' 발표",
+    "date": "2026-10-18",
+    "url": "https://example.com/meta-muse-wonder-full-20261018",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "AI 모델의 자율성 및 복합 작업 처리 능력 향상으로 산업 전반에 영향.",
+    "importance": 9,
+    "summary": "메타가 기억력과 자율 실행 능력을 갖춘 차세대 AI 모델 'Muse Wonder Full'을 공개, AI 에이전트 개발에 새 지평을 열었다.",
+    "corporateAction": "최신 자율 AI 에이전트 기술 동향 분석 및 당사 비즈니스 적용 가능성 심층 검토.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "메타",
+      "Muse Wonder",
+      "자율AI"
+    ],
+    "_key": "ffb48154b6ba",
+    "_createdAt": "2026-10-19T09:37:18.742390+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742390+09:00"
+  },
+  {
+    "title": "엔비디아, 차세대 AI 데이터센터를 위한 '블랙웰 울트라' 플랫폼 공개",
+    "date": "2026-10-18",
+    "url": "https://example.com/nvidia-blackwell-ultra-platform-20261018",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 모델 훈련 및 추론 성능의 비약적 향상과 비용 효율성 개선 기대.",
+    "importance": 9,
+    "summary": "엔비디아가 블랙웰 아키텍처 기반의 고성능 '블랙웰 울트라'를 발표, 엔터프라이즈 AI 인프라 혁신을 예고하며 시장을 선도한다.",
+    "corporateAction": "당사 온프레미스 AI 인프라 확장을 위한 블랙웰 울트라 도입의 기술적, 경제적 타당성 검토.",
+    "keywords": [
+      "NVIDIA",
+      "블랙웰",
+      "AI인프라",
+      "데이터센터",
+      "GPU"
+    ],
+    "_key": "a0ca4a703c17",
+    "_createdAt": "2026-10-19T09:37:18.742399+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742399+09:00"
+  },
+  {
+    "title": "금융당국, AI 기반 맞춤형 보험 상품 개발 위한 규제 샌드박스 확대",
+    "date": "2026-10-18",
+    "url": "https://example.com/financial-regtech-sandbox-20261018",
+    "category": "IT 거버넌스/보안, 보험/AX",
+    "ecosystemImpact": "AI 활용 금융 혁신 촉진 및 신규 서비스 출시 기회 확대.",
+    "importance": 8,
+    "summary": "금융위원회가 AI 기반 맞춤형 보험 상품 개발을 지원하는 규제 샌드박스 적용 범위를 대폭 넓혀 금융 혁신을 장려한다.",
+    "corporateAction": "AI 기반 신규 상품 개발을 위한 규제 샌드박스 참여 가능성 및 전략적 방안 모색.",
+    "keywords": [
+      "금융규제",
+      "규제샌드박스",
+      "개인맞춤보험",
+      "AI상품개발"
+    ],
+    "_key": "4630a8fe5d2b",
+    "_createdAt": "2026-10-19T09:37:18.742406+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742406+09:00"
+  },
+  {
+    "title": "금융보안원, AI 활용한 금융 망분리 우회 공격 탐지 시스템 개발 착수",
+    "date": "2026-10-18",
+    "url": "https://example.com/fsi-ai-network-security-20261018",
+    "category": "IT 거버넌스/보안, AI 보안",
+    "ecosystemImpact": "금융 시스템의 AI 기반 보안 강화 및 사이버 위협 대응 능력 향상.",
+    "importance": 8,
+    "summary": "금융보안원이 AI 기술을 이용해 고도화되는 망분리 우회 공격을 조기에 탐지하는 시스템 개발에 나서 금융 보안을 강화한다.",
+    "corporateAction": "당사 AI 보안 시스템 강화 방안으로 해당 기술의 도입 가능성을 선제적으로 검토하고 연구.",
+    "keywords": [
+      "AI보안",
+      "망분리",
+      "금융보안",
+      "사이버보안"
+    ],
+    "_key": "c8068336080b",
+    "_createdAt": "2026-10-19T09:37:18.742413+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742413+09:00"
+  },
+  {
+    "title": "딥시크, 오픈AI 및 앤트로픽 모델 능가하는 저비용 고효율 LLM '딥시크 V4.1-Flash-1017' 공개",
+    "date": "2026-10-18",
+    "url": "https://example.com/deepseek-v4.1-flash-1017-20261018",
+    "category": "LLM",
+    "ecosystemImpact": "고성능 LLM의 비용 효율성 증대로 광범위한 AI 도입 가속화.",
+    "importance": 7,
+    "summary": "딥시크가 오픈AI와 앤트로픽의 일부 LLM 성능을 능가하며 가격은 40분의 1에 불과한 저비용 고효율 모델을 발표, 시장에 큰 영향을 미친다.",
+    "corporateAction": "비용 효율적인 LLM 도입을 위한 시장 동향 분석 및 기존 LLM 활용 전략 재검토.",
+    "keywords": [
+      "LLM",
+      "저비용AI",
+      "고효율AI",
+      "딥시크"
+    ],
+    "_key": "8eab0ac0f211",
+    "_createdAt": "2026-10-19T09:37:18.742424+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742424+09:00"
+  },
+  {
+    "title": "레저, AI 에이전트 승인 및 개인정보 보호를 위한 보안 기기 '레저 아톰' 공개",
+    "date": "2026-10-18",
+    "url": "https://example.com/ledger-atom-security-device-20261018",
+    "category": "AI Agent, AI 보안",
+    "ecosystemImpact": "AI 에이전트 사용 환경의 보안 및 개인정보 보호 표준 강화.",
+    "importance": 7,
+    "summary": "레저가 AI 에이전트 승인 및 개인정보 보호에 특화된 보안 기기 '레저 아톰'을 출시, 민감한 디지털 가치를 보호하는 데 집중한다.",
+    "corporateAction": "AI 에이전트 도입 시 사용자 인증 및 보안 강화를 위한 하드웨어 기반 솔루션 도입 가능성 검토.",
+    "keywords": [
+      "AI Agent",
+      "AI 보안",
+      "개인정보보호",
+      "하드웨어보안"
+    ],
+    "_key": "3d17ef9685df",
+    "_createdAt": "2026-10-19T09:37:18.742432+09:00",
+    "_updatedAt": "2026-10-19T09:37:18.742432+09:00"
   }
 ]
