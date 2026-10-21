@@ -13416,5 +13416,145 @@
     "_key": "195aa4318de5",
     "_createdAt": "2026-10-20T10:22:09.514811+09:00",
     "_updatedAt": "2026-10-20T10:22:09.514811+09:00"
+  },
+  {
+    "title": "llm-d 1.0, 엔터프라이즈 규모의 비용 효율적인 AI 추론 및 에이전트 워크로드 혁신 발표",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4G68WZsFYlJOLlA-IDuz6TNRYtAeqvgTnGQPoRnbDScoRrcBno3AKqKZa0u_ZA4eTi4UpwNiil1IRna5OB5m5RvHJ_y2at1V67_dniFj8CHXv9_P0SDU0WbatiRPIAxhWyxwQjOMtidWRvaY7k49I3WtIOrwWSeFSxQ-uVzkW9KAdYEKXzGJeh1pP60u_ECIlSVTHTWy1j7enAf1zWmmS320TtnruVx0=",
+    "category": "LLM",
+    "ecosystemImpact": "오픈소스 LLM 추론 효율성 및 비용 절감 가속화, AI 에이전트 확장성 증대.",
+    "importance": 10,
+    "summary": "llm-d 1.0이 분산 추론 코어를 통합하여 엔터프라이즈 AI 서비스 효율성을 향상하고, 특히 컨텍스트가 풍부한 에이전트 워크로드의 비용을 5~10배 절감하며 처리량을 3배 증가시켰다.",
+    "corporateAction": "내부 LLM 활용 시 llm-d와 같은 오픈소스 기반 솔루션 도입 검토, 에이전트 기반 서비스 효율성 강화 방안 모색.",
+    "keywords": [
+      "LLM",
+      "AI Agent",
+      "오픈소스",
+      "추론",
+      "비용 효율성"
+    ],
+    "_key": "98b44a79ad2c",
+    "_createdAt": "2026-10-21T10:08:59.720065+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720065+09:00"
+  },
+  {
+    "title": "FSB, 금융기관의 책임감 있는 AI 도입을 위한 12가지 건전한 관행 발표",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY0C1Q0nzAD0JYVRPVZ4kYcMn2UcwUnbuP_haX4HrfX02trqNuA2UY48gxl0i0eS-meaCwe_0wGIzeQIQAvwLaneK7iCmMIrTEPHCDEoS1SvcRYtF08jwRzd0LppUEdathPvFe7O4XBI8lG8CkWHS3XdRjACrmyOASynOb9cIHbt0jwhvuKSjnrYlYaa7MoMeOFrkgKSBBmHiAxjqG8I4",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "글로벌 금융 AI 규제 및 거버넌스 프레임워크 강화, AI 신뢰성 증대.",
+    "importance": 9,
+    "summary": "금융안정위원회(FSB)가 금융기관의 책임감 있는 AI 도입을 위한 12가지 건전한 관행을 담은 최종 보고서를 발표했다.",
+    "corporateAction": "FSB 가이드라인을 AI 거버넌스 프레임워크에 즉시 반영하여 AI 시스템 개발 및 운영의 책임성과 투명성 강화.",
+    "keywords": [
+      "AI 거버넌스",
+      "금융 규제",
+      "FSB",
+      "AI 윤리",
+      "책임감 있는 AI"
+    ],
+    "_key": "af3939cc8114",
+    "_createdAt": "2026-10-21T10:08:59.720088+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720088+09:00"
+  },
+  {
+    "title": "무디스 보고서: 북미 보험사의 AI 주류화, 그러나 ROI 입증은 미흡",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYbjG1u98pAuQ08klItFuEnSAC_Mhlb2eynN9KPRtr9bQHeKRGRcPFWlkV6hvjCSBm9EpmWOqJwCmhpCIRyYlJpto4Ch7nfEu0zAosgh8WU7hToc-2pADNJx8ukSFRv_PbbwDiu3gt_lwEAyiz7k8BfnDLmTK2IcRraOCcqLyjqABjVvNtC1-nCB40J90C6CoUdRqy4pmjekcbYeSFiEy78E9GxBPP-4KZQcOR4EixBuIPl8DSy5ewpxlrEhzJ0FokB0PPcvMim_tbtG3PuIX",
+    "category": "보험/AX",
+    "ecosystemImpact": "보험업계 AI 도입 현실 반영, ROI 측정 및 전략적 통합의 중요성 부각.",
+    "importance": 8,
+    "summary": "무디스 조사에 따르면 북미 보험사 및 브로커의 2/3가 AI를 운영에 도입했으나, 대다수는 그 투자수익률(ROI)을 일관되게 추적하지 못하고 있다.",
+    "corporateAction": "AI 도입 시 명확한 성과 지표 설정 및 ROI 추적 시스템 구축, AI 전략의 전사적 통합 가속화.",
+    "keywords": [
+      "보험",
+      "AI 도입",
+      "ROI",
+      "생성형 AI",
+      "언더라이팅"
+    ],
+    "_key": "9571caaa81a3",
+    "_createdAt": "2026-10-21T10:08:59.720097+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720097+09:00"
+  },
+  {
+    "title": "AWS와 NVIDIA, 에이전트 AI 및 물리적 AI를 위한 2백만 추가 GPU 및 차세대 인프라 제공 계획 발표",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYo6_EYhkcu3Vg0bnrw1QSassYsZGsUklkmHlS2mByTwvKX2e3AOalLqq7N4OUd6w0jW4vfEdlaIl_K7YrGbWw7rUY5NjcBu3IeC9fWlRaJB6Y8ZrYCA3Y-WyeK1uKKjh6ApcrrQXVMl8h2Lx7ppw_L3tdBJ2PbFkaEI5b8MupJ1as5O2D2-GgPnaAzT5cPI7Er3xphuHCuY4GVyv2WozgKOowC9-12em8obfyhEkZbDN8XeQzLu0Ew_35HYmwTucAwnaZTFZwv8sK0graQdqwx0ym9Lr0zXd61TiLv6togXTm2RG453pHWphlLUHEHWd3FQoj0m9g",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 자원 대폭 확장, 에이전트 AI 및 물리적 AI 발전 가속화.",
+    "importance": 9,
+    "summary": "AWS와 NVIDIA가 AI 인프라 수요 충족을 위해 2027-2028년에 걸쳐 2백만 개의 추가 NVIDIA GPU를 AWS 글로벌 인프라에 배포하고 협력을 심화할 계획을 발표했다.",
+    "corporateAction": "장기적인 AI 인프라 로드맵 수립 시 GPU 가용성 및 클라우드 파트너십 전략을 고려, 에이전트 AI 도입 대비 인프라 투자 계획 수립.",
+    "keywords": [
+      "NVIDIA",
+      "GPU",
+      "AWS",
+      "AI 인프라",
+      "Agentic AI"
+    ],
+    "_key": "100f0ac5be4b",
+    "_createdAt": "2026-10-21T10:08:59.720106+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720106+09:00"
+  },
+  {
+    "title": "금융권 망분리 규제 완화 검토: AI 기반 보안체계 도입 활성화",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBGq6qoDhpYiq95cylxW86hamFy9KsRZ9ZNvVI4EgW4_YXiJ0w3O8g38w192zpv5iX5AD-BHB6-7J4LT9fgXt9cEd8Ydee-zVsb8O-1EwKZaINEn4OZRbPOsYY_Th5AAkaDxeiSBx9rmgu3RbGnwnXnf_ABwnBGtdz4JL4",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "국내 금융 AI 보안 환경 변화, AI 기반 방어체계 도입 촉진 및 규제 유연성 확보.",
+    "importance": 8,
+    "summary": "국정감사에서 금융권 해킹 사고를 계기로 AI 기반 보안체계 도입을 가로막는 망분리 규제 개선 필요성이 제기되었으며, 금융위원장은 단계적 완화를 검토하겠다고 밝혔다.",
+    "corporateAction": "완화될 망분리 규제에 맞춰 AI 기반 보안 솔루션 도입 계획을 수립하고, AI 보안 및 금융 규제 준수 로드맵 재정비.",
+    "keywords": [
+      "AI 보안",
+      "망분리",
+      "금융 규제",
+      "사이버 보안",
+      "IT 거버넌스"
+    ],
+    "_key": "f9f6fec42d63",
+    "_createdAt": "2026-10-21T10:08:59.720113+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720113+09:00"
+  },
+  {
+    "title": "AI 에이전트, 금융 컴플라이언스 대변혁 주도: 'AI 기본법' 시행과 책임 소재 명확화",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBcHdd7gvuDLsxVz3_8MDvGnywlrQDU7Y2LASwbWhyWRXtlmtCd76e9KtJ_VsTH1r1-KK0ei8KWzu1eEnIg45eiXASx0GV_RPdqRWLEx67lWvAnRO9zcJvVx5rrc8=",
+    "category": "AI Agent",
+    "ecosystemImpact": "금융 AI 에이전트 확산 가속화 및 관련 법적/윤리적 책임 프레임워크 강화.",
+    "importance": 9,
+    "summary": "2026년 'AI 기본법' 시행에 따라 금융 AI 에이전트의 자율적 판단 및 실행에 대한 거버넌스와 책임 소재가 명확화되며, 설명요구권 및 투자자 보호 장치가 강화된다.",
+    "corporateAction": "AI 에이전트 도입 시 AI 거버넌스 체계를 고도화하고, 설명가능성 및 책임 소재 명확화를 위한 내부 프로세스 구축.",
+    "keywords": [
+      "AI Agent",
+      "금융 규제",
+      "AI 기본법",
+      "AI 거버넌스",
+      "컴플라이언스"
+    ],
+    "_key": "3a8fbd90c7da",
+    "_createdAt": "2026-10-21T10:08:59.720120+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720120+09:00"
+  },
+  {
+    "title": "재보험 산업, AI 활용으로 보이지 않는 위험 해소 및 성장 촉진 제안",
+    "date": "2026-10-20",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq8O6DOeB7BwQW7JMSH4y7R_-nk3qURlAzZo5m_UocDqqgIjFlRY6Ydo9noMhMLIvr0mIIkE29cVBPzx1oIPq6aYOtU8vkZ-jqcBjhjTeIHbHfOwGT3pOBzkjx0oinexyvwR2_V6VP0S3jeAm1mIOrp1gcHe6JM7UmZ7B_ZVvxhn99A-8kN0J_qEgto1lqNRbcsDD7U-V1MJV5X6CNoy3C_yzTRCeqi_VnN4vdCt5r7BtnPkcjgGGVWCXL958Z",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 분야 AI 적용 확대 및 운영 모델 혁신, 리스크 관리 및 수익성 개선 기대.",
+    "importance": 7,
+    "summary": "mea Platform의 Fernando Villar는 재보험사가 AI를 활용하여 운영상의 맹점을 해결하고, 자동화를 넘어 의사 결정을 지원함으로써 성장, 리스크, 수익을 향상할 수 있다고 제안했다.",
+    "corporateAction": "AI를 활용한 언더라이팅 및 리스크 관리 프로세스 고도화 검토, AI 기반 의사 결정 지원 시스템 구축으로 운영 효율성 제고.",
+    "keywords": [
+      "재보험",
+      "AI",
+      "언더라이팅",
+      "리스크 관리",
+      "AX"
+    ],
+    "_key": "1e18b22fb590",
+    "_createdAt": "2026-10-21T10:08:59.720126+09:00",
+    "_updatedAt": "2026-10-21T10:08:59.720126+09:00"
   }
 ]
