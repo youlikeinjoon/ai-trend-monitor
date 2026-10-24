@@ -13822,5 +13822,146 @@
     "_key": "188e5e4285b7",
     "_createdAt": "2026-10-23T10:07:07.339395+09:00",
     "_updatedAt": "2026-10-23T10:07:07.339395+09:00"
+  },
+  {
+    "title": "Google Cloud, OpenAI GPT-6 모델 지원으로 엔터프라이즈 AI 플랫폼 확장",
+    "date": "2026-10-22",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4uxAoE7ZMKjf7FvCw8JdiWXYbYuWXuA7PwhPYGWh1HOpEInsyGfMygMBxcBO8bo5_BflBTH2jfBxISa3A4-9pHTz4koAU5VrJnt3Ty1MUyWrRKbNHIQxDe-sKPdhGGysQ_fFH6TQhFl5XNev-KK5uKzn76cfEHytUIeDU8ug3Kbl4Az5AA0RAuqyyj0gG1qgAXGrGtSW9_BBNG8l23AWpI2aIcnVVqQ",
+    "category": "LLM",
+    "ecosystemImpact": "기업 고객의 LLM 선택권 확대 및 멀티 AI 모델 전략 가속화",
+    "importance": 10,
+    "summary": "Google Cloud가 모델 가든에 OpenAI의 최신 GPT-6 Astra, Sol, Luna 모델을 추가하여 고객에게 200개 이상의 모델 선택지를 제공한다. 이는 기업 AI 워크로드에 최적의 모델을 유연하게 활용할 수 있게 한다.",
+    "corporateAction": "다양한 LLM 모델 활용 전략을 검토하고, 멀티 모델 기반의 AI 서비스 아키텍처 구축 방안 모색",
+    "keywords": [
+      "LLM",
+      "Google Cloud",
+      "OpenAI GPT-6",
+      "엔터프라이즈 AI",
+      "멀티 모델"
+    ],
+    "_key": "1488466f1534",
+    "_createdAt": "2026-10-24T10:15:58.499232+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499232+09:00"
+  },
+  {
+    "title": "BNK금융, 삼성SDS와 그룹 공동 생성형 AI 플랫폼 구축 및 거버넌스 강화 추진",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqNdlJF21hTYsS1TytNo0txP1_HsmhOag7znHJFDTBm8V6x4FiwDmNP38dDoeVhtLvpWqc4zP3BI1QQ8H2tN40XI_xpPDSacH75qMAOIYaEdzxji9Bw9MVGJcELmJphw3sbf76hPmS6BPjyobmb27SxUe9tA8=",
+    "category": "보험/AX",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 AI 거버넌스 표준 모델 확립 기여",
+    "importance": 9,
+    "summary": "BNK금융그룹이 삼성SDS를 우선협상대상자로 선정하여 전 계열사 공동 생성형 AI 플랫폼을 구축한다. AI 거버넌스 포털을 통해 투명성을 높이고 위험을 관리할 계획이다.",
+    "corporateAction": "그룹사 차원의 생성형 AI 플랫폼 구축 및 AI 거버넌스 체계 수립 사례를 벤치마킹하여 도입 전략 수립",
+    "keywords": [
+      "생성형 AI",
+      "금융 AI",
+      "AI 거버넌스",
+      "BNK금융",
+      "삼성SDS"
+    ],
+    "_key": "ab2e261fd311",
+    "_createdAt": "2026-10-24T10:15:58.499258+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499258+09:00"
+  },
+  {
+    "title": "Unstructured, GPT-6 등 능가하는 문서 파싱 특화 AI 모델 'Transform' 출시",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmp5Livg720-KURFp-pGmJbNnonfJAxFn54hyNOKHeP0sXcRtD4q-eDAhziKecD28_7FN7cuDPzP0ex95QPcWkQ0CmvW8KV-k8P2YluUMMQqSvGEfbb3b3m6EoPbTXaNWcA2vK9V3BNH6eNV-q4zZNabQzjFcxOcjp8k4",
+    "category": "RAG",
+    "ecosystemImpact": "기업의 복잡한 문서 처리 효율 증대 및 RAG 기술 상용화 촉진",
+    "importance": 9,
+    "summary": "Unstructured가 GPT-6, Claude, Gemini보다 복잡한 문서 파싱에서 더 높은 정확도와 빠른 속도를 제공하는 'Transform' 모델을 출시했다. 이는 문서 인텔리전스 워크플로우에 특화된 솔루션이다.",
+    "corporateAction": "재보험 문서 처리, 언더라이팅 자동화 등 RAG 기반 AI 도입 시 특화된 문서 파싱 기술 도입 검토",
+    "keywords": [
+      "RAG",
+      "문서 파싱",
+      "LLM",
+      "기업 AI",
+      "Unstructured"
+    ],
+    "_key": "b76501e86991",
+    "_createdAt": "2026-10-24T10:15:58.499269+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499269+09:00"
+  },
+  {
+    "title": "더존비즈온, 법무법인 세종과 기업 AI 거버넌스·컴플라이언스 시장 공략",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFdTPyVAV80G3s64bDeWDfdcvdbsD9dZceTimt7_rG5hTfpDc64Ka0n_6Rv58MGUSWexNy9m5-Iu5dTyv5hHAHVoDPsSj4ZPCRfwKT18D0g9i8SGXnZLtKxB0NEkbKzTLoj0ICP1gkIUfn3pDSoOJ5cA==",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 도입 기업의 규제 준수 및 리스크 관리 역량 강화 지원",
+    "importance": 8,
+    "summary": "더존비즈온과 법무법인 세종이 AI 거버넌스 및 컴플라이언스 분야 협력 MOU를 체결, 기업의 AI 전환(AX) 과정에서 발생하는 법률 및 규제 대응을 지원한다.",
+    "corporateAction": "AI 도입 및 활용 과정에서 발생할 수 있는 법률 및 규제 리스크에 선제적으로 대응하기 위한 전문가 자문 및 시스템 구축 협력 모델 검토",
+    "keywords": [
+      "AI 거버넌스",
+      "AI 규제",
+      "컴플라이언스",
+      "금융망분리",
+      "더존비즈온",
+      "법무법인 세종"
+    ],
+    "_key": "0441f4ee0a36",
+    "_createdAt": "2026-10-24T10:15:58.499281+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499281+09:00"
+  },
+  {
+    "title": "금융권, 국회 국감서 AI 보안 강화 및 망분리 규제 완화 논의 활발",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFT-CDs2kzHmHeXR5kYIutKPdbZOYpXxt51m9uURuZ9MqNPcMR4wFc810UKmsslOaz73jUYArtD2aSFWTQ1v655A44c-AuKdWM3bunoyVv9wf3gY1AEsNijWY9u0yPn7z-",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 촉진 및 AI 기반 보안 시스템 전환 가속화",
+    "importance": 8,
+    "summary": "국회 정무위원회 국정감사에서 금융권의 AI 활용 확대를 위한 망분리 규제 개선과 AI 기반 보안 시스템 도입 필요성이 집중 논의되었다.",
+    "corporateAction": "AI 보안 강화를 위한 망분리 규제 완화 동향을 주시하고, 생성형 AI 및 클라우드 기반 보안 솔루션 도입 전략 재검토",
+    "keywords": [
+      "AI 보안",
+      "망분리",
+      "금융 규제",
+      "국정감사",
+      "생성형 AI"
+    ],
+    "_key": "3bb3caba40ad",
+    "_createdAt": "2026-10-24T10:15:58.499289+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499289+09:00"
+  },
+  {
+    "title": "NVIDIA, AI 팩토리 인프라 통합 모니터링 플랫폼 'Minerva AIOps' 출시",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDpHlqXuYQZxd7pjkD2xE-G1Qm4r4qfZC5KFc7rVLPY5ZFlZMEIKDXruZ3lFxwmp2MXnVs6iLCj_tfnB4Mwb_BLqOoaT5Fv8jcubA7LKbFqCt_VRHmvVFdGNw3RcqIvD080GV-5oJ_8UF7OkdVdIc6es2AXs5YSqD-wafWKA==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "대규모 AI 인프라 운영 효율성 및 안정성 향상 기여",
+    "importance": 7,
+    "summary": "NVIDIA가 AI 팩토리 인프라를 위한 AIOps 플랫폼 'Minerva'를 공식 출시했다. 이 플랫폼은 GPU 클러스터, 네트워킹, 스토리지 전반의 통합 가시성을 제공하여 실시간 모니터링 및 최적화를 지원한다.",
+    "corporateAction": "대규모 AI 인프라 구축 및 운영 시 Minerva와 같은 AIOps 솔루션 도입을 통해 효율적인 자원 관리 및 장애 대응 체계 마련",
+    "keywords": [
+      "NVIDIA",
+      "AIOps",
+      "AI 팩토리",
+      "AI 인프라",
+      "데이터센터"
+    ],
+    "_key": "caa92afb6434",
+    "_createdAt": "2026-10-24T10:15:58.499296+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499296+09:00"
+  },
+  {
+    "title": "삼성전자, 美 파이토치 콘퍼런스서 엑시노스 기반 'AI 에이전트' 기술 성과 공개",
+    "date": "2026-10-23",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC2nMShH4-C-HzM8dQXlYXTrUsthM3VpnSrkAqjel8I1_28pdtwX-p_8g1XBsxe2KS19cw5BwlpgjN96bB5AXBrAV8f43ab2k1DijBkrjHTLbor-bJdYQKNbe9ElhAIbcD331undi3OW9A5Nch6iql1mBgQLSREafP_w==",
+    "category": "AI Agent",
+    "ecosystemImpact": "온디바이스 AI 및 AI 에이전트 기술 발전 가속화",
+    "importance": 7,
+    "summary": "삼성전자가 파이토치 콘퍼런스 2026에서 자체 모바일 프로세서 '엑시노스' 기반의 AI 에이전트 실행 기술을 시연하며 온디바이스 AI 경쟁력을 선보였다.",
+    "corporateAction": "모바일/엣지 디바이스 기반의 AI 에이전트 기술 동향을 주시하고, 향후 사용자 접점 확대를 위한 온디바이스 AI 활용 가능성 탐색",
+    "keywords": [
+      "AI 에이전트",
+      "온디바이스 AI",
+      "삼성전자",
+      "엑시노스",
+      "파이토치"
+    ],
+    "_key": "4acbac06d06c",
+    "_createdAt": "2026-10-24T10:15:58.499303+09:00",
+    "_updatedAt": "2026-10-24T10:15:58.499303+09:00"
   }
 ]
