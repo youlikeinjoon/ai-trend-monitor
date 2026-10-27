@@ -14181,5 +14181,102 @@
     "_key": "4ef890dac1a4",
     "_createdAt": "2026-10-26T09:52:54.099681+09:00",
     "_updatedAt": "2026-10-26T09:52:54.099681+09:00"
+  },
+  {
+    "title": "코리안리, 국내 최초 AI 기반 기업성 보험 요율산정 시스템 도입",
+    "date": "2026-10-26",
+    "url": "https://www.etnews.com/20260322000078",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "재보험 언더라이팅 자동화 가속화 및 보험료 산정 정확성 제고.",
+    "importance": 10,
+    "summary": "국내 최대 재보험사 코리안리가 기업성 보험 요율 산정에 AI 어시스턴트 서비스를 도입, 금융위 혁신금융서비스로 지정됨.",
+    "corporateAction": "재보험 요율 산정 프로세스 자동화 및 정확성 향상을 위한 AI 도입 전략 검토.",
+    "keywords": [
+      "재보험",
+      "요율산정",
+      "언더라이팅",
+      "혁신금융서비스",
+      "AI Agent"
+    ],
+    "_key": "883fd40901e3",
+    "_createdAt": "2026-10-27T10:43:53.450461+09:00",
+    "_updatedAt": "2026-10-27T10:43:53.450461+09:00"
+  },
+  {
+    "title": "금융권 AI 활용 확산 위한 망분리 규제 완화, AI 거버넌스 중요성 부각",
+    "date": "2026-10-26",
+    "url": "https://www.asiatoday.co.kr/view.php?key=20260809010005703",
+    "category": "IT 거버넌스/보안, 금융 규제 샌드박스",
+    "ecosystemImpact": "금융 AI 혁신 가속화, 동시에 책임 있는 AI 사용 위한 규제 정비 시급.",
+    "importance": 9,
+    "summary": "금융당국, AI 활용 보안 강화를 위한 망분리 규제 완화 추진. 책임 있는 AI 도입을 위한 금융사의 자율적 AI 거버넌스 구축 강조.",
+    "corporateAction": "AI 활용 확대에 따른 내부 AI 거버넌스 체계 강화 및 규제 변화 모니터링.",
+    "keywords": [
+      "금융망분리",
+      "AI 거버넌스",
+      "금융 규제",
+      "AI 보안"
+    ],
+    "_key": "aa183c64cf18",
+    "_createdAt": "2026-10-27T10:43:53.450485+09:00",
+    "_updatedAt": "2026-10-27T10:43:53.450485+09:00"
+  },
+  {
+    "title": "국내 보험사, 임직원 주도 AI 에이전트 개발 및 업무 적용 확대",
+    "date": "2026-10-26",
+    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=294248",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "보험 업무 효율 증대 및 현업 전문성 결합 통한 AI 활용 가치 극대화.",
+    "importance": 8,
+    "summary": "KB손해보험, 신한라이프 등 국내 보험사들이 임직원이 직접 AI 에이전트를 설계/활용하는 프로그램 확대. 현업 중심의 AI 혁신 추진.",
+    "corporateAction": "임직원 대상 AI 에이전트 교육 및 내부 활용 공모전 등 실무 적용 확대 방안 마련.",
+    "keywords": [
+      "AI Agent",
+      "보험",
+      "업무 자동화",
+      "생산성 향상"
+    ],
+    "_key": "3533c135149c",
+    "_createdAt": "2026-10-27T10:43:53.450492+09:00",
+    "_updatedAt": "2026-10-27T10:43:53.450492+09:00"
+  },
+  {
+    "title": "엔터프라이즈 LLM의 핵심, RAG 기술로 환각 현상 극복 및 정확성 강화",
+    "date": "2026-10-26",
+    "url": "https://allganize.ai/ko/blog/enterprise-rag-strategy/",
+    "category": "RAG, LLM",
+    "ecosystemImpact": "LLM의 신뢰성과 기업 적용 가능성 대폭 향상, 산업 전반 활용 확대.",
+    "importance": 8,
+    "summary": "검색 증강 생성(RAG) 기술이 LLM의 환각 현상을 줄이고 최신 데이터 기반 정확한 답변 제공. 금융권 등 고정확도 요구 산업에 필수.",
+    "corporateAction": "내부 데이터 활용 LLM 구축 시 RAG 기술 적용 필수화 및 최적화 전략 수립.",
+    "keywords": [
+      "RAG",
+      "LLM",
+      "정확성",
+      "환각현상",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "f6bdb1be3689",
+    "_createdAt": "2026-10-27T10:43:53.450498+09:00",
+    "_updatedAt": "2026-10-27T10:43:53.450498+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 블랙웰 아키텍처 기반 분산 AI 인프라 시장 주도 가속화",
+    "date": "2026-10-26",
+    "url": "https://www.nvidia.com/ko-kr/ai-data-science/ai-platforms/",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능 한계 돌파 및 엔터프라이즈 AI 도입 장벽 낮춤.",
+    "importance": 7,
+    "summary": "NVIDIA가 블랙웰 아키텍처 기반의 AI 팩토리 및 분산형 AI 인프라 솔루션으로 기업 AI 전환 지원. 통신 등 다양한 산업에서 AI 확산 촉진.",
+    "corporateAction": "고성능 AI 인프라 구축을 위한 NVIDIA 최신 기술 및 아키텍처 도입 검토.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI 인프라",
+      "가속 컴퓨팅"
+    ],
+    "_key": "1fe3bbfd2be4",
+    "_createdAt": "2026-10-27T10:43:53.450504+09:00",
+    "_updatedAt": "2026-10-27T10:43:53.450504+09:00"
   }
 ]
