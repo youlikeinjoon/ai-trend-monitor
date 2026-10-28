@@ -14278,5 +14278,149 @@
     "_key": "1fe3bbfd2be4",
     "_createdAt": "2026-10-27T10:43:53.450504+09:00",
     "_updatedAt": "2026-10-27T10:43:53.450504+09:00"
+  },
+  {
+    "title": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHio6UZMCUWZsfvrzdKFe4LujkLDd1m4atpNJ46IcLdm8d4BsJSo97i9BDhAQuA9_nXWXf12Dz0JN5j8n6zq3OfpZ5zVVdLCXqSDA68W0Xu9bljtwHtQ9iLXCoEqTSw51jbrrnN1fbeFoP81hSoH2FdzqUrIcrXeoGE9dVvTbEu9yhBYMD8J8xrbL1IRa8IO99d58hu-O_mvpjmPKmhDB0rCzAOEnShqElRf-8f3dObNg_BFE_Q-Eu0",
+    "category": "LLM, AI Agent, 엔터프라이즈 AI, AI 보안",
+    "ecosystemImpact": "빅테크 간 AI 협력 심화, 엔터프라이즈 AI 솔루션 시장 확대 및 표준화.",
+    "importance": 10,
+    "summary": "Oracle이 OpenAI와의 협력을 통해 기업 컴퓨팅에 최첨단 AI를 통합, AI 에이전트, 애플리케이션 보안 강화 및 워크플로우 자동화를 추진.",
+    "corporateAction": "AI 에이전트 기반 업무 자동화 및 보안 취약점 해결을 위한 협업 모델 벤치마킹.",
+    "keywords": [
+      "Oracle",
+      "OpenAI",
+      "엔터프라이즈 AI",
+      "AI Agent",
+      "AI 보안",
+      "워크플로우 자동화"
+    ],
+    "_key": "80ef2245f0ac",
+    "_createdAt": "2026-10-28T10:55:56.599415+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599415+09:00"
+  },
+  {
+    "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqErQ0bkihdWFkY0xfO5oGxvb-pmoB-fMzyjZ0sQDCFdT6uLfTHR8O5m5EW_dKbC_JvMpr11Rccz_W4240KkudSF4tvWL0VeObluEAxf-fVhTfiqgZ-c_D5ybAD9iQbeGvFyJQO5sHbv3QMgcbHhMYBvTJ_RTdkucJ9w846AsT7lIbM6S1Ei9YdkknWlsaUA9Xb7VQW8fCTVI2sHnyDeq5nHO_7I3WbiRjhQYwqGR4w3WzMFhF1mjJqAxa71WY_Hfr52o=",
+    "category": "AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "기업 AI 에이전트의 책임성 및 보안 기준 강화, 거버넌스 솔루션 시장 성장.",
+    "importance": 9,
+    "summary": "IBM이 AI 에이전트의 신원 확인, 접근 제어, 성능 평가 기능을 제공하여 기업 시스템 내 AI 에이전트 거버넌스와 보안을 강화.",
+    "corporateAction": "AI 에이전트 도입 시 신원, 접근 제어, 감사 기능을 포함한 IT 거버넌스 프레임워크 구축.",
+    "keywords": [
+      "IBM",
+      "AI Agent",
+      "IT 거버넌스",
+      "AI 보안",
+      "책임성"
+    ],
+    "_key": "9d152cc5e5e5",
+    "_createdAt": "2026-10-28T10:55:56.599440+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599440+09:00"
+  },
+  {
+    "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1pHk-uvCcw-1Rfw_EdQ9xRDLF6zDBrFTq5nyjc6bxFCJ7sliKXddUDYXz_fA35Hy0QCG8YMmAk2KZ0kI8WSMrXXOmnuR_yJXfVUkLltCJc0pIRsybF_kKwdC8iNoAUDzegKyd_F-f9Y4gpw24pIgX3WYuozntH5VXGcS1jxMTINAzLZpTlsUYA48qP529GTlMP--gNM0V-bYPb5zaTL_kcPiY257cF_UstvulFVBMENqwtPUXMW0vwxA94xH7hg8C_fl-tLOqIXSRTp_OY454cknkcIGdXklIuV-AB3nVSfWQV2E-jYUKfnie6jI5h__YNXma-nAQzUlL5v5HA48w1nyDfFj8P15T5mJsNuH1jhQeNidGzgBCSKUFxFI_ZiJ64VIDWZM10BVgn2ezZDSL2OQoRh7OODPd0nSGr04gyidqrSsZYtK66GaG7-vm580uo0BLA==",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 칩 공급 부족 해소 및 장기적인 AI 인프라 확장을 위한 핵심 동력 확보.",
+    "importance": 9,
+    "summary": "NVIDIA가 Blackwell 및 Rubin GPU 생산 능력 확보를 위해 6개 주요 공급업체에 수십억 달러를 투자, AI 인프라 공급망을 강화.",
+    "corporateAction": "AI 모델 학습 및 운영에 필요한 하드웨어 인프라의 장기적인 안정적 수급 계획 수립 필요.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "Rubin",
+      "GPU",
+      "AI 인프라",
+      "반도체"
+    ],
+    "_key": "12c70a675076",
+    "_createdAt": "2026-10-28T10:55:56.599452+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599452+09:00"
+  },
+  {
+    "title": "Delaware wants to let AI run entire companies: what it means for insurers",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrwNgbH_b-j0hyNwJpNyQsF9pyEwn6BvUkCc2r3UVi3kdvc7DReNFLOqB_ktyOw_8lQbpBFVUZYFIT6xYcBlI9IqAKu2OW6IH5RnwW0mpuv_m2iII0D6QX_BA_ZmwdCOl3f_XytL70qQiSV0acGeDTJ1vAtv3jPacUpGbtj48fLu7RH7krjQvrCIP7ilV-Uub1I-y3EnH6HUcOXC8JBDf6kbwLIKM0FLdVGnk3YTtsHhnB4_gJiv55OPZacODkIz80j4Dp3U6708kz",
+    "category": "AI Agent, 보험/AX, 금융 규제 샌드박스",
+    "ecosystemImpact": "AI 에이전트의 법적 지위 및 책임에 대한 중대한 선례를 형성, 보험 시장에 새로운 리스크와 상품 수요 발생.",
+    "importance": 8,
+    "summary": "델라웨어주가 AI 에이전트가 운영하는 '인공지능 기업(AIC)' 설립을 추진하며, 이로 인한 D&O, 사이버, E&O 보험 등 보험사의 AI 관련 책임 리스크가 부각.",
+    "corporateAction": "AI 에이전트의 법적 책임 및 위험 평가 모델 개발, 관련 보험 상품 및 인수 심사 지침 마련.",
+    "keywords": [
+      "AI Agent",
+      "법적 책임",
+      "보험",
+      "규제 샌드박스",
+      "D&O",
+      "사이버보험"
+    ],
+    "_key": "42ece174689d",
+    "_createdAt": "2026-10-28T10:55:56.599462+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599462+09:00"
+  },
+  {
+    "title": "Gallagher Re flags AI risks, catastrophe shifts and softer reinsurance market in APAC",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB1922Jfkga2najtQWGQNx7ffAUKKyiF1V_NBeEm8zFvxr9KdYinxfl6wnIkcgYvL1wXwYVMJEMcYUHVr2gU15VfXdfq38vW_JNpUdi7boZthjtgDzFgP9H91KYVvek1phD_YFy-E=",
+    "category": "보험/AX, 재보험, AI 보안",
+    "ecosystemImpact": "AI가 보험 산업의 리스크 평가 및 상품 개발에 미치는 영향 증대, 새로운 재보험 수요 창출.",
+    "importance": 8,
+    "summary": "Gallagher Re 보고서, 아태지역 재보험 시장에서 AI가 새로운 위험과 보험 기회를 창출하며, AI 관련 오류, 프라이버시 침해 등이 사이버 보험 수요를 증가시킬 것으로 전망.",
+    "corporateAction": "AI 관련 신규 리스크 평가 모델 개발 및 재보험 상품 포트폴리오 다각화 검토, 사이버 리스크 연구 확대.",
+    "keywords": [
+      "재보험",
+      "보험",
+      "AI 리스크",
+      "사이버 보안",
+      "APAC"
+    ],
+    "_key": "1d1171148ffd",
+    "_createdAt": "2026-10-28T10:55:56.599469+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599469+09:00"
+  },
+  {
+    "title": "Earnix uses AI to close insurers' execution gap",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPEZk2OqfVIRkLNhw2W-HUPjsIfTuQo6U89rQjwHoXtyKcovBvt9MRPHAR6ZZxT5FUFKOwU-gNfWAGv93YcP7iOCbrr1dZK6GwBKZiCiLXXMJysXOKU6aQU28Yf2_bp38rS--XJsmyoLZyQnwWYEKsb8F0FC7oK2khaeKhqgrT-kUuxNAiyPqNqLoh",
+    "category": "보험/AX, AI Agent",
+    "ecosystemImpact": "보험사의 AI 기반 의사결정 시스템 고도화, 운영 효율성 및 고객 경험 개선.",
+    "importance": 7,
+    "summary": "Earnix가 Q4 2026 릴리스를 통해 AI 기반의 보험료 책정, 고객 참여 도구를 업데이트하여 수작업 감소 및 운영 효율성 증대를 지원.",
+    "corporateAction": "AI 기반 보험 상품 가격 책정 및 고객 관계 관리 시스템 도입 검토, AI 에이전트의 감독 강화.",
+    "keywords": [
+      "Earnix",
+      "보험",
+      "AX",
+      "AI Agent",
+      "가격 책정",
+      "고객 참여"
+    ],
+    "_key": "2b298b765482",
+    "_createdAt": "2026-10-28T10:55:56.599475+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599475+09:00"
+  },
+  {
+    "title": "현대해상, 임직원 AI 활용 경험 나눈다…전사 AX 확산 시동",
+    "date": "2026-10-27",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9oybxEtK2pVV8X5iWkmYfHaCk35V1eQSRU6djYWHchNRxXgktMmUh4MkaV7XWRxsESiLbHREtUXrpnGPhDuJnPMLBTEPJs-C4B-EfTKms6z9h2cBOjx_8M-uDn1j-6w1wB5xmrNrnHzkvZLSdQZddX_Pz_IDbQ==",
+    "category": "보험/AX, IT 거버넌스",
+    "ecosystemImpact": "국내 보험업계의 AI 전환 가속화 및 AI 활용 문화 확산에 기여.",
+    "importance": 7,
+    "summary": "현대해상이 'AX Festival 2026'을 개최하여 임직원들의 AI 활용 경험과 노하우를 공유하고, 전사적인 AI 전환을 가속화.",
+    "corporateAction": "내부 임직원의 AI 활용 역량 강화를 위한 교육 프로그램 및 우수 사례 공유 플랫폼 도입.",
+    "keywords": [
+      "현대해상",
+      "보험",
+      "AX",
+      "AI 교육",
+      "디지털 전환"
+    ],
+    "_key": "7a31f8fedab5",
+    "_createdAt": "2026-10-28T10:55:56.599483+09:00",
+    "_updatedAt": "2026-10-28T10:55:56.599483+09:00"
   }
 ]
