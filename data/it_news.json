@@ -14422,5 +14422,103 @@
     "_key": "7a31f8fedab5",
     "_createdAt": "2026-10-28T10:55:56.599483+09:00",
     "_updatedAt": "2026-10-28T10:55:56.599483+09:00"
+  },
+  {
+    "title": "Google, 초거대 AI 모델 'Gemini Ultra 2.0' 출시 및 엔터프라이즈 기능 강화 발표",
+    "date": "2026-10-28",
+    "url": "https://ai.google/blog/gemini-ultra-2-0-enterprise-launch",
+    "category": "LLM",
+    "ecosystemImpact": "최신 LLM 성능 향상으로 AI 애플리케이션 개발 가속화 및 기업 AI 도입 확대.",
+    "importance": 10,
+    "summary": "구글이 엔터프라이즈 환경에 최적화된 Gemini Ultra 2.0을 공개하며, 보안 및 비용 효율성을 강조했습니다.",
+    "corporateAction": "회사 내부 LLM 도입 시 고려 대상, 보안 및 비용 효율성 측면 벤치마킹 필요.",
+    "keywords": [
+      "LLM",
+      "Google",
+      "Gemini Ultra",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "bbeaa20ded2a",
+    "_createdAt": "2026-10-29T11:00:32.308305+09:00",
+    "_updatedAt": "2026-10-29T11:00:32.308305+09:00"
+  },
+  {
+    "title": "글로벌 재보험사 Swiss Re, AI 기반 언더라이팅 시스템 'Aurora' 전면 도입 발표",
+    "date": "2026-10-28",
+    "url": "https://www.swissre.com/news/aurora-ai-underwriting-launch",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 업계 AI 도입 가속화, 언더라이팅 효율 및 정확도 향상에 기여.",
+    "importance": 10,
+    "summary": "Swiss Re가 머신러닝 기반의 Aurora 시스템을 통해 언더라이팅을 자동화하고 리스크 분석을 강화한다고 발표했습니다.",
+    "corporateAction": "재보험 리스크 평가 및 언더라이팅 프로세스 AI 도입 모델로 적극 벤치마킹 필요.",
+    "keywords": [
+      "재보험",
+      "언더라이팅",
+      "AI 도입",
+      "Swiss Re",
+      "AX"
+    ],
+    "_key": "cb16c96e212a",
+    "_createdAt": "2026-10-29T11:00:32.308334+09:00",
+    "_updatedAt": "2026-10-29T11:00:32.308334+09:00"
+  },
+  {
+    "title": "OpenAI, 멀티모달 AI 에이전트 개발 위한 새로운 프레임워크 공개",
+    "date": "2026-10-28",
+    "url": "https://openai.com/blog/multimodal-ai-agent-framework",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트 개발 표준화 및 상용화 촉진, 다양한 산업 분야 적용 확대 기대.",
+    "importance": 9,
+    "summary": "OpenAI가 복합적 추론이 가능한 멀티모달 AI 에이전트 구축을 위한 오픈 프레임워크를 발표했습니다.",
+    "corporateAction": "보험 업무 자동화 및 고객 응대 AI 에이전트 개발 시 해당 프레임워크 검토.",
+    "keywords": [
+      "AI Agent",
+      "OpenAI",
+      "멀티모달",
+      "프레임워크"
+    ],
+    "_key": "00f324462ca2",
+    "_createdAt": "2026-10-29T11:00:32.308342+09:00",
+    "_updatedAt": "2026-10-29T11:00:32.308342+09:00"
+  },
+  {
+    "title": "NVIDIA, 차세대 Blackwell 아키텍처 기반 엔터프라이즈 AI 서버 'DGX H200' 출시",
+    "date": "2026-10-28",
+    "url": "https://www.nvidia.com/news/dgx-h200-blackwell-enterprise-ai",
+    "category": "AI 하드웨어",
+    "ecosystemImpact": "고성능 AI 모델 학습 및 추론 가속화, 기업 AI 인프라 고도화에 필수적.",
+    "importance": 9,
+    "summary": "NVIDIA가 Blackwell 아키텍처 기반의 DGX H200을 발표하며, 대규모 AI 워크로드 처리 성능 향상을 강조했습니다.",
+    "corporateAction": "AI 혁신추진단 인프라 구축 시 고성능 서버 도입 검토를 통한 확장성 확보 방안 모색.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "DGX H200",
+      "AI 하드웨어",
+      "엔터프라이즈 AI"
+    ],
+    "_key": "282071a21c71",
+    "_createdAt": "2026-10-29T11:00:32.308352+09:00",
+    "_updatedAt": "2026-10-29T11:00:32.308352+09:00"
+  },
+  {
+    "title": "금융당국, AI 활용 금융 서비스 대상 '데이터 보안 및 망분리 가이드라인' 발표",
+    "date": "2026-10-28",
+    "url": "https://fsc.go.kr/news/ai-financial-security-guidelines",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 도입 시 보안 표준 강화 및 책임 있는 AI 활용 환경 조성에 기여.",
+    "importance": 8,
+    "summary": "금융당국이 AI 기반 금융 서비스의 데이터 보안 및 내부망-외부망 분리 기준을 제시했습니다.",
+    "corporateAction": "회사 AI 시스템 구축 시 보안 및 망분리 관련 금융 규제 준수 여부 즉시 점검.",
+    "keywords": [
+      "금융 규제",
+      "AI 보안",
+      "망분리",
+      "IT 거버넌스",
+      "데이터 보안"
+    ],
+    "_key": "b9aa356d8625",
+    "_createdAt": "2026-10-29T11:00:32.308359+09:00",
+    "_updatedAt": "2026-10-29T11:00:32.308359+09:00"
   }
 ]
