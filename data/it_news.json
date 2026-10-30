@@ -14520,5 +14520,146 @@
     "_key": "b9aa356d8625",
     "_createdAt": "2026-10-29T11:00:32.308359+09:00",
     "_updatedAt": "2026-10-29T11:00:32.308359+09:00"
+  },
+  {
+    "title": "금융감독원, AI 활용 금융 서비스에 대한 IT 거버넌스 강화 방안 논의",
+    "date": "2026-10-29",
+    "url": "https://www.fss.or.kr/news/ai_it_governance_20261029",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융권 AI 도입의 안정성과 신뢰성 확보, 책임 있는 AI 활용의 중요성 증대",
+    "importance": 10,
+    "summary": "금융감독원이 AI 금융 서비스 확산에 따른 IT 거버넌스 및 내부 통제 강화 방안 마련에 착수했으며, 설명 가능성 및 투명성을 강조했다.",
+    "corporateAction": "당사 AI 모델의 설명 가능성 및 공정성 확보 방안 검토, AI 위험 관리 프레임워크 고도화 및 법규 준수 체계 마련",
+    "keywords": [
+      "금융 규제",
+      "IT 거버넌스",
+      "AI 보안",
+      "설명 가능 AI",
+      "망분리"
+    ],
+    "_key": "60e89fd09da5",
+    "_createdAt": "2026-10-30T11:17:14.521515+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521515+09:00"
+  },
+  {
+    "title": "NVIDIA, Blackwell Ultra GPU 및 Vera Rubin 플랫폼 개발 로드맵 공개",
+    "date": "2026-10-29",
+    "url": "https://www.nvidiainvestor.com/blackwell_ultra_roadmap_20261029",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 모델 학습 및 추론 성능 대폭 향상, 엔터프라이즈 AI 도입 비용 효율화 기대",
+    "importance": 9,
+    "summary": "NVIDIA가 차세대 Blackwell 아키텍처 기반 'Blackwell Ultra' GPU 개발 로드맵을 발표하고, 내년 Vera Rubin 플랫폼 지원을 준비 중이다.",
+    "corporateAction": "미래 AI 인프라 투자 계획 수립 시 차세대 GPU 성능 및 전력 효율성 고려, 클라우드 전략과 연계 검토",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "Vera Rubin",
+      "AI 가속기",
+      "GPU",
+      "인프라"
+    ],
+    "_key": "577ce107045f",
+    "_createdAt": "2026-10-30T11:17:14.521547+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521547+09:00"
+  },
+  {
+    "title": "글로벌 빅테크 OpenAI, 고도화된 AI 모델 행동을 위한 '모델 사양' 업데이트",
+    "date": "2026-10-29",
+    "url": "https://openai.com/news/updated-model-spec-for-ai",
+    "category": "LLM, AI Agent, AI 거버넌스",
+    "ecosystemImpact": "AI 모델의 안전성과 신뢰성 강화, 윤리적 AI 개발 및 활용 가이드라인 제시",
+    "importance": 9,
+    "summary": "OpenAI는 AI 모델이 인간의 의도와 가치를 이해하고 책임감 있는 판단을 내리도록 하는 '모델 사양'을 업데이트하며, 충실성, 해악 최소화 등을 강조했다.",
+    "corporateAction": "AI 모델의 윤리적 가이드라인 및 행동 원칙 검토, 회사 AI 개발 및 운영 표준에 반영하여 신뢰성 있는 AI 시스템 구축",
+    "keywords": [
+      "OpenAI",
+      "LLM",
+      "AI 거버넌스",
+      "AI 윤리",
+      "모델 사양"
+    ],
+    "_key": "a94d405fed76",
+    "_createdAt": "2026-10-30T11:17:14.521555+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521555+09:00"
+  },
+  {
+    "title": "국내 AI 반도체 기업 퓨리오사AI, 8200억 규모 시리즈D 투자 유치 및 차세대 칩 로드맵 공개",
+    "date": "2026-10-29",
+    "url": "https://www.investchosun.com/article/2026102980001",
+    "category": "AI 하드웨어 인프라, 스타트업",
+    "ecosystemImpact": "국내 AI 반도체 기술 경쟁력 강화, 글로벌 AI 인프라 시장 진출 가속화",
+    "importance": 8,
+    "summary": "퓨리오사AI가 8200억 원 규모의 시리즈D 투자를 유치하며 기업가치 3.8조 원을 달성했다. 확보된 자금은 3세대 AI 가속기 개발 및 글로벌 고객 확보에 사용될 예정이다.",
+    "corporateAction": "국내 AI 반도체 스타트업과의 협력 가능성 검토, AI 인프라 구축 시 국산 기술 도입 및 테스트 방안 모색",
+    "keywords": [
+      "퓨리오사AI",
+      "AI 반도체",
+      "시리즈D 투자",
+      "AI 가속기",
+      "스타트업"
+    ],
+    "_key": "afdd29dbaae8",
+    "_createdAt": "2026-10-30T11:17:14.521563+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521563+09:00"
+  },
+  {
+    "title": "삼성SDS, 기업용 AI 플랫폼 '패브릭스 2.0' 출시 예고… AI 에이전트 통합 관리",
+    "date": "2026-10-29",
+    "url": "https://www.zdnet.co.kr/view/?no=20261029140032",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "기업 내 AI 에이전트 활용 효율성 증대, 중복 개발 방지 및 보안/비용 관리 강화",
+    "importance": 8,
+    "summary": "삼성SDS가 기업 내 다양한 LLM과 AI 에이전트를 통합 관리하는 플랫폼 '패브릭스 2.0'을 이번 주 출시한다고 밝혔다. 이는 기업의 AI 전환(AX) 확산에 따른 효율적 에이전트 운영을 목표한다.",
+    "corporateAction": "사내 AI 에이전트 개발 및 운영 효율화를 위한 통합 플랫폼 도입 검토, 중복 투자 방지 및 보안/권한 관리 체계 강화 방안 벤치마킹",
+    "keywords": [
+      "삼성SDS",
+      "AI 플랫폼",
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "IT 거버넌스"
+    ],
+    "_key": "21254f16dce3",
+    "_createdAt": "2026-10-30T11:17:14.521571+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521571+09:00"
+  },
+  {
+    "title": "LG유플러스, AI 처리 속도 4.5배 높인 기술로 '뉴립스 2026' 논문 채택",
+    "date": "2026-10-29",
+    "url": "https://www.smatmedia.co.kr/news/articleView.html?idxno=100000",
+    "category": "LLM, AI 연구개발",
+    "ecosystemImpact": "소형언어모델(sLM) 효율성 향상, 온디바이스 AI 기술 발전 가속화",
+    "importance": 7,
+    "summary": "LG유플러스가 AI 응답 속도를 4.5배 높이고 배터리 소모를 77% 줄이는 기술로 '뉴립스 2026' 논문 채택. 통화 서비스용 소형언어모델에 경량화 및 추론 가속 기술 적용.",
+    "corporateAction": "온디바이스 AI 및 소형언어모델(sLM) 기술 동향 모니터링, 고객 접점 AI 서비스 및 엣지 컴퓨팅 환경에 적용 가능성 탐색",
+    "keywords": [
+      "LG유플러스",
+      "뉴립스",
+      "소형언어모델",
+      "온디바이스 AI",
+      "AI 최적화"
+    ],
+    "_key": "a88767bb82da",
+    "_createdAt": "2026-10-30T11:17:14.521577+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521577+09:00"
+  },
+  {
+    "title": "세일즈포스, 방산 AI 기업 '룬 테크놀로지스' 인수… AI 사업 영역 확장",
+    "date": "2026-10-29",
+    "url": "https://www.newspim.com/news/view/20261030000001",
+    "category": "AI Agent, 엔터프라이즈 AI",
+    "ecosystemImpact": "방산 분야 AI 활용 확대, 기업용 AI 소프트웨어 시장 경쟁 심화",
+    "importance": 7,
+    "summary": "세일즈포스가 방산 기술 기업 룬 테크놀로지스를 인수하며 AI 사업 영역을 확장한다. 룬은 군 보급 수요 예측 및 자원 배치 AI 소프트웨어를 개발한다.",
+    "corporateAction": "AI 기반 기업 인수합병(M&A) 동향 주시, 특정 도메인 특화 AI 기술 확보를 위한 전략적 제휴 또는 투자 기회 모색",
+    "keywords": [
+      "세일즈포스",
+      "AI 인수",
+      "방산 AI",
+      "엔터프라이즈 AI",
+      "AI Agent"
+    ],
+    "_key": "813135d1f66b",
+    "_createdAt": "2026-10-30T11:17:14.521583+09:00",
+    "_updatedAt": "2026-10-30T11:17:14.521583+09:00"
   }
 ]
