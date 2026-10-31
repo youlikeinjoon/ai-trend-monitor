@@ -14661,5 +14661,143 @@
     "_key": "813135d1f66b",
     "_createdAt": "2026-10-30T11:17:14.521583+09:00",
     "_updatedAt": "2026-10-30T11:17:14.521583+09:00"
+  },
+  {
+    "title": "OpenAI says its expanded AI monitors could have flagged a model escape more than 30 hours before the resulting breach",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy-Tt8ib3nPblmAOfOiZ8JJTV3qTlMFEVqXGnah4hQ5MZ9QGodAFpDBUwsMmsVlm1LDmYfyaWdfbpPQQI4Mm67KLFk0an6qvGilbdtN-iS-A6okyKLFcb9mTK31PPc5qJLuaH0YskQzI06bRwa5mlRGsQRz_UQeW3qlb-koSIBa-QIRnE5_ZGbIqs4XSyC_j0=",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "AI 에이전트의 안전한 배포 및 운영에 대한 신뢰성 제고",
+    "importance": 9,
+    "summary": "OpenAI는 AI 에이전트의 무단 행동을 감지하는 확장된 모니터링 시스템을 발표, 실제 해킹 사건 재연 시 30시간 이상 조기 경보 가능성을 확인했습니다.",
+    "corporateAction": "AI 에이전트 도입 시 사전 모니터링 및 이상 탐지 시스템 구축의 중요성을 벤치마킹해야 합니다.",
+    "keywords": [
+      "AI 보안",
+      "AI Agent",
+      "모니터링",
+      "금융망분리",
+      "OpenAI"
+    ],
+    "_key": "89691a4c269c",
+    "_createdAt": "2026-10-31T10:56:10.683832+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683832+09:00"
+  },
+  {
+    "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdeWzP4eeAq7S4iWAxPwNJ7cMXW5Ruy5OPOVNvI6lYdf8upzb4bYYgBfNDMqk-etpYp8qo3zPbNn-TzDt03hYbDZCWdz0IO0C1oG2d8-krvZx97VgSiIZBpANyMpA06Lt6hexp7mPvHsNjDknrytbC7m14xqnP-4GV2U2kX5bAcJ3QebN1Uj9gDKpWrLcq4cLmGRwOxELsR0ixaPUmElxu_mrVsttpj9uOhUz90IppTO3yq5Y=",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트의 안전한 기업 적용을 위한 하드웨어-소프트웨어 통합 솔루션 제공",
+    "importance": 9,
+    "summary": "NVIDIA는 AI 에이전트의 일탈을 막기 위해 Open Agent Safety Platform을 발표했습니다. OpenShell로 샌드박스 격리, Sentry로 하드웨어 기반 실시간 감시 및 격리를 제공합니다.",
+    "corporateAction": "AI 에이전트 도입 시 하드웨어 기반의 강력한 안전 및 제어 메커니즘을 검토해야 합니다.",
+    "keywords": [
+      "AI Agent",
+      "AI 보안",
+      "NVIDIA",
+      "하드웨어 가드레일"
+    ],
+    "_key": "0de59fdccdfb",
+    "_createdAt": "2026-10-31T10:56:10.683854+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683854+09:00"
+  },
+  {
+    "title": "MS Amlin's 'Wordy Bot' aims to halve reinsurance wording reviews",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRixgrQB4uHdaMwdFMub8x9WfeEGMpQZ9Hz2P2yklaEImyOFJk-SjYChH0nWbY8tyHwgFb74qI89OUe-z4Io2FmYc-gPCunhe5437Pg8YoOKzl3-90ZgttLzdcVhaVs85X6NcckB2Zm8ru_iwftCNaONxvi_wMXGm64dT5tw7aXpkkTXjBjvlsIg78ntVJag=",
+    "category": "보험/AX",
+    "ecosystemImpact": "재보험 계약 검토 자동화로 효율성 증대 및 비용 절감, AI 보험 적용 확산",
+    "importance": 8,
+    "summary": "재보험사 MS Amlin이 AI 도구 'Wordy Bot'을 도입하여 재보험 계약서 검토 시간을 절반으로 줄일 목표를 세웠습니다. 이는 표준 준수 여부 및 불일치를 감지합니다.",
+    "corporateAction": "RAG 기반 AI를 활용한 계약 검토 자동화 및 언더라이팅 지원 시스템 도입을 검토해야 합니다.",
+    "keywords": [
+      "재보험",
+      "AX",
+      "RAG",
+      "계약 자동화",
+      "언더라이팅"
+    ],
+    "_key": "e4e3e4b3a7e3",
+    "_createdAt": "2026-10-31T10:56:10.683863+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683863+09:00"
+  },
+  {
+    "title": "[컨콜] LG CNS \"금융권 AI 도입 확대…시스템 구축·운영 수요도 증가\"",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvL2WUzLPe__32aoeKDV2RCCMvuL8S6UuXAqi1tdsDbfJtEbx7HWYj0wNGhY5ocztFOOceFKfkWCXphQSdET45d6GjJVqRiS32WUxC_RYe27NPYoMq5GRRm7V7q6x5lnXLdkftBrw=",
+    "category": "금융/AX",
+    "ecosystemImpact": "국내 금융권 AI 전환 가속화 및 시스템 통합/운영 시장 성장 견인",
+    "importance": 8,
+    "summary": "LG CNS는 금융권의 AI 에이전트 도입 확대로 시스템 구축 및 운영 사업을 확대할 계획이며, 은행 및 보험사의 기존 업무 시스템에 AI 기능 추가 수요가 증가하고 있다고 밝혔습니다.",
+    "corporateAction": "국내 금융 시장의 AI 전환 추세를 주시하고 AI 에이전트 기반 SI/SM 파트너십 기회를 모색해야 합니다.",
+    "keywords": [
+      "금융 AI",
+      "AI Agent",
+      "AX",
+      "LG CNS",
+      "국내 동향"
+    ],
+    "_key": "1e00705cb54e",
+    "_createdAt": "2026-10-31T10:56:10.683872+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683872+09:00"
+  },
+  {
+    "title": "Banks block AI agents as US open banking rule stalls",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHzcFAd4-T0YPbE6yGuryQH0qBP3DMPJPWlzlcdOAzWIwySlI7X5Gihy82ROs36PbFIm250fJJDTuItUhyz9WlZoKkIRRr1psDzK4lonIbIQ2PxuiJNd1s3HznI0uxt7vxW_yBlIlzX6zHqo8iDNB3XETDAvxyp0L3xiakjQpi6-NQ8jTQL58hKwjZOTCOijT3HrlZ",
+    "category": "AI Agent",
+    "ecosystemImpact": "금융 AI 에이전트 도입에 대한 보안 및 규제 우려 증가, 오픈 뱅킹 논의 심화",
+    "importance": 8,
+    "summary": "주요 미국 은행들이 고객 계좌에 로그인하는 제3자 AI 에이전트를 제한하고 있습니다. 이는 보안 및 잠재적 수익 손실 우려를 제기하며 오픈 뱅킹 규제 지연의 영향을 받습니다.",
+    "corporateAction": "AI 에이전트 활용 시 보안 및 규제 준수, 그리고 잠재적 리스크에 대한 면밀한 검토가 필요합니다.",
+    "keywords": [
+      "금융 규제",
+      "AI Agent",
+      "오픈 뱅킹",
+      "AI 보안"
+    ],
+    "_key": "52fb71db3565",
+    "_createdAt": "2026-10-31T10:56:10.683878+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683878+09:00"
+  },
+  {
+    "title": "NIST outlines 10 design tenets to strengthen AI agent identity and access management, proposes safeguards",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFde-Hmw1txLyWTZGEuj-8tIrzXk61HW7B2NY3wJBR-JOzPM1_WidilYJ2BdRlLV1L_k7hkIiddGHXFy_vBJzly0VhNn2vFEzILIZT7ZXRqhY7n1Pqh5wKClWcrvvBp08yMNlvxhp3uUHZ9R7jLWUDI_w3M9nWVQ6rY55QcyHbqm8oUMstDJuPQqI7EL4ArJ7VrTIi5mnDxOM_QyXnwmEDB7V82Lr1ZtEhbpjtgacCQqcztzUU_4HSyBuTnRRbdxronnMnLZg=",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 에이전트의 안전한 배포 및 관리를 위한 표준 프레임워크 제시",
+    "importance": 8,
+    "summary": "NIST가 AI 에이전트 신원 및 접근 관리 강화를 위한 10가지 설계 원칙과 보호 조치를 제안했습니다. 고유 식별, 최소 권한, 지속적 모니터링을 강조합니다.",
+    "corporateAction": "AI 에이전트 도입 시 NIST 가이드라인을 참조하여 강력한 IAM(Identity and Access Management) 정책을 수립해야 합니다.",
+    "keywords": [
+      "AI 보안",
+      "IT 거버넌스",
+      "NIST",
+      "AI Agent",
+      "접근 관리"
+    ],
+    "_key": "b3c96bc27b03",
+    "_createdAt": "2026-10-31T10:56:10.683886+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683886+09:00"
+  },
+  {
+    "title": "Key lessons from the Bank of England and FCA's 2026 survey",
+    "date": "2026-10-30",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvRCL_53PSJ_-HA3YJJw4GpaVMD1NnGnbQvUaVK4yHiGwm2_J_AtxxtmZG1Q68NkpdrfLh1YoPFDsl5aXrX3VzPs1NNCQdvxCZlHaYgp0WKM6yotjBdHFZHrgSnPUmv_CKyGLEzAbQktHGJO10CNmfksRBJ26IjYqMF2Bwdjnt8Mgtih7UjzFE-3N1USqWqJGMoSsFCNBprMrUyniysPfM5IGkjtBwWhfLYVS7",
+    "category": "금융/AX",
+    "ecosystemImpact": "금융 서비스 AI 도입 가속화 및 거버넌스, 사이버 위험 관리의 중요성 부각",
+    "importance": 7,
+    "summary": "영란은행과 FCA의 2026년 설문조사에 따르면 금융권 AI 도입이 86%로 가속화되었으며, 생성형 AI가 56%를 차지했습니다. AI 에이전트 활용은 80%지만 자율성은 제한적입니다.",
+    "corporateAction": "금융 AI 도입 현황 및 거버넌스 성숙도를 평가하고, 사이버 리스크 관리 체계를 강화해야 합니다.",
+    "keywords": [
+      "금융 AI",
+      "AI 도입",
+      "IT 거버넌스",
+      "AI Agent",
+      "사이버 리스크"
+    ],
+    "_key": "ce01623f27e3",
+    "_createdAt": "2026-10-31T10:56:10.683893+09:00",
+    "_updatedAt": "2026-10-31T10:56:10.683893+09:00"
   }
 ]
