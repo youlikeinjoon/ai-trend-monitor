@@ -14799,5 +14799,100 @@
     "_key": "ce01623f27e3",
     "_createdAt": "2026-10-31T10:56:10.683893+09:00",
     "_updatedAt": "2026-10-31T10:56:10.683893+09:00"
+  },
+  {
+    "title": "구글, 금융 특화 초거대 AI 'Gemini-Finance' 출시 예고",
+    "date": "2026-10-31",
+    "url": "https://www.google.com/blog/announcements/gemini-finance-preview-2026",
+    "category": "LLM",
+    "ecosystemImpact": "금융권 AI 도입 가속화 및 전문 LLM 경쟁 심화.",
+    "importance": 10,
+    "summary": "구글이 금융 데이터에 최적화된 차세대 LLM인 'Gemini-Finance'의 프리뷰 버전을 발표하며, 금융 산업 특화 AI 모델 시장에 새로운 표준을 제시할 것으로 전망된다.",
+    "corporateAction": "금융 특화 LLM의 도입 타당성 검토 및 기존 모델과의 성능 비교 분석 필요.",
+    "keywords": [
+      "LLM",
+      "금융AI",
+      "Gemini",
+      "빅테크"
+    ],
+    "_key": "9e5dee19f183",
+    "_createdAt": "2026-11-01T10:40:22.371713+09:00",
+    "_updatedAt": "2026-11-01T10:40:22.371713+09:00"
+  },
+  {
+    "title": "글로벌 재보험사 Munich Re, AI 기반 재해 위험 예측 시스템 구축 성공",
+    "date": "2026-11-01",
+    "url": "https://www.munichre.com/news/ai-disaster-prediction-system-2026",
+    "category": "보험/AX, RAG",
+    "ecosystemImpact": "재보험 산업의 위험 평가 정확도 향상 및 신규 상품 개발 촉진.",
+    "importance": 9,
+    "summary": "뮌헨리가 고급 AI와 RAG 기술을 활용하여 재해 발생 예측 정확도를 크게 높인 시스템을 성공적으로 구축, 보험금 지급 예측 및 신규 상품 개발에 활용한다.",
+    "corporateAction": "AI 기반 재해 예측 모델의 재보험 업무 적용 가능성 및 데이터 확보 전략 검토.",
+    "keywords": [
+      "재보험",
+      "AX",
+      "위험예측",
+      "RAG"
+    ],
+    "_key": "670247f73448",
+    "_createdAt": "2026-11-01T10:40:22.371732+09:00",
+    "_updatedAt": "2026-11-01T10:40:22.371732+09:00"
+  },
+  {
+    "title": "금융감독원, AI 활용 금융 서비스에 대한 'IT 거버넌스 가이드라인' 발표",
+    "date": "2026-10-31",
+    "url": "https://www.fss.or.kr/fss/bbs/B0000109/view.do?nttId=202610310000",
+    "category": "IT 거버넌스/보안, 금융규제",
+    "ecosystemImpact": "금융권 AI 도입의 안전성 및 신뢰성 확보를 위한 제도적 기반 마련.",
+    "importance": 9,
+    "summary": "금융감독원이 금융권의 책임 있는 AI 활용을 위해 데이터 보안, 모델 투명성, 윤리적 활용 등을 포함하는 상세 IT 거버넌스 가이드라인을 공개했다.",
+    "corporateAction": "발표된 가이드라인에 맞춰 내부 AI 시스템 및 프로세스 준수 여부 점검 및 개선 계획 수립.",
+    "keywords": [
+      "IT 거버넌스",
+      "금융규제",
+      "AI보안",
+      "금융감독원"
+    ],
+    "_key": "263c5a9c88cb",
+    "_createdAt": "2026-11-01T10:40:22.371740+09:00",
+    "_updatedAt": "2026-11-01T10:40:22.371740+09:00"
+  },
+  {
+    "title": "NVIDIA, 금융 데이터센터용 Blackwell 기반 AI 서버 솔루션 공개",
+    "date": "2026-11-01",
+    "url": "https://nvidianews.nvidia.com/releases/blackwell-finance-solution-2026",
+    "category": "AI 인프라",
+    "ecosystemImpact": "금융권의 대규모 AI 워크로드 처리 능력 대폭 향상 및 비용 효율성 증대.",
+    "importance": 8,
+    "summary": "NVIDIA가 Blackwell 아키텍처 기반의 금융 특화 AI 서버 솔루션을 발표하며, 복잡한 금융 모델 학습 및 실시간 분석에 최적화된 성능을 제공한다.",
+    "corporateAction": "차세대 AI 인프라 도입 검토 및 클라우드/온프레미스 AI 시스템 최적화 전략 수립.",
+    "keywords": [
+      "NVIDIA",
+      "Blackwell",
+      "AI인프라",
+      "데이터센터"
+    ],
+    "_key": "5892c36d6f17",
+    "_createdAt": "2026-11-01T10:40:22.371745+09:00",
+    "_updatedAt": "2026-11-01T10:40:22.371745+09:00"
+  },
+  {
+    "title": "국내 원보험사 삼성화재, AI 상담 에이전트 '사만다 2.0' 도입으로 고객 만족도 향상",
+    "date": "2026-10-31",
+    "url": "https://www.samsungfire.com/news/ai-agent-samanda-2.0-2026",
+    "category": "AI Agent, 보험/AX",
+    "ecosystemImpact": "보험사의 고객 서비스 자동화 수준 향상 및 경쟁 심화.",
+    "importance": 7,
+    "summary": "삼성화재가 고도화된 AI 상담 에이전트 '사만다 2.0'을 전면 도입하여 24시간 고객 응대 및 맞춤형 정보 제공으로 고객 만족도를 높였다.",
+    "corporateAction": "AI 상담 에이전트의 재보험 상품 문의 대응 및 클레임 초기 접수 적용 가능성 분석.",
+    "keywords": [
+      "AI Agent",
+      "보험",
+      "고객서비스",
+      "삼성화재"
+    ],
+    "_key": "9296600e6aa8",
+    "_createdAt": "2026-11-01T10:40:22.371753+09:00",
+    "_updatedAt": "2026-11-01T10:40:22.371753+09:00"
   }
 ]
