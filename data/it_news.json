@@ -14894,5 +14894,66 @@
     "_key": "9296600e6aa8",
     "_createdAt": "2026-11-01T10:40:22.371753+09:00",
     "_updatedAt": "2026-11-01T10:40:22.371753+09:00"
+  },
+  {
+    "title": "한국 금융당국, AI 기반 해킹 급증에 따른 보안 시스템 전면 개편",
+    "date": "2026-11-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwEPkndO_c4S1OmqYvnvCUf77b43MYRqRQzk6d22ukI28kIUwEk2FJJus7ykICPTJEQqIhywyKBTI3WKtsgwcCCnTzXJjYMCLaUL5d9lzYzPrxhgdl40q9tlbKZUwmTGu2td8jQMEV-nXb7RxUjAi7R41oS7RgkrKXurUurUckp166ua2ssjuaUXMcP0qRUg==",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 AI 보안 강화 및 망분리 규제 완화에 영향.",
+    "importance": 10,
+    "summary": "금융당국은 AI 기반 해킹 급증에 대응하여 금융권 보안 시스템을 전면 개편하고, AI 활용 취약점 점검 및 이상 탐지를 확대 검토 중이다. 금융보안 공동 모니터링 시스템 구축도 논의된다.",
+    "corporateAction": "AI 기반 사이버 보안 솔루션 도입 및 금융망분리 규제 변화에 선제적 대응 필요.",
+    "keywords": [
+      "AI 보안",
+      "금융망분리",
+      "IT 거버넌스",
+      "AI Agent",
+      "사이버보안",
+      "금융규제"
+    ],
+    "_key": "928903b0914a",
+    "_createdAt": "2026-11-02T10:58:57.662134+09:00",
+    "_updatedAt": "2026-11-02T10:58:57.662134+09:00"
+  },
+  {
+    "title": "2026년 11월 1일, 한국 반도체 수출, AI 투자 증가로 급증",
+    "date": "2026-11-01",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxGWVJWvncpUybxcsUlQbmLGJS7oI_w-Cmegfn_Cube5OEGlecuJA0XoYY9jKC7mZ_HhsJrSXPTK0_vziLsrfctHs7fTbAJr--9u0uEStQgLAwdFF97jRo7ynbZNhnBP0D9v9fF9wubd33Tw0lnpWxOubINHEtJF6pifjQMCcBf4vxonFrcQP4ta0YBhWYbrB4fuTTP7EfwSMVMGlZPCuitDEp",
+    "category": "AI 하드웨어 인프라, 글로벌 트렌드",
+    "ecosystemImpact": "글로벌 AI 인프라 투자 확대 및 반도체 산업 성장 가속화.",
+    "importance": 8,
+    "summary": "11월 1일 발표된 한국의 10월 무역수지에 따르면 반도체 수출이 전년 대비 259.4% 급증하며 AI 인프라 투자 수요를 입증했다.",
+    "corporateAction": "AI 인프라 확장에 따른 하드웨어 공급망 및 비용 변화 모니터링 필요.",
+    "keywords": [
+      "AI 하드웨어",
+      "반도체",
+      "AI 인프라",
+      "수출 동향"
+    ],
+    "_key": "9304ac463e00",
+    "_createdAt": "2026-11-02T10:58:57.662155+09:00",
+    "_updatedAt": "2026-11-02T10:58:57.662155+09:00"
+  },
+  {
+    "title": "Gartner, 2027년 인프라 및 IT 운영 분야 AI 주요 트렌드 발표",
+    "date": "2026-10-26",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFlANCoB6JCtf8uQY21KHlJ3rOLrYeX9KGjjC0CwZUwBaUa04t6QjE9JMIBpfSjiFnY8Gaju457DEvTpPFJc48gTtFpRe-gihKeTtUiokM2RqMi76BtHk72fCUlkrb8ZkUYU0DK-y45IholDhE6Oh4wUqQIdsO5LgUfaWj2iAuT8ov6c6cf9I2d5gg69MO74f2BaxSHV7N0kYeJE2YdBYX9DwbWHqK7MjVm7ZNxIeIfpkcF3OhX67bPnLzF1oiw129BTXE_IPSo4KI",
+    "category": "엔터프라이즈 AI, AI Agent, IT 거버넌스/보안",
+    "ecosystemImpact": "기업 AI 도입 전략 및 IT 운영 모델 변화 가속화, AI 에이전트 역할 증대.",
+    "importance": 9,
+    "summary": "Gartner는 2027년 인프라 및 IT 운영 주요 AI 트렌드로 AI 에이전트의 자율 IT 운영 가속화 및 운영/사이버 보안 리스크의 통합을 제시했다.",
+    "corporateAction": "AI 에이전트 기반 자율 운영 시스템 도입 검토 및 AI 보안 강화 전략 수립.",
+    "keywords": [
+      "AI 트렌드",
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "IT 운영",
+      "IT 거버넌스",
+      "AI 보안"
+    ],
+    "_key": "abba395ae0af",
+    "_createdAt": "2026-11-02T10:58:57.662165+09:00",
+    "_updatedAt": "2026-11-02T10:58:57.662165+09:00"
   }
 ]
