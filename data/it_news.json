@@ -14955,5 +14955,147 @@
     "_key": "abba395ae0af",
     "_createdAt": "2026-11-02T10:58:57.662165+09:00",
     "_updatedAt": "2026-11-02T10:58:57.662165+09:00"
+  },
+  {
+    "title": "SRA launches AI handbook to guide reinsurance sector",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4wjOG2pxaAvX2XU_P9DrrNfpEULy4W1bz8GoS2IT6xqe5UMVYjJTNcVBYEb3HNvQ644weJ7dxO9PPleRkcTCTNpmtJSmcZW3fywXY4_3pTWcY4RDcqT5s3q7PEypFxQw9mY87XhTWAqwB3Np7YJBeSyQZmcJPJ54tiK7J0wdE5rYkTQizSrFTIFB5yZU=",
+    "category": "보험/AX, IT 거버넌스",
+    "ecosystemImpact": "재보험사의 AI 리스크 관리 및 거버넌스 표준화 촉진.",
+    "importance": 10,
+    "summary": "싱가포르재보험협회(SRA)가 언더라이팅, 클레임 등에 대한 AI 리스크 평가 및 통합 지침서를 발표했다.",
+    "corporateAction": "재보험 AI 활용 시 데이터, 모델, 의사결정 신뢰성 확보를 위한 내부 지침 마련 필요.",
+    "keywords": [
+      "재보험",
+      "AI 거버넌스",
+      "위험 관리",
+      "언더라이팅",
+      "클레임"
+    ],
+    "_key": "fad42e38c643",
+    "_createdAt": "2026-11-03T12:47:25.520611+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520611+09:00"
+  },
+  {
+    "title": "금융권 보안 예산 1000억대로 확대…AI 해킹에 투자 공식 바뀐다",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNEuQXq54fdsjltz-nsqE7A6bP0t_lIbUjfpDCL0kzOw9F7kkTrDzBpeKTUK1xkI8noqMbmF5a624VgVei7mG-PusgpYmY44MRwqa4uJ8JoZuPSrlC3UEVpDG131MZ=",
+    "category": "AI 보안, IT 거버넌스/보안, 금융/AX",
+    "ecosystemImpact": "AI 기반 사이버 위협 증대로 금융권 AI 보안 투자 가속화.",
+    "importance": 10,
+    "summary": "금융권이 AI 해킹 위협에 대응하여 보안 예산을 대폭 확대하고, AI 에이전트 권한 관리 및 망분리 변화를 논의한다.",
+    "corporateAction": "AI 에이전트 도입 시 접근 권한 관리 및 망분리 환경 변화에 대한 선제적 보안 전략 수립.",
+    "keywords": [
+      "금융보안",
+      "AI 해킹",
+      "망분리",
+      "AI 에이전트",
+      "사이버 위협",
+      "IT 거버넌스"
+    ],
+    "_key": "0b52d32714e6",
+    "_createdAt": "2026-11-03T12:47:25.520637+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520637+09:00"
+  },
+  {
+    "title": "TeamEasy Wins Seed Investment, Then Selected for TIPS to Advance Used-Car Warranty Insurance AI 'FINCAT'",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwFI7kvBW9unTA3Y5cOnLIkBrRDjqavWavCFw55GgJWrVjXVH38mEB1gIYNlKSHV5BKPxhqJCKaq5t9d4J2zmDcIL8lcYQk9Vy9FKDfEveYpX-IHMuwUx_Y0krM9O_Sf5xh6p7Q==",
+    "category": "보험/AX, 금융 규제 샌드박스, XAI",
+    "ecosystemImpact": "국내 인슈어테크 스타트업의 AI 기반 보험 서비스 혁신 및 시장 진출 가속화.",
+    "importance": 9,
+    "summary": "TeamEasy가 중고차 보증보험 AI 플랫폼 FINCAT으로 투자를 유치하고 금융 규제 샌드박스 성과를 바탕으로 XAI 연구를 추진한다.",
+    "corporateAction": "AI 기반 언더라이팅 및 클레임 자동화 도입 시 XAI를 통한 의사결정 설명 가능성 확보 검토.",
+    "keywords": [
+      "인슈어테크",
+      "중고차 보험",
+      "규제 샌드박스",
+      "XAI",
+      "클레임 자동화"
+    ],
+    "_key": "ae3f0314a509",
+    "_createdAt": "2026-11-03T12:47:25.520648+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520648+09:00"
+  },
+  {
+    "title": "Gallagher Re turns to AI to accelerate catastrophe modelling data processing",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELQNxGnF_FTS3xpMS2km5RWzJOAozwgoAyjiC59cciTQWCVFWWpMbuiiXjiD3JTBSW0zjk6NHZ0V41ep1B9c499Ujet4G1WVnqxJqqe2WsKkubGh8Eo6CknqMT4VG-PmR8EkvHoEWP9vn_7E_JJtzeUZos3M6eVVYxnSyytvuIlxEF8aVpVDW6hqhFvIZ7eOJOyszKQzt7hQLKooYTDdMKOo0DOKArJWjApg==",
+    "category": "보험/AX, 재보험, 데이터 처리",
+    "ecosystemImpact": "재보험 분야의 핵심인 재난 모델링 효율성 및 정확도 향상.",
+    "importance": 9,
+    "summary": "Gallagher Re가 AI를 도입하여 재난 모델링 데이터 처리 속도를 가속화한다.",
+    "corporateAction": "대규모 데이터 처리 및 분석이 필요한 재보험 언더라이팅/리스크 관리 과정에 AI 기술 적용 검토.",
+    "keywords": [
+      "재보험",
+      "재난 모델링",
+      "AI 도입",
+      "데이터 처리",
+      "리스크 관리"
+    ],
+    "_key": "c7b40220ba55",
+    "_createdAt": "2026-11-03T12:47:25.520657+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520657+09:00"
+  },
+  {
+    "title": "Nvidia to Showcase Latest AI Infrastructure at AI Day Seoul 2026 Starting Nov. 9",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiscV_4-dCdAER1b8C4Bjc3UG1n_pYLrfKWPb4xP1kSk4gG6946Q--14_9-syiWek7q9lenNTwVjydAWCvvqeX3u_YbXEGNsBpBm_3uykoeeuQxaoOkUretBV3TTEX4Juo6ByrSCDMHhLSiwQFbrfkE7Vm",
+    "category": "AI 하드웨어 인프라, AI Agent, 글로벌 트렌드",
+    "ecosystemImpact": "엔비디아의 최신 AI 인프라 및 에이전트 기술이 국내외 AI 산업 발전에 기여.",
+    "importance": 8,
+    "summary": "엔비디아가 'AI Day Seoul 2026'에서 에이전트 AI, 물리적 AI 및 AI 인프라 최신 기술을 선보인다.",
+    "corporateAction": "고성능 AI 모델 학습 및 추론을 위한 최신 엔비디아 GPU 및 AI 팩토리 아키텍처 도입 동향 주시.",
+    "keywords": [
+      "NVIDIA",
+      "AI 인프라",
+      "AI Agent",
+      "블랙웰",
+      "AI 팩토리",
+      "한국"
+    ],
+    "_key": "6706bd540062",
+    "_createdAt": "2026-11-03T12:47:25.520665+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520665+09:00"
+  },
+  {
+    "title": "Gartner Survey Finds Two New AI-Related Risks Emerge in Third-Quarter 2026 Report",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAtKPsEvJymndxR-PNN6Bd8Tn_Si-xHtI87iku5N6pId7bM44RAEg4OLoX6nsB5KpffBWsdYhJ5PfjlGgPYAn8pQW5EHSlVALYF6u3PsYo0kVXLLBpXGt5y5zk_W7eP9m-vpVZGich3Dd4qmdKVJJp72N5mQr3eu3jU0CB7qllh_n8L9Ol5GfIagqZ3OkbS0iwyz0ZuBS6MOf9VAO0GNqSgcQLIw2ZEW-P5ImSbil0aSSXNXgM",
+    "category": "IT 거버넌스/보안, AI 전략",
+    "ecosystemImpact": "기업 AI 도입 시 전략적 오판 및 경쟁력 상실 위험에 대한 경고.",
+    "importance": 8,
+    "summary": "가트너 보고서에 따르면 AI 전략 오판, AI 기반 경쟁 우위 상실이 2026년 3분기 기업의 새로운 주요 리스크로 부상했다.",
+    "corporateAction": "AI 투자 시 비즈니스 목표와의 연계, 거버넌스, 위험 관리를 포함하는 전략적 AI 실행 계획 수립.",
+    "keywords": [
+      "AI 리스크",
+      "AI 전략",
+      "IT 거버넌스",
+      "경쟁력",
+      "가트너"
+    ],
+    "_key": "63aaa5db4ff6",
+    "_createdAt": "2026-11-03T12:47:25.520673+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520673+09:00"
+  },
+  {
+    "title": "Enterprises Double Down on AI Despite Wall Street Concerns",
+    "date": "2026-11-02",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL7fAcVK7tw0WNyuTqjMAEh6dblY7S1kV3Fv7RIPHzADyz2a6u2I619SvYFiUmyGkd178l5IPLt3nvKBgSpehB-AHojViKaZ9KaIlCpObX1I4Hh5egTkAZCKhloj46yz6vNpvWiqGTBnp5meGsVtEhEh-SBBpC3aADJVA=",
+    "category": "엔터프라이즈 AI, AI 도입 동향",
+    "ecosystemImpact": "금융 시장의 불확실성에도 불구하고 기업 AI 투자는 지속될 전망.",
+    "importance": 7,
+    "summary": "기업들이 월스트리트의 우려에도 불구하고 2026년 4분기에도 AI 시스템 구축을 가속화하며 운영 효율성과 경쟁 우위 확보를 우선시한다.",
+    "corporateAction": "AI 도입의 단기 ROI보다 운영 비용 절감, 고객 경험 향상 등 장기적 전략 목표에 집중하여 AI 투자 지속.",
+    "keywords": [
+      "엔터프라이즈 AI",
+      "AI 투자",
+      "운영 효율성",
+      "경쟁 우위",
+      "AI 도입"
+    ],
+    "_key": "3af255f9b526",
+    "_createdAt": "2026-11-03T12:47:25.520681+09:00",
+    "_updatedAt": "2026-11-03T12:47:25.520681+09:00"
   }
 ]
