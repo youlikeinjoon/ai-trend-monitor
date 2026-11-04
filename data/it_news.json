@@ -15097,5 +15097,149 @@
     "_key": "3af255f9b526",
     "_createdAt": "2026-11-03T12:47:25.520681+09:00",
     "_updatedAt": "2026-11-03T12:47:25.520681+09:00"
+  },
+  {
+    "title": "구글, 사이버 보안 및 장기 작업 자율성 강화한 '제미나이 4 카본' 출시",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGocjxntNvuxBOCJRi-rHrjrEdfHYKfNZub9UFqV-xAa4S-s1dlGUFSWU7yhMySMzN73FRzyQ7KOMhW-AnbRlmnDslKBVUqk5PCcXTBRTVh3p5OCIonYOzHc0KuFQEhbqcO2ej2cvxZKW5r7NpX3XABsQiNhKs=",
+    "category": "LLM, AI 보안",
+    "ecosystemImpact": "AI 모델 경쟁 심화 및 보안 AI 솔루션 시장 확대 촉진.",
+    "importance": 10,
+    "summary": "구글이 새로운 최상위 AI 모델 '제미나이 4 카본'을 출시하며 AI 성능 평가 1위를 탈환했다. 특히 사이버 보안 및 복잡한 장기 작업 처리 능력이 대폭 강화되었다.",
+    "corporateAction": "최신 LLM 기술 동향 및 AI 보안 기능 벤치마킹, 내부 AI 시스템 보안 강화 방안 검토.",
+    "keywords": [
+      "Gemini 4 Carbon",
+      "LLM",
+      "AI 보안",
+      "구글",
+      "빅테크",
+      "사이버 보안"
+    ],
+    "_key": "e4ae184e28b9",
+    "_createdAt": "2026-11-04T11:50:13.286745+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286745+09:00"
+  },
+  {
+    "title": "위버스브레인, 행동 유도 AI 플랫폼 '에이전트맥스' 공개…솔루션 사업 본격화",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJ_cEa7i9zjwyjFX4b5GRwlHppY64pJILdjLKErZLgkGKvSrUxRNY0ymSnb5bKPPmKKRVdgdEjNWbV_h4ILr38xnmioPn6xC0RA9-Spx4xbjmr2jMjUaY5zUciew4sgbWXGTQJVJalxwM3NYx4JEPJUNleJfxNXPmGQ==",
+    "category": "AI Agent",
+    "ecosystemImpact": "AI 에이전트 상용화 가속화 및 B2B AI 솔루션 시장 경쟁 심화.",
+    "importance": 9,
+    "summary": "위버스브레인이 사람의 행동을 유도하는 AI 에이전트 플랫폼 '에이전트맥스'를 공개하며 B2B AI 솔루션 시장에 본격 진출한다.",
+    "corporateAction": "AI 에이전트 도입 전략 수립 시 실제 행동 유도 기능 및 B2B 적용 사례 분석 필요.",
+    "keywords": [
+      "AI Agent",
+      "에이전트맥스",
+      "위버스브레인",
+      "스타트업",
+      "B2B AI"
+    ],
+    "_key": "a06e3b6b98b4",
+    "_createdAt": "2026-11-04T11:50:13.286785+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286785+09:00"
+  },
+  {
+    "title": "OpenAI 데브데이 주요 발표: GPTs 및 Assistants API를 통한 AI 에이전트 생태계 확장",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6eVg0x5hmnavr0UTPZqEgpm7ZJJ7zU7OiKbFpaU72R8W1XiLUKtsEC-E_2GBIBCzLXHGxwiPZr7JnrjGtC4wng952HeV6tLVk0R3f4j3mnVsDA0kOFUD2yD9gCmGHk1ULMT4aFHUQhX4=",
+    "category": "LLM, AI Agent",
+    "ecosystemImpact": "개발자 중심의 AI 애플리케이션 및 맞춤형 AI 에이전트 개발 가속화.",
+    "importance": 9,
+    "summary": "OpenAI가 데브데이에서 GPT-4 Turbo, 맞춤형 GPTs, Assistants API 등을 발표하며 AI 에이전트 개발 및 활용의 새로운 지평을 열었다.",
+    "corporateAction": "사내 AI 에이전트 개발 시 Assistants API 및 커스터마이징 기능 활용 방안 검토, 내부 전문가 양성.",
+    "keywords": [
+      "OpenAI",
+      "DevDay",
+      "GPTs",
+      "Assistants API",
+      "LLM",
+      "AI Agent"
+    ],
+    "_key": "e9ab89e8bcd7",
+    "_createdAt": "2026-11-04T11:50:13.286795+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286795+09:00"
+  },
+  {
+    "title": "한국수출입은행, 해외 PF 심사 등 정책금융 업무에 자체 생성형 AI 도입 추진",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJpzY0LOcSAiP7nLPB03hVeZjWRQmSXWpRJ8nMrhFVmAzP_7jpDpTJ-RME9ZuA-psfXP8v1NedggXGD-gNWUgKDyph1rcbWnXWzwBUOSLn8gzqJRu0WV-1CRKWu-tA2PUDSQvs6nFMWFLkfKj3pAhcRnjKjrwR",
+    "category": "보험/AX, RAG, 금융 AI",
+    "ecosystemImpact": "정책금융 분야의 AI 전환 가속화 및 복잡한 문서 기반 업무의 AI 효율성 입증.",
+    "importance": 8,
+    "summary": "한국수출입은행이 130억 원을 투입하여 자체 생성형 AI 플랫폼 'KEXIM AI'를 구축, 해외 PF 심사 등 정책금융 업무에 AI를 전면 도입한다.",
+    "corporateAction": "복잡한 금융 업무에 특화된 LLM 및 RAG 기반 AI 도입 사례 벤치마킹, 사내 지식 자산화 및 활용 방안 모색.",
+    "keywords": [
+      "수출입은행",
+      "정책금융",
+      "생성형 AI",
+      "RAG",
+      "금융 AI"
+    ],
+    "_key": "a9746ad34bde",
+    "_createdAt": "2026-11-04T11:50:13.286802+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286802+09:00"
+  },
+  {
+    "title": "NVIDIA, 2028년까지 '루빈', '파인먼' 등 차세대 AI 칩 로드맵 공개",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh9zULEmgd3ZckLxjvvsTDo3TGEWKWWGR7cAkWnFKRElVn2Jiaz-7cjE9WMPy-7iMtlW0OMuSJLQH9AClSdSGK0BjzF-b9lyaBJUS7zOdpgifJQfdgWiMY43DdVO10PN2R5e5xVaa8zZ8m_qsi7z7LcaNaY1fjMEmSsMdtTLlylnN8wW2v",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 연산 능력 및 인프라 발전 가속화, 차세대 AI 기술 개발에 필수적 기반 제공.",
+    "importance": 8,
+    "summary": "엔비디아가 GTC 2025에서 2028년까지의 AI 칩 로드맵을 발표하며 블랙웰, 루빈, 파인먼 등 차세대 칩으로 성능 향상을 예고했다.",
+    "corporateAction": "향후 AI 인프라 투자 계획 수립 시 엔비디아의 AI 칩 로드맵을 고려, 최적의 하드웨어 도입 전략 검토.",
+    "keywords": [
+      "NVIDIA",
+      "AI 칩",
+      "블랙웰",
+      "루빈",
+      "파인먼",
+      "AI 인프라"
+    ],
+    "_key": "018523c90859",
+    "_createdAt": "2026-11-04T11:50:13.286809+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286809+09:00"
+  },
+  {
+    "title": "미래에셋생명, LLM 기반 생성형 AI 언더라이팅 시스템 'AI-FIT' 도입",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeuekDexw655M4r2d_M8Y-trq5fvZOnC52M0L2Eu89MEujTKM-9nLwn6OPLwsQsPmL5ww01Pvk_xyVkPWo2Ew5o64Hgolpan2HLtlJ_8ghafZYliGjPVHL0JIImm3anCMhz_IovCzL-IQ6jL4xxrvnzHVI9jlLd9_l",
+    "category": "보험/AX, LLM",
+    "ecosystemImpact": "보험 언더라이팅 업무의 효율성 및 정확성 향상, AI 활용 범위 확대.",
+    "importance": 7,
+    "summary": "미래에셋생명이 업계 최초로 LLM 기반 생성형 AI 언더라이팅 시스템 'AI-FIT'을 가동, 고객 건강 정보와 청구 이력 분석을 통한 실시간 심사를 구현했다.",
+    "corporateAction": "보험 인수 심사 과정에 AI 도입 시 LLM 기반의 데이터 분석 및 자동화 기능 벤치마킹, 규제 준수 고려.",
+    "keywords": [
+      "미래에셋생명",
+      "AI-FIT",
+      "언더라이팅",
+      "보험 AI",
+      "LLM",
+      "생성형 AI"
+    ],
+    "_key": "6020d9a234ad",
+    "_createdAt": "2026-11-04T11:50:13.286816+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286816+09:00"
+  },
+  {
+    "title": "금융권 AI 규율, '전사적 위험관리'로 전환…보험사 거버넌스 재정비 요구",
+    "date": "2026-11-03",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKbi7JnpjWMTHqNVfrGT4GNcWBEkeNd8c7zQ0OIA_GFu9Zj5hZ0KuScGKKMvNWHb3DBZfxuc2FPUfRU9ZTFAhEu6eDxWxMTZI2p5RiNsRODSQXKUdFc35RHq6aQr2yiaqb0rG42PT0R5_vtYKRwyjsAX-mvdqm",
+    "category": "IT 거버넌스/보안, 금융 규제",
+    "ecosystemImpact": "금융 AI 활용의 책임성 및 신뢰성 강화, 규제 준수를 통한 지속 가능한 AI 발전 유도.",
+    "importance": 7,
+    "summary": "금융당국이 AI 가이드라인을 개정하여 전사적 AI 거버넌스 및 위험관리를 강조하며, 보험사도 업무별 위험 수준에 맞춘 내부 통제 체계 구축이 요구된다.",
+    "corporateAction": "AI 도입 시 금융 AI 7대 원칙 및 위험관리 프레임워크를 기반으로 한 IT 거버넌스 체계 구축 및 강화.",
+    "keywords": [
+      "금융 AI 규제",
+      "AI 거버넌스",
+      "위험관리",
+      "보험",
+      "금융당국"
+    ],
+    "_key": "8296a9e13584",
+    "_createdAt": "2026-11-04T11:50:13.286822+09:00",
+    "_updatedAt": "2026-11-04T11:50:13.286822+09:00"
   }
 ]
