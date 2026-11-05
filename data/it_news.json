@@ -15241,5 +15241,151 @@
     "_key": "8296a9e13584",
     "_createdAt": "2026-11-04T11:50:13.286822+09:00",
     "_updatedAt": "2026-11-04T11:50:13.286822+09:00"
+  },
+  {
+    "title": "금융권 망분리 전면 해제 시동 … AI 보안체계로 판 바꾼다",
+    "date": "2026-11-05",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4xV86KG6YvZjkZMneinGyoMzIQuLdY3ZugI4p_AGI3Qm3dnaDcTaLIu4aWX6G1VMXa3aVR0E8itBEHfGyBQziO7z_Zfi7oh0zuEUnr9O_foQ1NTBGKlLeSyX3ocZ_uQYtIzp5FxwwsLMjjlZOLhSR9ktpCzXJXPLMdzatTJ2RFxcq",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "금융권 보안 패러다임이 AI 기반으로 전환, 새로운 위협 대응 방식 제시.",
+    "importance": 10,
+    "summary": "금융당국이 망분리 규제를 단계적으로 해제하고 AI 기반의 사이버 보안 체계로 전환하여 고도화되는 AI 공격에 대응한다.",
+    "corporateAction": "내부 IT 거버넌스 및 보안 전략을 AI 기반으로 전면 재검토하고 선제적 도입 준비.",
+    "keywords": [
+      "망분리",
+      "AI 보안",
+      "금융규제",
+      "IT 거버넌스",
+      "사이버보안"
+    ],
+    "_key": "e3fcbb4ed234",
+    "_createdAt": "2026-11-05T11:59:00.634502+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634502+09:00"
+  },
+  {
+    "title": "NVIDIA, Vera Rubin 아키텍처로 AI 인프라 시장 주도 예상",
+    "date": "2026-11-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-NMb1-Yf73n-CaTrT2GY5h-4jp3YHWPS180UuOS8Iy-43ShejG40pG8KqRsfbo-qbQGnl9iLIoQUEvQUl2GWj0sTWCNLiLOSNt31uBvs4chB_NFeNemYhuL4ceE-hAkXQu8xgfP8D_x0ZF0-C7jwcCMYtn4w8GJHLrvaHk9afDEctUtH-TRhF3xvfg5D4_Uw4ARnv4_2b1B5qVGWSpokWXQ",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "AI 컴퓨팅 성능 및 데이터센터 효율성 극대화, AI 산업 전반 성장 가속화.",
+    "importance": 9,
+    "summary": "NVIDIA의 새로운 Vera Rubin 데이터센터 아키텍처가 역사상 가장 빠른 시장 침투를 보이며, 액체 냉각 채택이 급증할 것으로 전망된다.",
+    "corporateAction": "차세대 AI 인프라 도입 계획 수립 시 NVIDIA Vera Rubin 아키텍처의 성능 및 비용 효율성 심층 분석.",
+    "keywords": [
+      "NVIDIA",
+      "Vera Rubin",
+      "AI 인프라",
+      "블랙웰",
+      "액체 냉각",
+      "데이터센터"
+    ],
+    "_key": "ba643c7d6c43",
+    "_createdAt": "2026-11-05T11:59:00.634529+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634529+09:00"
+  },
+  {
+    "title": "코히어, 싱가포르에 국방 AI 액셀러레이터 설립…안전한 엔터프라이즈 AI 구축 가속화",
+    "date": "2026-11-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT54xzuMA2eYn12A3AXwxlB5Q_SIP39NWcR_oJTunL4NtVPI3-R6IQOoC3SWLVdoCbS9clsCowAB3xqW1d2k4HLdNd1lQ6d0Ky894nxsqLX2r3CURCmdy-j2uWQxXRX5lhzOQe-Vg==",
+    "category": "AI Agent",
+    "ecosystemImpact": "규제 산업 및 공공 부문에서 보안 및 거버넌스를 갖춘 AI 도입 확산에 기여.",
+    "importance": 9,
+    "summary": "코히어가 싱가포르에 국방 AI 액셀러레이터를 설립, 'North' 플랫폼으로 보안에 민감한 환경에서 에이전틱 AI의 실제 운영 전환을 지원한다.",
+    "corporateAction": "규제 준수 및 보안이 필수적인 재보험 업무에 소버린 AI 및 에이전틱 AI 도입 방안 연구.",
+    "keywords": [
+      "코히어",
+      "소버린 AI",
+      "AI Agent",
+      "엔터프라이즈 AI",
+      "AI 보안",
+      "규제준수"
+    ],
+    "_key": "cb4b2551646b",
+    "_createdAt": "2026-11-05T11:59:00.634538+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634538+09:00"
+  },
+  {
+    "title": "샌즈랩, 인터넷 연결 없이 쓰는 '폐쇄망용 AI 기반 위협 인텔리전스' CTX 출시",
+    "date": "2026-11-05",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGojUgHIIb7hHKk8_qLUnN2n_Yj9IHwV06kVSRZECOcrRPdyuViR0LIG-6EnY4uoY4gduSPpzAF3xVfj6H_eWrBJ6wjD50LWdGi_dtFv-C_xY3_TZ5wcyh0Hw6U9bXR9gqDTI6bKpTCnOwtOoTVv3Ur3_HChed85GYf",
+    "category": "AI 보안/망분리",
+    "ecosystemImpact": "망분리 환경의 보안 강화 및 AI 기반 위협 인텔리전스 확산.",
+    "importance": 8,
+    "summary": "샌즈랩이 인터넷 연결 없이 폐쇄망에서 AI 기반으로 사이버 위협을 분석하고 정보를 조회할 수 있는 '폐쇄망용 CTX'를 출시했다.",
+    "corporateAction": "금융망분리 환경에 최적화된 AI 기반 위협 인텔리전스 솔루션 도입을 검토하고 내부 보안 시스템 고도화.",
+    "keywords": [
+      "AI 보안",
+      "망분리",
+      "위협 인텔리전스",
+      "CTX",
+      "금융망분리",
+      "사이버보안"
+    ],
+    "_key": "3c5666391fd4",
+    "_createdAt": "2026-11-05T11:59:00.634545+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634545+09:00"
+  },
+  {
+    "title": "모레, AMD 기반 소버린 AI 토큰팩토리 전략 발표…AI 추론 비용 최적화",
+    "date": "2026-11-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRoJGnLJcW5ULg0lW9Qrmz9eURAE-Rhf4FzI-YBIXY6wHgXgXL9tHgxK0g5JROVlyJ4Qqn9MRoSGQ-xssfKIk00YxTp_UatZM0lR266Hxs6bOiecLdEa7HThkZ0NDwwr0=",
+    "category": "AI 하드웨어 인프라",
+    "ecosystemImpact": "NVIDIA 중심의 AI 인프라 시장에 경쟁 구도를 형성, 비용 효율적인 AI 도입 촉진.",
+    "importance": 8,
+    "summary": "모레가 AMD 기반의 '토큰 팩토리' 전략을 통해 AI 추론 비용을 최적화하고 소버린 AI 경쟁력을 강화한다고 발표했다.",
+    "corporateAction": "AI 인프라 구축 시 AMD 기반 솔루션을 포함한 다양한 옵션 검토 및 비용 효율성 분석.",
+    "keywords": [
+      "AMD",
+      "소버린 AI",
+      "토큰 팩토리",
+      "AI 추론",
+      "AI 인프라",
+      "비용 최적화"
+    ],
+    "_key": "62010af824c4",
+    "_createdAt": "2026-11-05T11:59:00.634551+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634551+09:00"
+  },
+  {
+    "title": "비씨카드, 개인 AI 에이전트 전 직원에 제공···업무 속도 높인다",
+    "date": "2026-11-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcAryw-6s9RzCk_JyQmgNiZptLafPQOYukN13umryI-zGSXF-KkQcZuSUX4x2y6Iiwah6CiXrACeAlee5eSKMCLITRmENEamTtV8eOgqlW8RJ8v8bojvrOdqJi5N5UoJHMr1-zt-IaMK-up1W-i6yMsTnWzIlx8g==",
+    "category": "AI Agent",
+    "ecosystemImpact": "금융권 내 AI 업무 자동화 및 직원 생산성 향상 가속화, AX(AI 전환) 확산.",
+    "importance": 7,
+    "summary": "비씨카드가 자체 개발한 AI 에이전트 'MoAI MATE'를 전 직원에게 제공하며 프로그램 개발, 데이터 분석, 반복 업무 자동화를 추진한다.",
+    "corporateAction": "전사적 AI 에이전트 도입을 위한 파일럿 프로그램 기획 및 내부 AI 역량 강화 전략 수립.",
+    "keywords": [
+      "AI Agent",
+      "AX",
+      "업무 자동화",
+      "금융기관 AI",
+      "비씨카드",
+      "생산성 향상"
+    ],
+    "_key": "8cdae15482f4",
+    "_createdAt": "2026-11-05T11:59:00.634557+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634557+09:00"
+  },
+  {
+    "title": "금융연구원 \"AI 위협 가시화…차세대 금융소비자보호 체계 필요\"",
+    "date": "2026-11-04",
+    "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9yuvfakgT-hnCJgVRdcigqd32D9SZ8fjhcujuEfrs6FZE7RZPpoIPPV53Zj8eomw6p97W_ZTWykIu2239VLxyD2MmcjJ1vZJZ96iAP9Bk-h8owetCYLdJuBW3Tyw_imk1aH44SbcOVLxc7nb5Ng==",
+    "category": "IT 거버넌스/보안",
+    "ecosystemImpact": "AI 기술 활용 증대에 따른 소비자 보호 및 금융 규제 프레임워크 재정립 요구 증대.",
+    "importance": 7,
+    "summary": "금융연구원은 AI의 금융권 확산과 함께 위협이 가시화됨에 따라 차세대 금융소비자보호 체계 마련이 시급하다고 제언했다.",
+    "corporateAction": "AI 기반 서비스 개발 시 예상되는 소비자 보호 및 윤리적 리스크를 선제적으로 분석하고 대응 방안을 마련.",
+    "keywords": [
+      "금융규제",
+      "AI 윤리",
+      "소비자 보호",
+      "AI 위협",
+      "IT 거버넌스",
+      "책임 있는 AI"
+    ],
+    "_key": "1d940828e33a",
+    "_createdAt": "2026-11-05T11:59:00.634562+09:00",
+    "_updatedAt": "2026-11-05T11:59:00.634562+09:00"
   }
 ]
